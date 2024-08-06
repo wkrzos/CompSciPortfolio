@@ -17,9 +17,9 @@ Welcome to my academic portfolio. This repository collects my coursework and pro
 
 ## Semester 4
 - **[SoftwareEngineeringBasics-CompSci-Spring2024](https://github.com/wkrzos/SoftwareEngineeringBasics-CompSci-Spring2024)**: Basics of Software Engineering, featuring 2 major projects: Online Pharmacy and Voting System.
-- **[Databases-CompSci-Spring2024](https://github.com/wkrzos/Databases-CompSci-Spring2024)**: Comprehensive study of relational database systems and designs. Featuring MySQL, PHPMyAdmin, MS Access (😭), and a major project concerning the design of a stationery store database design.
+- **[Databases-CompSci-Spring2024](https://github.com/wkrzos/Databases-CompSci-Spring2024)**: Comprehensive study of relational database systems and designs. Featuring MySQL, PHPMyAdmin, MS Access (😭), and a major project concerning a stationery store database design.
 - **[ScriptLanguages-CompSci-Spring2024](https://github.com/wkrzos/ScriptLanguages-CompSci-Spring2024)**: Introduction to scripting languages and their applications in Python. Features a major project: [Warhammer Fantasy 2e VTT](https://github.com/wkrzos/Warhammer-Fantasy-2e-VTT) 
-- **[SystemsAnalysisDecisionSupport-CompSci-Spring2024](https://github.com/wkrzos/SystemsAnalysisDecisionSupport-CompSci-Spring2024)**: Systems Analysis and Decision Support Methods in Python. Includes a paper on the analysis of residential flat rent prices in major Polish cities.
+- **[SystemsAnalysisDecisionSupport-CompSci-Spring2024](https://github.com/wkrzos/SystemsAnalysisDecisionSupport-CompSci-Spring2024)**: Systems Analysis and Decision Support Methods in Python. Includes a paper on analysing residential flat rent prices in major Polish cities.
 - **[LinuxServersAdmin-CompSci-Spring2024](https://github.com/wkrzos/LinuxServersAdmin-CompSci-Spring2024)**: Focus on Linux Servers Administration and automation.
 
 ## Extracurricular Projects

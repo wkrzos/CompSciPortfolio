@@ -1,0 +1,1 @@
+﻿//Jak mam drzewo doubli to każde mnożenie zwraca zero

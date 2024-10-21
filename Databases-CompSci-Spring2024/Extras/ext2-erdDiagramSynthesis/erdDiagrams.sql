@@ -1,0 +1,64 @@
+CREATE TABLE "WYDZIAŁ" (
+  "NrW" INT PRIMARY KEY,
+  "Nazwa" VARCHAR,
+  "Adres" VARCHAR
+);
+
+CREATE TABLE "DZIECKO" (
+  "NrAUr" INT PRIMARY KEY,
+  "Imie" VARCHAR
+);
+
+CREATE TABLE "PRACOWNIK" (
+  "NrP" INT PRIMARY KEY,
+  "Nazwisko" VARCHAR,
+  "Stanowisko" VARCHAR,
+  "Pensja" DECIMAL
+);
+
+CREATE TABLE "PROJEKT" (
+  "IdP" INT PRIMARY KEY,
+  "Nazwa" VARCHAR,
+  "Koszt" DECIMAL
+);
+
+CREATE TABLE "Zatrudnia" (
+  "NrW" INT,
+  "NrP" INT,
+  "DataOd" DATE
+);
+
+CREATE TABLE "Ma" (
+  "NrP" INT,
+  "NrAUr" INT,
+  "Zasilek" DECIMAL
+);
+
+CREATE TABLE "Wykonuje" (
+  "NrP" INT,
+  "IdP" INT,
+  "DataOd" DATE,
+  "DataDo" DATE
+);
+
+CREATE TABLE "Kieruje" (
+  "NrP" INT,
+  "IdP" INT,
+  "DataRozp" DATE
+);
+
+ALTER TABLE "Zatrudnia" ADD FOREIGN KEY ("NrW") REFERENCES "WYDZIAŁ" ("NrW");
+
+ALTER TABLE "Zatrudnia" ADD FOREIGN KEY ("NrP") REFERENCES "PRACOWNIK" ("NrP");
+
+ALTER TABLE "Ma" ADD FOREIGN KEY ("NrP") REFERENCES "PRACOWNIK" ("NrP");
+
+ALTER TABLE "Ma" ADD FOREIGN KEY ("NrAUr") REFERENCES "DZIECKO" ("NrAUr");
+
+ALTER TABLE "Wykonuje" ADD FOREIGN KEY ("NrP") REFERENCES "PRACOWNIK" ("NrP");
+
+ALTER TABLE "Wykonuje" ADD FOREIGN KEY ("IdP") REFERENCES "PROJEKT" ("IdP");
+
+ALTER TABLE "Kieruje" ADD FOREIGN KEY ("NrP") REFERENCES "PRACOWNIK" ("NrP");
+
+ALTER TABLE "Kieruje" ADD FOREIGN KEY ("IdP") REFERENCES "PROJEKT" ("IdP");

@@ -1,0 +1,1021 @@
+offerid,floor,furnitured,price,buildingtype,area,rooms,rent,address,latitude,longitude
+698777184,0,True,750,blok,23.0,1,650.0,"Ziemowita, Sokoła, Siedmiogrodzka, Poznań",52.4505129,16.9356164
+802076174,8,True,2600,apartamentowiec,39.0,2,520.0,"ul. Świerzawska 7, Poznań",52.403133,16.861883
+920964405,0,True,2200,blok,36.0,2,200.0,"ul. Druskienicka 2E, Poznań",52.4413063,16.8883629
+743345182,1,True,3600,apartamentowiec,55.5,3,1000.0,"ul. Milczańska, Poznań",52.3909293,16.9655045
+915384230,0,True,1800,kamienica,25.0,1,,"ul. Głogowska, Poznań",52.3760139,16.8720076
+778914647,1,False,2500,pozostale,56.0,2,300.0,"Poznań, Naramowice",52.44639489999999,16.9537315
+923900760,4,True,2000,blok,20.0,1,1.0,"Poznań, W centrum Poznania (między starym browarem a starym tynkiem)",52.4011751,16.9280301
+782636481,4,True,2350,kamienica,27.0,1,550.0,"ulica Długa, Poznań",52.4037923,16.9335977
+767981326,2,True,2300,loft,27.0,1,300.0,"Poznań, centrum Poznania",52.4093634,16.9317991
+917387917,3,False,2600,apartamentowiec,58.0,2,550.0,"os. Ułańskie, Poznań",52.3927294,17.0653957
+922299834,2,True,1600,blok,24.0,1,300.0,"Czapury, Poznań",52.3168963,16.9125298
+745542768,1,True,2400,blok,42.0,2,590.0,"Karpia, Naramowice, Poznań",52.443512,16.9576832
+923890938,0,True,2500,blok,50.2,2,750.0,"Os. Wilczak 18, Poznań",52.4294719,16.952889
+769362104,3,True,3800,blok,70.0,3,1140.0,"Poznań, ul. Katowicka",52.3979359,16.9650293
+922694166,0,True,2000,wolnostojacy,28.0,1,1.0,Poznań wola,52.4211678,16.8641461
+916437644,3,True,2550,blok,39.0,2,475.0,"osiedle Zielony Żurawiniec, Naramowice, Poznań",52.4555162,16.9371901
+918153429,2,True,1800,blok,32.0,1,409.0,"ul. Falista, Poznań",52.3692988,16.9479325
+923883463,1,True,3300,blok,48.0,2,574.0,"ul. Św. Wawrzyńca 13, Poznań",52.4180776,16.9030254
+923882046,2,True,2400,blok,53.0,2,530.0,"ul. Górki, Górczyn, Poznań",52.3848187,16.8909311
+923880380,3,True,2700,blok,46.61,2,56252.0,"Poznań, Lwowska przy Malcie",52.4006378,16.9641902
+679351380,4,True,1300,blok,26.0,1,500.0,"ul. Wybickiego, Poznań",52.3903952,16.9194863
+891154914,,True,870,apartamentowiec,14.0,3,360.0,"Piątkowo, Poznań",52.4532369,16.911301
+917266894,1,True,2700,blok,62.96,4,929.7,"ulica Karpiej, Naramowice, Poznań",52.443512,16.9576832
+860935296,3,True,1800,kamienica,20.0,1,400.0,"ul. Poplińskich 1, Poznań",52.3970069,16.9227914
+923189497,0,False,3500,blok,65.0,3,900.0,"Os. Zwycięstwa 1B, Poznań",52.4402211,16.9278899
+851608378,3,True,2400,kamienica,55.0,2,480.0,"ulica Sczanieckiej, Łazarz, Poznań",52.3948664,16.8960384
+922855750,1,True,1800,blok,25.0,1,490.0,"Poznań, Rycerska",52.4019761,16.8758918
+923869913,6,True,2600,blok,40.0,2,500.0,"ul. Świerzawska, Poznań",52.4029635,16.8610345
+923869868,1,False,1950,blok,50.0,3,450.0,"ul. Juranda, Naramowice, Poznań",52.4540391,16.9550687
+723910530,10,True,2000,blok,29.0,1,470.0,"ul. Norwida, Jeżyce, Poznań",52.4161016,16.9124667
+914883355,1,True,1600,wolnostojacy,25.0,1,400.0,"ul. K.Żegockiego, Winiary, Poznań",52.4402383,16.9169674
+678964951,1,True,2600,apartamentowiec,41.0,1,900.0,"ul. Małe Garbary 8, Poznań",52.4120016,16.9376963
+680582782,1,True,2200,blok,30.0,1,510.0,"Osiedle na Smolnej, Poznań",52.4219821,16.966929
+792944327,5,True,2600,blok,47.0,2,600.0,"ul. PTASIA 20, Poznań",52.4010948,16.8571821
+923863234,1,False,2500,blok,50.0,2,390.0,"os. Stefana Batorego, Poznań",52.4604254,16.923628
+923863032,10,True,1600,blok,42.0,2,560.0,"os. Kopernika, Poznań",52.3850984,16.863386
+917945301,2,True,2400,blok,40.0,2,550.0,"ul. Meissnera, Jeżyce, Poznań",52.4182042,16.8634464
+670007695,3,True,3200,apartamentowiec,47.0,2,650.0,"ul. Dębińska, Poznań",52.3839963,16.929314
+676300797,0,True,1400,blok,30.0,1,590.0,"ul. Łukaszewicza 35, Łazarz, Poznań",52.3914069,16.9028817
+920820599,4,True,3450,kamienica,40.0,2,520.0,"ul. Matejki 51, Poznań",52.39894719999999,16.9002382
+916691708,0,True,1700,kamienica,20.0,1,200.0,"ul. Małeckiego, Poznań",52.3967974,16.9037784
+915418848,3,True,1800,blok,39.0,1,550.0,"ulica Kościuszki, Poznań",52.4057745,16.9201938
+896130541,2,True,2500,blok,37.7,1,350.0,"Koszalińska 22C, Poznań",52.4574821,16.8458534
+919403250,4,True,2600,apartamentowiec,46.0,2,850.0,"ul. Dmowskiego 111, Poznań, Grunwald",52.3833347,16.8934995
+923845994,4,True,2000,blok,40.0,2,450.0,"os. Przyjaźni, Poznań",52.4299458,16.9221228
+923841197,1,True,2400,apartamentowiec,43.0,2,718.31,"ul. Dworzeckiego 6, Poznań, Strzeszyn",52.4424033,16.8714383
+809815048,6,True,1900,blok,44.0,2,700.0,"os. Lecha, Poznań",52.3892535,16.9740056
+684801756,4,True,1700,kamienica,25.0,1,250.0,"ul. Chełmońskiego 17, Poznań",52.4003368,16.8984744
+923837575,0,True,1800,blok,40.0,2,700.0,"os. Powstań Narodowych, Poznań",52.3898984,16.9558184
+919719009,1,True,2750,blok,38.0,2,,"Poznań, ul. Katowicka",52.3979359,16.9650293
+825547750,5,True,2000,blok,31.0,1,390.0,"ul. Marcelińska, osiedle Grunwald, Poznań",52.4043778,16.8767616
+921969873,1,True,2000,kamienica,35.0,2,300.0,"ul. Niegolewskich, Poznań",52.3958981,16.8979631
+835007913,1,True,2200,kamienica,27.0,1,500.0,"Jeżyce, Poznań",52.432479,16.8515452
+860017739,10,True,1700,blok,32.0,1,450.0,"ul. Jugosłowiańska, Poznań",52.391454,16.8657064
+909173161,4,True,2000,blok,48.0,2,560.0,"ul. Szamarzewskiego, Poznań",52.4122,16.8914249
+691760299,0,True,2800,kamienica,50.0,2,700.0,"Rynek Łazarski, Poznań",52.3946923,16.9006895
+922762215,2,True,3600,blok,54.55,3,610.0,"ul. Skowrońskiego 6, Poznań",52.3942641,16.9611833
+845942354,6,True,2500,blok,47.6,3,650.0,"ul. Głogowska 129, Poznań",52.38864659999999,16.8930055
+921486991,10,True,2000,blok,29.0,1,470.0,"ul. Norwida, Jeżyce, Poznań",52.4161016,16.9124667
+888945284,8,True,2000,blok,37.0,1,10.0,"Osiedle Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+923819037,,True,1,blok,50.0,4,,"Umultowo, Poznań",52.4656232,16.9535602
+923823924,0,True,2000,blok,38.0,2,600.0,"ul. Jasna Rola, Naramowice, Poznań",52.4548748,16.9410437
+855314347,8,True,2950,apartamentowiec,40.0,2,600.0,"Park Cytadela, Poznań",52.42167420000001,16.936194
+922567526,3,True,1680,kamienica,23.0,1,521.0,"ul. A. Mickiewicza, Poznań",52.4110555,16.9113032
+867419381,3,True,2000,blok,41.0,2,534.0,"ul. Żelazna 1, Poznań",52.3910865,17.0021608
+810667217,0,True,1000,wolnostojacy,12.0,1,690.0,"Poznań, ul. Aleksandry Karpińskiej",52.4599351,16.8787688
+923818023,1,True,2300,blok,44.0,2,700.0,"Polanka, Malta, Poznań",52.3996257,16.9582066
+923412362,0,True,2500,blok,30.0,1,,"Botanika, Piątkowo, Poznań",52.4466811,16.9216789
+918654711,3,True,1600,blok,28.3,1,535.0,"Grunwald, Poznań",52.3955242,16.8627322
+747896747,3,True,2350,blok,50.0,2,650.0,"Os. Stefana Batorego, Poznań",52.4604254,16.923628
+861507013,0,True,2500,blok,50.0,2,800.0,"ul. Jasielska, Poznań",52.4439585,16.893797
+923807017,3,True,2200,blok,47.0,2,574.0,"Poznań, ul. Literacka / os. Literackie, Strzeszyn Grecki",52.4508117,16.8693025
+844510611,0,True,4000,apartamentowiec,66.0,3,1000.0,"ul. Kościelna, Poznań",52.4156214,16.905643
+921948585,2,True,1400,kamienica,20.0,1,600.0,"ul. Fabryczna 13A, Poznań",52.38766709999999,16.9123948
+920183001,3,True,1600,kamienica,26.0,1,480.0,"ul. Wierzbiecice 30, Poznań",52.3958243,16.9216149
+916014378,1,True,2400,kamienica,40.0,2,400.0,"ulica Sikorskiego, Poznań",52.3914848,16.9157157
+838141152,0,True,1400,pozostale,20.0,1,400.0,"Stary Grunwald, Poznań",52.4032446,16.8835765
+917275527,1,False,1500,pozostale,17.5,1,150.0,"Jugosłowiańska, Poznań",52.391454,16.8657064
+921291230,4,True,2600,blok,59.0,3,1000.0,"ul. Głogowska, Poznań",52.3760139,16.8720076
+923795116,0,True,2500,blok,64.0,3,1100.0,"Osiedle Chrobrego, Poznań",52.4534448,16.9151342
+905316697,1,True,2500,blok,46.5,2,600.0,"osiedle na Smolnej, Poznań",52.4219821,16.966929
+923793262,3,False,2300,blok,50.0,2,750.0,"Dębiec, Poznań",52.3600021,16.9075143
+688352873,3,True,2999,kamienica,65.0,2,1.0,"ul. Przemysłowa, Poznań",52.3974065,16.9188062
+923791320,2,True,2500,blok,51.0,2,700.0,"ul. Sczaniecka 8, Łazarz, Poznań",52.394671,16.896087
+877724284,2,True,2600,wolnostojacy,48.0,4,150.0,"ul. Rumiankowa, Naramowice, Poznań",52.44639489999999,16.9537315
+922196308,3,True,1900,kamienica,57.0,2,800.0,"ul. Garbary, Poznań",52.408363,16.9380651
+923781425,0,True,2850,apartamentowiec,39.0,2,600.0,"ul. Dąbrowskiego 58, Jeżyce, Poznań",52.4128876,16.9024099
+917825574,9,False,1900,apartamentowiec,34.36,1,380.0,"Tarasy Warty, Rataje, Poznań",52.39773690000001,16.949522
+920236092,1,True,1999,blok,39.0,2,599.0,"Poznań, Łokietka",52.4516222,16.9408219
+706433448,3,True,2700,kamienica,41.0,2,1.0,"Most Teatralny, Poznań",52.4103319,16.9146459
+783320477,0,True,2100,kamienica,33.0,2,500.0,"Jeżyce, Poznań",52.432479,16.8515452
+911464622,3,True,2500,apartamentowiec,39.0,2,515.0,"Piątkowo, Poznań",52.4532369,16.911301
+923768212,5,True,2200,apartamentowiec,25.0,1,330.0,"ul. Wilczak, Poznań",52.430942,16.9521113
+905543273,1,True,1400,szeregowiec,20.0,1,1.0,"Poznań, Wilczy Młyn (Naramowice) w Poznaniu",52.4394382,16.9547078
+923765741,0,True,2500,blok,63.0,3,850.0,"os. B Chrobrego, Poznań",52.4493473,16.9140898
+922243730,1,True,1500,szeregowiec,20.0,1,1.0,"Wilczy Młyn (Naramowice), Poznań",52.4394382,16.9547078
+921178565,3,True,5600,kamienica,150.0,4,550.0,"okolice Starego Browaru, Poznań",52.4011751,16.9280301
+923662385,0,True,3000,blok,64.0,3,900.0,"Os. Bolesława Śmiałego 6, Poznań",52.4543107,16.9224214
+920714438,2,True,2300,blok,38.0,2,600.0,"ul. Chociszewskiego, Poznań",52.3927636,16.8895791
+923763788,5,True,2900,apartamentowiec,44.0,2,470.0,"Poznań, ulica Wilczak",52.430942,16.9521113
+910636513,3,True,1950,kamienica,47.0,2,700.0,"ul. Marcelego Mottego, Łazarz, Poznań",52.3939398,16.904694
+792072259,1,True,2300,blok,34.0,2,520.0,"ul. Marcelińska 100, Poznań",52.40451179999999,16.8613539
+923735852,,True,1000,wolnostojacy,29.0,2,250.0,"Okolice wiaduktu Górczyńskiego, Poznań",52.3866321,16.8854722
+816725651,,True,2750,blok,43.0,2,,"Poznań, ul. Sielawy 21",52.4478653,16.9537142
+917210602,2,True,3150,blok,59.0,3,230.0,"ul. Ziemowita, Antoninek, Poznań",52.404627,17.0125632
+779431795,3,True,2500,blok,48.0,3,700.0,"os. Wichrowe wzgórze 6, Poznań",52.4369662,16.9376162
+899009681,2,True,2800,blok,55.0,2,750.0,"Poznań, park Cytadela",52.42167420000001,16.936194
+849810023,2,True,2400,apartamentowiec,42.0,2,550.0,"ul. Wieruszowska, Poznań",52.3822598,16.8438563
+922724205,3,True,2500,blok,56.8,3,800.0,"Grunwald, Poznań",52.3955242,16.8627322
+876992507,5,True,1600,blok,22.0,1,1.0,"ul. Nadolnik 8, Poznań",52.42476079999999,16.9715793
+920803931,2,True,2250,apartamentowiec,46.0,2,1200.0,"ul. Jeleniogórska 4, Poznań",52.3897342,16.8501212
+820894377,1,True,4599,blok,71.04,3,902.0,"ul. Kościelna, Poznań",52.4156214,16.905643
+923742256,11,True,700,blok,18.0,1,,"Osiedle Kopernika, Poznań",52.3850984,16.863386
+923740565,8,True,1500,blok,31.0,1,,"os. Rataje, Poznań",52.38668819999999,16.9508111
+923739530,0,True,1850,blok,32.2,1,620.0,"osiedle Stare Żegrze, Poznań",52.3823926,16.9651071
+827352775,0,True,1700,wolnostojacy,38.0,2,1.0,"ulica Czechosłowacka, Poznań",52.3733919,16.8946069
+923733778,1,True,2800,blok,49.0,2,400.0,"Nove Olendry, Naramowice, Poznań",52.4483812,16.9538045
+922850204,4,True,2250,kamienica,80.0,3,650.0,"ul. Chłapowskiego, Poznań",52.387893,16.9203642
+700845728,1,True,1950,blok,32.0,1,580.0,"ulica Jaroczyńskiego, Piątkowo, Poznań",52.4536812,16.9066803
+923114438,2,True,2200,apartamentowiec,30.0,1,306.0,"ul. Dmowskiego 81, Poznań",52.3856572,16.8961231
+691088632,1,True,1450,kamienica,18.0,1,650.0,"ul. Kopernika 10, Stare Miasto, Poznań",52.4026453,16.9330459
+923718128,2,True,1200,blok,12.0,1,,"Os. Powstańców Warszawy 3 H/79, Poznań",52.4352192,16.9163867
+922397660,5,True,1600,blok,27.0,1,455.0,"os. Przyjaźni, Winogrady, Poznań",52.4299458,16.9221228
+923716053,4,True,2300,blok,49.0,2,700.0,"ul. Libelta, Poznań",52.4118459,16.9202688
+906854867,0,False,1900,blok,46.0,2,620.0,"os. Chrobrego, Piątkowo, Poznań",52.4493473,16.9140898
+754213382,4,True,2200,blok,38.0,2,600.0,"os. Piastowskie, Rataje, Poznań",52.3923867,16.9479765
+923712338,0,True,1590,szeregowiec,20.0,1,1.0,"os.Wilczy Młyn, Poznań",52.4394382,16.9547078
+832069823,7,True,2600,blok,57.0,3,,"Rynek Łazarski, Poznań",52.3946923,16.9006895
+920792410,1,True,2300,blok,45.3,2,300.0,"ul. Górki 17, Poznań",52.3841972,16.8930705
+919307244,1,True,1800,blok,38.0,2,600.0,"Os. Piastowskie 68, Rataje, Poznań",52.3917351,16.9456762
+922872623,2,True,3300,apartamentowiec,34.0,1,650.0,"ulica Krysiewicza, Poznań",52.4045005,16.930022
+923524538,2,True,2600,kamienica,28.0,2,300.0,"Śniadeckich 19, Poznań",52.4016365,16.9040099
+923707975,2,True,1500,blok,25.0,1,500.0,"Ogrody, Poznań",52.4189711,16.8791323
+919319127,2,True,2600,blok,56.0,2,950.0,"Milczańska, Poznań",52.3909293,16.9655045
+923703805,5,True,2500,blok,42.0,2,450.0,"Podolany, Poznań",52.4563192,16.8862122
+894017111,1,True,3000,blok,52.1,2,500.0,"ul. Mogileńska, Poznań",52.4102799,16.9914419
+913604021,1,True,1950,wolnostojacy,25.0,1,,"Poznań, Górczyn",52.3805449,16.8795487
+739525946,0,True,2790,blok,45.0,2,500.0,"ul. Dmowskiego 111, Poznań",52.3833347,16.8934995
+923690431,0,True,2600,blok,58.0,3,730.0,"ul. Dolina, Wilda, Poznań",52.3940911,16.9242711
+923409393,1,True,1885,blok,52.0,3,815.0,"Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+757276261,7,True,1550,blok,32.0,1,589.71,"os. Bolesława Chrobrego, Poznań",52.4534448,16.9151342
+748603570,2,True,2300,kamienica,27.0,2,500.0,"ul. Chełmońskiego 10, Poznań",52.4008628,16.8990117
+652476592,10,True,2000,blok,38.0,2,760.0,"Poznań, Oś. Piastowskie",52.3923867,16.9479765
+858996490,1,True,2300,blok,27.0,1,500.0,"ulica Mylna, Poznań",52.4151107,16.9082786
+705026700,3,True,2400,blok,52.0,2,820.0,"Os. Batorego, Poznań",52.4604254,16.923628
+878948342,0,True,2200,blok,47.0,2,950.0,"ul. Szamotulska, Ogrody, Poznań",52.4131903,16.8846416
+923683147,,False,2800,pozostale,43.0,2,690.0,"Grunwald, Poznań",52.3955242,16.8627322
+772182209,5,True,3000,blok,30.0,2,450.0,"ul. Szamarzewskiego, Jeżyce, Poznań",52.4122,16.8914249
+673041759,2,True,1700,kamienica,19.0,1,160.0,"ul. Długa, Poznań",52.4037923,16.9335977
+688539506,,True,1700,kamienica,25.0,1,151.11,"ul. Mostowa 26, Poznań",52.4050435,16.9391678
+923677461,1,True,1650,blok,28.0,1,500.0,"Poznań, ul. Generała Maczka",52.4244846,16.9159013
+917117470,0,True,3000,kamienica,74.0,4,1220.0,"ul. Stablewskiego 15, Poznań",52.3915668,16.8993157
+923672951,0,True,2500,blok,41.0,2,600.0,"ul. Rolna 1, Wilda, Poznań",52.3861694,16.9171083
+739522347,4,True,1750,kamienica,25.0,1,590.0,"ul. Rolna 19, Wilda, Poznań",52.38292939999999,16.9172721
+882936864,1,True,1500,kamienica,20.0,1,500.0,"Poznań, Centrum Poznania, Jeżyce",52.4093634,16.9317991
+838417817,0,False,2200,wolnostojacy,52.0,2,1.0,"ul. Nad Starynką, Starołęka, Poznań",52.3626826,16.9321794
+826694388,1,True,2000,blok,38.0,2,630.0,"os. Jagiellońskie, Poznań",52.3938954,16.9518413
+643426684,2,True,3000,blok,48.0,3,700.0,"os. Oświecenia, Rondo Rataje, Poznań",52.3904726,16.9620015
+695052525,1,True,1850,blok,32.0,2,390.0,"pętla Ogrody, Poznań",52.4163667,16.8828943
+923664858,,False,2450,kamienica,25.0,1,,"Aleja Niepodległości 22, Poznań",52.412295,16.92031
+923660985,4,True,2500,kamienica,80.0,2,100.0,"Łazarz, Poznań",52.3995162,16.8996409
+902216388,2,True,1600,blok,29.0,1,465.0,"Poznań, ul. Turkusowa",52.4310847,16.9045106
+923653012,5,True,2000,apartamentowiec,32.0,1,450.0,"ul. Dąbrowskiego, Poznań",52.4256768,16.8604453
+922926682,2,True,4500,kamienica,76.0,4,,"ul. Nowowiejskiego, Poznań",52.4126383,16.9232172
+922562782,4,True,1880,kamienica,25.0,1,300.0,"ul. Głogowska 70, Łazarz, Poznań",52.3956333,16.8998965
+922328680,0,True,2200,kamienica,48.0,2,180.0,"Wilda, Poznań, Polska",52.3840856,16.9176014
+923644102,0,False,2400,blok,43.0,2,650.0,"ulica Ułańska 17, City Park, Poznań",52.4030985,16.8953127
+923643648,1,True,2000,kamienica,38.0,1,600.0,"ulica Matejki, Poznań",52.401359,16.8998915
+656647964,6,True,2500,blok,36.0,2,550.0,"Marcelin, Poznań",52.4044612,16.878942
+704861662,2,True,2100,kamienica,26.0,1,440.0,"ul. Palacza, Poznań",52.3909421,16.8782397
+923634067,2,True,2800,blok,60.0,2,700.0,"ul. Wojskowa, Grunwald, Poznań",52.4018186,16.8926149
+817600852,2,True,1800,blok,37.5,1,600.0,"Poznań, Rataje",52.38668819999999,16.9508111
+923629057,8,True,2400,blok,38.0,2,381.0,"ul. Wagrowska, Poznań",52.3782524,16.9477146
+902906829,4,False,1800,kamienica,35.0,1,80.0,"ul. Ogrodowa, Centrum, Poznań",52.4035574,16.9272193
+923629302,3,True,2200,blok,55.6,2,800.0,"ul. Naramowicka 171, Poznań",52.4489013,16.9474125
+917044677,2,True,2820,blok,43.0,2,580.0,"ul. Szamarzewskiego, Jeżyce, Poznań",52.4122,16.8914249
+690704858,2,True,3000,blok,47.0,3,750.0,"Rataje, Poznań",52.38668819999999,16.9508111
+923622881,1,True,2600,apartamentowiec,34.0,2,440.0,"ulica Świerzawska 11, Poznań",52.4023929,16.8611109
+662810685,4,True,2000,blok,38.0,2,640.0,"ul. Lazurowa, Poznań",52.4299788,16.9062033
+916347120,4,True,1900,pozostale,19.0,1,350.0,"ul. Serafitek 6, Rataje, Poznań",52.3975047,16.9463619
+923602792,,True,2500,blok,38.0,1,,"ul. Złotowska 51, Poznań",52.40966599999999,16.8236155
+810944568,0,True,1900,kamienica,44.0,1,1.0,"ul. Chłapowskiego, Poznań",52.387893,16.9203642
+625173583,5,True,2600,apartamentowiec,36.6,2,640.0,"ul. Kosińskiego, Wilda, Poznań",52.3891322,16.9155228
+854615774,0,False,6000,wolnostojacy,95.0,3,,"Krzesiny, Poznań",52.3396398,16.985045
+923594098,2,False,2000,blok,38.0,2,,"Os. Jagiellońskie, Poznań",52.3938954,16.9518413
+922281946,1,True,1250,blok,20.0,1,1.0,"os. Śmiałego, Poznań",52.4502392,16.9240843
+793819035,2,True,2800,apartamentowiec,69.0,3,500.0,"Piątkowo Botanika, Poznań",52.4466811,16.9216789
+835206623,2,True,2700,apartamentowiec,40.0,2,1.0,"ul. Winogrady, Poznań",52.4265158,16.9359084
+805194312,3,True,2490,blok,61.5,3,600.0,"Oś. Powstańców Warszawy, Poznań",52.4345642,16.9164307
+920640826,5,True,2320,blok,32.5,2,570.0,"ul. Szczepanowskiego 1, 60-752 Poznań",52.4187078,16.897942
+922967008,2,False,2450,blok,56.0,3,850.0,"ul. Kraszewskiego, Jeżyce, Poznań",52.4101849,16.9026695
+923572120,1,True,2350,kamienica,50.0,2,500.0,"ul. Wierzbięcice, Wilda, Poznań",52.3961918,16.921311
+923108068,1,True,2500,blok,41.0,2,500.0,"ul. Franciszka Morawskiego 1/9, Poznań",52.3938813,16.8955582
+847179940,4,True,2000,blok,34.0,2,560.0,"os. Stefana Batorego, Poznań",52.4604254,16.923628
+923566257,3,True,2400,blok,47.0,3,830.0,"os. Bohaterów II Wojny Światowej, Poznań",52.3833128,16.9515689
+918071722,1,True,1050,pozostale,19.0,1,1.0,"os. Kosmonautów, Poznań",52.4369753,16.9414383
+922669383,3,True,3110,blok,54.0,3,950.0,"Nowe osiedle w sercu Jeżyc, Poznań",52.4615197,16.8983795
+832329519,3,True,2500,blok,46.0,2,490.0,"Podolany, Poznań",52.4563192,16.8862122
+920367567,,True,3300,apartamentowiec,56.0,3,750.0,"ul. Bułgarska 59E, Poznań",52.4022953,16.8621914
+871100771,1,False,2200,blok,36.7,2,705.0,"ul. Rycerska 3, Grunwald, Poznań",52.400476,16.879562
+908278725,2,True,2300,blok,48.0,2,700.0,"ul. Międzychodzka 12, Poznań",52.4062367,16.8784001
+841400285,4,True,2500,blok,53.0,3,1000.0,"os. Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+923558744,2,True,1800,apartamentowiec,31.0,1,580.0,"ul. Garbary, Poznań",52.408363,16.9380651
+923555139,3,False,1950,kamienica,56.0,1,400.0,"ul. 3 Maja 47, Poznań",52.40878410000001,16.9248233
+923554418,4,False,3000,apartamentowiec,67.0,3,1056.0,"ul. Na Miasteczku, Poznań",52.3974693,16.9496896
+923551756,4,True,2500,blok,53.0,3,900.0,"osiedle Czecha, Rataje, Poznań",52.3896029,16.9726512
+862544306,3,True,3800,blok,52.0,3,600.0,"Poznań, Naramowice Karpia",52.443512,16.9576832
+923547788,1,True,2200,blok,49.0,2,800.0,"ul. Katowicka, Poznań",52.3979359,16.9650293
+923545312,0,True,1800,blok,35.0,2,500.0,"ulica Raszyńskiego 31A, Poznań",52.3870716,16.8730213
+922400275,1,True,2600,blok,41.0,2,670.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+885254691,8,True,1700,blok,27.0,1,450.0,"os. Kosmonautów, Poznań",52.4369753,16.9414383
+849029945,1,True,2600,apartamentowiec,48.0,2,600.0,"Poznań, Unii Lubelskiej",52.3727688,16.9513208
+916425070,3,True,2100,blok,26.0,1,310.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+865013058,5,True,2000,blok,32.0,1,500.0,"ul. Wilczak, Poznań",52.430942,16.9521113
+653798004,2,True,1790,kamienica,20.0,1,450.0,"Stary Rynek, Poznań, Stare Miasto",52.4081281,16.9345517
+636309922,4,True,1899,kamienica,36.0,2,500.0,"Poznań, ul. Prusa, Ścisłe Centrum Poznania",52.4112132,16.90472
+923534174,3,True,2500,kamienica,37.0,2,480.0,"ul. Dąbrowskiego, Jeżyce, Poznań",52.4256768,16.8604453
+923528721,3,True,2370,blok,36.0,2,640.0,"ul. Szczepanowskiego 1, 00-581 Poznań",52.4187078,16.897942
+690467526,2,True,1950,kamienica,20.0,1,240.0,"ul. Żupańskiego 16, Wilda, Poznań",52.396114,16.9219065
+897729707,4,True,2499,apartamentowiec,45.0,2,500.0,"Poznań, ul. Unii Lubelskiej",52.3727688,16.9513208
+903800288,2,False,2500,kamienica,30.0,1,400.0,"ulica Libelta 27/W2, Poznań",52.4122865,16.9188956
+922029252,2,True,1700,blok,36.0,1,450.0,"Winogrady, Poznań",52.4306007,16.9363009
+923511645,1,True,1890,kamienica,28.0,1,400.0,"Park Wilsona, Łazarz - Grunwald, Poznań",52.399486,16.9021787
+923509256,7,True,2500,blok,48.0,2,826.0,"os. Zwycięstwa, Poznań",52.4409256,16.927833
+923508924,1,False,2700,blok,66.0,4,475.0,"Żmigrodzka, Poznań",52.3806769,16.8360676
+921787342,2,True,1600,blok,23.0,1,500.0,"ul. Mylna, Jeżyce, Poznań",52.4151107,16.9082786
+889526632,3,True,2550,apartamentowiec,47.0,2,783.0,"ul. Jeleniogórska, Poznań",52.3926255,16.8461367
+910504154,1,True,1950,apartamentowiec,26.0,1,450.0,"Starołęcka 36, Poznań",52.3712659,16.9325615
+693510803,5,True,1650,apartamentowiec,33.0,1,575.15,"ul. Chartowo 29, Chartowo Tower, Poznań",52.3896562,16.9805831
+919940718,2,True,2250,blok,45.0,2,450.0,"ul. Przepiórcza, Grunwald, Poznań",52.3832498,16.8570413
+923498204,,True,3000,apartamentowiec,40.0,1,600.0,"ul. Towarowa 39, Poznań",52.4035768,16.9142834
+923496776,4,True,5000,apartamentowiec,75.73,3,1100.0,"Wilda, Poznań",52.3840856,16.9176014
+885418603,3,True,1500,blok,28.5,1,600.0,"ul. Grunwaldzka 38 B, Poznań",52.40274429999999,16.8911338
+923272039,8,True,2600,apartamentowiec,38.0,2,550.0,"ul. Świerzawska, Grunwald, Poznań",52.4029635,16.8610345
+759214820,4,True,3000,apartamentowiec,59.0,3,800.0,"Poznań, ul. Smolna",52.4219821,16.966929
+923492950,1,True,2000,blok,45.0,2,400.0,"ul. Strzeszyńska, Poznań",52.4597561,16.8746428
+922676032,1,True,2500,blok,49.5,2,730.0,"Piatkowo, Poznań",52.4532369,16.911301
+703321692,4,True,2000,kamienica,25.0,1,230.0,"ul. Śniadeckich 9, Poznań",52.40036869999999,16.9044758
+735696979,3,True,1700,kamienica,17.0,1,750.0,"Poznań, ul. Szamarzewskiego 36",52.4108634,16.8963683
+923486531,,True,2200,blok,48.0,3,750.0,"Os. Kosmonautów 6, Poznań",52.4363774,16.9402894
+786932016,1,False,2650,kamienica,50.0,2,650.0,"ul. Wyspiańskiego, Poznań",52.3989199,16.8960473
+783466348,4,True,2900,pozostale,54.4,2,2900.0,"ul. Wierzbięcice 44A, Poznań",52.394056,16.9215428
+923477899,0,True,2250,blok,36.0,2,,"Piastowskie 32, Poznań",52.3940269,16.946915
+727419586,3,True,2000,blok,30.0,1,350.0,"ul. Długosza 25A, Poznań",52.411358,16.891915
+923477096,2,True,2100,apartamentowiec,42.36,2,620.0,"Piątkowska 87, Poznań",52.4283242,16.9161529
+923474636,4,True,2600,blok,47.0,2,300.0,"ul. Druskienicka, Podolany, Poznań",52.4458899,16.8885439
+815307300,4,True,3450,kamienica,89.0,3,50.0,"ul. Orzeszkowej, Poznań",52.4026177,16.9033965
+871299472,0,True,1900,wolnostojacy,35.0,1,600.0,"ul. Gwiaździsta, Grunwald, Poznań",52.3919851,16.869321
+828070448,1,True,2350,kamienica,35.0,1,480.0,"Alei Niepodległości 22, Poznań",52.412295,16.92031
+855495002,1,True,3000,blok,52.5,2,1.0,"Batorego 79, Poznań",52.4633377,16.9183596
+923463360,5,True,2300,apartamentowiec,35.0,1,480.0,"ulica Mylna, Jeżyce, Poznań",52.4151107,16.9082786
+823126247,4,True,1800,blok,36.0,1,640.0,"ul. Błażeja 6E, Poznań",52.4572247,16.9449943
+923456587,2,True,2000,blok,32.0,1,465.0,"ul. Sielawy, Poznań",52.4462097,16.9523475
+923454258,3,True,3000,blok,50.0,2,850.0,"ul. Zwierzyniecka, Poznań",52.4085739,16.9071966
+923453147,4,True,850,blok,38.0,1,400.0,"os. Stawki, Poznań",52.406374,16.9251681
+887079364,3,False,2200,kamienica,65.0,2,630.0,"ul. Szyperska 1, Poznań",52.409608,16.9384346
+923450106,4,True,2600,apartamentowiec,43.0,2,550.0,"ul. Grabary 104, Poznań",52.41345889999999,16.939314
+907180389,1,True,1600,blok,33.1,1,550.0,"ul. Stróżyńskiego Piątkowo, 60-688 Poznań",52.4587881,16.9042345
+923446644,1,True,1700,kamienica,54.0,2,1.0,"ul. Kolejowa, Łazarz, Poznań",52.3930073,16.9053636
+920732715,1,True,2300,kamienica,38.0,1,600.0,"ul. Śniadeckich, Poznań",52.402837,16.903414
+737795147,2,True,2200,kamienica,29.0,1,350.0,"ul. Dąbrowskiego, Jeżyce, Poznań",52.4256768,16.8604453
+916427732,7,True,3800,apartamentowiec,75.0,3,1000.0,"ul. Marcelińska 96, Poznań",52.4048905,16.8623026
+923438925,6,True,2400,blok,39.33,2,580.0,"ulica Rataje, Poznań",52.3832647,16.9431379
+920300656,0,True,1180,pozostale,19.0,1,,"ul. Szydłowska, Sołacz, Poznań",52.4273657,16.9100232
+923432326,1,True,2500,blok,50.0,2,630.0,"ul. Górki (Górczyn), Poznań",52.3848187,16.8909311
+923432357,2,True,2500,blok,32.0,1,350.0,"ul. Słowiańska, Winogrady, Poznań",52.4308271,16.9321156
+923432474,3,True,2600,blok,43.0,2,630.0,"ul. Zwierzyniecka, Poznań",52.4085739,16.9071966
+923432373,2,True,2400,blok,40.0,2,550.0,"ul. Meissnera, Poznań",52.4182042,16.8634464
+923432407,2,True,2450,blok,46.0,2,850.0,"ul. Jeleniogórska, Poznań",52.3926255,16.8461367
+921164506,6,True,1700,blok,31.0,1,,"osiedle Kopernika, Poznań",52.3850984,16.863386
+681074278,2,True,2100,apartamentowiec,31.0,1,600.0,"ul. Bułgarska, Poznań",52.4040128,16.8667076
+923427220,3,True,2200,blok,38.0,2,425.0,"ul. Modra, Poznań",52.4094788,16.8743117
+923425407,2,True,2100,kamienica,36.0,1,400.0,"ul. Załęże 6a, Poznań",52.3902373,16.8959673
+920113608,1,True,2800,apartamentowiec,48.0,2,600.0,"Skowrońskiego, Poznań",52.3947778,16.9600305
+831841636,2,True,2750,apartamentowiec,33.0,2,650.0,"ul. Żelazna, Poznań",52.3902264,17.0018024
+915865095,0,True,3600,blok,96.0,4,594.0,"ul. Marcelińska, Poznań",52.4044612,16.878942
+901380633,4,True,2900,apartamentowiec,44.96,2,731.41,"ul. Chwaliszewo/ Estkowskiego, Poznań",52.4097778,16.9437669
+917482272,1,True,3200,kamienica,54.0,2,500.0,"ul. Gorczyczewskiego, Stare Jeżyce, Poznań",52.409651,16.8929031
+650911347,0,True,2000,blok,37.51,2,890.0,"Milczańska, Poznań",52.3909293,16.9655045
+910931978,0,True,2000,apartamentowiec,30.0,1,500.0,"ul. Leśnych Skrzatów, Poznań",52.4098519,16.8481322
+799764961,0,True,1700,wolnostojacy,20.0,1,,"ulica Dobromiejska, Poznań Strzeszyn",52.4566366,16.8479355
+805231349,2,True,2400,blok,61.0,3,770.0,"os. Władysława Jagiełły, Piątkowo, Poznań",52.4560451,16.9059091
+923411622,5,True,3700,blok,60.0,3,1000.0,"Poznań, ul. Na Podgórniku, Centrum Poznania",52.4161694,16.932442
+923403742,3,True,1800,apartamentowiec,29.0,1,500.0,"Poznań, ul. Mieszka",52.406374,16.9251681
+727317871,5,True,2000,blok,32.0,2,650.0,"Rataje, Poznań",52.38668819999999,16.9508111
+923400843,1,False,1600,kamienica,44.0,1,650.0,"Poznań, ul. Zeylanda",52.4080456,16.9090931
+923397867,1,False,7500,kamienica,123.0,4,600.0,"Sołacz, Poznań",52.42167060000001,16.907431
+923396438,0,True,1799,blok,51.0,2,818.0,"Dębiec, Poznań",52.3600021,16.9075143
+923395833,1,True,1950,kamienica,33.0,1,500.0,"ul. Pamiątkowa, Poznań",52.3866595,16.9159585
+913681598,5,True,2400,blok,48.0,2,860.0,"ul. Serbska 4, Poznań",52.4301804,16.9559346
+923392032,3,True,1700,blok,42.0,2,400.0,"ul. Newtona, Grunwald, Poznań",52.3841579,16.8650804
+850805107,1,True,1700,apartamentowiec,21.7,1,450.0,"Ul. Radłowa 7a, Poznań",52.46545709999999,16.9542757
+826212394,0,True,2000,blok,34.0,1,490.0,"Rolna, Wilda, Poznań",52.3813102,16.9157106
+913953633,1,True,1950,kamienica,41.0,2,370.0,"ul. Sikorskiego 21, Poznań",52.3909067,16.9125869
+830495848,4,False,2250,blok,40.0,2,600.0,"Osiedle Batorego, Poznań",52.4604254,16.923628
+916797305,5,True,2100,blok,40.0,1,0.1,"osiedle Bolesława Śmiałego, Poznań",52.4502392,16.9240843
+923047003,,True,1900,kamienica,35.0,1,180.0,"ul. Marii Magdaleny, Poznań Centrum",52.402728,16.9385365
+923378223,3,True,1900,blok,31.0,1,500.0,"ulica Sokoła, Sołacz, Poznań",52.4270356,16.9122988
+907990895,0,True,2800,blok,50.0,2,550.0,"ul. Smoluchowskiego, Poznań",52.3928348,16.8503229
+923365115,,True,1280,kamienica,60.0,2,1280.0,"ul. Józefa Wybickiego, Rynek Wildecki, Poznań",52.3903952,16.9194863
+922085123,4,True,2100,kamienica,41.7,2,700.0,"ul. Kosińskiego, Wilda, Poznań",52.3891322,16.9155228
+861471904,0,True,2600,blok,43.0,2,600.0,"ul. Wieruszowska, Grunwald, Poznań",52.3822598,16.8438563
+923342651,2,True,2300,pozostale,39.0,2,630.0,"centrum, Poznań",52.4093634,16.9317991
+916748032,5,True,2700,blok,40.0,2,,"ul. Katowicka, Poznań",52.3979359,16.9650293
+829369925,8,True,2700,blok,36.0,2,530.0,"ul. Wagrowska, Poznań",52.3782524,16.9477146
+923318905,3,True,1700,kamienica,41.0,1,350.0,"os. Rzeczypospolitej 1, 61-397 Poznań",52.3880986,16.9472976
+923335078,3,True,2000,blok,32.0,1,550.0,"ul. Jasielska, Poznań",52.4439585,16.893797
+766482425,1,True,2700,apartamentowiec,54.0,2,700.0,"ul. Gen. T. Kutrzeby 12/14/16, Poznań",52.4160811,16.9305901
+923328849,4,True,1650,kamienica,22.0,1,1.0,"ul. Kościelna 1, Poznań",52.4130816,16.9032248
+851995553,2,True,4000,wolnostojacy,70.0,3,,"Podolany, Poznań",52.4563192,16.8862122
+923322424,2,False,1400,blok,32.0,1,450.0,"ul. Folwarczna, Poznań",52.3811702,17.0028377
+697500118,1,True,3250,blok,43.0,2,410.0,"ul. Niedziałkowskiego 24, Poznań",52.3989466,16.9230169
+923322647,0,True,2500,apartamentowiec,42.81,2,750.0,"ul. Rolna 35, Poznań",52.380728,16.9166794
+912452008,2,True,2700,blok,45.0,2,400.0,"ul. Romualda Traugutta, Poznań Wilda",52.3853163,16.9179
+923313756,1,False,2000,pozostale,21.0,1,,"Plac Wolności 6, Poznań",52.407661,16.926754
+835326556,0,True,1800,blok,35.0,1,350.0,"ul. Saperska, Poznań",52.3799398,16.9185269
+851199425,,True,2700,apartamentowiec,36.0,2,550.0,"Rynek Wildecki, Poznań",52.3932762,16.9205185
+923311325,1,True,4300,blok,69.58,3,1160.0,"ul. Szczepanowskiego 7, Poznań",52.41811879999999,16.8975612
+916710544,9,True,2300,apartamentowiec,38.0,2,650.0,"ul. Świerzawska 7, Grunwald, Poznań",52.403133,16.861883
+915549646,0,True,1700,wolnostojacy,28.0,1,,"ul. Umultowska, Piątkowo, Poznań",52.4535531,16.9276042
+692956421,0,True,2700,apartamentowiec,53.0,2,920.0,"Zielony Grunwald, Poznań",52.3955242,16.8627322
+921086964,4,True,2500,apartamentowiec,33.0,2,800.0,"Lwowska 4D, Poznań",52.40098279999999,16.9633017
+918673848,4,True,2400,kamienica,24.0,1,370.0,"ul. Mielżyńskiego, Poznań",52.4091289,16.9230296
+922019159,4,True,2300,blok,40.0,2,450.0,"ul. Hawelańska, Winogrady/Naramowice, Poznań",52.4362271,16.951442
+916648532,2,True,2000,blok,32.0,2,620.0,"ul. Barańczaka 3j, Poznań",52.41549750000001,16.8996644
+916658424,0,True,1990,blok,34.61,2,650.0,"ul. Milczańska, Rataje, Poznań",52.3909293,16.9655045
+921412179,,True,2200,blok,53.0,2,500.0,"Poznań, ul. Dmowskiego/Górki",52.383874,16.8934204
+923289296,8,True,2350,apartamentowiec,45.37,2,600.0,"ul. Wojciechowskiego 6B, Poznań",52.44404669999999,16.9150775
+837642597,1,True,2000,szeregowiec,32.0,1,300.0,"ul. Wieżowa, Poznań",52.4084896,16.9470633
+923286861,4,True,2000,blok,45.5,2,550.0,"Osiedle Tysiąclecia, Poznań",52.394442,16.978583
+923286436,3,False,3500,kamienica,113.0,4,,"Wilda, Poznań",52.3840856,16.9176014
+923285368,1,True,1990,kamienica,44.0,2,480.0,"Jeżyce, Poznań",52.432479,16.8515452
+871550733,-1,True,1800,wolnostojacy,45.0,2,,Poznań-Dębiec,52.3600021,16.9075143
+923287280,1,False,2755,blok,49.7,2,492.03,"ul. Saperska, Wilda, Poznań",52.3799398,16.9185269
+923284586,2,True,2200,blok,38.0,2,750.0,"Os. Pod Lipami, Poznań",52.4296012,16.9453926
+923284815,3,False,2620,blok,47.9,2,474.21,"ul. Saperska (Wilda), Poznań",52.3799398,16.9185269
+923283679,4,False,2285,blok,34.5,2,341.55,"ul. Saperska, Wilda, Poznań",52.3799398,16.9185269
+915422483,1,True,1452,wolnostojacy,30.0,1,,"Rondo Minikowo, Poznań",52.3591141,16.9411957
+858443095,1,True,2400,apartamentowiec,49.0,2,950.0,"ul. Katowicka, Poznań",52.3979359,16.9650293
+923269319,4,True,2000,blok,38.0,2,500.0,"Osiedle Przyjaźni 3, Winogrady, Poznań",52.4312061,16.9334321
+916628035,5,True,2700,blok,47.45,2,693.0,"ul. Ptasia 20A, Poznań",52.4010455,16.857408
+916628031,4,True,2500,blok,52.14,2,760.0,"ul. Barańczaka 3H, Jeżyce, Poznań",52.4159459,16.9009836
+923262755,2,True,2400,blok,50.6,2,764.0,"ul. Wilczak 20A, Poznań",52.4294748,16.9538433
+923261685,2,True,2400,blok,49.11,2,522.0,"Bratumiły, Naramowice, Poznań",52.4576505,16.950716
+923260676,1,True,2900,blok,46.0,3,520.0,"ul. Grochowska 82, Grunwald, Poznań",52.4049782,16.8756512
+923262761,-1,True,1600,wolnostojacy,20.0,1,,"ul. Wicherkiewicz 35, Poznań",52.4563572,16.8900796
+923259377,1,True,2900,blok,46.0,3,520.0,"ul. Grochowska 82, Poznań",52.4049782,16.8756512
+914276491,2,True,2200,blok,42.0,2,450.0,"ul. Bielicowa, Poznań",52.406374,16.9251681
+923255961,0,True,1700,blok,32.4,1,400.0,"ul. Lwa, Rataje, Poznań",52.38668819999999,16.9508111
+630002689,1,True,1950,apartamentowiec,25.0,1,230.0,"ul. Mostowa 23, Poznań",52.404452,16.9393509
+843071996,2,True,2250,kamienica,32.0,2,350.0,"ul. Mostowa, Poznań",52.4047056,16.9396701
+923245384,2,True,1900,blok,38.0,2,700.0,"os. Piastowskie, Poznań",52.3923867,16.9479765
+835840299,2,True,2200,blok,48.0,2,750.0,"Poznań, ul. Floriana Stablewskiego",52.3923437,16.8971165
+923245886,8,True,1800,blok,38.0,2,450.0,"ul. Lazurowa 14, Poznań",52.4300767,16.9069816
+923243529,4,False,2790,pozostale,44.0,2,,"dzielnica Nowe Miasto, Poznań, jezioro Malta",52.4021955,16.9698904
+923241470,6,True,2600,apartamentowiec,45.0,2,,"Pączotek Piątkowo, Poznań",52.4448869,16.9132021
+757213627,1,True,2300,apartamentowiec,40.0,2,450.0,"ul. Dmowskiego, Poznań",52.385524,16.8951315
+923232505,2,True,1700,kamienica,21.0,1,250.0,"ulica Grunwaldzka, Poznań",52.384267,16.8375488
+788585282,2,True,2300,pozostale,50.31,2,619.52,"ul. Rubież 12A, Naramowice, Poznań",52.45003329999999,16.9505771
+923232787,5,True,1400,kamienica,24.5,1,340.0,"ul. Wierzbięcice, Poznań",52.3961918,16.921311
+923233027,2,True,1700,kamienica,34.0,1,335.0,"ul. Wierzbięcice, Poznań",52.3961918,16.921311
+923232092,1,True,1850,blok,31.0,1,,"ul. Głogowska - ul. Daleka, Poznań",52.383299,16.8857617
+628465938,1,True,1300,kamienica,27.0,1,450.0,"ul. Św. Marcin, Poznań",52.4068706,16.9218773
+923181593,1,True,2500,blok,33.0,2,300.0,"ul. Katowicka 2, Poznań",52.4005435,16.9618744
+923180656,3,True,2300,blok,52.0,2,300.0,"ul. Kosińskiego, Poznań",52.3891322,16.9155228
+766491152,2,True,2000,blok,32.0,1,500.0,"ul. Karpia 22, Poznań",52.44597169999999,16.9532083
+661806784,2,True,1920,kamienica,25.0,2,1.0,"ul. Śniadeckich, Poznań",52.402837,16.903414
+886530072,1,True,1500,pozostale,20.0,1,700.0,"ul. Wilda Wspólna 55, Poznań",52.3767086,16.914691
+901192999,3,False,2300,blok,48.0,2,760.0,"Świerzawska 4, Poznań",52.40322099999999,16.861103
+923214074,1,True,1900,blok,31.6,1,,"ulica Katowicka, Poznań",52.3979359,16.9650293
+923213481,1,True,1900,apartamentowiec,35.0,2,450.0,"ul. Druzkiennicka, Poznań",52.4458899,16.8885439
+923211982,2,True,2400,blok,49.11,2,521.0,"Ulica Bratumiły, Naramowice, Poznań",52.4576505,16.950716
+840149250,1,True,1800,blok,27.0,1,220.0,"ul. św. Rocha, Poznań",52.4014099,16.9462919
+923199857,2,True,1800,blok,20.0,1,280.0,"ul. Wagrowska, Poznań",52.3782524,16.9477146
+647121483,2,True,3290,kamienica,55.0,2,100.0,"ul. Chełmońskiego, Poznań",52.3999742,16.8989233
+592285047,7,True,6900,apartamentowiec,52.0,2,900.0,"Poznań, ul. Towarowa 37, 39, 41",52.4038277,16.914962
+886617347,4,True,3600,apartamentowiec,59.0,2,,"ul. Kazimeirza Wielkiego, Poznań",52.4017827,16.9391556
+923197048,4,True,2400,blok,64.0,3,700.0,"os. Władysława Jagiełły 12E, Piątkowo, Poznań",52.4555773,16.9066686
+676019072,1,True,1700,wolnostojacy,30.0,1,1.0,"Naramowice Piątkowo, Poznań",52.4532369,16.911301
+923189107,,True,1700,blok,48.0,2,901.21,"ul. Kosińskiego, Poznań",52.3891322,16.9155228
+921929235,3,True,2000,blok,35.0,1,330.0,"ul. Wybickiego, Wilda, Poznań",52.3903952,16.9194863
+923186211,4,True,2000,blok,40.0,2,540.0,"Poznań, ul. Rolna",52.3813102,16.9157106
+883087516,1,True,2200,blok,45.0,3,365.0,"ul. Poranek, Grunwald Północ, Poznań",52.4056236,16.8740377
+761276150,2,True,2200,blok,47.0,3,680.0,"os. Armii Krajowej, Poznań",52.3800903,16.9514881
+923172365,1,True,1600,kamienica,21.2,1,1600.0,"ul. Kościelna, Jeżyce, Poznań",52.4156214,16.905643
+837257427,3,True,2000,blok,30.0,1,460.0,"ul. Jeleniogórska, Grunwald, Poznań",52.3926255,16.8461367
+655728125,0,True,2000,kamienica,32.0,1,,"ul. Juliusza Kossaka, Grunwald, Poznań",52.3998314,16.8975621
+923168384,2,True,2600,blok,28.0,1,450.0,"ul. Dąbrowskiego, Jeżyce, Poznań",52.4256768,16.8604453
+672479393,3,True,2400,blok,55.0,2,700.0,"os. Chrobrego, Poznań",52.4493473,16.9140898
+923167218,2,True,2400,kamienica,29.0,2,700.0,"ulica Jackowskiego, Jeżyce, Poznań",52.4101537,16.8965467
+707878706,3,True,2500,kamienica,46.0,2,1.0,"Poznań, ul. Wierzbięcice 43",52.3941423,16.9210798
+696821666,1,True,1500,kamienica,23.0,1,500.0,"ul. Małeckiego, Łazarz, Poznań",52.3967974,16.9037784
+923159440,2,False,2500,blok,51.0,2,700.0,"ul. Sczaniecka 8, Poznań",52.394671,16.896087
+900319136,,True,2000,pozostale,30.0,1,200.0,"Poznań, blisko Politechniki i j. Malta",52.406374,16.9251681
+650122043,1,True,2300,apartamentowiec,37.0,2,600.0,"ul. Smardzewska, dzielnica Poznań Grunwald",52.389855,16.8606736
+793046706,17,True,1750,kamienica,30.0,1,300.0,"ulica GROTTGERA, Poznań",52.4014481,16.8984892
+923155652,1,True,3300,blok,63.0,3,1000.0,"Os. Tysiąclecia, Poznań",52.394442,16.978583
+923153372,3,True,2200,kamienica,49.6,2,996.0,"ul. Chociszewskiego 48, Łazarz, Poznań",52.3936624,16.8879492
+923152133,2,True,1900,blok,42.2,2,850.0,"ul. Promienista, Poznań",52.3908471,16.8751675
+923150548,1,True,2600,blok,68.9,3,,"os. Władysława Jagiełły, Poznań",52.4560451,16.9059091
+923148708,2,True,1050,kamienica,21.0,4,50.0,"ul. Wierzbięcice 41a, Poznań",52.3943293,16.9211491
+839217315,6,True,2500,blok,45.0,2,600.0,"Osiedle Młodych, Poznań",52.395584,16.9452649
+923149003,3,True,1800,blok,37.0,2,550.0,"ul. Racjonalizatorów, Dębiec, Poznań",52.3668253,16.9057213
+923145984,3,True,1000,kamienica,12.0,1,450.0,"ul. Wawrzyniaka, Jeżyce, Poznań",52.4108713,16.8992401
+902591648,1,True,2900,blok,49.0,2,500.0,"ul. Wołkowyska 26, Poznań",52.3982637,16.9698584
+923135875,1,True,1650,blok,35.0,1,,"ulica Jasielska, Podolany, Poznań",52.4439585,16.893797
+923134724,3,True,2700,pozostale,54.0,2,1175.0,"Śródka, Poznań",52.4119934,16.9545695
+923131788,3,True,4000,blok,62.9,3,650.0,"Górczyn, Poznań",52.3805449,16.8795487
+693299434,0,True,2300,blok,52.0,2,590.0,"ul. Grochowska, Poznań",52.4019761,16.8758918
+923125446,2,True,2400,loft,40.0,2,500.0,"ul. Sarnia, Poznań",52.410745,17.0436619
+921521796,3,True,2800,loft,48.0,2,,"Poznań, Polna Street",52.406374,16.9251681
+654542321,0,True,2500,blok,47.0,3,700.0,"ul. Morawskiego, Łazarz, Poznań",52.3943556,16.8945215
+923115728,4,True,1700,kamienica,33.0,1,520.0,"ul. Mostowa 33, Poznań",52.4063969,16.9382819
+923116113,0,True,2500,apartamentowiec,36.0,1,626.0,"Poznań, Zwierzyniecka Street",52.4085739,16.9071966
+922255720,0,True,1900,blok,37.0,1,440.0,"Poznań, Łazarz",52.3995162,16.8996409
+923114488,3,True,3500,kamienica,38.64,2,320.0,"ul. Wierzbięcice 31, Poznań",52.3958485,16.9209545
+764034333,0,True,2350,apartamentowiec,48.7,2,730.0,"ul. Księcia Mieszka I 20, Winogrady, Poznań",52.43456310000001,16.9217244
+923109626,-1,True,1700,kamienica,13.0,1,300.0,"ul. Słowackiego 16, Poznań",52.4103012,16.9103089
+923108800,1,False,1500,kamienica,32.0,1,,"Śródka, Poznań",52.4119934,16.9545695
+923106351,4,True,2250,blok,80.0,3,1300.0,"Os. Lecha, Poznań (Rataje)",52.3896029,16.9726512
+923105301,2,True,2299,blok,55.0,2,650.0,"ul. Jeleniogórska 1/3, Poznań",52.390488,16.8458755
+679908151,7,True,2700,blok,53.0,2,560.0,"osiedle Ataner Marcelin, Poznań",52.4094436,16.8871497
+894128448,4,True,2400,apartamentowiec,29.0,1,538.0,"ul. Zwierzyniecka 15, Poznań",52.408125,16.908124
+923096428,0,True,2200,blok,44.0,2,460.0,"Leszka 2, Poznań",52.4095206,17.0269695
+916422473,11,True,1850,blok,38.0,2,610.0,"os. Bolesława Chrobrego 38, Poznań",52.4451153,16.9149498
+902151740,4,True,1700,kamienica,33.0,1,520.0,"ul. Mostowa 33, Poznań",52.4063969,16.9382819
+885391717,1,True,1650,blok,20.0,1,500.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+889967173,1,True,2100,wolnostojacy,30.0,1,2100.0,"Poznań, Starołęcka",52.3578511,16.9244182
+910837139,3,True,2100,blok,36.5,2,400.0,"Poznań, ul. Sielawy",52.4462097,16.9523475
+923086835,1,True,2500,blok,50.0,2,709.0,"Poznań, Stefana Batorego 29c",52.46101729999999,16.9227882
+663850681,1,True,3900,kamienica,95.0,4,700.0,"Ul. Niecała, Poznań",52.4040632,16.8907102
+923083749,4,True,2000,blok,40.0,2,750.0,"Gnieźnieńska 11, Poznań, Główna",52.42281,16.979782
+695003266,2,True,2100,apartamentowiec,32.0,1,350.0,"ul. Wenecjańska 8, Poznań",52.4088717,16.9405473
+920639702,3,True,3300,apartamentowiec,54.0,2,880.0,"Zwierzyniecka 15, Poznań",52.408125,16.908124
+901307923,2,True,1300,blok,38.0,2,630.0,"os.Piastowskie, Poznań",52.3923867,16.9479765
+760256719,1,True,1550,apartamentowiec,30.0,1,550.0,"ul. Sieradzka, Grunwald, Poznań",52.3857646,16.8506964
+916463395,3,True,2600,kamienica,58.48,2,464.0,"ul. Kościelna, Poznań",52.4156214,16.905643
+628929349,2,True,1800,blok,45.0,2,860.0,"ul. Wojskowa, Poznań",52.4018186,16.8926149
+923070260,0,True,1800,blok,30.0,1,500.0,"ul. Zofii Nałkowskiej 22, Jeżyce, Poznań",52.4193975,16.8899989
+805391221,3,True,2700,blok,57.0,2,800.0,"ulica Rubież 12, Poznań",52.4495063,16.9507935
+923067630,2,True,1500,blok,49.0,2,685.58,"os. Bolesława Chrobrego, Poznań",52.4534448,16.9151342
+923067017,4,True,2600,apartamentowiec,46.0,2,800.0,"Os. Piastowskie 120, Poznań",52.3857611,16.9398889
+836154653,6,True,2000,blok,38.1,2,600.0,"Poznań, osiedle Kosmonautów 2",52.4334879,16.9435154
+923065857,3,True,2000,apartamentowiec,45.0,2,919.0,"Poznań, ul. Fabryczna",52.3878253,16.9133077
+916449175,4,True,2000,blok,50.0,2,720.0,"ul. Winiarska 56, Poznań",52.4322544,16.9115271
+923063099,2,True,2000,blok,35.0,2,540.0,"ul. Kosowska, Podolany, Poznań",52.4550106,16.8767806
+923063242,4,True,1800,kamienica,26.0,1,285.0,"ul. Dąbrowskiego, Jeżyce, Poznań",52.4256768,16.8604453
+923060126,2,False,1400,blok,28.0,1,,"ul. Pobiedziska, Poznań",52.4059593,16.9960631
+923059629,0,True,2400,blok,38.0,2,590.0,"ul. Rolna, Wilda, Poznań",52.3813102,16.9157106
+696012411,4,True,1800,kamienica,30.0,2,100.0,"ul. Śródka, Poznań",52.4101553,16.9562694
+923055323,0,True,1740,kamienica,50.0,2,760.0,"Poznań, ul. Masztalarska",52.410183,16.9333356
+920052710,4,True,2850,blok,60.42,2,740.0,"ul. Chartowo, Poznań",52.3900996,16.9797121
+923044407,1,True,3000,apartamentowiec,60.0,3,800.0,"ul. Michała Drzymały | Zielony Sołacz, Poznań",52.4219607,16.9155139
+915442122,6,True,2499,apartamentowiec,45.65,2,500.0,"Unia Lubelska, Poznań",52.3727688,16.9513208
+923031489,-1,True,1800,kamienica,26.59,1,500.0,"ul. Grochowe Łąki, Poznań",52.412702,16.9385398
+923029704,2,True,2700,apartamentowiec,41.0,2,652.0,"Poznań, ul. Wołkowyska 4",52.3992309,16.968211
+923030791,2,True,1800,blok,38.0,2,680.0,"os. Piastowskie, Poznań",52.3923867,16.9479765
+888780935,2,True,2200,blok,27.0,1,,"Promienista 10, Grunwald, Poznań",52.3996471,16.8828718
+923030882,2,True,2600,kamienica,45.0,2,637.0,"ul. Stanisława Taczaka, Centrum, Poznań",52.4054818,16.9222843
+923028269,2,True,2600,kamienica,29.0,1,450.0,"ulica Dąbrowskiego, Poznań",52.4256768,16.8604453
+665966569,0,True,2100,apartamentowiec,30.0,1,380.0,"Esensja, ul. Garbary, Poznań",52.4010287,16.9357278
+923023213,4,True,3100,apartamentowiec,52.15,2,564.0,"ul. Czarnucha 21A, Poznań Naramowice",52.4484181,16.955918
+923022866,-1,True,2140,kamienica,25.0,1,2140.0,"ul. Leszka 2, Poznań",52.4095206,17.0269695
+857776821,2,True,2750,blok,41.1,2,600.0,"Poznań, ul. Wagrowska",52.3782524,16.9477146
+776132760,3,True,1800,blok,42.0,2,600.0,"ul. Słowiańska, Winogrady, Poznań",52.4308271,16.9321156
+921075806,3,True,1000,blok,100.0,2,,"Osiedle Bohaterów II Wojny Światowej, Poznań",52.3833128,16.9515689
+922998504,0,True,2200,blok,32.5,1,366.0,"ul. Gorczyczewskiego, Jeżyce, Poznań",52.409651,16.8929031
+776122522,0,True,1999,blok,35.0,2,500.0,"ul. św Michała 39, Poznań",52.4131246,16.9647439
+915956426,5,True,3500,blok,47.0,2,500.0,"Poznań, brak informacji",52.406374,16.9251681
+908904721,5,True,2400,blok,43.0,2,620.0,"Poznań, ul. Bułgarska",52.4040128,16.8667076
+797190118,3,False,3000,blok,67.7,3,730.0,"ul. Kościelna, Poznań",52.4156214,16.905643
+841337498,1,True,2200,apartamentowiec,28.0,1,450.0,"ul. Dąbrowskiego 58, Poznań",52.4128876,16.9024099
+922999184,1,True,1800,kamienica,35.0,2,350.0,"ul. Strusia, Poznań",52.3966999,16.9036399
+895060044,4,True,3999,apartamentowiec,55.0,2,520.0,"ul. Polanka 2, Poznań",52.400059,16.954755
+863682550,4,True,2000,blok,20.0,1,300.0,"ul. Niecała (Grunwald), Poznań",52.4040632,16.8907102
+922994597,11,True,2800,apartamentowiec,48.0,2,770.0,"Bułgarska 59, Poznań",52.4010654,16.8642574
+778108433,1,True,4500,apartamentowiec,68.0,3,1000.0,"ul. Mostowa 23, Poznań",52.404452,16.9393509
+886724718,0,True,2200,blok,45.2,2,530.0,"ul. Naramowicka, Poznań",52.457628,16.9470046
+919967730,8,True,3500,apartamentowiec,50.0,2,600.0,"Osiedle Goplana, ul. Świętego Wawrzyńca, Poznań",52.41807679999999,16.9020716
+907520852,4,True,4400,apartamentowiec,80.0,3,1950.0,"Wstęga nad Wartą, Poznań",52.406374,16.9251681
+922989877,2,True,2000,apartamentowiec,34.0,2,650.0,"ul. Kasprzaka/Sczanieckiej, Poznań",52.39461069999999,16.8967447
+922989773,2,False,2200,blok,36.38,2,550.0,"ul. Smardzewska, Grunwald, Poznań",52.389855,16.8606736
+922988741,1,True,3300,apartamentowiec,56.36,3,960.0,"ulica Lwowska, Poznań",52.4006378,16.9641902
+922986303,3,False,2200,kamienica,80.0,3,1.0,"Święty Marcin, Poznań",52.4068706,16.9218773
+921372651,1,True,3300,apartamentowiec,57.0,3,,"ul. Lwowska, Poznań",52.4006378,16.9641902
+922980960,0,False,1200,kamienica,45.0,2,1.0,"ulica Święty Marcin, Poznań",52.4068706,16.9218773
+740881982,3,True,2300,apartamentowiec,40.0,2,450.0,"Nowy Marcelin, Poznań",52.404148,16.8611487
+922978106,3,True,2300,blok,35.0,1,500.0,"ulica Błażeja, Naramowice, Poznań",52.4558176,16.9438105
+922975682,10,True,2000,blok,47.0,2,1270.0,"Winogrady, Poznań",52.4306007,16.9363009
+889169116,2,True,2300,blok,35.5,2,650.0,"ul. Grunwaldzka 240, Poznań",52.38836209999999,16.8503169
+913472524,4,True,1600,blok,30.0,1,300.0,"Poznań, ul. Horacego (Strzeszyn Grecki)",52.4477871,16.8761206
+922974417,1,True,2600,blok,40.0,2,650.0,"Strzeszyn, Poznań",52.4587528,16.8508811
+715910532,1,False,2200,blok,38.0,2,,"ul. Swoboda, Poznań",52.4079186,16.871776
+910687779,0,True,2000,blok,40.0,2,460.0,"Strzeszyn Grecki, Poznań",52.4587528,16.8508811
+922972726,1,True,1900,blok,33.0,2,550.0,"ul. Bułgarska 57, Grunwald, Poznań",52.400685,16.8638727
+780868367,3,True,3200,kamienica,40.0,3,1.0,"ul. Niecała, Poznań",52.4040632,16.8907102
+902199014,1,True,1500,kamienica,15.0,1,450.0,"ulica Toruńska, Poznań",52.4135404,16.9820791
+922970154,3,True,1700,apartamentowiec,27.0,1,160.0,"ul. Sielawy, Naramowice, Poznań",52.4462097,16.9523475
+922969667,2,True,1150,blok,14.0,4,1150.0,"Poznań, ul. Przybyszewskiego",52.4093658,16.8887118
+839338366,6,True,2000,blok,39.0,2,650.0,Poznań Ogrody,52.4189711,16.8791323
+802473369,3,True,2450,blok,53.0,3,600.0,"os. Zwycięstwa, Poznań",52.4409256,16.927833
+913312970,2,True,2700,blok,50.0,2,800.0,"ul. Fieldorfa, Strzeszyn Grecki, Poznań",52.4449673,16.8650664
+868891975,0,True,3900,blok,63.0,3,750.0,"ul. T. Mateckiego, Poznań (Piątkowo)",52.4616143,16.8980232
+878535162,1,True,2100,blok,53.0,3,1100.0,"os. Przyjaźni 22, Poznań",52.43387449999999,16.925541
+921500646,3,True,2200,blok,46.0,2,351.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+778477303,1,True,2600,blok,41.0,2,650.0,"Poznań, Strzeszyn",52.4587528,16.8508811
+913096058,1,True,2800,apartamentowiec,41.0,2,700.0,"ul. Barańczaka, Poznań",52.4157568,16.9031527
+887598704,8,True,2000,apartamentowiec,36.0,2,480.0,"ul. Marcelińska, Poznań",52.4044612,16.878942
+922942092,1,True,2800,blok,67.0,4,1060.0,"Goethego 19j, Poznań",52.458611,16.8620508
+685660472,3,True,2000,apartamentowiec,35.0,2,1.0,"ul. Druskienicka 4, Poznań",52.4424033,16.8871646
+922940159,2,True,2400,apartamentowiec,44.0,2,875.0,"ul. Zwierzyniecka, Poznań",52.4085739,16.9071966
+922940181,3,True,1550,apartamentowiec,39.0,1,620.0,"Poznań, ul. Floriana Znanieckiego",52.4469024,16.924835
+922937000,2,True,2400,apartamentowiec,44.0,2,850.0,"ulica Zwierzyniecka, Poznań",52.4085739,16.9071966
+796024668,1,True,1790,blok,43.0,2,980.0,"os. Lecha, Rataje, Poznań",52.3896029,16.9726512
+918548317,1,True,3300,wolnostojacy,46.0,2,1.0,"ul. Nałęczowska, Podolany, Poznań",52.4523344,16.8837493
+922927582,0,True,1500,kamienica,32.0,2,400.0,Poznań dzielnica Kotowo,52.3579141,16.8548059
+922927539,0,True,1800,blok,25.0,1,420.0,"ulica Poznańska 19, Poznań",52.4136,16.9066839
+922927088,1,True,1800,blok,28.0,1,400.0,"Sportowa 1, Wilda, Poznań",52.380848,16.914091
+921696880,1,True,2300,blok,52.0,2,970.0,"ul. Rycerska, Grunwald, Poznań",52.4019761,16.8758918
+692668490,0,True,1050,apartamentowiec,10.0,3,350.0,"Ul. Krańcowa, Poznań",52.4117325,16.9788216
+678575575,2,True,2400,apartamentowiec,44.0,2,875.0,"Poznań, ulica Zwierzyniecka",52.4085739,16.9071966
+922917663,0,True,4000,szeregowiec,210.0,4,25.0,"Ul. Żołnierzy Lenino, Naramowice, Poznań",52.4398331,16.9530439
+745151934,1,True,2900,kamienica,55.0,2,600.0,"ul. Garbary, Poznań",52.408363,16.9380651
+922907260,3,False,2800,kamienica,40.0,2,,"ul. Głogowska, Poznań",52.3760139,16.8720076
+636918706,2,True,2300,blok,29.0,1,350.0,"ul. Rycerska, Poznań",52.4019761,16.8758918
+856914730,2,True,2950,kamienica,35.0,2,604.0,"ul. Poznańska, Jeżyce, Poznań",52.4139095,16.9097665
+922897693,2,True,2600,blok,40.0,2,350.0,"ul. Zofii Nałkowskiej 22, Poznań",52.4193975,16.8899989
+922894705,4,True,2940,blok,65.0,2,1060.0,"ulica BRZASK 10C, Poznań",52.40732509999999,16.87789
+909704097,1,False,4300,apartamentowiec,130.0,3,,"Wrocławska, Poznań",52.4066153,16.9330846
+922892344,4,True,2450,blok,35.0,1,350.0,"Os. Stefana Batorego 42F, Poznań",52.4615448,16.9281413
+922892026,1,True,2700,blok,53.8,2,750.0,"ul. Żorska 37K, Poznań",52.3542293,16.9287632
+662348695,3,True,1400,kamienica,27.3,1,676.0,"ul. Wawrzyniaka 29/11, Jeżyce, Poznań",52.4104678,16.8987809
+730867750,1,True,1980,apartamentowiec,30.0,1,550.0,"ulica Różana, Wilda, Poznań",52.3976202,16.9242534
+922884258,1,True,2400,kamienica,40.0,2,,"Wildz, Poznań",52.3840856,16.9176014
+896283455,3,True,2400,apartamentowiec,27.0,1,500.0,"ul. Zygmunta Wojciechowskiego 19, Poznań Piątkowo",52.4456849,16.9138535
+922881517,2,True,1500,blok,26.7,1,380.0,"osiedle Przyjaźni, Winogrady, Poznań",52.4299458,16.9221228
+621118448,3,True,1590,kamienica,13.0,1,200.0,"ul. 28 Czerwca 1956 r. 166A, Poznań",52.38683529999999,16.915747
+922874854,1,True,2100,blok,45.8,2,760.0,"ul. Wybickiego, Wilda, Poznań",52.3903952,16.9194863
+922867502,0,True,2150,blok,38.0,2,580.0,"Poznań, os. Przyjaźni 14",52.4293162,16.9221589
+922865506,2,True,1600,blok,38.0,2,585.0,"ul. Wojska Polskiego, Poznań",52.4278204,16.8996928
+922863188,0,True,2600,kamienica,74.0,3,340.0,"róg ulic Fabryczna oraz Pamiątkowa, Wilda, Poznań",52.3878253,16.9133077
+922861146,1,True,5990,pozostale,61.0,2,,"Park Wilsona, Poznań",52.399486,16.9021787
+721457440,1,True,1700,wolnostojacy,28.0,1,150.0,"Poznań, Świerczewo",52.3678049,16.8852999
+915423228,3,False,1800,kamienica,46.0,2,210.0,"Dolna Wilda, Poznań",52.376381,16.9189976
+922853293,6,True,3300,blok,60.0,2,980.0,"ul. Towarowa 41, Poznań",52.40448,16.9163272
+705057388,0,True,1800,kamienica,26.0,1,350.0,"23 lutego, Poznań",52.4102199,16.9287753
+922850243,2,False,3000,szeregowiec,63.0,3,837.91,"ulica Dąbrowskiego 29, Poznań",52.4119988,16.9084008
+840522066,1,True,2100,blok,40.0,2,442.0,"ul. Włodkowica, Grunwald, Poznań",52.4020274,16.8770715
+922845159,4,True,2100,blok,47.2,2,763.85,"os. Orła Białego, Poznań",52.3783098,16.9684434
+590584244,1,True,2700,apartamentowiec,30.0,2,350.0,"ul. Hawelańska 6, Poznań",52.43482909999999,16.9506346
+922842923,1,True,2500,apartamentowiec,37.0,1,600.0,"Za cytadelą 122, Poznań",52.4242933,16.9281283
+922839823,3,True,2100,blok,38.0,2,650.0,"os. Jagiellońskie 19, Poznań",52.3932218,16.9528352
+796715644,5,True,2000,blok,38.0,2,450.0,"Osiedle Przyjaźni, Poznań",52.4299458,16.9221228
+868737780,3,True,2100,apartamentowiec,38.5,2,600.0,"ul. Czarnucha 23A, Naramowice, Poznań",52.4490478,16.9555917
+873451784,11,True,11900,apartamentowiec,107.0,3,1650.0,"ul. Towarowa 39, Poznań",52.4035768,16.9142834
+867048935,11,True,5400,apartamentowiec,52.0,2,830.0,"ul. Towarowa 39, Poznań",52.4035768,16.9142834
+901204722,0,True,10000,apartamentowiec,104.0,2,3500.0,"ul. Podlaska, Poznań",52.4261182,16.9007916
+766634347,0,True,2500,apartamentowiec,51.5,2,750.0,"Poznań, ul. Brzask 17",52.4063561,16.8767575
+922827869,0,False,1750,blok,54.0,2,780.0,"Poznań, ul. Pobiedziska 13",52.4064513,16.9967733
+922826673,2,True,2500,kamienica,44.0,2,,"blisko parku Wilsona, Poznań",52.399486,16.9021787
+901246207,4,True,1700,kamienica,35.0,1,520.0,"ul. 3 maja, Plac Wolności, Poznań",52.4085859,16.9251842
+922822224,2,True,2500,apartamentowiec,44.0,2,800.0,"Poznań, budynek nad Wartą, obok budynku Atal Warta Towers",52.3812919,16.9414988
+838795325,2,True,2500,blok,50.1,2,596.1,"Wojskowa 8A, Łazarz, Poznań",52.4019644,16.8933933
+922818533,1,True,1650,kamienica,18.0,1,450.0,"Rynek Jeżycki 2, Poznań",52.4118003,16.904219
+826800354,4,True,2700,blok,40.53,2,561.45,"Milczańska 5, Poznań",52.3943404,16.9639873
+922817291,0,True,2700,blok,53.0,2,600.0,"ul. Jeleniogórska, Poznań",52.3926255,16.8461367
+699354288,3,True,1700,blok,30.0,1,550.0,"os.Przyjaźni 12, Winogrady, Poznań",52.4287155,16.9253223
+773103260,4,False,1900,blok,44.0,2,750.0,"ul. Limanowskiego 15B, Poznań",52.3970367,16.8975334
+922808274,1,False,2300,szeregowiec,50.0,2,,"ul. Przemysłowa, Dębowy Skwer, Wilda, Poznań",52.3959321,16.9185563
+755381571,1,False,2500,blok,49.0,3,700.0,"Bułgarska 150, Poznań",52.4107374,16.8698497
+686265739,3,True,2800,blok,64.5,3,750.0,"ul. Krakowska, Poznań, Centrum/Stare Miasto",52.4003758,16.9318902
+755048195,2,True,2300,blok,44.0,2,450.0,"ulica Sieradzka, Grunwald, Poznań",52.3857646,16.8506964
+740849060,3,True,1600,kamienica,22.0,1,600.0,"ul. Parkowa, Poznań",52.4016023,16.9018955
+922801326,8,False,2600,apartamentowiec,38.0,2,,"ul. Świerzawska, Grunwald, Poznań",52.4029635,16.8610345
+922090505,0,True,2150,apartamentowiec,28.0,1,300.0,"ul. Milczańska 22, Poznań",52.3927859,16.9680576
+922801391,1,True,2300,blok,48.0,2,780.0,"ul. Lodowa, Łazarz, Poznań",52.3918297,16.8988162
+817056213,0,True,2100,blok,38.0,2,680.0,"ul. Gnieźnieńska, Zawady, Poznań",52.4311612,17.0142357
+905622847,0,True,2100,apartamentowiec,34.0,1,550.0,"ul. Ogrodowa, Poznań",52.4035574,16.9272193
+922799172,4,True,1700,blok,49.0,3,600.0,"Poznań, Łazarz",52.3995162,16.8996409
+909602339,0,True,1700,blok,25.0,1,500.0,"ul. Górki, Górczyn, Poznań",52.3848187,16.8909311
+922795257,1,False,1600,apartamentowiec,20.0,1,,"ul. Nadolnik (okolice Warty), Poznań",52.4232372,16.972407
+874231066,1,True,2500,blok,43.4,2,588.0,"Poznań, ul. Wojskowa",52.4018186,16.8926149
+808693760,8,True,1800,blok,38.0,2,800.0,"os. Piastowskie, Rataje, Poznań",52.3923867,16.9479765
+835989365,1,False,2500,blok,69.0,3,820.0,"ul. Leśnych Skrzatów 5B, Poznań",52.410011,16.8470964
+763139004,3,False,1900,blok,34.0,1,420.0,"ul. Morawskiego, Poznań",52.3943556,16.8945215
+922785224,0,True,1600,kamienica,26.0,1,150.0,Poznań ul. Długa 10,52.403731,16.9314161
+922784579,1,False,2500,pozostale,45.4,2,,"ul. Młyńska 10, Poznań",52.41052089999999,16.9252009
+851500860,3,True,2100,kamienica,35.0,2,450.0,"ul. Poznańska 42, Poznań",52.4140557,16.9092616
+699268909,0,True,1550,blok,28.0,1,450.0,"rog ulic Przemysłowej/Roboczej, Poznań",52.3968713,16.9188986
+922775454,4,True,1370,kamienica,15.0,1,300.0,"ul. Głogowska 70, Łazarz, Poznań",52.3956333,16.8998965
+922771408,5,False,1700,blok,64.0,3,,"os. Dębina, Poznań",52.3613845,16.9066105
+922771480,1,False,2950,blok,59.1,3,710.0,"os. Wł.Łokietka, Naramowice, Poznań",52.4516222,16.9408219
+830582606,5,True,2900,apartamentowiec,39.0,2,600.0,"ul. Na Podgórniku - Cytadela, Poznań",52.4161694,16.932442
+885275549,1,True,3500,apartamentowiec,43.0,2,,"ul. Słowackiego 7, Poznań",52.40968179999999,16.9112999
+922763689,0,False,1600,blok,28.0,1,,"Jeżyce, Poznań",52.432479,16.8515452
+922762976,4,True,2000,blok,49.0,3,600.0,"Poznań, Łazarz",52.3995162,16.8996409
+737775859,1,True,2200,blok,30.0,1,460.0,"ul. Winiarska, Poznań",52.4303673,16.9110425
+896818639,2,True,2550,blok,39.0,2,650.0,"Osiedle Marcelin, Poznań",52.4103723,16.8475692
+733284551,1,True,2700,blok,38.0,2,600.0,"Bukowska 18, Poznań",52.4075253,16.902669
+922755118,2,True,2600,blok,64.0,3,1000.0,"Osiedle Rusa, Poznań",52.3878065,16.9884479
+905037379,4,True,1800,blok,32.0,1,600.0,"ul. Marcelińska/Wojskowa, Poznań",52.4051844,16.8925577
+922752044,6,True,2200,blok,36.0,2,500.0,"Poznań, ul. Wagrowska, Rataje",52.3782524,16.9477146
+839416982,1,True,1650,wolnostojacy,40.0,1,,"Poznań, Rondo Jana Nowaka Jeziorańskiego",52.4024968,16.8894047
+922750510,4,False,2800,blok,49.0,2,,"ulica Jeleniogórska 14, Poznań",52.3921968,16.8478
+922750964,8,True,5200,apartamentowiec,83.0,4,800.0,"Atal Warta Towers, Poznań",52.3812919,16.9414988
+914690474,5,True,8000,apartamentowiec,110.0,3,1800.0,"ul. Maratońska, Poznań",52.3986266,16.929778
+855891626,1,True,2400,apartamentowiec,65.0,3,217.0,"Dąbrowskiego 60, Poznań",52.4256768,16.8604453
+922744161,1,False,2700,wolnostojacy,130.0,4,1200.0,"Ulica Roślinna, Szczepankowo, Poznań",52.3687761,17.0145421
+814258257,7,True,1700,blok,32.0,1,500.0,"os. Czecha, Poznań",52.3847722,16.9797733
+922741647,,True,3000,pozostale,56.0,3,1000.0,"ul. Polna 13A, Poznań",52.412634,16.897173
+922740147,0,False,2100,wolnostojacy,41.0,2,1.0,"ul. Bronisława, Poznań",52.4620487,16.9346668
+882741463,0,False,2100,wolnostojacy,45.0,2,1.0,"Poznań, ul. Bronisława",52.4620487,16.9346668
+778120742,2,True,2100,blok,43.0,2,820.0,"Winiary, Poznań",52.4332801,16.9084419
+891621011,1,True,1550,blok,35.0,1,760.0,"ulica Świętego Jacka, Śródka, Poznań",52.4109988,16.9525923
+922727284,1,True,2500,blok,40.0,2,650.0,"Malta, Poznań",52.4046392,16.9765536
+685854694,0,True,1400,blok,30.0,1,668.0,"ul. Wybickiego, Wilda, Poznań",52.3903952,16.9194863
+922726462,1,True,2100,blok,48.0,2,,"Poznań, ulica Szamotulska",52.4103335,16.8834461
+786808556,2,True,2500,blok,65.0,3,970.0,"os. Pod Lipami, Poznań",52.4296012,16.9453926
+818813985,1,False,2200,blok,56.5,2,470.0,"ul. Fieldorfa, Strzeszyn, Poznań",52.4449673,16.8650664
+922724224,0,True,1300,blok,40.9,2,750.0,"os. Winiary, Poznań",52.4332801,16.9084419
+922723435,1,True,2500,blok,38.0,2,605.0,"ul. Sobczaka 1, Poznań",52.3969377,16.9593364
+922722727,3,True,1700,blok,32.0,1,490.0,"Os. Bolesława Śmiałego 1, Poznań",52.4514788,16.9211485
+922716475,,True,850,apartamentowiec,22.0,1,,"Poznań, Al. Niepodległości 36",52.41492849999999,16.9263795
+916160628,1,True,2000,blok,50.0,2,900.0,"ul. Parkowa, Poznań",52.4016023,16.9018955
+709679849,3,False,1700,blok,30.0,2,580.0,"Os. Rusa, Poznań",52.3878065,16.9884479
+620299887,4,True,2000,blok,65.0,3,1100.0,"Poznań, Grunwald",52.3955242,16.8627322
+922706132,1,True,2300,blok,48.0,2,780.0,"ul. Lodowa, Łazarz, Poznań",52.3918297,16.8988162
+834463357,1,True,2600,blok,50.0,2,660.0,"Smolna, Zawady, Poznań",52.4222048,16.966559
+699659035,1,True,3390,apartamentowiec,57.0,3,990.0,"ul. Witolda Pileckiego, Poznań Strzeszyn",52.446826,16.8639439
+915023839,3,True,2799,kamienica,33.89,2,450.0,"ul. Święty Marcin 32, Poznań",52.40626899999999,16.9263111
+840449794,3,True,2300,blok,55.0,2,880.0,"Grunwald/Jeżyce, Poznań",52.3955242,16.8627322
+922687992,2,True,1800,kamienica,40.0,2,800.0,"ul. Nowowiejskiego, Poznań",52.4126383,16.9232172
+922685649,0,True,2300,blok,30.0,1,,"Wilda, Poznań",52.3840856,16.9176014
+772243517,4,True,4100,kamienica,62.0,2,621.0,"Poznań, Centrum Poznania",52.4093634,16.9317991
+922676977,5,True,2100,blok,31.0,2,350.0,"ul. Wagrowska 12, Poznań",52.377511,16.9477594
+922674136,1,False,1800,apartamentowiec,55.0,2,630.0,"osiedle nad Maltą, Poznań",52.4046392,16.9765536
+922667856,3,True,2300,blok,55.21,3,698.0,"ul. Gnieźnieńska 11, Poznań",52.42281,16.979782
+641707831,3,True,2000,blok,63.1,3,,"Rataje os. Polan, Poznań",52.3834651,16.9590782
+922658150,1,True,3000,apartamentowiec,51.0,2,916.0,"Chwaliszewo, Poznań",52.4088456,16.9433703
+922654344,2,True,2400,kamienica,29.0,1,700.0,"ul. Jackowskiego, Jeżyce, Poznań",52.4101537,16.8965467
+922654961,2,True,2400,blok,36.0,2,580.0,"ul. Wagrowska, Rataje, Poznań",52.3782524,16.9477146
+717357534,2,True,2200,blok,37.53,2,700.0,"os. Armii Krajowej, Poznań",52.3800903,16.9514881
+922654012,4,True,2300,blok,53.0,3,800.0,"os. Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+922651889,4,True,3000,kamienica,112.0,4,1200.0,"ul. Małeckiego 4, Łazarz, Poznań",52.3980944,16.9049473
+699973841,4,True,2600,blok,69.0,3,1100.0,"Os. Jagiełły, Piątkowo, Poznań",52.4560451,16.9059091
+919885894,,True,2150,kamienica,29.0,2,480.0,"ul. Św. Marcin, Centrum, Poznań",52.4068706,16.9218773
+922644298,5,False,2000,kamienica,35.0,1,,"Ul. Ogrodowa 2, Poznań",52.4037417,16.9298879
+915644235,2,True,2300,apartamentowiec,38.0,2,600.0,"ul. Skrzatów Leśnych, Grunwald, Poznań",52.3469992,16.8803734
+854941666,7,True,4500,blok,64.0,3,1000.0,"ul. Na Podgórniku 2, Poznań",52.4159934,16.9338185
+922642395,1,True,3400,apartamentowiec,55.5,3,1000.0,"Poznań, Milczańska Street",52.3909293,16.9655045
+783052022,4,True,2350,kamienica,27.0,1,550.0,"ul. Długa Stare Miasto, Poznań",52.4037923,16.9335977
+922632117,3,False,2500,apartamentowiec,48.0,2,,"Bułgarska 59, Poznań",52.4010654,16.8642574
+914385439,1,False,1700,blok,44.0,3,,"ul. Dolina, Poznań",52.3940911,16.9242711
+922629106,0,False,1799,pozostale,51.4,2,,"zielony Dębiec, Poznań",52.3644188,16.9078231
+922619200,0,True,2500,blok,53.2,2,920.0,"osiedle Stare Żegrze, Poznań",52.3823926,16.9651071
+921374183,7,True,2000,blok,49.0,2,800.0,"Osiedle Oświecenia, Poznań",52.3904726,16.9620015
+789887714,1,True,2900,blok,69.5,3,800.0,"Poznań, ul. Długosza",52.4128386,16.8920481
+922617961,3,True,2750,blok,40.0,2,600.0,"ul. Katowicka 2, Poznań",52.4005435,16.9618744
+863702202,0,True,1890,kamienica,39.0,1,400.0,"Park Wilsona, Poznań",52.399486,16.9021787
+922613767,5,True,2300,apartamentowiec,31.7,1,505.0,"os. Nowy Marcelin, Poznań",52.404148,16.8611487
+651586131,11,True,750,blok,8.0,4,100.0,"Poznań, os. Stare Żegrze (Rataje)",52.3806172,16.9567588
+738896313,3,True,2000,blok,37.0,1,530.0,"ul. Dmowskiego, Łazarz, Poznań",52.388072,16.8979443
+922611034,-1,True,2300,kamienica,50.0,2,200.0,"ul. Iłłakowiczówny 6, Łazarz, Poznań",52.4016032,16.8901966
+909408816,3,False,2700,apartamentowiec,40.0,2,520.0,"ul. Świerzawska 11, GRUNWALD, Poznań",52.4023929,16.8611109
+687005957,2,True,2050,blok,61.0,2,650.0,"ul. Polanka 22, Poznań",52.3990059,16.9608781
+922606941,1,True,2800,blok,67.0,4,670.0,"Goethego 19j, Poznań",52.458611,16.8620508
+849203678,5,True,1700,kamienica,24.0,1,300.0,"ul. Mielżyńskiego, Centrum, Poznań",52.4091289,16.9230296
+922605505,11,True,2300,blok,46.8,2,870.0,"os. Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+920529421,7,True,2900,blok,50.0,2,,"ul. Kurpińskiego, Poznań",52.4504459,16.9132275
+701437956,2,True,2400,pozostale,50.0,2,28.0,"ul. Kudowska, Poznań",52.4576501,16.875781
+922601093,1,True,1700,blok,45.0,2,907.0,"Poznań, Łazarz, Mottego",52.3939398,16.904694
+895625876,4,False,1739.2,kamienica,78.0,2,100.0,"ul. Żupańskiego, Wilda, Poznań",52.3962118,16.9215814
+909126027,0,True,1750,wolnostojacy,20.0,1,,"ul. Kasztelańska, Poznań",52.397686,16.8666959
+915782704,3,True,1900,kamienica,22.0,1,300.0,"ul. Dąbrowskiego 44, Jeżyce, Poznań",52.4121301,16.9058876
+922601267,5,True,2700,apartamentowiec,40.3,2,680.0,"ul. Gąsiorowskich 4, Poznań",52.3991272,16.9070988
+878622158,3,True,2500,kamienica,37.0,2,480.0,"ul. Dąbrowskiego 44, Jeżyce, Poznań",52.4121301,16.9058876
+878620735,3,True,2500,kamienica,34.0,2,480.0,"ul. Dąbrowskiego 44, Jeżyce, Poznań",52.4121301,16.9058876
+887903591,1,True,1500,kamienica,33.0,1,450.0,"ul. Chwaliszewo, Poznań",52.4088225,16.9422181
+915787929,3,True,2800,kamienica,42.0,2,350.0,"ul. Dąbrowskiego 44, Jeżyce, Poznań",52.4121301,16.9058876
+815325416,17,True,2800,wolnostojacy,50.0,2,1.0,"Pokrzywno/Krzesiny, Poznań",52.3412579,16.9881388
+907407953,2,True,2100,blok,37.0,2,490.0,"ul. Włodkowica, Poznań",52.4020274,16.8770715
+922594807,11,True,2700,blok,50.0,2,890.0,"os. Tysiąclecia, Poznań",52.394442,16.978583
+901775373,4,True,2800,apartamentowiec,50.0,2,636.16,"ul. Wojskowa, Poznań",52.4018186,16.8926149
+921109448,4,True,2500,blok,49.0,3,690.0,"ul. Bułgarska 148, Poznań",52.4104758,16.8694463
+688698031,0,True,3400,blok,74.0,4,1100.0,"Os. Jana III Sobieskiego, Poznań",52.4626307,16.9086197
+922587496,1,False,1500,kamienica,50.0,2,,"ul. Taczaka, Poznań",52.4054818,16.9222843
+922586559,0,True,1500,kamienica,30.0,1,160.0,"ul. Knapowskiego, Poznań",52.3848216,16.8888023
+761619345,1,False,2400,kamienica,63.0,3,1100.0,"Ulica Mielżyńskiego, Poznań",52.4091289,16.9230296
+922586086,3,True,1900,blok,35.0,1,250.0,"ul. Hulewiczów, Piątkowo, Poznań",52.4576482,16.901707
+922585692,1,True,1900,kamienica,30.0,1,,"Rynku Łazarskim, Poznań",52.3946923,16.9006895
+908978925,2,False,10000,loft,187.0,4,5000.0,"ul. Wyspiańskiego – Ułańska – Wojskowa, Poznań",52.3989108,16.8961359
+908943481,1,True,2900,apartamentowiec,43.0,2,480.0,"Słowackiego 2, Jeżyce, Poznań",52.4114653,16.904036
+922584063,3,True,3163,blok,49.0,2,,"ul. Starowiejska, Winogrady, Poznań",52.4271742,16.9242328
+922583462,3,False,6000,pozostale,66.0,3,980.0,"Chwaliszewo, Poznań",52.4088456,16.9433703
+921335907,3,True,3500,blok,62.0,3,850.0,"ul. Lwowska, Poznań",52.4006378,16.9641902
+860330928,5,False,10000,apartamentowiec,141.98,4,2200.0,"ul. Chwaliszewo, Poznań",52.4088225,16.9422181
+922566328,2,True,2900,blok,51.0,2,700.0,"ul. Bóżnicza, Poznań",52.4125265,16.9353528
+922565793,9,True,2000,blok,38.1,2,733.21,"osiedle Kosmonautów, Poznań",52.438344,16.9404392
+922564229,3,True,2250,blok,40.33,2,440.0,"Poznań, ul. Smolna",52.4219821,16.966929
+829209848,1,True,4200,szeregowiec,120.0,4,,"ul. Sianowska, Poznań",52.435271,16.8262153
+744909346,2,True,2300,apartamentowiec,35.0,2,540.0,"ul. Czarnieckiego, Poznań",52.3930535,16.916839
+922549672,1,True,2700,blok,40.0,2,800.0,"ul. Florentyny Luboińskiej 5, Poznań",52.39169,16.9936859
+922544057,5,True,2600,blok,44.0,2,550.0,"ul. Świerzawska, Grunwald, Poznań",52.4029635,16.8610345
+678870835,2,True,1690,kamienica,24.0,1,400.0,"ul. Garbary, Poznań",52.408363,16.9380651
+755285374,2,True,3000,blok,64.0,3,940.0,"Poznań, Os. Bolesława Śmiałego 14",52.4528409,16.9256122
+922515168,2,True,1900,kamienica,35.0,2,1900.0,"Poznań, Garbary 36",52.4054016,16.9377498
+922533444,2,True,1700,kamienica,46.0,2,300.0,"Centrum miasta, Poznań",52.4093634,16.9317991
+922527655,2,True,2100,blok,30.0,1,350.0,"Grunwald Wojskowa, Poznań",52.4018186,16.8926149
+897414656,9,True,2300,blok,45.0,2,250.0,"Poznań, Hetmańska/Głogowska",52.390237,16.8941208
+922524239,2,True,2300,blok,40.0,2,470.0,"Poznań, Arciszewskiego 35",52.38930920000001,16.8839914
+922522520,2,True,1700,kamienica,23.0,1,250.0,"ul. Górna Wilda, Poznań",52.3966091,16.9246551
+881253905,0,True,2700,blok,40.0,2,550.0,"Poznań, ul. Florentyny Luboińskiej",52.3922315,16.9948684
+922514637,1,False,2000,kamienica,32.0,2,,"Poznań, Winogrady",52.4306007,16.9363009
+759392939,1,True,2090,apartamentowiec,36.0,2,575.0,"ul. Zwierzyniecka 30, Poznań",52.4095962,16.9036118
+922503318,4,True,3200,blok,54.4,3,685.0,"ul. Ziębicka 14, Poznań",52.3848376,16.8433903
+919572436,0,True,3990,apartamentowiec,59.0,3,700.0,"ul. Ceglana, Poznań",52.3721984,16.8615537
+909265780,3,True,2900,apartamentowiec,43.0,2,650.0,"Poznań, ul. Świerzawska",52.4029635,16.8610345
+828453563,2,True,2800,apartamentowiec,40.0,2,600.0,"ul. Garbary, Poznań",52.408363,16.9380651
+922489296,5,True,1700,blok,31.0,1,575.0,"os. Czecha, Poznań",52.3847722,16.9797733
+922489221,1,False,2000,kamienica,62.0,2,,"ul. Franciszka Ratajczaka 30, Poznań",52.405745,16.9253014
+922488854,5,True,2700,blok,45.5,2,750.0,"os. Władysława Jagiełły, Poznań",52.4560451,16.9059091
+922486125,4,True,2200,blok,38.0,2,600.0,"ul. Piątkowska, Winogrady, Poznań",52.4321162,16.9143275
+922469723,0,True,1800,kamienica,45.0,1,180.0,"ul. Centrum, Poznań",52.4093634,16.9317991
+922470022,4,True,2000,blok,30.0,1,402.0,"ul. Na Miasteczku 1, Poznań",52.3979948,16.9502667
+922462749,2,True,2000,blok,43.7,2,900.0,"ulica Księcia Mieszka I, Poznań",52.435153,16.920809
+922462169,1,True,2400,blok,33.32,2,450.0,"ul. Druskienicka, Podolany, Poznań",52.4458899,16.8885439
+829444007,3,True,2400,apartamentowiec,45.0,2,560.0,"ul. Czarnucha 6, Naramowice, Poznań",52.4501049,16.9531862
+922458258,2,True,2000,blok,30.0,1,550.0,"ul. 28 czerwca 1956 r., Poznań",52.3763923,16.9064215
+922456573,5,True,3100,apartamentowiec,43.67,2,550.0,"apartamentowiec Goplany, Jeżyce, Poznań",52.4518716,16.8821109
+854423251,3,True,2500,blok,41.0,2,525.0,"ulica Błażeja, Naramowice, Poznań",52.4558176,16.9438105
+874127320,5,True,1750,apartamentowiec,21.0,1,250.0,"ul. Nadolnik 8A/510, Poznań",52.4254176,16.9709903
+892906729,3,False,5412,wolnostojacy,150.7,4,1.0,"ul. Iłłakiewiczówny, Poznań (dzielnica Grunwald)",52.4012726,16.8905638
+892898934,3,False,5535,kamienica,189.0,4,25.0,"ulica Nowowiejskiego, Poznań",52.4126383,16.9232172
+922440745,2,False,950,kamienica,23.29,1,194.52,"ul. Jackowskiego, Poznań",52.4101537,16.8965467
+922440821,2,True,2000,blok,32.0,1,,"Osiedle Zwycięstwa 19A, Poznań",52.4375527,16.9220963
+843916725,1,True,2650,pozostale,52.0,2,751.25,"W pobliżu poznańskiej Malty, Poznań",52.4046392,16.9765536
+922438531,1,False,1300,kamienica,30.15,1,218.85,"ul. Graniczna, Poznań",52.3963121,16.9045989
+766661402,1,True,2250,kamienica,51.6,2,453.39,"Poznań, ul. Szewska, 51",52.4088455,16.9363288
+922437196,4,True,3000,apartamentowiec,53.0,2,350.0,"ul. Garbary 100, Poznań",52.4129619,16.9392936
+922436309,4,False,1300,kamienica,35.8,1,224.9,"ul. Głogowska, Poznań",52.3760139,16.8720076
+895803348,2,True,3300,kamienica,71.2,3,600.0,"ul. Ratajczaka, Poznań",52.4055472,16.9248391
+819003060,0,True,1800,blok,27.0,1,300.0,"os. Pod Lipami 13, Poznań",52.4327614,16.9384431
+922429805,0,True,2400,blok,59.0,3,870.0,"os. Władysława Jagiełły, Poznań",52.4560451,16.9059091
+922425490,3,True,1500,blok,33.0,2,720.0,"ulica Klonowa, Poznań",52.3707344,16.9066774
+922412267,1,False,2100,blok,33.0,2,400.0,"ul. Stefanii Wołynki, Poznań",52.3921165,16.9953788
+874191990,3,False,2300,blok,49.7,2,850.0,"os. Stefana Batorego 26, Poznań",52.4590294,16.9196852
+843028300,1,True,1500,blok,30.0,2,700.0,"os. Rusa, Poznań",52.3878065,16.9884479
+858313674,0,True,2300,kamienica,36.0,1,1.0,"ul. Sokoła, Poznań",52.4270356,16.9122988
+922394591,3,True,2000,blok,29.0,1,370.0,"ul. Czarnieckiego, Wilda, Poznań",52.3930535,16.916839
+752116385,3,True,2295,blok,44.5,2,450.0,"Al. Papieża Jana Pawła II, Luboń, Poznań",52.3461661,16.8773762
+921420749,3,True,2800,blok,57.0,3,360.0,"Poznań, ul. Piątkowska",52.4321162,16.9143275
+922376484,6,True,1600,blok,32.0,1,580.0,"os. Chrobrego, Poznań",52.4493473,16.9140898
+919439688,4,True,2000,blok,35.0,1,550.0,"ul. Kassyusza, Poznań-Jeżyce",52.4124221,16.8944488
+736832262,0,True,2900,blok,47.0,2,750.0,"ul. Jeleniogórska, Poznań",52.3926255,16.8461367
+922365268,6,True,1600,blok,27.0,1,600.0,"ul. Świt, Grunwald, Poznań",52.4092618,16.8775777
+922359174,3,True,1500,blok,30.0,1,520.0,"Os Oświecenia, Poznań",52.3904726,16.9620015
+660106173,1,True,1800,apartamentowiec,32.0,1,530.0,"Poznań, ul. Smolna",52.4219821,16.966929
+922355746,2,True,2000,kamienica,40.3,1,650.0,"Poznań, Rybaki 23",52.40221640000001,16.930476
+749530498,3,True,2700,apartamentowiec,55.0,2,840.0,"ul. Wenecjańska 8, Poznań",52.4088717,16.9405473
+920963003,1,True,1600,blok,30.3,1,127.26,"Poznań, ul. Świętego Wawrzyńca 30",52.4193338,16.8980223
+922331604,2,True,1700,blok,30.0,1,450.0,"ul. Krańcowa, os. Warszawskie, Poznań",52.4117325,16.9788216
+786083040,4,True,3200,apartamentowiec,50.3,2,650.0,"ul. Lwowska, Poznań",52.4006378,16.9641902
+922329992,8,True,1600,blok,41.0,2,800.0,"os. Lecha, Poznań",52.3892535,16.9740056
+735578114,0,True,1900,blok,36.0,1,560.0,"ul. Pogorzelska, Grunwald, Poznań",52.3871393,16.8552329
+689743226,4,True,2400,apartamentowiec,55.0,2,633.0,"ul. Kościelna 33a, Poznań",52.4160116,16.9035972
+781977738,4,True,2300,blok,50.0,2,685.0,"os. Batorego 53, Poznań",52.4614905,16.9231052
+915742082,4,True,1900,blok,30.5,2,500.0,"ul. Romka Strzałkowskiego 6/8, Poznań",52.412715,16.9067679
+922319221,5,True,1700,blok,45.0,2,850.0,"Poznań, ul. Norwida 17",52.4156947,16.9121212
+922317487,0,True,3900,apartamentowiec,50.17,2,811.0,"ul. Dąbrowskiego 58, Poznań",52.4128876,16.9024099
+922307705,1,True,2100,blok,33.0,2,400.0,"Poznań, ul. Stefanii Wołynki",52.3921165,16.9953788
+922293228,3,True,2000,blok,26.9,1,500.0,"ul. Sielawy 23B, Poznań",52.44758789999999,16.9566057
+922304451,0,False,2100,blok,40.0,2,800.0,"ul. Szamotulska, Poznań",52.4103335,16.8834461
+922302993,,True,2200,pozostale,30.0,1,390.0,"Zielony Żurawiniec, Naramowice, Poznań",52.4555162,16.9371901
+922301411,2,True,2000,blok,27.0,1,,"os. Przyjaźni, Poznań",52.4299458,16.9221228
+922291747,2,True,2200,blok,38.0,2,750.0,"Os. Pod Lipami, Poznań",52.4296012,16.9453926
+915699055,4,True,1900,kamienica,32.6,1,350.0,"ulica Fabryczna, Wilda, Poznań",52.3878253,16.9133077
+922289203,3,True,2700,apartamentowiec,62.0,3,850.0,"Poznań, ul. Katowicka",52.3979359,16.9650293
+922286344,4,True,1800,blok,42.0,2,800.0,"Poznań, Wilda",52.3840856,16.9176014
+920993325,4,True,2000,blok,40.0,2,,"Poznań, ul. Gnieźnieńska 11",52.42281,16.979782
+922275545,1,True,3000,kamienica,70.0,3,340.0,"ul. Małeckiego, Poznań, Łazarz",52.3967974,16.9037784
+922275098,1,False,2400,blok,45.0,1,523.0,"Poznań, Górczyn",52.3805449,16.8795487
+793640912,3,True,2900,blok,42.0,2,600.0,"Poznań, ul. Niedziałkowskiego",52.3990518,16.9225695
+856981828,2,True,1550,kamienica,15.0,1,400.0,"ul. Toruńska, Poznań",52.4135404,16.9820791
+908954817,0,True,2200,blok,35.0,2,500.0,"ul. Palacza, Poznań",52.3909421,16.8782397
+859830051,2,True,2850,blok,63.0,2,800.0,"Osiedle Kopernika, Poznań",52.3850984,16.863386
+908945793,1,True,2500,kamienica,85.0,3,255.0,"ul. Wojskowa, Grunwald, Poznań",52.4018186,16.8926149
+860856211,0,True,2600,blok,42.0,2,450.0,"oś. Kopernika, Poznań",52.3850984,16.863386
+922220916,0,True,2500,blok,38.0,2,750.0,"os. Piastowskie, Poznań",52.3923867,16.9479765
+922222102,1,True,1500,blok,25.0,1,400.0,"os. Wł. Jagiełły, Poznań",52.4560451,16.9059091
+922215041,1,True,2400,blok,56.0,2,,"ul. Jasielska, Poznań",52.4439585,16.893797
+875461563,3,True,1700,wolnostojacy,32.0,1,410.0,"ulica Górki 9/24, Poznań",52.38495109999999,16.8912209
+861951638,8,False,1600,blok,35.0,2,800.0,"osiedle Pod Lipami, Poznań",52.4296012,16.9453926
+839298998,11,True,2100,blok,50.0,2,800.0,"Os. Czecha, Poznań",52.3847722,16.9797733
+922169953,0,True,1400,wolnostojacy,30.0,1,1.0,"Górczyn, Poznań",52.3805449,16.8795487
+679344937,3,True,1449,kamienica,30.0,1,400.0,"ul. Wierzbięcice, Poznań",52.3961918,16.921311
+768073325,3,True,2700,blok,39.0,2,1.0,"Poznań, ul. Babimojska",52.3911526,16.8597819
+908424785,1,True,2100,blok,34.11,2,210.0,"ul. Druskienicka, Poznań",52.4458899,16.8885439
+922164392,17,False,2000,kamienica,38.0,2,,"Poznań, Jeżyce",52.432479,16.8515452
+922160984,1,True,1800,blok,53.5,3,960.0,"Os. Czecha 139, Poznań",52.382497,16.9788874
+922161118,0,True,2600,blok,40.0,2,530.0,"ul. Zbożowa, Poznań",52.4257239,16.9231403
+922156651,1,True,2000,blok,27.0,1,320.0,"ul. Modra, Poznań",52.4094788,16.8743117
+915870954,4,True,3300,blok,66.0,3,800.0,"osiedle Stare Żegrze, Poznań",52.3823926,16.9651071
+888216741,2,True,1700,blok,21.0,1,250.0,"Poznań, ul. Nadolnik 8",52.42476079999999,16.9715793
+922130286,3,True,2400,blok,49.0,2,680.0,"ul. Stróżyńskiego 13, Piątkowo, Poznań",52.4555494,16.9038
+922129721,4,True,1950,blok,40.0,2,464.3,"ul. M. Jaroczyńskiego 28, Piątkowo, Poznań",52.4542588,16.9089382
+915521227,3,True,2590,blok,48.3,2,265.0,"ul. świętego Wawrzyńca, Poznań",52.4206398,16.8903485
+915684005,0,True,2700,kamienica,38.0,2,230.0,"Jeżyce, Poznań",52.432479,16.8515452
+922119384,2,True,2600,apartamentowiec,45.7,2,680.0,"ul. Barańczaka, Poznań Jeżyce",52.4157568,16.9031527
+922119141,5,True,2300,blok,27.0,1,330.0,"ul. Świerzawska, Poznań",52.4029635,16.8610345
+922113497,3,True,2990,kamienica,34.0,1,430.0,"ul. Matejki 51, Poznań",52.39894719999999,16.9002382
+922109043,2,True,2200,kamienica,68.0,3,1.0,"ul. Głogowska 128, Poznań",52.388971,16.892499
+922107774,1,True,2200,blok,53.0,2,526.0,"ul. Szamotulska, Poznań",52.4103335,16.8834461
+922103379,2,True,10000,apartamentowiec,187.0,4,5000.0,"City Park, Poznań",52.4003594,16.8935124
+922102139,2,True,2800,apartamentowiec,47.0,2,1028.0,"ul. Wyspiańskiego, Poznań",52.3989199,16.8960473
+922101305,4,True,1600,blok,27.0,1,567.85,"ul. św. Wawrzyńca 29, Poznań",52.4192996,16.8982013
+922100318,1,True,2300,blok,43.0,2,653.0,"ul. Szczepanowskiego, Poznań",52.4185566,16.8975215
+922098394,2,True,2950,apartamentowiec,59.0,2,1150.0,"Grunwald, Poznań",52.3955242,16.8627322
+922093206,3,True,2400,blok,63.0,3,600.0,"Os. Pod lipami, Winogrady, Poznań",52.4296012,16.9453926
+812882114,0,True,1600,kamienica,45.0,1,1.0,"ul. Wierzbięcice, Poznań",52.3961918,16.921311
+922082467,3,True,2500,pozostale,63.4,3,800.0,"ul. Bednarska 6, 60-571 Poznań",52.4131779,16.8891547
+625645642,2,True,2000,blok,40.0,2,400.0,"os. Bajkowe, Poznań",52.4112352,16.8333169
+894051825,0,True,2500,kamienica,61.0,3,450.0,"dzielnica Wilda, Poznań",52.3840856,16.9176014
+922073091,4,True,3500,blok,38.0,2,430.0,"ul. Bożnicza 1, Poznań",52.411887,16.9349822
+840650742,4,True,1500,blok,29.0,1,550.0,"ul. Szczepanowskiego 15, Poznań",52.41743049999999,16.8971198
+914683191,1,True,1700,blok,35.0,1,500.0,"ul. Mścibora 4, Poznań",52.4102472,17.0240205
+891563982,0,True,1800,kamienica,31.0,1,540.0,"ul. Pamiątkowa 11, Wilda, Poznań",52.3869482,16.9149647
+922066863,3,True,2150,blok,35.0,1,300.0,"ul. Wilczak, Poznań",52.430942,16.9521113
+910739900,4,True,1999,apartamentowiec,27.2,1,460.0,"ul. Robocza, Poznań",52.3924379,16.913875
+922066160,4,True,1800,apartamentowiec,36.0,1,640.0,"centrum Garbary, Poznań",52.408363,16.9380651
+922062606,5,True,3400,pozostale,40.3,2,520.0,"ul. Świerzawska 11, Poznań",52.4023929,16.8611109
+735689184,,True,1900,blok,40.0,2,800.0,"Osiedle Bohaterów II Wojny Światowej 35, Poznań",52.3828602,16.9524022
+914006605,2,True,2950,apartamentowiec,60.0,3,700.0,"ul. Towarowa 41, Poznań",52.40448,16.9163272
+630261084,11,True,2600,apartamentowiec,40.0,1,420.0,"Tarasy Warty, Poznań",52.39773690000001,16.949522
+922061071,5,False,1500,blok,48.0,2,650.0,"pl. Wielkopolski, Centrum, Poznań",52.4093634,16.9317991
+554646738,3,True,3000,kamienica,70.0,3,450.0,"Poznań, ul. Hutnicza",52.3778861,16.9100688
+922053193,3,True,3000,apartamentowiec,56.0,3,850.0,"ul. Wojciechowskiego 19/4, Poznań",52.4456849,16.9138535
+908363222,1,False,1300,kamienica,16.0,1,,"Poznań, ulica Jarochowskiego, ŁAZARZ",52.3913229,16.8904848
+922049770,2,True,2700,kamienica,43.0,2,800.0,"Poznań, ul. Libelta 26",52.4120597,16.9199419
+922049028,3,True,2400,blok,66.0,3,,"Ulica Gnieźnieńska 10, Poznań",52.4228856,16.9793393
+922046600,2,True,1600,kamienica,44.0,2,1000.0,"Chwaliszewo, Poznań",52.4088456,16.9433703
+922045886,0,True,1470,kamienica,25.0,1,440.0,"Ul. Dąbrowskiego 56, Poznań",52.412721,16.902603
+922042631,2,True,1890,blok,50.0,2,1040.0,"os. B. Chrobrego 41, Poznań",52.448906,16.9139023
+922038807,1,True,1590,kamienica,43.0,2,480.0,"Poznańska Wilda, Poznań",52.3840856,16.9176014
+922037733,10,True,1750,blok,32.0,1,570.0,"Zwycięstwa 19, Poznań",52.4418055,16.9272434
+922033623,4,True,2000,blok,39.0,2,640.0,"ul. Lazurowa, Poznań",52.4299788,16.9062033
+922027037,2,True,1700,blok,36.0,1,450.0,"Poznań, Blok Atanera",52.4094436,16.8871497
+844821278,0,True,1800,blok,30.0,1,500.0,"Poznań, ul. Chociszewskiego",52.3927636,16.8895791
+912164883,0,True,1500,wolnostojacy,30.0,2,200.0,"ul. K.Żegockiego, Winiary, Poznań",52.4402383,16.9169674
+852069247,2,True,2000,kamienica,28.0,1,100.0,"ul. Zwierzyniecka 24, Poznań",52.4088266,16.9071408
+922010577,2,True,1600,blok,47.0,3,800.0,"Os. Powstań Narodowych, Poznań",52.3898984,16.9558184
+922008446,1,True,2200,kamienica,51.0,2,700.0,"ul. Różana, Wilda, Poznań",52.3976202,16.9242534
+922007320,11,True,2640,apartamentowiec,48.52,2,555.33,"ul. 28 czerwca 1956 r, Poznań",52.3763923,16.9064215
+922004508,1,True,1450,blok,22.0,1,320.0,"ul. Romana Maya 63, Poznań",52.37129179999999,16.9401769
+684877065,2,False,2100,blok,41.4,2,700.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+701668522,2,True,1650,blok,26.0,1,600.0,"ul. Dębiec, Poznań",52.3613845,16.9066105
+616996426,0,True,1650,kamienica,28.0,1,480.0,"Poznań, ul. Chełmońskiego",52.3999742,16.8989233
+636601598,3,False,2300,blok,44.0,2,700.0,"osiedle Piastowskie 4, Poznań",52.3958053,16.9474636
+921971251,1,True,2000,kamienica,35.0,2,300.0,"Poznań, ulica Niegolewskich",52.3958981,16.8979631
+856043972,2,True,2400,blok,46.5,2,480.0,"ulica Raszyńska, Poznań",52.3877547,16.8728525
+921959809,2,True,3000,blok,65.0,4,800.0,"ul. Os. Lecha, Rataje, Poznań",52.3896029,16.9726512
+921946107,0,True,1500,szeregowiec,50.0,3,1500.0,"Poznań, Winogrady",52.4306007,16.9363009
+921943873,1,True,2300,blok,54.0,2,620.0,"Poznań, Karpia",52.443512,16.9576832
+919743709,0,True,1800,blok,31.0,1,430.0,"ul. Rynarzewska, Poznań Górczyn",52.3903664,16.8772477
+885401568,1,True,2500,blok,40.0,2,,Poznań,52.406374,16.9251681
+921931463,0,True,3500,apartamentowiec,55.0,2,680.0,"ul. Daleka, Poznań",52.381921,16.8893121
+758731171,4,True,2700,blok,50.0,3,1000.0,"Osiedle Bohaterów II Wojny Światowej, Poznań",52.3833128,16.9515689
+889849315,-1,True,2400,wolnostojacy,32.0,1,1.0,"Poznań, Ławica",52.4124527,16.8300624
+921913570,4,True,1850,apartamentowiec,19.0,1,350.0,"ul. Serafitek 6, Poznań",52.3975047,16.9463619
+921540096,11,True,2800,blok,48.0,2,768.0,"ul. Bułgarska, Poznań",52.4040128,16.8667076
+915362768,1,True,1550,apartamentowiec,23.0,1,450.0,"ul. Wilczak 20, Poznań",52.43001330000001,16.9526816
+921877370,0,True,1800,blok,50.0,2,600.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+872163331,3,True,2700,apartamentowiec,40.0,2,500.0,"ul. Świerzawska 4, Poznań",52.40322099999999,16.861103
+915437032,1,True,2300,kamienica,54.5,2,700.0,"ul. Czartoria, Poznań",52.4079801,16.9428196
+880453408,5,True,2500,kamienica,68.0,3,321.0,"Poznań, ul. Bolesława Limanowskiego",52.3973425,16.8979997
+921817661,4,False,1450,kamienica,13.0,1,,"ul. Strusia 11, Poznań Łazarz",52.3968312,16.9029068
+921817674,4,False,1850,kamienica,21.0,1,,"ulica Strusia 11, Łazarz, Poznań",52.3968312,16.9029068
+921814041,1,True,2250,kamienica,45.0,2,0.1,"ul. Traugutta, Poznań",52.3853163,16.9179
+921805961,0,True,3200,blok,67.0,3,900.0,Poznań Mogileńska,52.4102799,16.9914419
+921804647,3,True,2400,blok,38.0,2,2400.0,"ul. Arciszewskiego 35G, Poznań",52.38975929999999,16.8840945
+697586004,4,True,2700,blok,53.0,3,1025.0,"os. Przyjaźni, Poznań",52.4299458,16.9221228
+779056356,-1,True,1700,wolnostojacy,38.0,2,1.0,"Dzielnica Ogrody, Poznań",52.4189711,16.8791323
+921798460,3,True,1780,loft,30.0,1,,"Poznań, Stare Miasto",52.4063604,16.925153
+911251053,2,True,2300,kamienica,50.0,2,450.0,"ul. Dąbrowskiego 26, Poznań",52.4114389,16.9087092
+770600830,1,True,2500,blok,50.0,2,500.0,"ul. Klaudyny Potockiej 51, Łazarz, Poznań",52.3895671,16.903907
+911308517,2,True,2400,blok,48.0,2,560.0,"ul. Naramowicka 217, Poznań",52.45288619999999,16.9463055
+886429980,0,True,2300,apartamentowiec,39.0,2,450.0,"ul. Bielicowa, Naramowice, Poznań",52.44639489999999,16.9537315
+921792360,5,True,2500,kamienica,46.0,2,480.0,"ul. Dąbrowskiego 29, Poznań",52.4119988,16.9084008
+833798598,2,True,2600,apartamentowiec,51.0,2,800.0,"ul. Kosińskiego, Poznań",52.3891322,16.9155228
+752104102,0,False,2300,wolnostojacy,52.0,2,200.0,"Podolany, Poznań",52.4563192,16.8862122
+918093351,2,True,2100,apartamentowiec,30.0,1,442.0,"Poznań, ulica Błażeja 9",52.4555499,16.943796
+914392360,2,True,1600,kamienica,28.0,1,1600.0,"Poznań, Centrum Poznania, ok 200 m od Starego Rynku",52.4093634,16.9317991
+921774278,3,False,3250,blok,62.62,3,760.0,"ul. Leśne Skrzaty, Grunwald, Poznań",52.42585219999999,16.7928441
+921774281,2,False,3500,blok,65.03,3,845.0,"ul. Leśne Skrzaty, Poznań",52.406374,16.9251681
+921773087,4,False,3200,pozostale,50.5,2,650.0,"ul. Rolna 6, Wilda, Poznań",52.3860609,16.9167367
+921770624,1,True,2200,blok,38.0,2,570.0,"os. Przyjaźni, Poznań",52.4299458,16.9221228
+868216422,,True,2500,blok,49.0,2,600.0,"ul. Mieszka I, Poznań",52.458783,16.990421
+857008377,1,True,2500,blok,35.0,2,500.0,"os. Armii Krajowej, Rataje, Poznań",52.3800903,16.9514881
+921758694,3,True,1500,blok,26.0,1,450.0,"Poznań, niedaleko pętli Dębiec",52.3727591,16.9034861
+841096748,3,True,2450,blok,53.0,3,735.0,"os. Zwycięstwa, Poznań",52.4409256,16.927833
+921741215,4,True,800,blok,45.0,2,50.0,"Osiedle Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+921734970,4,True,2900,blok,25.0,2,300.0,"ul. Katowicka 2, Poznań",52.4005435,16.9618744
+921725488,4,True,2100,blok,25.0,1,250.0,"ul. Katowicka 2, Poznań",52.4005435,16.9618744
+921723519,-1,False,4900,kamienica,156.0,4,500.0,"ul. Langiewicza, Poznań",52.3871695,16.9191492
+921722671,4,True,2500,blok,32.0,2,300.0,"ul. Katowicka 2, Poznań",52.4005435,16.9618744
+921722386,4,True,3000,blok,59.0,3,800.0,"Osiedle Rzeczypospolitej 102, Poznań",52.38565879999999,16.9509507
+921715641,1,True,1700,blok,25.0,1,430.0,"Oś. Piastowskie, Poznań",52.3923867,16.9479765
+887692350,3,True,2000,pozostale,35.0,1,330.0,"ul. Wybickiego, Wilda, Poznań",52.3903952,16.9194863
+721890264,2,True,2600,blok,48.0,2,650.0,"ul. Dąbrowskiego 80, Poznań",52.4137454,16.8981269
+918301838,0,True,1800,kamienica,33.13,1,,"ul. Wyspiańskiego 15/1, Łazarz, Poznań",52.3983639,16.8982188
+903874640,1,True,2900,blok,49.0,2,500.0,"ul. Wołkowyska 26, Poznań",52.3982637,16.9698584
+681484388,1,True,2500,blok,35.0,2,550.0,"Poznań, ul. Jana Henryka Dąbrowskiego 80",52.4137454,16.8981269
+921681388,9,True,2600,blok,76.9,3,1000.0,"Osiedle Bolesława Śmiałego, Poznań",52.4502392,16.9240843
+921681328,4,True,2800,blok,70.0,3,1000.0,"Naramowice, Poznań",52.44639489999999,16.9537315
+915126555,1,True,2500,blok,64.0,3,800.0,"Os. Zygmunta Starego 13, Poznań",52.45962189999999,16.911669
+915260118,3,True,2400,kamienica,55.0,2,480.0,"ulica Sczaniecka, Łazarz, Poznań",52.3948664,16.8960384
+921675521,1,True,3100,apartamentowiec,56.07,2,680.0,"ul. Kazimierza Wielkiego, Poznań",52.4017827,16.9391556
+901072225,5,True,2400,apartamentowiec,30.0,1,500.0,"Poznań, Zwierzyniecka Street",52.4085739,16.9071966
+851511460,0,True,2650,apartamentowiec,40.0,2,556.76,"ul. Świerzawska, Poznań",52.4029635,16.8610345
+921656561,4,True,2250,apartamentowiec,54.0,2,1210.0,"os. Rzeczypospolitej 1, 61-397 Poznań",52.3880986,16.9472976
+921654494,2,True,1150,blok,9.5,4,1150.0,"ul. Przybyszewskiego, Poznań",52.4093658,16.8887118
+921652863,2,True,2200,blok,56.0,3,610.0,"ul. Bielicowa, Poznań - Naramowice",52.44639489999999,16.9537315
+803338801,1,True,2700,blok,67.0,3,300.0,"ul. Janiny Omańkowskiej 87a, Poznań",52.4568798,16.8948589
+921650783,4,True,2600,blok,45.0,2,670.0,"ul. Jeleniogórska, Poznań",52.3926255,16.8461367
+921629754,1,True,2800,blok,50.0,2,800.0,"ul. Kasprzaka, Poznań",52.39177,16.8940718
+921626310,6,False,3300,apartamentowiec,58.0,3,950.0,"Poznań, ATANER Świerzawska 4",52.40322099999999,16.861103
+921602358,10,True,2300,blok,46.0,2,700.0,"Osiedle Kosmonautów, Poznań",52.438344,16.9404392
+889579857,1,True,1600,kamienica,30.0,1,50.0,"Jeżyce, Poznań",52.432479,16.8515452
+921599591,2,True,2100,blok,58.0,2,650.0,"ul. Bolka 15, Poznań",52.4534336,16.9458069
+921588320,4,True,2500,apartamentowiec,48.0,2,,"ul. Saperska, Poznań",52.3799398,16.9185269
+921576451,1,True,1700,apartamentowiec,32.0,1,490.0,"Os. Polanka II, ul. Katowicka, Poznań",52.39631929999999,16.9653729
+748059741,2,True,2200,kamienica,36.0,1,550.0,"ul. Dąbrowskiego, Poznań",52.4256768,16.8604453
+870474497,6,True,2190,apartamentowiec,38.5,2,,"Poznań, Inflancka 20",52.3922207,16.9685532
+921554578,3,True,5600,kamienica,150.0,4,0.1,"ul. Taczaka, Poznań",52.4054818,16.9222843
+921552139,4,True,1700,kamienica,30.0,1,0.1,"ul. Rolna 19, Poznań",52.38292939999999,16.9172721
+921549892,3,True,2600,apartamentowiec,48.0,2,630.0,"ul. Jeleniogórska, Poznań",52.3926255,16.8461367
+866456083,2,True,2200,blok,43.0,2,550.0,"ul. Karpia, Poznań",52.443512,16.9576832
+784818183,1,True,2650,blok,50.5,2,790.0,"ul. Międzychodzka, Grunwald, Poznań",52.4055787,16.8777025
+921542519,2,True,3250,blok,63.0,3,1000.0,"ul. Czesława Niemena 7, Poznań",52.3963865,16.9603053
+601894220,1,True,2350,apartamentowiec,33.0,1,580.0,"ul. Różana, Wilda, Poznań",52.3976202,16.9242534
+900908205,5,True,3500,kamienica,50.0,2,500.0,"Poznań, ul. Jana Matejki",52.401359,16.8998915
+735705864,4,True,1850,kamienica,27.0,1,560.0,"ul. Garbary, Poznań",52.408363,16.9380651
+921505742,8,True,2000,blok,31.0,1,475.0,"os. Kopernika, Poznań",52.3850984,16.863386
+914726166,2,False,1500,szeregowiec,32.0,1,570.0,"ul. Katowicka, Poznań",52.3979359,16.9650293
+914726033,5,True,1700,blok,36.1,1,572.0,"Centrum, Poznań",52.4093634,16.9317991
+622029202,2,True,1750,blok,16.0,1,,"Poznań, brak informacji o dokładnym adresie",52.406374,16.9251681
+921501944,2,True,2500,kamienica,75.0,3,300.0,"Blisko Dworca Zachodniego, Poznań",52.4018244,16.9102129
+921495516,3,True,3300,apartamentowiec,55.6,2,595.0,"Poznań, ul. Dolna Wilda, kompleks Vilda Park",52.396679,16.9345499
+921486584,0,True,1500,blok,25.0,1,150.0,"ul. Kalinowa, Poznań",52.3675016,16.9031802
+919609263,2,True,2650,kamienica,47.3,2,650.0,"ul. Kościelna, Poznań",52.4156214,16.905643
+915527614,3,False,2200,blok,47.5,3,2200.0,"Os.Kosmonautów, Poznań",52.4369753,16.9414383
+796084122,2,True,2583,apartamentowiec,45.48,3,444.0,"ul. Słupska 45E, Poznań",52.4383831,16.8083772
+921471101,4,True,1800,blok,38.6,2,530.0,"os. Przyjaźni, Winogrady, Poznań",52.4299458,16.9221228
+921369209,1,True,1800,blok,38.0,2,502.0,"ul. Szamotulska, Poznań",52.4103335,16.8834461
+918466718,,False,2400,blok,55.0,2,680.0,"ul. Rycerska, Poznań",52.4019761,16.8758918
+921450172,3,True,2700,apartamentowiec,40.0,2,520.0,"Poznań, ul. Świerzawska 11, GRUNWALD",52.4023929,16.8611109
+726284714,0,True,2500,apartamentowiec,34.0,2,580.0,"ul. Kościelna 17, Poznań",52.4143374,16.904868
+921444006,1,True,3300,apartamentowiec,74.0,3,1525.0,"ul. Św. Czesława 8, Wilda, Poznań",52.39740519999999,16.9233938
+921435176,1,True,2700,apartamentowiec,34.31,2,550.0,"ul. Gąsiorowskich 4, Poznań",52.3991272,16.9070988
+921434107,1,True,2300,blok,32.0,2,500.0,"Rynek Łazarski, Łazarz, Poznań",52.3946923,16.9006895
+675531037,2,True,1990,kamienica,45.0,2,580.0,"ul. Limanowskiego 12, Grunwald - Górn, Poznań",52.3974725,16.8982609
+921431944,9,True,2500,blok,29.0,1,500.0,"ul. Świerzawska, Poznań",52.4029635,16.8610345
+913942668,3,True,1700,blok,33.0,1,700.0,"Poznań, Jasielska",52.4439585,16.893797
+921428877,8,True,2500,blok,40.0,2,600.0,"Piątkowo, Poznań",52.4532369,16.911301
+920068183,0,True,2300,blok,48.0,2,700.0,"ul. Pobiedziska, Poznań",52.4059593,16.9960631
+921425322,4,False,1800,kamienica,32.44,1,550.0,"ul. Matejki i Niegolewskich, Poznań",52.401359,16.8998915
+921412123,1,True,2000,kamienica,22.0,1,375.0,"ulica Matejki, Poznań",52.401359,16.8998915
+889816517,3,True,3500,blok,86.7,3,750.0,Poznań,52.406374,16.9251681
+921404546,2,True,2200,blok,59.0,2,820.0,"ulica Górna Wilda, Poznań",52.3966091,16.9246551
+621242915,1,True,2900,apartamentowiec,82.0,3,600.0,"Okolice Oś Kopernika, Poznań",52.3850984,16.863386
+921403747,1,True,2400,szeregowiec,50.0,2,450.0,"Junikowo, Poznań",52.3860287,16.8421254
+921390452,2,True,1900,kamienica,28.0,1,600.0,"ul. Dąbrowskiego 54, Poznań",52.4123867,16.9030325
+906210117,4,True,2900,apartamentowiec,45.0,2,732.0,"ul. Chwaliszewo/ Estkowskiego, Poznań",52.4097778,16.9437669
+919859600,0,False,1300,pozostale,22.0,1,,"ul. Niegolewskich, Poznań",52.3958981,16.8979631
+909148124,0,True,3600,blok,96.0,4,594.0,"ul. Marcelińska, Poznań",52.4044612,16.878942
+912304290,2,True,1800,blok,41.0,1,422.0,"ul. Grunwaldzka, Poznań",52.384267,16.8375488
+815719175,2,True,1750,kamienica,26.0,1,650.0,"43rd Jackowskiego Street, Poznań",52.4101537,16.8965467
+921372570,,True,1980,kamienica,21.0,1,,"ul. Wierzbięcice, Poznań",52.3961918,16.921311
+785548882,1,False,3200,szeregowiec,75.0,3,0.01,"Daszewice, Poznań",52.2999729,16.9571816
+921360876,3,True,3200,blok,50.0,3,782.0,"ul. Błażeja 9, Poznań",52.4555499,16.943796
+921360385,3,True,2500,blok,36.0,2,482.0,"ulica Błażeja 9, Poznań",52.4555499,16.943796
+921353261,1,True,3500,blok,60.0,3,450.0,"ul. Milczańska, Poznań",52.3909293,16.9655045
+914976211,2,True,500,apartamentowiec,60.0,3,1.0,"ul. Gdyńska, Poznań",52.4565514,16.9842152
+921348472,1,True,1749,apartamentowiec,31.0,2,,"ul. Druskienicka 4, Poznań",52.4424033,16.8871646
+909542842,2,True,2700,kamienica,38.0,2,,"Poznań, ul. Poznańska 50",52.41405289999999,16.9101552
+915494198,1,True,1900,blok,34.0,1,535.0,"ul. Polanka, Poznań",52.3996257,16.9582066
+905551055,3,True,1800,kamienica,24.0,1,490.0,"ul. Świętego Wawrzyńca, Jeżyce, Poznań",52.4206398,16.8903485
+921337883,3,True,2200,szeregowiec,38.0,2,450.0,"Os. Batorego, Piątkowo, Poznań",52.4604254,16.923628
+915411802,1,False,3200,szeregowiec,90.0,4,600.0,"osiedle Strzeszyn Grecki, Poznań",52.4587528,16.8508811
+921331717,4,True,1900,blok,33.6,1,500.0,"ul. Czartoria, Centrum, Poznań",52.4079801,16.9428196
+921329645,0,True,2500,blok,64.0,3,850.0,"os. Chrobrego, Poznań",52.4493473,16.9140898
+896954709,2,True,3000,apartamentowiec,30.0,2,500.0,"Święty Wojciech 27, Poznań",52.412114,16.9324955
+921313863,0,True,3200,blok,66.5,3,920.0,"ul. Mogileńska, Poznań",52.4102799,16.9914419
+921312877,4,True,1800,blok,60.0,3,1000.0,"os. Armii Krajowej, Poznań",52.3800903,16.9514881
+921311823,3,True,2500,blok,47.0,2,725.0,"ul. Bliźniąt, Chartowo, Poznań",52.3929411,16.9839267
+921306555,1,True,1800,blok,28.0,1,557.0,"ul. Serbska 16d, Poznań",52.4285357,16.9543013
+921306342,3,True,6000,apartamentowiec,66.0,3,980.0,"ul. Chwaliszewo, Poznań",52.4088225,16.9422181
+899639244,3,True,2900,blok,54.0,3,647.0,"Osiedle Winiary, Poznań",52.4332801,16.9084419
+921298736,4,True,2000,blok,44.0,2,570.0,"Chartowo, Poznań",52.3873827,16.9820374
+921295379,2,False,3000,kamienica,85.0,2,80.0,"Poznań, centrum Poznania - Wilda",52.4093634,16.9317991
+863017519,9,True,2100,blok,39.0,2,640.0,"ul. Bonin, Poznań",52.4306671,16.9074998
+692345250,6,True,3400,apartamentowiec,48.0,2,750.0,"ul. Mostowa 23, Poznań",52.404452,16.9393509
+901150071,5,True,3200,blok,43.0,2,450.0,"ul. Barańczaka 1A, Poznań",52.41546289999999,16.9046567
+921264810,0,True,4600,apartamentowiec,60.0,2,1700.0,"Wojskowa City Park, Poznań",52.4003594,16.8935124
+921262912,0,True,6000,apartamentowiec,100.0,4,900.0,"Szyperska, Poznań",52.4118257,16.9398604
+757240480,2,False,2200,blok,44.0,2,465.0,"Poznań, ul. Raszyńska 14",52.3889436,16.8741738
+921261654,0,True,7000,apartamentowiec,90.0,3,2500.0,"Grunwald, Wojskowa Street, Poznań",52.4018186,16.8926149
+675705809,0,True,1500,szeregowiec,20.0,1,1.0,"Podolany, Poznań",52.4563192,16.8862122
+921258250,3,True,2500,apartamentowiec,50.0,2,750.0,"ul. Wilczak, Poznań",52.430942,16.9521113
+921262071,2,True,2300,blok,42.0,2,700.0,"ul. Głęboka, Wilda, Poznań",52.3966686,16.9255638
+921252379,1,True,5700,apartamentowiec,62.0,2,940.0,"Poznań, Stare Miasto",52.4063604,16.925153
+921253144,1,True,2300,blok,45.0,2,750.0,"ul. Jeleniogórska, Grunwald, Poznań",52.3926255,16.8461367
+921248887,0,True,1900,blok,48.0,2,690.0,"os. Wichrowe Wzgórze, Poznań",52.4388497,16.9344897
+921248921,4,True,2700,blok,44.0,2,650.0,"osiedle Górczyn, Poznań",52.3805449,16.8795487
+908511404,2,False,1900,blok,44.0,2,700.0,"ul. Klonowa, Dębiec, Poznań",52.3707344,16.9066774
+921246365,0,False,3500,blok,68.0,3,,"ul. Leśnych Skrzatów 21, Poznań",52.4103126,16.8439083
+693822351,4,True,1450,kamienica,20.0,1,200.0,"Stare Miasto, Poznań",52.4063604,16.925153
+921235290,0,True,2500,kamienica,45.0,2,450.0,"ulica Hetmańska, Grunwald, Łazarz, Poznań",52.3883562,16.8995375
+805578482,3,True,2600,blok,62.0,2,730.0,"Poznań, ul. Za Groblą, Stare Miasto",52.4037241,16.9425823
+921228432,11,True,1200,blok,10.0,4,,"os. Oświecenia 57, Rataje, Poznań",52.3904679,16.9581062
+921218156,5,True,3000,blok,50.8,3,700.0,"ul. Katowicka 29, Poznań",52.39889789999999,16.9627455

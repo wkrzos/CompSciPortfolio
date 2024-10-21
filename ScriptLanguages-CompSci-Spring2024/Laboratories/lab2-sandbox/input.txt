@@ -1,0 +1,6 @@
+1 man
+2 man
+3 man
+4 woman
+5 man
+6 woman

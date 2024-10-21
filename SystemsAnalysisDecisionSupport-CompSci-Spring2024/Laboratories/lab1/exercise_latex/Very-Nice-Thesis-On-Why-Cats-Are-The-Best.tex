@@ -1,0 +1,138 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{titling} % Required for the \subtitle command
+\usepackage{amsmath}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\begin{document}
+
+    \addtocounter{page}{-1}
+
+    \begin{titlepage}
+
+        \pagenumbering{gobble}
+
+        \title{
+          Very Nice Thesis On Why Cats Are The Best \\
+          \large But we love doggos too! }
+        
+        \author{Wojciech Krzos}
+        
+        \date{March 3, 2024}
+        
+        \maketitle
+
+    \end{titlepage}
+
+    \pagenumbering{roman} % Use roman numerals for the pages before the main content
+ 
+    \tableofcontents
+    \clearpage
+
+    \pagenumbering{arabic} % Reset page numbering and start with arabic numerals
+
+    \section{Introduction}
+
+        \subsection{Research question}
+
+        \subsection{Cats are fluffy}
+
+        \subsection{Doggos are lovely}
+
+        \subsection{Cats v. Dogs}
+            \begin{description}
+                \item[Cats] Cats are fluffy animals.
+                \item[Dogs] Dogs are loyal creatures.
+            \end{description}
+
+    \section{The Everlasting Cat v. Dog Conflict}
+
+        \subsection{Cat's anatomy}
+
+            \subsubsection*{Head}
+            \subsubsection*{Torso}
+            \subsubsection*{Paws}
+            \subsubsection*{Tail}
+
+        \subsection{Dog's anatomy}
+
+            \subsubsection*{Head}
+            \subsubsection*{Torso}
+            \subsubsection*{Paws}
+            \subsubsection*{Tail}
+
+        \subsection{Combat tactics in the feline wars}
+        Evidence bellow:
+        \href{https://www.youtube.com/watch?v=O7zvj9GHg8M}{Feline Wars}
+
+    \section{Text formatting favoured by the Great Feline Council}
+    
+        Most popular text forms would be:
+        \begin{itemize}
+            \item \textbf{Bold statements}
+            \item \textit{Quiet whispers}
+            \item \underline{Underlined issues}
+            \item \underline{\textit{\textbf{MAX ULTRA HYPER MEGA IMPORTANT MESSAGES}}}
+        \end{itemize}
+
+    \section{Equations}
+
+    \section{Equations}
+
+        To encapsulate the multifaceted nature of feline cuteness, we propose an arbitrary, yet charming equation. Let the cuteness \(C\) of a cat be determined by the following Equation \ref{equation}:
+        
+        \begin{equation}
+            \label{equation}
+            C = \alpha F^\beta + \gamma \frac{E}{100} + \delta \sqrt{P} + \epsilon A^2 + \zeta \log(S + 1)
+        \end{equation}
+        
+        where:
+        
+        \begin{itemize}
+            \item \(F\) represents the fluffiness of the cat in fluff units (fu),
+            \item \(E\) denotes the size of the cat's eyes relative to its face, as a percentage,
+            \item \(P\) stands for the cat's purring intensity, measured in purrs per minute (ppm),
+            \item \(A\) signifies the level of the cat's adventurousness, on a scale from 1 to 10,
+            \item \(S\) is the softness of the cat's fur, measured in soft units (su),
+            \item \(\alpha, \beta, \gamma, \delta, \epsilon, \text{ and } \zeta\) are coefficients that determine the relative impact of each factor on the overall cuteness.
+        \end{itemize}
+        
+        This whimsical equation, while not scientifically rigorous, attempts to quantify the ineffable charm of our feline companions. The coefficients can be adjusted based on personal preference, highlighting the subjective nature of cuteness. And here's an inline equation \( E = mc^2 \).
+
+    \section{Tables (Battle Strategies)}
+    
+        Here is the most popular battle formation of both sides:
+            \begin{table}[h]
+            \centering
+            \caption{Popular Battle Formation}
+            \begin{tabular}{|l|l|l|l|}
+            \hline
+            cat & cat   & werecat      & cat \\ \hline
+                &       &              &     \\ \hline
+            dog & doggo & doggo        & dog \\ \hline
+            \end{tabular}
+            \label{tab:battle_formation} % Added a label for referencing
+            \end{table}
+    
+
+    \section{Images (Of Amazing Cats)}
+    
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.5\linewidth]{kitkuuuu1.jpg}
+            \caption{This cat seems to be very eepy \cite{latex2e}}
+            \label{fig:enter-label}
+        \end{figure}
+    
+        \begin{figure}
+            \centering
+            \includegraphics[width=0.5\linewidth]{kitkuuuuuu2.png}
+            \caption{A cat nearing its final stages of nuclear explosion \cite{knuth:1984}}
+            \label{fig:enter-label}
+        \end{figure}
+
+    \clearpage
+    \bibliographystyle{apalike} % plain for the style used in the example document
+    \bibliography{bibliography}
+        
+\end{document} 

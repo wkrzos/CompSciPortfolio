@@ -1,0 +1,15 @@
+    # ============ VARIABLES ============
+    # $s0 - rows
+    # $s1 - columns
+    #
+    # $s2 - adress matrix size
+	#
+    #
+    # $t0 - adress of a int[i][j]
+    # $t1 - adress of a row
+    #
+    # $t2 - column number
+    # $t3 - row number
+    #
+    # $t4 - base value of the new row
+    # ===================================

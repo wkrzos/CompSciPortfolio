@@ -1,0 +1,38 @@
+\section{Discussion}
+
+\subsection{Figures for the Joined Data}
+The combined data analysis for all cities provides a broader understanding of the factors affecting rental prices across Poland. The correlation heatmap and the regression analysis (linear, random forest, and logarithmic models) shed light on the relationships between various features and rental prices.
+
+\subsubsection{Correlation Heatmap Analysis}
+The combined correlation heatmap for all cities reveals several key relationships:
+\begin{itemize}
+    \item \textbf{Area (m²)} shows a strong positive correlation with \textbf{Price (zł)} (0.58), indicating that larger apartments tend to have higher prices.
+    \item \textbf{Rooms} also correlate positively with \textbf{Price (zł)} (0.52), suggesting that apartments with more rooms are more expensive. Also, apartments with bigger \textbf{Area (m²)} tend to have more \textbf{Rooms}.
+    \item Interestingly, \textbf{Rent (zł)} has a very weak correlation with \textbf{Price (zł)} (0.08), implying that rent is not a strong predictor of the apartment's sale price in this dataset.
+    \item Building types show varying degrees of correlation with \textbf{Price (zł)}, with \textbf{Building Type Loft} having a slight positive correlation (0.04) and \textbf{Building Type Tenement} showing a small negative correlation (-0.07).
+\end{itemize}
+These correlations suggest that while the size and number of rooms are significant factors in determining the price, other factors such as building type also play a role, albeit to a lesser extent.
+
+\subsubsection{Regression Analysis}
+
+The combined regression analysis for all cities highlights the influence of the factors on apartment prices. The logarithmic regression model, in particular, demonstrates the non-linear nature of price increases, effectively capturing the plateau effect at higher price points. These insights can inform future studies and policy decisions regarding housing and urban development in major Polish cities.
+
+\paragraph{Linear Regression Model}
+The linear regression model demonstrates a moderate fit with an \( R^2 \) value of 0.50 and a mean absolute error (MAE) of 562.10 zł. The predicted prices generally follow the trend of actual prices, but the model struggles with higher-priced properties, often underestimating them. This underestimation at higher price points suggests that the linear model may not fully capture the complexities of the data, particularly for more expensive apartments.
+
+\paragraph{Random Forest Regression Model}
+The random forest model shows a similar fit to the linear model with an \( R^2 \) value of 0.50 and an MAE of 548.14 zł. The random forest model captures the overall trend more robustly, but like the linear model, it also struggles with the highest-priced properties. The slight improvement in MAE suggests that the random forest model handles the non-linear aspects of the data slightly better than the linear model.
+
+\paragraph{Logarithmic Regression Model}
+The logarithmic regression model provides the best fit among the three, with an \( R^2 \) value of 0.51 and an MAE of 540.28 zł. This model better captures the plateau effect observed in the data, where prices increase rapidly up to a certain point and then level off. The logarithmic model's performance indicates that it is more suited to capturing the diminishing returns effect in apartment prices as they reach higher values.
+
+Overall, the regression analysis suggests that while linear and random forest models offer reasonable approximations, the logarithmic model provides a more accurate representation of the data's underlying patterns, particularly for higher-priced apartments.
+
+\subsection{Geospatial Analysis}
+\textit{Note: All maps related to this analysis are located in section \ref{appendix}}. The analysis indicates that Gdańsk has three strong peaks in location popularity that are close to each other. Warsaw exhibits multiple peaks, one in the city centre and others in tower block housing estates and the suburbs, showing widespread popularity. 
+
+In Wrocław, flat locations are more spread out from the centre, especially in Krzyki, Fabryczna, and Psie Pole. High popularity is observed near the city centres and main roads.
+
+A similar pattern can be observed in Gdańsk, Poznań, Łódź and Kraków.
+
+It can be observed, that all the cities share one feature of having a central point with the most flats for rent. It is observed to be near the city-center.

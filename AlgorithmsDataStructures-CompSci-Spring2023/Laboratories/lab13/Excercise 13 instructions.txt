@@ -1,0 +1,10 @@
+Bio-informatics, string pattern recognition 
+
+Having a DNA code containing c, g, t, and a, which correspond to proteins in a DNA chain, find the similiarities between the strings. Also, take in consideration all subsets. 
+
+Look OneNote for an example and an explanation (a bit chaotic, but should do)
+
+Search fore:
+Longest Common Subsequence
+Local Alligment
+Mg Smith, Waterman

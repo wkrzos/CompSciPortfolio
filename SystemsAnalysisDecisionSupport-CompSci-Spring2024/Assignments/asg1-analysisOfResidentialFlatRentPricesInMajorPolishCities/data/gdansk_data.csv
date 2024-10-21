@@ -1,0 +1,702 @@
+offerid,floor,furnitured,price,buildingtype,area,rooms,rent,address,latitude,longitude
+665411363,1,True,2750,apartamentowiec,40.0,2,500.0,"ul. Kartuska 420, Gdańsk",54.3454879,18.5348431
+923680140,1,True,2300,wolnostojacy,20.0,1,1.0,"ul. Wolfganga Mozarta, Gdańsk Suchanino",54.3571996,18.6079411
+733945215,1,True,2100,wolnostojacy,35.0,1,180.0,"ul. Jeleniej 21, Gdańsk Oliwa",54.4195056,18.5575914
+923906171,1,True,2000,kamienica,19.0,1,,"ul. Miszewskiego, Wrzeszcz, Gdańsk",54.3782258,18.6148538
+845139293,1,True,3600,kamienica,44.0,2,350.0,"ul. Grunwaldzka, Gdańsk",54.3942031,18.58113
+923888679,3,True,2900,blok,44.5,2,550.0,"Gdańsk, Gdańskie Przymorze",54.4110465,18.598796
+923869221,4,True,1500,blok,20.0,1,500.0,"ul. Długie Ogrody, Gdańsk",54.3478802,18.6655082
+746900242,0,True,3000,apartamentowiec,30.0,1,500.0,"Łąkowa 60, Gdańsk",54.3458677,18.6641381
+884781525,3,True,2700,blok,40.0,2,500.0,Gdańsk ul. Nowatorów,54.3746244,18.4658838
+904291145,4,True,3700,apartamentowiec,65.0,3,,Gdańsk,54.35202520000001,18.6466384
+921995716,6,True,3990,apartamentowiec,44.6,2,500.0,"ul. Hemara, Garnizon, Gdańsk",54.3825505,18.5916807
+808267643,3,True,2250,blok,47.0,2,600.0,"Siedlce, Gdańsk",54.3470942,18.6171409
+922220653,1,True,3900,kamienica,79.0,3,800.0,"ul. Partyzantów, Gdańsk-Wrzeszcz",54.3788553,18.5953939
+685180301,4,True,3500,blok,42.0,2,450.0,"ul. Bolesława Leśmiana, Garnizon, Gdańsk Wrzeszcz",54.3826406,18.5899034
+920021397,2,True,2700,blok,40.0,2,350.0,"ul. Jagiełły, Gdańsk",54.3021348,18.6143719
+922035348,1,True,3300,apartamentowiec,40.0,2,500.0,"ul. Rakoczego, Gdańsk osiedle Morenova",54.3494717,18.5939777
+923838253,0,True,1500,blok,54.0,3,,"ul. Kurpińskiego, Suchanino, Gdańsk",54.353242,18.6006712
+762455629,2,True,2490,blok,30.0,1,230.0,"Lawendowe Wzgórze, Gdańsk Jasień",54.3287623,18.5637772
+707703114,0,True,3390,blok,25.0,1,200.0,"ul. Kliniczna, Gdańsk Wrzeszcz",54.3758297,18.626691
+694811730,1,True,2800,apartamentowiec,32.0,2,595.0,"ul. Starowiejska, Nowa Letnica, Gdańsk",54.395736,18.6463432
+923829921,3,True,3000,blok,44.2,2,,"ul. Lema, Gdańsk",54.3486546,18.5912572
+830444965,5,True,6000,apartamentowiec,85.0,4,1000.0,"osiedle Latarników, ul. Letnicka, Gdańsk",54.39932,18.6459851
+916321695,1,True,2500,blok,28.0,2,400.0,Gdańsk Przymorze,54.4110465,18.598796
+619473080,1,True,2500,blok,33.0,2,465.0,"Łostowice, Gdańsk",54.3124404,18.5955531
+923002995,4,True,5600,apartamentowiec,65.0,3,900.0,"Gdańsk, ul. Letnicka 10",54.4026323,18.6491057
+923818392,4,True,2300,blok,30.0,2,600.0,"ul. mjr Słabego, Matarnia, Gdańsk",54.371882,18.5246058
+922066605,,True,1900,kamienica,15.0,1,,"ul. Seredyńskiego, Gdańsk",54.3494059,18.6662911
+763717630,2,True,2850,blok,46.0,2,600.0,"ul. Wielkopolska 48, Gdańsk",54.3119606,18.5884795
+623987713,5,True,3200,apartamentowiec,51.0,2,800.0,"ul. Partyzantów 8, Gdańsk Wrzeszcz",54.3770192,18.6053253
+922991290,2,True,2800,blok,42.54,2,350.0,"ul. Wąsika 4, Gdańsk",54.35202520000001,18.6466384
+669649223,4,True,3500,kamienica,56.0,3,517.0,"Ul. Seredyńskiego, Gdańsk",54.3494059,18.6662911
+922046960,,True,3100,blok,50.0,3,780.0,"ulica Piastowska, Przymorze, Gdańsk",54.4158449,18.5851607
+922042452,,True,2700,apartamentowiec,20.0,1,300.0,"osiedle Zajezdnia, Wrzeszcz, Gdańsk",54.3933569,18.6194322
+647566387,2,True,2850,blok,52.0,2,520.0,"ul. Guderskiego 62, Gdańsk Jasień Północ, Rębowo",54.3397877,18.5482228
+913654768,,True,2600,apartamentowiec,37.0,2,398.0,"ul. Hokejowa, Gdańsk",54.3064699,18.5969504
+923806955,6,True,3600,blok,61.7,3,830.0,"ul. Kombatantów 1, Gdańsk Zaspa (Rozstaje)",54.3961657,18.6110236
+905465726,3,True,2500,blok,40.0,2,500.0,"ul. Wielkopolska, Gdańsk",54.3121867,18.5900551
+922737413,0,True,2600,wolnostojacy,40.0,2,,Gdańsk Siedlce,54.3470942,18.6171409
+842723517,3,True,5900,blok,79.5,4,1100.0,"Osiedle Kartuska, Gdańsk",54.3441318,18.547453
+915741808,8,True,2900,blok,36.6,2,650.0,"Centrum Wrzeszcza, Gdańsk",54.3754013,18.6091245
+689758911,1,True,3600,apartamentowiec,43.0,2,550.0,"Zajezdnia Wrzeszcz, Gdańsk",54.39015449999999,18.5787965
+923796878,11,True,3500,apartamentowiec,55.0,2,550.0,"ul. Aleja Rzeczypospolitej, Gdańsk",54.3962594,18.5990906
+923796367,2,True,3300,apartamentowiec,64.0,3,700.0,"ul. Cedrowa 27, Gdańsk",54.3383052,18.5861762
+923791362,1,True,180,apartamentowiec,38.0,2,1.0,"ul. Sucha 37, Gdańsk",54.3952058,18.6430091
+682868979,8,True,2200,blok,22.0,1,411.0,"ul. Bora-Komorowskiego 87a, Gdańsk",54.40869009999999,18.5850176
+923780685,4,True,210,kamienica,23.0,1,,"ul. Stefani Sempołowskiej, Gdańsk",54.3428579,18.6638868
+803253209,5,True,3000,apartamentowiec,33.0,2,600.0,"ul. Toruńska, Gdańsk",54.3433393,18.6514797
+915279913,,True,2500,apartamentowiec,34.0,1,450.0,"Gdańsk, Jasień",54.3397877,18.5482228
+847267470,0,True,2500,blok,45.0,2,550.0,"Piecki-Migowo, Gdańsk",54.3575975,18.5786542
+923771637,1,True,2200,blok,33.0,2,660.0,"ul. Piastowska, Gdańsk",54.4157761,18.5845554
+922912822,3,False,2250,blok,48.0,2,780.0,"Orunia Górna, Gdańsk",54.3241896,18.615913
+923756611,2,True,2600,blok,45.0,2,350.0,"ul. Myśliwska, Gdańsk",54.3483645,18.5618468
+922457483,8,True,2500,blok,48.2,2,2500.0,"ul. Z. Burzyńskiego 8E, Gdańsk-Zaspa",54.3953208,18.6072848
+704105912,3,True,2550,blok,25.0,1,800.0,"ul. Strzelecka 6, Gdańsk",54.352796,18.6384461
+923737197,7,True,2000,blok,26.0,1,500.0,"Gdańsk, Centrum Przymorza - Żabianki",54.4190113,18.5754585
+915417819,3,True,2600,blok,41.0,2,550.0,"Gdańsk, ul. Myśliwskie Wzgórze",54.3482853,18.5630968
+803526010,3,True,4500,apartamentowiec,71.0,4,850.0,"ul. Myśliwska, Gdańsk",54.3483645,18.5618468
+855205622,4,True,3200,blok,45.0,2,800.0,"ul. Jagiellońska, Gdańsk Przymorze",54.4132168,18.5933639
+923677082,4,False,2500,blok,41.0,2,500.0,"Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+675895964,0,True,2800,blok,59.0,3,700.0,"ul. Storczykowa 24A, Gdańsk",54.3550865,18.5073457
+752646110,2,True,3000,blok,43.6,2,1.0,"ul. Broniewskiego, Gdańsk Brzeźno",54.4045006,18.6382826
+923289178,2,True,2800,kamienica,58.0,2,,"ul. Kościuszki, Gdańsk",54.3880698,18.6166023
+923711699,,True,3300,kamienica,35.0,2,,"blisko centrum, Gdańsk",54.4013081,18.6659608
+885713496,3,True,2250,blok,38.0,2,390.0,"Zaborni/Ujeścisko, Gdańsk",54.33841109999999,18.5722239
+918984065,4,True,300,apartamentowiec,36.0,1,,"Wrzeszcz, Gdańsk",54.3754013,18.6091245
+917280786,0,True,2800,apartamentowiec,35.0,2,550.0,"Orunia Górna, Gdańsk",54.3241896,18.615913
+853941769,1,True,2300,blok,28.0,1,350.0,"ul. Lenartowicza 10, Gdańsk",54.35736199999999,18.68714
+789143282,3,True,2000,kamienica,15.0,1,600.0,"ul. Seredyńskiego, Gdańsk",54.3494059,18.6662911
+698176631,4,True,2800,blok,38.0,2,500.0,"ul. Eugeniusza Węgrzyna 10, Gdańsk - Ujeścisko/Jasień",54.33460969999999,18.5679795
+844000345,2,True,3300,blok,63.0,3,800.0,Gdańsk,54.35202520000001,18.6466384
+923663573,2,True,3000,blok,36.0,2,550.0,"ul. Starowiejska, Gdańsk",54.3953089,18.6466291
+777793037,5,True,1600,blok,20.0,1,600.0,"ul. Mazurska, Brzeźno, Gdańsk",54.408029,18.6350449
+923554972,6,True,1600,blok,25.0,1,,"ul. Wita Stwosza, Oliwa, Gdańsk",54.3978648,18.5697205
+860182798,0,True,4000,wolnostojacy,80.0,3,1.0,"Gdańsk, Strzyża",54.3865467,18.5836153
+777668803,,True,2650,loft,28.0,1,500.0,"ul. Wałowa, Gdańsk",54.3584168,18.6546345
+910440642,2,True,3200,blok,63.7,3,,"ul. Przytulna, Gdańsk",54.3507748,18.5331403
+922323010,0,True,5000,apartamentowiec,58.8,3,1100.0,"Osiedle Moderna Oliwski Park, Gdańsk",54.4112209,18.5620805
+890606640,2,True,3500,blok,45.0,2,700.0,"Nadmorski Dwór, Gdańsk Brzeźno",54.4062,18.6214574
+781234696,4,True,3700,apartamentowiec,65.0,3,313.0,"ul. Przemyska, Gdańsk",54.3281748,18.5933471
+788355900,4,True,2100,blok,28.0,1,490.0,Gdańsk Śródmieście,54.3480121,18.6564851
+923622252,3,True,3200,blok,50.0,2,700.0,"ul. Sochaczewska, Wrzeszcz, Gdańsk",54.3843784,18.6246156
+613515376,0,True,4100,apartamentowiec,60.0,3,1200.0,"ul. Chodkiewicza, Gdańsk, dzielnica Brzeźno",54.407593,18.6325201
+836468118,4,True,6900,apartamentowiec,95.0,4,1200.0,"Porto, Gdańsk",54.35202520000001,18.6466384
+923595249,3,True,2500,kamienica,60.0,2,1000.0,"ul. Lilly Wenedy 18, Gdańsk Wrzeszcz",54.3857637,18.6171561
+686708268,5,True,2800,apartamentowiec,39.5,1,250.0,"Akademia Muzyczna, Gdańsk",54.3461922,18.6635292
+923593251,4,True,2600,blok,38.0,2,400.0,"Lawendowe Wzgórze, Gdańsk Jasień",54.3287623,18.5637772
+923585160,5,True,1300,blok,84.0,4,1200.0,"ulica Startowa, Gdańsk Zaspa",54.3952396,18.594674
+918292786,2,True,2800,apartamentowiec,70.0,3,700.0,"ul. Serdeczna 1B, Gdańsk",54.351433,18.5304609
+916319757,5,True,5600,apartamentowiec,68.0,3,,"Zajezdni Wrzeszcz, Gdańsk",54.3938606,18.6181393
+916319729,5,False,2050,pozostale,31.0,1,,"ul. Pilotów 14E, Gdańsk Zaspa",54.394025,18.590135
+923574639,6,True,3000,blok,38.0,3,705.0,"ul. Obrońców Wybrzeża 8C, Gdańsk Przymorze",54.408908,18.5990923
+923563993,0,True,2600,blok,48.0,2,550.0,"ul. Nieborowska 48, Chełm, Gdańsk",54.3307063,18.6016359
+922067147,6,True,3990,apartamentowiec,44.6,2,620.0,"ul. Hemara, Gdańsk",54.3825505,18.5916807
+923559433,2,True,2500,apartamentowiec,34.0,1,450.0,"ZASPA, Gdańsk",54.3964051,18.6017672
+865739946,2,True,3200,kamienica,40.0,2,310.0,"ul. Kościuszki 65, Dolny Wrzeszcz, Gdańsk",54.38798509999999,18.6155717
+810622413,4,True,2700,blok,38.0,2,500.0,"ul. Węgrzyna 14, Gdańsk",54.3345981,18.5691313
+923537104,0,True,2000,blok,35.0,1,520.0,"ul. Leszczynowa, Gdańsk Jasin",54.35202520000001,18.6466384
+923509101,1,True,3300,blok,63.0,3,800.0,"Gdańsk, Morena",54.352628,18.5928151
+789097193,2,True,3300,apartamentowiec,43.0,2,670.0,"ul. Chmielna 73, Gdańsk",54.3431729,18.65603
+916942542,1,False,2200,kamienica,42.0,2,700.0,"ul. Do Studzienki, Gdańsk",54.3715273,18.6108184
+913408773,1,True,260,blok,27.0,1,1.0,"ul. Elektryków, Gdańsk",54.364642,18.6482819
+871074315,1,True,2800,apartamentowiec,35.0,1,500.0,"ul. Śląska 12, Gdańsk Oliwa",54.4062832,18.5768217
+864349447,2,True,2500,blok,43.0,2,340.0,"ul. Hokejowa, Gdańsk",54.3064699,18.5969504
+922226978,1,True,2800,blok,38.0,2,600.0,"ul. Czereśniowa 34C, Gdańsk",54.33668729999999,18.5805731
+677421360,1,True,3200,kamienica,50.0,2,600.0,"Gdańsk, ul. Kochanowskiego",54.3866508,18.6309058
+709846441,5,True,1950,blok,20.0,1,450.0,"Gdańsk Siedlce, ul. Kartuska, Gdańsk",54.3441318,18.547453
+770634442,2,True,2350,kamienica,29.0,1,550.0,"ul. Partyzantów, Wrzeszcz, Gdańsk",54.3788553,18.5953939
+923479024,1,True,2800,kamienica,25.0,1,470.0,"ul. Leczkowa, Wrzeszcz, Gdańsk",54.3783381,18.6199831
+923473877,1,False,2300,blok,41.0,2,,"ul. Czereśniowa, Gdańsk",54.3375912,18.5757089
+916894447,4,True,3600,blok,55.0,2,500.0,Gdańsk,54.35202520000001,18.6466384
+923069459,1,True,2100,wolnostojacy,16.0,1,350.0,Gdańsk Przymorze,54.4110465,18.598796
+923464420,1,True,4000,blok,73.0,3,1200.0,"ul. Myśliwska 26c, Morena, Gdańsk",54.35098660000001,18.5805307
+879640986,1,True,4000,kamienica,66.0,3,890.0,"ul. Ogarna 31/32, Gdańsk",54.3477899,18.6511101
+923460844,1,True,2900,kamienica,43.0,3,888.0,"ul. Twarda, Gdańsk",54.3761434,18.6343523
+779119340,0,True,1900,blok,36.0,1,550.0,"ul. Skarpowa, Gdańsk",54.3531821,18.6224841
+923455329,8,True,2400,blok,30.0,1,,"ul. Lema 13, Morena, Gdańsk",54.3494417,18.5930441
+923363244,4,True,2800,blok,58.0,2,790.0,"ul. Pilotów, Zaspa, Gdańsk",54.393837,18.5919647
+923449070,1,True,2400,wolnostojacy,18.0,1,375.0,"Gdańsk, Gdańska Oliwa",54.4046859,18.5318617
+923448286,9,True,2000,pozostale,28.5,1,,"Gdańsk, ul. Bitwy Oliwskiej 15",54.4219777,18.5668747
+923447212,4,True,2000,blok,28.0,1,540.0,"Gdańsk, ul. Hilarego Koprowskiego 7",54.31148109999999,18.5752414
+900578454,1,True,2600,blok,41.0,2,500.0,"ul. Czermińskiego, Gdańsk Jasień",54.3235739,18.5560224
+923443979,4,True,2900,blok,45.0,2,,"ul. Przytulna, Gdańsk, Kiełpinek",54.3552481,18.5287837
+904295484,8,True,2150,blok,30.0,1,500.0,"ul. Piastowska 90, Gdańsk Przymorze",54.416098,18.592229
+923439593,3,True,3500,blok,45.0,2,,"ul. Osińskiego, Gdańsk, Kiełpinek",54.35202520000001,18.6466384
+923436467,,True,2650,kamienica,28.0,1,220.0,"ul. Partyzantów 17, Gdańsk",54.3781759,18.6033414
+739779342,5,True,2800,apartamentowiec,37.0,2,600.0,"ul. Rakoczego, Gdańsk",54.3577837,18.5844284
+901038812,1,True,1897,blok,35.0,1,500.0,"ul. Jana Kielasa, Gdańsk",54.3050473,18.5851519
+640683645,1,True,2000,blok,42.0,2,550.0,"Gdańsk, Zakoniczyn",54.3224506,18.5767633
+656413929,3,True,3000,blok,44.0,2,700.0,"ul. Noskowskiego, Gdańsk",54.3539881,18.6124513
+664930040,3,True,3000,apartamentowiec,44.0,2,700.0,"ul. Noskowskiego, Gdańsk",54.3539881,18.6124513
+923411076,3,True,2000,blok,30.0,1,360.0,"ul. Jaworzniaków 20, Gdańsk, dzielnica Ujeścisko-Łostowice",54.3174576,18.5719559
+806642778,7,True,2800,apartamentowiec,37.0,2,570.0,"osiedle Nowa Letnica, Gdańsk",54.395736,18.6463432
+808287834,0,True,2600,blok,45.0,2,600.0,"ul. Jabłoniowa, Jasień, Gdańsk",54.3279009,18.5515901
+807675928,3,True,2600,blok,40.0,2,400.0,"ul. Niepołomicka 24, Gdańsk",54.3133365,18.5955861
+839766341,5,True,2300,blok,31.0,1,400.0,"ul. Pomorska, Gdańsk-Żabianka",54.417611,18.5768001
+916806113,1,False,4200,kamienica,76.0,3,700.0,"ul. Jana Kochanowskiego, Wrzeszcz, Gdańsk",54.3866508,18.6309058
+840833771,0,True,1750,blok,25.0,1,550.0,"ul. Góralska, Niedźwiednik, Gdańsk",54.378486,18.5634184
+923379266,1,True,2550,blok,45.0,2,400.0,"ul. Piotrkowska, Gdańsk Południe",54.3283961,18.5774275
+923378561,3,True,4000,apartamentowiec,80.0,3,,"ul. Partyzantów, Garnizon, Wrzeszcz, Gdańsk",54.382822,18.5908718
+923376165,3,True,6500,apartamentowiec,102.0,4,1300.0,"Gdańsk, Morena",54.352628,18.5928151
+920200549,3,True,3500,blok,40.0,2,500.0,"ul. Powstańców Wielkopolskich 5, 80-457 Gdańsk",54.4012211,18.6112639
+923365862,1,True,2500,blok,49.0,2,600.0,"ul. Królewskie Wzgórze, Morena, Gdańsk",54.3498435,18.5694261
+923363470,0,True,7000,blok,80.58,4,1300.0,"ul. Gdańska, Brzeźno, Gdańsk",54.402426,18.6297723
+894442802,1,True,3300,apartamentowiec,45.53,2,550.0,"Gdańsk, dzielnica Śródmieście",54.34782320000001,18.651036
+894442681,2,True,3000,blok,44.5,2,500.0,"Osiedle Kartuska 26, Gdańsk",54.3495028,18.6327568
+923362417,1,True,2700,blok,43.15,2,400.0,"Osiedle Ogrody Diany, Osowa, Gdańsk",54.4208611,18.4714241
+923354312,4,True,2800,blok,45.0,2,,"ul. Jagiellońska 42, Gdańsk Przymorze",54.4127735,18.6008168
+854026227,1,True,2900,blok,56.0,2,550.0,"ulica Bergiela, Zakoniczyn, Gdańsk",54.3177666,18.5822243
+923345675,1,True,2800,kamienica,23.0,2,500.0,"ul. Waryńskiego 13, Wrzeszcz, Gdańsk",54.3803954,18.6135447
+923335489,3,False,2800,blok,44.0,2,680.0,"ul. Jagiellońska, Gdańsk",54.4132168,18.5933639
+913268062,1,True,350,blok,36.0,2,,Gdańsk Żabianka/Sopot Jelitkowo,54.4190113,18.5754585
+923329607,1,True,2500,kamienica,20.0,1,400.0,"ul. Waryńskiego 13, Gdańsk Wrzeszcz",54.3803954,18.6135447
+923328560,2,True,3070,kamienica,63.0,2,330.0,"ul. Legionów, Wrzeszcz, Gdańsk",54.3861297,18.6112402
+923328712,4,True,2870,blok,49.0,2,600.0,"ul. Myśliwskie Wzgórze, Gdańsk",54.3482853,18.5630968
+923328642,6,True,2550,blok,37.0,2,,"ul. Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+923318336,0,True,2600,apartamentowiec,42.43,2,,"Jasień, Gdańsk",54.3397877,18.5482228
+923316652,1,True,2800,apartamentowiec,35.0,1,500.0,"ul. Śląska, Gdańsk",54.4063054,18.5809413
+923313740,2,True,4400,blok,64.0,4,1200.0,ul. Powstańców Warszawskich 66A Gdańsk Suchanino,54.3550341,18.6148732
+920317895,3,True,3300,apartamentowiec,47.0,2,700.0,"Osiedle Zajezdnia, Gdańsk",54.345306,18.6765716
+923309279,2,True,3400,apartamentowiec,51.0,2,700.0,"al. Jana Pawła II, Gdańsk Zaspa",54.3969928,18.6045038
+923301473,8,False,3500,apartamentowiec,45.0,2,,"ul. Wałowa, Osiedle Bastion Wałowa, Gdańsk Śródmieście",54.35889779999999,18.6532124
+916163025,1,True,3550,apartamentowiec,40.0,2,,"ul. Stachury 2, Gdańsk Wrzeszcz, osiedle Garnizon",54.382822,18.5908718
+923302086,3,False,3500,wolnostojacy,50.0,3,,"ul. Elizy Orzeszkowej, Gdańsk Aniołki, Gdańsk",54.3638964,18.6335099
+923292039,0,False,2850,kamienica,34.0,2,,"ul. Fundacyjna, Gdańsk",54.3393678,18.6544889
+923292044,9,True,2820,blok,30.8,2,550.0,"ul. Szara 7, Gdańsk",54.34874569999999,18.6101599
+923292056,2,True,4670,blok,72.0,3,750.0,"ul. Lelewela, Gdańsk",54.3836916,18.6111
+923290636,0,False,2850,kamienica,34.0,2,,"ul. Fundacyjna, Dolne Miasto, Gdańsk",54.3393678,18.6544889
+923288899,1,True,2400,blok,54.0,2,550.0,"Osowa, Gdańsk",54.4186646,18.4793815
+923289025,2,False,3300,blok,64.7,3,650.0,"osiedle Biotura, Gdańsk",54.3130239,18.5958458
+923292073,1,True,2670,kamienica,25.0,1,470.0,"ul. Leczkowa, Gdańsk",54.3783381,18.6199831
+923289576,2,True,3200,blok,38.0,2,,"ul. Jana i Macieja Kilarskich, Gdańsk",54.4158391,18.5643739
+923289620,3,True,2400,kamienica,23.0,1,350.0,"ul. Wróbla, Dolne Miasto, Gdańsk",54.3404986,18.6577309
+923283925,3,True,2650,kamienica,21.0,1,220.0,"ul. Partyzantów 17, Gdańsk",54.3781759,18.6033414
+923276603,2,True,3600,apartamentowiec,53.0,2,650.0,"Gdańsk, osiedle Nadmorski Dwór",54.4062,18.6214574
+923269040,1,True,2300,blok,64.0,2,700.0,"Orunia Górna, Gdańsk",54.3241896,18.615913
+737691575,1,True,2250,blok,19.5,1,,"al. Rzeczypospolitej 23, Gdańsk",54.3917222,18.6071756
+818929350,4,True,3193,blok,39.86,2,,"al. Rzeczypospolitej 23, Gdańsk",54.3917222,18.6071756
+923263831,0,True,11000,apartamentowiec,105.0,3,1800.0,"ul. Opacka, Gdańsk",54.4126697,18.5598886
+737278361,4,True,3192,blok,40.0,2,,"al. Rzeczypospolitej 23, Gdańsk",54.3917222,18.6071756
+912232637,0,True,3577.32,apartamentowiec,48.88,2,,"ul. Kilińskiego 1, Gdańsk",54.3824763,18.6070859
+682252769,11,True,3100,apartamentowiec,38.0,2,447.0,"Albatross Towers, Gdańsk Przymorze",54.4020214,18.5906669
+911272179,1,False,2689.45,apartamentowiec,48.19,2,,"dzielnica Ujeścisko - Łostowice, Gdańsk",54.3302454,18.5903984
+834754539,2,True,2400,blok,31.0,1,230.0,"ul. Kołodzieja, Gdańsk",54.334461,18.5815693
+844875630,7,True,2300,apartamentowiec,45.0,2,600.0,"ul. Obrońców Wybrzeża 25, Gdańsk Przymorze",54.4106189,18.6023801
+923243971,0,True,3500,blok,31.0,2,,"Morena, Gdańsk",54.352628,18.5928151
+923242544,0,True,4400,blok,66.0,4,1200.0,"ulica Noskowskiego 5D, Gdańsk, Suchanino",54.3542265,18.6134648
+879517486,2,True,3300,blok,52.0,3,600.0,"ulica Niepołomicka, Gdańsk",54.3102567,18.5987694
+761372239,8,True,2400,blok,48.0,3,1000.0,"ul. Pomorska 86b, Gdańsk Żabianka",54.4183594,18.5808578
+814746124,2,True,2400,blok,43.0,2,400.0,"ul. Zygmunta Rumla, Gdańsk",54.323621,18.6138949
+894994760,4,True,2000,blok,20.0,1,600.0,"Przymorze, Gdańsk",54.4110465,18.598796
+834701288,3,True,2400,blok,39.0,2,500.0,"ulica Wielkopolska, Gdańsk Łostowice",54.3121867,18.5900551
+627859346,3,True,4000,blok,43.0,2,,"ul. Piastowska 96, Przymorze, Gdańsk",54.4151148,18.5916612
+922419437,2,True,1950,blok,25.0,1,,"ul. Guderskiego, Gdańsk",54.3198958,18.5626349
+868278688,8,True,2500,blok,37.0,2,570.0,"ul. Spadzista 10, Gdańsk",54.3420697,18.6412061
+923202436,6,True,3290,apartamentowiec,34.0,2,580.0,"Zaspa, Gdańsk",54.3964051,18.6017672
+923202667,4,True,2700,blok,28.0,1,400.0,"Leśna Polana, Morena, Gdańsk",54.43588039999999,18.5127233
+923199987,5,True,3490,apartamentowiec,38.0,2,670.0,"ul. Grudziądzka, Gdańsk",54.394516,18.6196831
+671300463,5,True,2900,apartamentowiec,33.0,2,600.0,"Zajezdnia Wrzeszcz, Gdańsk",54.39015449999999,18.5787965
+923178868,10,True,350,blok,40.0,2,,"Żabianka, Gdańsk",54.4190113,18.5754585
+923176542,3,True,2200,blok,27.0,1,370.0,"Przymorze, Gdańsk",54.4110465,18.598796
+923173059,1,True,2190,kamienica,19.0,1,300.0,"ul. Kozia, Stare Miasto, Gdańsk",54.3508586,18.6511676
+824064981,1,True,2800,blok,42.01,2,350.0,"ul. Homera, Gdańsk-Osowa",54.4189204,18.4844787
+923146572,4,True,2800,blok,63.5,3,,"ulica Zamiejska 38, Gdańsk Chełm",54.3350502,18.6272942
+892380658,7,True,4500,blok,68.0,3,920.0,"ul. Powstańców Warszawskich, Gdańsk",54.3562666,18.6207493
+923128157,1,False,4000,pozostale,72.0,3,750.0,"Gdańsk Jasień, osiedle Leszczynowy Park",54.3332495,18.5572925
+775629219,1,True,3200,apartamentowiec,47.0,2,400.0,"Gdańsk, dzielnica Południe",54.35202520000001,18.6466384
+923124706,2,True,2500,blok,38.0,2,456.0,"Gdańsk, ul. Hokejowa",54.3064699,18.5969504
+923124408,1,True,3300,blok,55.07,3,465.0,"ulica Kazimierza Wielkiego, Gdańsk",54.3018374,18.6114262
+923116838,2,False,3500,blok,52.84,3,400.0,"Aleja Havla, Gdańsk",54.3297661,18.5976609
+923111930,4,True,2100,blok,25.0,1,400.0,"Gdańsk, Lawendowe Wzgórze 6",54.3294055,18.5683547
+859086286,6,True,2400,blok,26.0,1,600.0,"ul. Struga 6, Gdańsk, Siedlce",54.35202520000001,18.6466384
+923106338,3,True,2300,blok,32.0,1,350.0,"Gdańsk, ul. Anny Jagiellonki",54.3278198,18.6050592
+923101969,1,True,3500,blok,64.0,3,1100.0,"ul. Antoniego Suchanka 16, Gdańsk Chełm",54.3345075,18.6235093
+923090711,0,True,2500,blok,28.0,1,550.0,"ul. Jagiellońska 42B, Gdańsk",54.4128616,18.6015435
+923073297,1,True,3900,apartamentowiec,48.0,2,,"ulica Bursztynowa, Jelitkowo, Gdańsk",54.4244496,18.5901694
+923072337,1,True,3800,apartamentowiec,61.0,3,1000.0,"ul. Angielska Grobla, Gdańsk Śródmieście",54.3506474,18.6652889
+889317649,3,True,2400,blok,25.0,1,300.0,"ul. Jabłoniowa 18B, Gdańsk",54.3323926,18.5655527
+664643211,6,True,3150,blok,42.0,2,850.0,"Obrońców Wybrzeża 3D, Gdańsk",54.4109042,18.5947228
+700809770,2,True,3400,kamienica,70.0,4,470.0,"ul. Grunwaldzka, Gdańsk Wrzeszcz",54.3852422,18.5942576
+923048928,1,True,2000,kamienica,30.0,1,500.0,Gdańsk Strzyża,54.3865467,18.5836153
+923023282,1,True,2400,blok,42.0,2,400.0,"Gdańsk, osiedle Vivaldiego (Grubby)",54.30587149999999,18.5948304
+877755463,1,True,950,szeregowiec,10.0,4,15.0,"ul. Raciborskiego, Piecki-Migowo, Gdańsk",54.3637688,18.596735
+922994148,1,True,5217.02,apartamentowiec,71.86,3,840.76,"ulica Kilińskiego 1, Gdańsk-Wrzeszcz",54.3824763,18.6070859
+922994087,11,False,3300,apartamentowiec,50.0,2,1000.0,Gdańsk Wrzeszcz,54.3754013,18.6091245
+922994202,0,True,2577.25,blok,41.75,2,430.03,"ul. Mariana Kołodzieja 56A, Gdańsk",54.3349993,18.5824865
+922992347,2,True,2400,blok,27.0,1,390.0,Gdańsk Stogi,54.3812546,18.6984749
+922991246,11,True,270,blok,48.0,2,,"Zaspa, Gdańsk",54.3964051,18.6017672
+915325262,3,True,4000,kamienica,48.8,2,,"Aniołki, Gdańsk",54.36329929999999,18.631716
+765126424,0,True,2800,blok,40.0,2,370.0,"Osiedle Jasień Bulwary, Gdańsk",54.3444205,18.5310307
+922984163,4,True,2400,blok,45.0,2,500.0,"ul. Żuławska, Gdańsk-Orunia",54.309914,18.6582825
+697493518,4,True,3700,apartamentowiec,41.0,2,,"os. Garnizon, Gdańsk",54.382822,18.5908718
+854650399,1,True,2100,blok,38.0,1,340.0,"ul. Bora Komorowskiego, Przymorze, Gdańsk",54.4084479,18.5855867
+922959053,3,True,350,blok,48.0,3,,"ul. Pomorska, Gdańsk Żabianka",54.417611,18.5768001
+744855968,0,True,2600,wolnostojacy,55.0,2,500.0,"ul. Biwakowa, Osowa, Gdańsk",54.4267941,18.4664222
+922931794,2,True,3900,apartamentowiec,59.0,3,700.0,"Osiedle Oliwa Park, Gdańsk Przymorze",54.4140591,18.5818965
+922929976,10,True,2750,blok,49.0,2,950.0,"ul. Paderewskiego 2, Gdańsk, Suchanino",54.351693,18.6091327
+922928959,10,True,2750,blok,49.0,2,950.0,"ul. Paderewskiego 2, Gdańsk",54.351693,18.6091327
+902560068,7,True,4500,apartamentowiec,67.0,3,1090.0,"Śródmieście, Gdańsk",54.3480121,18.6564851
+905325715,4,True,2300,blok,59.0,2,960.0,"CH Matarnia, Gdańsk",54.371931,18.5181417
+686459074,2,True,2700,blok,51.0,2,500.0,"ul. Łańcucka 8, Gdańsk, Chełm",54.3316842,18.602091
+922921424,2,True,2700,blok,51.0,2,500.0,"ul. Łańcucka 8, Gdańsk, Chełm",54.3316842,18.602091
+922887205,4,True,3500,apartamentowiec,50.0,2,800.0,"osiedle Scala, Gdańsk",54.345306,18.6765716
+922882089,7,True,2990,blok,37.0,2,500.0,"ul. Lema, Morenova, Gdańsk",54.35118379999999,18.5878741
+922879581,5,True,3500,blok,52.03,3,,"ul. Jaworowa, Stary Jasień, Gdańsk",54.338489,18.5621233
+922872220,5,True,3100,blok,48.5,3,840.0,"ul. Spadzista, Gdańsk",54.3430493,18.6419313
+922871373,9,True,3000,apartamentowiec,45.3,2,280.0,Gdańsk Zaspa,54.3964051,18.6017672
+895447453,2,True,2200,kamienica,31.0,1,600.0,"ulica PCK, Gdańsk, dzielnica Brzeźno",54.4043522,18.6307682
+921423528,11,True,2700,blok,48.0,2,1100.0,"ul. Pomorska 18, Gdańsk",54.4194188,18.577612
+922851250,3,True,3700,blok,67.0,3,900.0,"osiedle Central Park, Morena, Gdańsk",54.359338,18.5806815
+915492920,1,False,2850,pozostale,38.0,2,,"ul. Kołobrzeska 42, Gdańsk Przymorze",54.4041959,18.5969789
+922745205,2,True,3700,kamienica,44.0,2,600.0,"Gdańsk, Samym centrum Gdańska",54.35202520000001,18.6466384
+839428036,4,True,4000,apartamentowiec,56.0,3,1000.0,Gdańsk Przymorze,54.4110465,18.598796
+674380263,2,True,2350,blok,35.0,2,580.0,"Kowale, Gdańsk",54.3092476,18.5612269
+922811175,2,True,2800,blok,58.0,2,350.0,"ulica Kościuszki, Gdańsk, Wrzeszcz",54.3880698,18.6166023
+889303683,1,True,5272.52,apartamentowiec,72.85,3,852.35,"ul. Kilińskiego 9, Gdańsk",54.3836474,18.6064732
+694661138,3,True,1350,blok,30.0,1,,Gdańsk Przymorze,54.4110465,18.598796
+768138690,1,True,2500,apartamentowiec,29.0,1,500.0,"ul. Wałowa, Gdańsk",54.3584168,18.6546345
+922795987,1,True,2300,wolnostojacy,22.0,1,450.0,Gdańsk Przymorze,54.4110465,18.598796
+922775014,3,True,3800,blok,63.0,3,,"ul. Bulońska, Gdańsk",54.3549592,18.5780248
+877596447,1,True,3700,blok,65.0,3,600.0,"Osiedle Leszczynowy Staw, Gdańsk, dzielnica Jasień",54.3334099,18.5588064
+852424132,1,True,3500,blok,64.0,3,1000.0,"Gdańsk, Suchanka 6, Chełm",54.35202520000001,18.6466384
+640865726,0,True,2100,blok,27.0,1,,"ulica Olsztyńska, Gdańsk Przymorze",54.4039976,18.6060766
+922760417,1,True,3500,apartamentowiec,37.0,2,700.0,"Gdańsk, ul. ks. J. Popiełuszki",54.35202520000001,18.6466384
+683082707,1,True,2700,blok,45.0,2,700.0,"ul. Olsztyńska 1A, Gdańsk-Przymorze",54.4050109,18.6061027
+922755650,4,True,2300,blok,44.0,2,400.0,"ul. Mjr. H.Słabego os. Cztery Kąty 2, Gdańsk",54.3705953,18.5247049
+776746270,1,True,2800,blok,42.0,2,600.0,"ul. Cedrowa, Gdańsk",54.3393391,18.5858858
+922747493,3,True,3180,apartamentowiec,32.0,2,580.0,"BALTICA TOWER, Gdańsk",54.4030249,18.6240145
+922745409,0,True,2800,blok,45.0,2,590.0,"ul. Myśliwskie Wzgórze 6, Gdańsk",54.3485984,18.5627873
+776313491,2,True,1900,blok,16.0,1,600.0,"ul. Spadzista, Gdańsk Śródmieście",54.3430493,18.6419313
+922720644,2,True,3300,blok,53.0,2,500.0,"ul. Myśliwska, Gdańsk Piecki-Migowo",54.349787,18.5673632
+922712933,0,True,2900,wolnostojacy,66.0,2,600.0,"ul. Wiosenna, Gdańsk Kokoszki/Kiełpino Górne",54.3388275,18.5075228
+922704834,3,True,2300,blok,44.0,2,500.0,"ul. Guderskiego, Łostowice, Gdańsk",54.3198958,18.5626349
+770253214,3,True,3200,blok,47.0,3,800.0,"Gdańsk, brak informacji o dokładnym adresie",54.35202520000001,18.6466384
+922660473,4,True,3000,blok,50.0,2,700.0,"Osiedle Przystań Letnica, Gdańsk",54.3888371,18.6490201
+915931171,3,True,3950,apartamentowiec,53.0,3,,"ul. Skiby, 80-617, Gdańsk",54.3625453,18.7078891
+822366063,-1,True,2000,szeregowiec,30.0,1,1.0,Gdańsk Aniołki,54.36329929999999,18.631716
+922656976,1,True,2500,blok,42.0,2,700.0,"ul. Piastowska 159, Gdańsk-Przymorze",54.4175675,18.5919729
+922655818,4,True,2400,blok,50.0,2,670.0,Gdańsk Centrum,54.35202520000001,18.6466384
+819701310,3,True,2400,blok,35.0,2,400.0,"ul. Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+922650029,5,True,3130,blok,37.44,2,560.0,"ul. Kołobrzeska, Gdańsk Przymorze",54.4040611,18.590768
+778527467,4,True,2700,blok,47.0,2,900.0,"ul. Dunikowskiego, Gdańsk",54.4041792,18.6410596
+864277889,3,True,3500,blok,64.0,3,1000.0,"Osiedle Myśliwska Park, Gdańsk Morena",54.34912809999999,18.5840521
+922639103,7,True,2800,blok,29.0,1,700.0,"ulica Janusza Meissera 10, Gdańsk Zaspa",54.40114639999999,18.606475
+922633585,4,True,1350,blok,13.0,3,300.0,"Gdańsk, Morena",54.352628,18.5928151
+922630389,4,True,2500,blok,42.0,2,835.0,"Stogi, Gdańsk",54.3812546,18.6984749
+921377003,3,True,2300,blok,27.1,1,400.0,"ul. Czereśniowa, Gdańsk",54.3375912,18.5757089
+827114710,3,False,3000,blok,42.0,2,504.0,"ul. Górskiego, Oliwa, Gdańsk",54.4210023,18.5615207
+787882870,2,True,4300,blok,64.0,3,770.0,"ul. Górskiego, Oliwa, Gdańsk",54.4210023,18.5615207
+759919448,0,False,2850,blok,41.87,2,502.0,"ul. Górskiego, Oliwa, Gdańsk",54.4210023,18.5615207
+775435686,2,True,3200,kamienica,40.0,2,460.0,"ul. Wallenroda, Gdańsk Dolny Wrzeszcz",54.3836581,18.6113012
+832914724,3,True,2800,blok,40.47,2,1.0,"ul. Nowatorów 3C, Gdańsk",54.3571113,18.4920011
+922604907,10,True,4500,blok,54.0,3,1.0,"ul. Piastowska 100A, Gdańsk",54.417145,18.5939999
+922599327,3,True,3600,blok,43.8,2,700.0,"osiedle Garnizon, centrum Wrzeszcza, Gdańsk",54.382822,18.5908718
+922597901,5,True,4000,blok,56.0,3,700.0,"ul. Letnicka 1h, Gdańsk",54.3995143,18.6462502
+921140365,2,True,2300,blok,27.0,2,2300.0,"ul. Potęgowska, Gdańsk",54.3313238,18.5508937
+922584554,1,True,5800,apartamentowiec,50.0,2,,"ul. św. Barbary 12, Gdańsk",54.348305,18.6618481
+853864293,2,True,3000,apartamentowiec,30.0,2,550.0,"Gdańsk, Sienna Grobla",54.3565687,18.6670134
+819221072,2,True,4500,apartamentowiec,68.0,4,690.0,"ul. Starowiejska, Gdańsk",54.3953089,18.6466291
+922580843,2,True,2500,blok,34.0,1,600.0,"Gdańsk, Gdańskie Przymorze",54.4110465,18.598796
+842027340,1,True,2900,kamienica,45.0,2,750.0,"ul. Ogarnej, Gdańsk",54.3477213,18.6519322
+690408810,1,True,2700,kamienica,33.0,1,650.0,"Stare Miasto, Gdańsk",54.351817,18.6508134
+659908946,4,True,3400,apartamentowiec,40.0,2,600.0,"ul. Opacka, Oliwa, Gdańsk",54.4126697,18.5598886
+818185858,10,True,2700,blok,46.0,2,721.0,"ul. Rzeczpospolitej 1B, Gdańsk Przymorze",54.4028838,18.5942541
+763487140,5,True,3900,kamienica,54.0,2,1100.0,"ul. Rajska 8, Gdańsk",54.35555189999999,18.6497164
+826484540,3,True,2700,blok,42.5,2,600.0,"ul. Wojciecha Kiedrowskiego, Gdańsk",54.3430641,18.5689876
+874153090,,True,800,wolnostojacy,600.0,4,1.0,"Gdańsk, Limbowa 6, Gdansk",54.33651520000001,18.5673958
+922493816,0,True,2900,wolnostojacy,69.0,2,,"ul. Wiosenna, Kiełpino Górne, Gdańsk",54.3388275,18.5075228
+922493522,1,True,2000,apartamentowiec,20.0,1,500.0,"ul. Obrońców Wybrzeża 3, Gdańsk Przymorze",54.410257,18.595551
+922490783,2,True,3500,apartamentowiec,48.0,2,800.0,"ul. Wielkopolska 59, Gdańsk",54.31106219999999,18.58967
+917930068,1,True,2000,apartamentowiec,20.0,1,500.0,"ul. Obrońców Wybrzeża 3, Gdańsk Przymorze",54.410257,18.595551
+837670804,4,True,3200,blok,51.0,2,700.0,"osiedle Alfa Park, dzielnica Piecki Migowo, Gdańsk",54.35131819999999,18.550483
+922456177,3,True,2000,blok,28.0,1,350.0,"ul. Dąbka, Gdańsk",54.3209364,18.5869678
+893085100,4,True,2600,blok,32.0,1,400.0,"ul. Karpacka 8, Gdańsk Oliwa",54.4157449,18.5545404
+910162810,3,True,3000,blok,50.0,3,500.0,"ul. Czerska, Gdańsk",54.2996292,18.6147248
+768349418,1,True,2999,apartamentowiec,30.0,1,850.0,"ul. Wałowa 25, Gdańsk",54.3586347,18.6532426
+922418865,3,True,2500,apartamentowiec,32.0,1,490.0,"ul. Starowiejska 60, Gdańsk - Nowa Letnica",54.395736,18.6463432
+922417435,3,True,3999,apartamentowiec,63.0,3,540.0,"ul. Lawendowe Wzgórze 13, Gdańsk Jasień",54.3285309,18.5652075
+922407127,0,True,2300,wolnostojacy,32.0,2,,"Gdańsk, Wzgórze Mickiewicza",54.34364069999999,18.6116522
+684283857,3,True,2500,blok,48.0,2,,"ul. Drzewieckiego, Zaspa, Gdańsk",54.3938449,18.6117706
+821477103,3,True,2899,blok,40.0,2,300.0,"ul. Sympatyczna, Gdańsk (Kiełpinek), os. Wiszące Ogrody",54.3508712,18.5308047
+922393480,2,False,3000,blok,43.0,2,,"ul. Chrzanowskiego, Wrzeszcz, Gdańsk",54.3845656,18.5821214
+922393508,8,True,11000,pozostale,90.0,4,1000.0,"Gdańsk, Park Regana",54.4143683,18.6106487
+922393491,5,False,9500,apartamentowiec,87.89,4,,"Gdańsk, Centrum Gdańska",54.3499065,18.6604128
+922393507,5,False,3520,apartamentowiec,35.07,2,550.0,"ul. Kołobrzeska, Gdańsk - Przymorze",54.4040611,18.590768
+922389406,0,True,3600,blok,67.0,4,1200.0,"Żabianka, Gdańsk",54.4190113,18.5754585
+922393511,0,False,2860,apartamentowiec,23.4,1,,"ul. Kołobrzeska, Gdańsk Przymorze",54.4040611,18.590768
+922393523,0,False,2850,apartamentowiec,23.4,1,,"ul. Kołobrzeska, Gdańsk Przymorze",54.4040611,18.590768
+810811056,2,True,3000,apartamentowiec,43.0,2,600.0,"ul. Hynka, Gdańsk, Zaspa",54.3902173,18.5933625
+922373806,3,False,4200,apartamentowiec,50.0,2,500.0,"ul. Białoszewskiego 18, Gdańsk",54.3832367,18.593502
+916303040,4,True,3900,blok,42.0,2,600.0,"ul. Wejhera, Gdańsk Żabianka",54.4217076,18.5856203
+917786462,6,True,3990,apartamentowiec,44.6,2,500.0,"Osiedle Garnizon, Gdańsk",54.382822,18.5908718
+922344444,0,True,3200,blok,47.0,2,800.0,"Gdańsk, Górny Wrzeszcz, ul. <ulica>",54.3754013,18.6091245
+922337411,1,True,400,blok,70.0,4,,"Hallera/Mickiewicza, Gdańsk",54.38334820000001,18.6217356
+730667343,4,True,2300,blok,33.0,1,260.0,"ul. Kościuszki, Gdańsk Wrzeszcz",54.3880698,18.6166023
+861137397,5,True,2700,apartamentowiec,26.5,1,200.0,"Ulica Popiełuszki przy Montowni, Gdańsk",54.3625624,18.6507734
+922325034,3,True,3200,kamienica,37.0,2,300.0,"ul. Lelewela, Wrzeszcz, Gdańsk",54.3836916,18.6111
+657241436,2,True,2100,blok,44.0,2,550.0,"ul. Kazimierza Leskiego, Jasień, Gdańsk",54.323528,18.5585141
+922303697,,True,2900,blok,30.0,1,,"ul. Jagiellońska, Przymorze Wielkie, Gdańsk",54.41275719999999,18.5891779
+857425353,0,True,2300,blok,34.0,1,500.0,Gdańsk Ujeścisko,54.3302454,18.5903984
+775857148,5,True,4200,apartamentowiec,56.5,4,660.0,Gdańsk Letnica,54.388053,18.6501848
+922280755,1,True,4000,kamienica,62.0,3,1100.0,"ul. Chlebnicka, Gdańsk",54.348849,18.6547905
+922275256,1,True,4000,kamienica,62.0,3,1100.0,"ul. Chlebnicka, Gdańsk",54.348849,18.6547905
+878264922,1,True,2600,blok,49.5,2,750.0,"ulica Jabłońskiego 15, Gdańsk Chełm",54.3343852,18.6262042
+922260292,0,True,2800,blok,49.0,2,540.0,"Ujeścisko, Gdańsk",54.3302454,18.5903984
+915273692,1,True,3200,apartamentowiec,37.0,2,650.0,"Gdańsk, Ul. Stanisława Lema 4",54.3507893,18.5880915
+922235633,0,True,3000,blok,45.0,2,700.0,"ul. Olsztyńska, Przymorze Wielkie, Gdańsk",54.4039976,18.6060766
+918162185,5,True,3900,apartamentowiec,60.0,3,700.0,"Gdańsk, Ul. Pastelowa 10",54.3092277,18.609961
+922220635,17,True,3400,kamienica,65.0,2,,"Politechnika, Gdańsk",54.3716751,18.6163277
+922216048,5,False,7300,blok,89.0,4,800.0,"Gdańsk Przymorze, osiedle Idea",54.4064122,18.5777635
+922197063,4,True,2700,kamienica,30.0,1,150.0,"ulica Szeroka 15, Gdańsk",54.3515166,18.6513236
+685226276,2,True,2100,blok,27.0,1,350.0,"ulica Prezydenta Lecha Kaczyńskiego, Gdańsk Przymorze",54.4135057,18.6017856
+764233460,8,True,700,blok,38.0,2,670.0,"falowiec przy rynku na Przymorzu, Gdańsk",54.4170268,18.5932182
+703912597,0,True,2900,apartamentowiec,40.0,2,700.0,"ul. Chrobrego 96, Gdańsk",54.3977263,18.6188241
+922164133,6,True,1900,blok,31.0,1,,"Żabianka, Gdańsk",54.4190113,18.5754585
+922160888,9,True,6000,blok,70.0,3,,"Letnica, Gdańsk",54.388053,18.6501848
+922138190,3,True,2800,pozostale,45.0,2,650.0,"Orunia Górna, Gdańsk",54.3241896,18.615913
+685443427,3,True,2400,blok,29.0,1,680.0,"ul. Hallera 132, Gdańsk, Wrzeszcz",54.3938889,18.6208848
+922125722,1,True,2700,blok,48.0,3,659.0,"Os. Młodych, Żabianka, Gdańsk",54.42415099999999,18.5824142
+697912849,10,True,2999,blok,50.0,3,500.0,"ulica Obrońców Wybrzeża, Gdańsk",54.4092127,18.596636
+922105037,11,True,2700,apartamentowiec,34.0,2,500.0,"Quattro Tower, Gdańsk Wrzeszcz",54.37743589999999,18.6052809
+922069494,1,True,4000,kamienica,120.0,3,1600.0,"ul. Batorego, Gdańsk",54.3771862,18.6004972
+786698286,4,True,400,blok,38.0,2,400.0,"ul. Obrońców Wybrzeża, Gdańsk",54.4092127,18.596636
+922051013,0,True,3300,blok,55.23,3,375.0,"ul. Ptasiej, Gdańsk Chełm, Gdańsk",54.3315174,18.6127318
+922043560,0,True,2300,blok,19.0,1,230.0,"ul. Chłopska, Gdańsk Przymorze",54.4120486,18.5881354
+727044740,7,True,2500,blok,31.0,1,557.0,"ul. Pilotów, Gdańsk Zaspa",54.393837,18.5919647
+700331666,2,True,990,blok,8.0,3,1.0,"ul. Sympatyczna, Gdańsk Kiełpinek",54.3509732,18.5300098
+922023665,0,False,5000,kamienica,50.0,3,750.0,"ul. Osiek 10, Stare Miasto, Gdańsk",54.356182,18.6559439
+922009393,1,True,3450,blok,59.0,3,800.0,"ul. Przemyska, Gdańsk",54.3281748,18.5933471
+681420532,5,True,3200,apartamentowiec,43.0,2,750.0,Gdańsk Zaspa,54.3964051,18.6017672
+684943234,5,True,2500,blok,49.0,2,500.0,"ul. Jabłoniowa, Gdańsk",54.32746,18.5512499
+677823709,2,True,2600,blok,54.0,2,713.0,"ul. Pólnicy, Jasień, Gdańsk",54.3417831,18.5630542
+921964387,6,True,1800,blok,30.0,1,550.0,"ul. Gospody Żabianka, Gdańsk",54.4218506,18.5807675
+921952460,2,True,3000,blok,37.0,2,600.0,"ul. Długie Ogrody, Gdańsk",54.3478802,18.6655082
+766439913,1,True,2600,blok,37.0,1,1.0,"ul. Świętokrzyska, Gdańsk",54.3190742,18.5907867
+795750943,0,True,2400,blok,29.0,1,400.0,"Lawendowe Wzgórze 28, Gdańsk",54.3288688,18.563244
+713802448,0,True,2500,blok,51.3,2,600.0,"ul. Piotrkowska, Ujeścisko, Gdańsk",54.3284043,18.5769979
+848159560,3,True,2700,blok,44.73,2,530.0,"ul. Niepołomicka, Gdańsk",54.3102567,18.5987694
+921908675,2,True,2500,blok,43.0,2,,"ul. Jasińskiego, Gdańsk Jasień, osiedle Optima",54.33361180000001,18.5421396
+921906016,4,True,2700,apartamentowiec,35.0,2,340.0,"ulica Hausbrandta, dzielnica Piecki-Migowo, Gdańsk",54.3491185,18.5862334
+848961135,0,True,400,apartamentowiec,36.0,2,10.0,"ul. Kempingowa 117/8, Gdańsk",54.3357268,18.9176186
+921872224,1,True,2500,blok,32.0,2,575.0,"ul. gen. Władysława Andersa 28, Gdańsk",54.3527079,18.5504074
+921872260,1,True,3000,kamienica,38.0,2,600.0,"ul. 3 Maja, Gdańsk",54.3547965,18.6430533
+921870098,2,True,3000,blok,50.0,2,450.0,"ul. Jasińskiego, Jasień, Gdańsk",54.3353945,18.54212
+682451082,0,True,3000,apartamentowiec,42.0,2,800.0,"osiedle Myśliwska Park (Piecki-Migowo), Gdańsk",54.34912809999999,18.5840521
+788284867,2,True,3000,apartamentowiec,42.0,2,,"osiedle Słoneczna Morena, Gdańsk",54.3488127,18.5881708
+811248006,2,True,2800,blok,40.3,2,600.0,"ul. Wielkopolska 48, Gdańsk",54.3119606,18.5884795
+921802431,4,True,2500,blok,40.0,2,500.0,"Gdańsk, ul. Wielkopolska 44",54.3121988,18.5864678
+921791350,0,True,350,blok,40.0,2,100.0,"ul. Kocurki, Gdańsk",54.3455605,18.648987
+732553534,1,True,2600,blok,46.0,2,650.0,"ul. Damroki, Gdańsk Jasień",54.3416366,18.5662481
+921776077,0,True,4000,blok,27.0,2,450.0,"ul. Niepołomicka, Gdańsk",54.3102567,18.5987694
+921765186,3,True,2650,blok,37.5,2,500.0,"osiedle Lawendowe Wzgórze, Gdańsk",54.3334683,18.5625587
+798596597,4,True,3500,apartamentowiec,42.0,2,700.0,"Gdańsk, osiedle Garnizon",54.382822,18.5908718
+921752876,3,True,2300,pozostale,31.0,1,516.0,Gdańsk Suchanino,54.3547702,18.6031969
+921751120,0,True,2600,blok,43.0,2,,"Gdańsk, Niepołomicka 23",54.3147926,18.5948839
+915124765,,True,2300,blok,25.64,1,350.0,"ulica Guderskiego, Gdańsk",54.3198958,18.5626349
+921737269,1,True,2500,blok,49.0,2,,"osiedle Królewskie Wzgórze, Gdańsk",54.3498435,18.5694261
+771156385,5,True,3000,blok,47.0,3,950.0,"Przymorze, Gdańsk",54.4110465,18.598796
+921724857,1,True,2600,apartamentowiec,37.0,2,650.0,"ul. Władysława Jagiełły, Gdańsk",54.3021348,18.6143719
+921714107,4,True,2900,blok,42.0,2,500.0,"ul. Ofiar Grudnia 70, Gdańsk",54.3078733,18.5829829
+701800397,4,True,3000,apartamentowiec,39.0,2,400.0,Gdańsk Morena,54.352628,18.5928151
+921670582,0,True,2600,apartamentowiec,40.0,2,650.0,"ul. Niepołomicka 28, Gdańsk",54.31264400000001,18.5958863
+921668842,1,True,3350,apartamentowiec,39.0,2,600.0,"ul. Świętej Barbary 11, Gdańsk",54.3492204,18.6617791
+921657354,3,True,4500,pozostale,71.0,4,800.0,"ul. Myśliwska, Morena, Gdańsk",54.3483645,18.5618468
+765213293,3,True,2990,apartamentowiec,30.0,1,400.0,"ul. Mickiewicza, Wrzeszcz, Gdańsk",54.3833482,18.6217356
+897263419,2,True,2400,blok,32.0,2,550.0,"oś. Havlove, Gdańsk",54.3253006,18.6035172
+921603963,2,True,2800,apartamentowiec,47.0,2,700.0,"ul. Glazurowa, Gdańsk",54.3075507,18.5636768
+921600936,1,True,2700,blok,49.0,2,870.0,"Partyzantów 61B, Wrzeszcz, Gdańsk",54.3792992,18.594147
+921599132,2,True,1700,apartamentowiec,18.0,1,400.0,"ul. Pastelowa 10, Gdańsk",54.3092277,18.609961
+921596934,2,True,2900,apartamentowiec,34.23,2,950.0,"Śródmieście, Gdańsk",54.3480121,18.6564851
+839474741,1,True,2599,blok,36.37,2,500.0,"ul. Stężycka 91, Gdańsk",54.3317168,18.539577
+921580397,0,True,2400,wolnostojacy,19.0,1,375.0,Gdańsk Oliwa,54.4046859,18.5318617
+921578580,1,True,3100,wolnostojacy,35.0,2,500.0,Gdańsk Przymorze,54.4110465,18.598796
+648852709,3,True,2000,blok,32.0,1,350.0,"ul. Chłopska, Gdańsk-Przymorze",54.4120486,18.5881354
+921551742,4,True,2500,apartamentowiec,35.0,2,400.0,"ulica Józefa Wąsika 2, Gdańsk",54.3074971,18.5840874
+920231110,2,True,2990,blok,44.26,2,490.0,"ul. Dąbka- Zakoniczyn, Gdańsk",54.3209364,18.5869678
+921533618,1,True,2500,blok,52.0,3,500.0,"ul. Świętokrzyska, Gdańsk",54.3190742,18.5907867
+921510946,2,True,2100,blok,33.0,1,,"ul. Kielnieńska, Gdańsk Osowa",54.4343732,18.467466
+792422988,8,True,2900,apartamentowiec,40.0,2,467.0,"Rakoczego, Gdańsk",54.3577837,18.5844284
+914584513,0,True,2800,blok,51.0,2,550.0,"ul. Wielkopolska 51, Gdańsk",54.31169629999999,18.5912627
+921476866,4,True,3300,blok,59.0,3,,"Morena, Gdańsk",54.352628,18.5928151
+592948796,3,True,1950,kamienica,20.0,1,350.0,"ul. Szeroka, Gdańsk",54.3513526,18.6532866
+921476880,1,True,2900,blok,43.0,2,600.0,"Osiedle Ambro, dzielnica Ujeścisko-Łostowice, Gdańsk",54.31178389999999,18.5749073
+921473606,0,False,2000,blok,30.0,1,500.0,"ul. Jagiellońska, Gdańsk Przymorze",54.4132168,18.5933639
+906387257,4,True,2200,blok,59.0,2,810.0,"Słabego 11, Matarnia, Gdańsk",54.3739377,18.5067686
+921443670,0,True,2600,blok,48.08,2,,"ul. Wielkopolska, Gdańsk Łostowice",54.3121867,18.5900551
+921434876,,True,2800,blok,40.0,2,,Gdańsk Letnica,54.388053,18.6501848
+921434280,1,True,2500,blok,26.0,1,600.0,"ul. Magellana 4, Wrzeszcz, Gdańsk",54.3654457,18.5829439
+921429134,0,True,2500,blok,35.0,2,500.0,"ul. Morelowa, Gdańsk",54.3307202,18.5595082
+921423932,3,True,2800,kamienica,77.0,2,400.0,"ul. Sochaczewska, Wrzeszcz, Gdańsk",54.3843784,18.6246156
+921404486,0,True,2150,blok,27.0,1,400.0,"ul. Czereśniowa, Gdańsk",54.3375912,18.5757089
+921394898,2,True,5500,kamienica,84.0,3,,"dolne miasto, Gdańsk",54.35202520000001,18.6466384
+921387432,4,True,4000,apartamentowiec,65.0,3,,"Gdańsk, aleja Grunwaldzka",54.3942031,18.58113
+914907099,5,True,6000,blok,65.0,3,500.0,"Gdańsk, Angielska Grobla",54.3506474,18.6652889
+914994436,2,True,3250,blok,47.0,2,390.0,"ul. Piecewska 31, Gdańsk",54.358864,18.5825788
+921371264,2,True,4400,blok,64.0,4,1200.0,"ul. Powstańców Warszawskich 66A, Gdańsk Suchanino",54.3550341,18.6148732
+921330305,2,True,2990,blok,44.26,2,490.0,"ul. Dąbka-Zakoniczyn/Ujeścisko, Gdańsk",54.3209364,18.5869678
+921322845,4,True,2600,blok,63.0,2,650.0,"ul. Kartuska, Gdańsk",54.3441318,18.547453
+921314537,4,True,3500,blok,61.0,1,700.0,"ul. Kazimierza Wielkiego 17B, Gdańsk",54.3019673,18.6135777
+921311465,3,True,3300,apartamentowiec,48.0,1,,"Garnizon, Gdańsk",54.382822,18.5908718
+916242756,1,True,4100,blok,79.0,4,600.0,"ul. Niepołomicka 23, Gdańsk",54.3147926,18.5948839
+921305504,1,True,3400,kamienica,49.0,2,500.0,"Wrzeszcz Dolny, Gdańsk",54.3754013,18.6091245
+917464726,1,True,1900,blok,26.0,1,360.0,Gdańsk Sobieszewie,54.3439092,18.8263302
+863115631,2,True,350,apartamentowiec,33.0,1,1.0,"ul. Tataczna, Gdańsk",54.354378,18.6561738
+892661143,2,False,3000,blok,45.0,2,750.0,"ul. Chrzanowskiego, Gdańsk",54.3843543,18.582518
+921199729,2,True,3500,apartamentowiec,66.61,3,800.0,"ul. Czermińskiego, Gdańsk",54.3235739,18.5560224
+651707737,1,True,2800,wolnostojacy,60.0,2,450.0,"Gdańsk, Pruszcz Gdański",54.2621505,18.6361726
+914716969,2,True,2500,blok,23.0,1,350.0,"ul. Gospody, Gdańsk",54.4223391,18.5801393
+921186795,11,True,4500,apartamentowiec,70.0,3,1050.0,"Gdańsk, brak informacji",54.35202520000001,18.6466384
+819466584,1,True,2350,blok,32.0,2,550.0,"Osiedle Optima, Gdańsk Jasień",54.33361180000001,18.5421396
+921168770,0,True,2500,blok,35.0,2,575.0,"ul. Niepołomicka, Gdańsk",54.3102567,18.5987694
+915245748,1,True,2200,blok,49.0,2,,"ul. Różany Stok 3, Gdańsk",54.35544900000001,18.511662
+919500426,2,True,2850,kamienica,25.0,2,,"al. Grunwaldzka 6, Wrzeszcz, Gdańsk",54.3746374,18.6192825
+594638595,0,True,3300,blok,55.0,3,550.0,"Gdańsk Osowa, ul. Junony",54.4204203,18.4670836
+863326682,5,True,3900,blok,48.0,2,800.0,"Osiedle Brebank, Gdańsk",54.355311,18.6622513
+921096316,2,True,2800,blok,42.54,2,350.0,"ul. Wąsika 4, Gdańsk",54.35202520000001,18.6466384
+921084837,2,True,2600,blok,43.0,2,500.0,"ul. Jaworzniaków, Gdańsk",54.3166828,18.5715643
+921080359,2,True,2600,blok,43.0,2,,"ul. Jaworzniaków, Gdańsk",54.3166828,18.5715643
+810181179,3,True,5500,apartamentowiec,53.0,3,1.0,"ul. Długie Ogrody 18, Gdańsk",54.34747360000001,18.6645109
+644057329,1,True,2800,kamienica,38.0,2,580.0,"ul. Robotnicza, Gdańsk",54.3624641,18.6473181
+921053293,3,True,4200,apartamentowiec,50.0,2,400.0,"Garnizon, Gdańsk-Wrzeszcz",54.3830809,18.5892125
+921020612,1,True,2900,blok,56.0,3,500.0,"ul. Komedy, 80-172 Gdańsk",54.3444429,18.5334596
+921019080,2,True,1800,pozostale,47.0,2,790.0,"ul. Rzęsna 1a, Gdańsk Rudniki",54.3491529,18.7045877
+921009727,3,True,2600,blok,36.0,2,360.0,"ul. Grudziądzka, Gdańsk Zajezdnia Wrzeszcz",54.3933569,18.6194322
+832728863,4,True,3000,blok,41.0,2,500.0,"osiedle Park Południe, Gdańsk",54.3128447,18.5898935
+920971474,4,True,2600,blok,40.0,2,500.0,"Ofiar Grudnia 70, Łostowice, Gdańsk",54.3078733,18.5829829
+762314429,3,True,2100,blok,31.0,1,690.0,"ul. Wieżycka, Gdańsk",54.3238582,18.5807395
+920955613,1,True,2700,kamienica,52.0,2,800.0,"ul. Chlebnicka, Gdańsk",54.348849,18.6547905
+856575601,0,True,6000,blok,75.0,4,975.0,"ul. Taborowa 1/2, Gdańsk",54.3570202,18.6207694
+843532487,2,True,2200,blok,32.0,1,280.0,Gdańsk Matarnia,54.3739377,18.5067686
+919423728,3,True,4200,apartamentowiec,50.0,2,400.0,"Garnizon, Gdańsk",54.382822,18.5908718
+689423822,4,True,3800,apartamentowiec,46.0,2,750.0,Gdańsk Śródmieście,54.3480121,18.6564851
+917751565,0,True,2350,apartamentowiec,26.0,1,350.0,"ul. Wielkopolska, Gdańsk Łostowice",54.3121867,18.5900551
+917772987,2,True,2699,apartamentowiec,43.0,2,650.0,"ul. Wielkopolska 51, Gdańsk",54.31169629999999,18.5912627
+920007367,0,True,1999,blok,33.4,1,400.0,"Dynamicznie rozwijająca się dzielnica Zakoniczyn, Gdańsk",54.3224506,18.5767633
+920088485,3,True,2999,apartamentowiec,53.0,3,650.0,"ul. Niepołomicka 50, Gdańsk",54.3066465,18.6008788
+920553925,,True,200,blok,50.0,2,,"ul. Żwirki i Wigury 14A, Gdańsk",54.393029,18.608013
+920838227,3,True,2500,apartamentowiec,50.0,2,,"Sadowa 22, Gdańsk",54.3440907,18.6692139
+681287659,1,True,2500,blok,46.0,2,800.0,"Łozy, Gdańsk",54.4032624,18.6378272
+681288173,0,True,2500,blok,45.0,2,1200.0,"ul. Dunikowskiego, Gdańsk",54.4041792,18.6410596
+756013829,1,True,3000,blok,55.0,3,900.0,"ul. PCK, Gdańsk, Brzeźno",54.4043522,18.6307682
+883207863,0,True,2200,blok,39.7,1,520.0,"ul. Przemyska, Gdańsk",54.3281748,18.5933471
+920775473,7,True,3700,blok,35.0,1,,"Gdańsk, brak informacji",54.35202520000001,18.6466384
+920690621,1,False,4700,apartamentowiec,67.0,3,,"ul. Sadowa, Gdańsk",54.3452881,18.6677225
+920687968,2,True,3200,apartamentowiec,25.0,1,700.0,"ul. Kołłątaja 4, Gdańsk Wrzeszcz",54.3811505,18.5969196
+920681915,0,True,3500,blok,60.0,2,600.0,"ulica Słowackiego, Gdańsk",54.35202520000001,18.6466384
+912613722,10,True,350,apartamentowiec,40.0,2,350.0,"ul. Alei Rzeczypospolitej, Gdańsk",54.35202520000001,18.6466384
+911101019,,False,4826,pozostale,35.0,2,,"ul. Pszenna 3, Gdańsk",54.3461278,18.657657
+920659052,,False,4826,pozostale,35.0,2,,"ul. Jaglana 6, Gdańsk",54.3433685,18.656626
+920657141,3,True,2400,apartamentowiec,40.0,2,500.0,"Osiedle Marina Primore, Gdańsk",54.41147369999999,18.6015459
+920641213,0,True,2770,blok,28.5,2,400.0,"ul. Kołobrzeska, Gdańsk",54.4039931,18.5903758
+920623053,2,True,2400,kamienica,50.0,2,,"ul. Oliwska, Nowy Port, Gdańsk",54.403066,18.6634727
+920612389,0,True,700,blok,70.0,3,,"Gdańsk, NOWY PORT",54.40101569999999,18.6640287
+920591154,2,True,3000,apartamentowiec,57.0,2,400.0,"Osiedle Gardenia, Gdańsk Jasień",54.3410903,18.5682592
+920590138,5,False,5600,pozostale,70.0,3,,"Zajezdnia Wrzeszcz, Gdańsk",54.39015449999999,18.5787965
+920578870,5,False,2370,blok,23.26,1,380.0,"ul. Kołobrzeska, Gdańsk",54.4039931,18.5903758
+919036523,3,True,3950,apartamentowiec,54.0,3,600.0,"ul. Skiby, 80-617, Gdańsk",54.3625453,18.7078891
+697505244,1,True,2500,apartamentowiec,35.0,2,450.0,"ul. Kazimierza Wielkiego, Gdańsk",54.3018374,18.6114262
+920553454,3,False,3700,blok,50.0,3,400.0,"Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+917673840,5,True,3500,blok,55.0,3,1000.0,"Aleja Rzeczypospolitej 7A, Gdańsk",54.4013482,18.5957682
+920485881,3,True,3700,blok,110.0,4,800.0,"Gdańsk, Kokoszki, Storczykowa",54.355126,18.5100914
+632147167,1,True,3300,apartamentowiec,75.0,3,497.0,"Gdańsk, Morenowe Wzgórze 8",54.35011,18.564671
+914036342,5,True,2600,blok,50.0,2,650.0,"ul. Cieszyńskiego, Gdańsk Chełm",54.3380354,18.6062451
+829275278,1,True,2400,blok,42.0,2,440.0,"ul. Jasińskiego 45, Gdańsk",54.3356218,18.5433672
+920430666,4,True,2700,blok,40.0,2,,"Osiedle Pastelowe, Gdańsk",54.3101049,18.6086558
+920424832,2,True,2300,blok,40.0,1,,"ulica Śląska, Gdańsk-Oliwa",54.4063054,18.5809413
+648204535,1,True,2300,blok,30.0,2,280.0,"ul. Flisykowskiego 5, Gdańsk",54.3223101,18.5633436
+920422469,1,True,3800,apartamentowiec,57.0,3,800.0,"Nowe Stogi, Gdańsk",54.3812546,18.6984749
+791559843,10,True,2200,blok,18.0,1,390.0,"ul. Piastowska, Gdańsk Przymorze",54.4158449,18.5851607
+920402662,0,False,7500,pozostale,108.0,4,,"ul. Brzozowa, Gdańsk Wrzeszcz",54.3799759,18.6058894
+920402673,1,False,7500,kamienica,104.0,4,1000.0,"ul. Politechniczna, Gdańsk Wrzeszcz",54.3745186,18.6153625
+698843112,3,True,3000,blok,52.0,3,320.0,"Żabianka, Jelitkowo, Gdańsk",54.4190113,18.5754585
+920351381,3,False,3000,blok,40.0,2,500.0,"Via Flora, Chełm, Gdańsk",54.331883,18.6169771
+920348413,7,True,2800,blok,29.0,1,700.0,"ul. Janusza Meissera 10, Gdańsk",54.40114639999999,18.606475
+920336529,1,False,3900,kamienica,35.0,2,500.0,"ul. Piwna, Gdańsk",54.3498053,18.6518494
+918812502,0,True,3500,blok,78.0,3,850.0,"ul. Pięć Wzgórz, Gdańsk",54.35202520000001,18.6466384
+920266237,1,False,3500,apartamentowiec,68.0,3,1000.0,"Willa Waniliowa, Gdańsk",54.35202520000001,18.6466384
+913163284,2,True,2600,blok,42.0,2,600.0,"ul. Czereśniowa, Gdańsk",54.3375912,18.5757089
+920209436,7,True,2600,blok,29.0,1,280.0,"ul. Meissnera, Zaspa, Gdańsk",54.4019971,18.6067549
+920200745,3,True,3800,apartamentowiec,64.0,3,700.0,Gdańsk Jasień,54.3397877,18.5482228
+850766395,2,True,4500,apartamentowiec,56.17,2,690.0,"Ulica Wilcza, Gdańsk",54.3442279,18.6472457
+913713872,2,True,1700,kamienica,15.0,1,,"Wrzeszcz Dolny, Gdańsk",54.3754013,18.6091245
+919165355,5,False,2500,blok,42.0,2,800.0,"ul. Słowackiego 25, Gdańsk Wrzeszcz",54.3754013,18.6091245
+906192193,5,False,4000,blok,52.88,3,950.0,"ul. Wałowa, Gdańsk",54.3584168,18.6546345
+920144303,1,True,3900,apartamentowiec,55.0,2,550.0,"ul. Chrobrego, Gdańsk",54.3916581,18.6171189
+920139781,1,True,2600,blok,41.0,2,500.0,"ul. Czereśniowa 34F, Gdańsk",54.3364158,18.581358
+694752036,1,True,5000,kamienica,102.0,4,850.0,"Gdańsk, ul. Fahrenheita",54.35202520000001,18.6466384
+920126332,3,True,2900,blok,56.0,3,600.0,"Osiedle Pogodne, Gdańsk",54.3287018,18.6025882
+764074034,2,True,2900,blok,47.5,2,700.0,"ulica Królewskie Wzgórze, Gdańsk",54.3498435,18.5694261
+859156765,0,True,3800,apartamentowiec,54.0,2,200.0,"ul. Lastadia, Gdańsk Śródmieście",54.3447627,18.6517353
+909882015,2,True,3500,apartamentowiec,43.0,2,600.0,Gdańsk Oliwa,54.4046859,18.5318617
+920063498,2,True,3800,apartamentowiec,50.0,2,600.0,Gdańsk Przymorze ulica Piastowska,54.4158449,18.5851607
+920023317,0,True,2800,blok,35.0,2,450.0,"Gdańsk, Orunia Górna",54.3241896,18.615913
+920023482,1,True,4000,blok,73.0,3,1200.0,"ul. Myśliwska, Gdańsk, osiedle Migowskie Tarasy",54.3483645,18.5618468
+920022123,2,True,2700,blok,40.0,2,350.0,"ulica Jagiełły, dzielnica Gdańsk-Południe, Gdańsk",54.3021348,18.6143719
+920003804,2,True,1800,blok,32.0,2,230.0,ul. Storczykowa Gdańsk,54.355126,18.5100914
+843913247,6,True,3950,blok,59.0,3,600.0,"ul. Lema, Gdańsk Morena",54.352628,18.5928151
+919983360,,False,2100,szeregowiec,46.5,2,500.0,"Osiedle Kolorowe, Gdańsk",54.3128183,18.6001596
+919967127,7,True,2600,blok,29.0,1,380.0,"ulica Meissnera, Gdańsk Zaspa",54.4019971,18.6067549
+916951197,2,True,3000,apartamentowiec,39.0,2,600.0,"Gdańsk, Bastion Wałowa",54.3594164,18.6531006
+918535266,2,True,3300,blok,57.0,2,330.0,"osiedle Pohulanka, Gdańsk",54.3484475,18.6378319
+919955996,3,True,4200,apartamentowiec,73.0,3,850.0,"ul. Juliusza Słowackiego, Gdańsk Wrzeszcz",54.3790655,18.581215
+748549763,4,True,2800,kamienica,32.0,1,,"centrum Wrzeszcza, Gdańsk",54.3754013,18.6091245
+752596113,0,True,2500,wolnostojacy,30.0,1,1.0,"Suchanino, Gdańsk",54.3547702,18.6031969
+919941358,0,True,2400,blok,40.0,2,600.0,"ul. Częstochowska, Gdańsk",54.3295274,18.5807933
+919912800,2,True,2500,blok,52.0,2,600.0,"ul. Bergiela, Gdańsk",54.3177666,18.5822243
+919911997,8,True,3000,blok,48.0,2,600.0,"ul. Obrońców Wybrzeża, Gdańsk Przymorze",54.4092127,18.596636
+919872283,2,True,2700,blok,41.0,2,450.0,"Ogrody Diany, Gdańsk Osowa",54.4208611,18.4714241
+763327125,1,True,2650,blok,30.0,2,500.0,"ul. Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+911080919,4,True,2800,apartamentowiec,33.0,1,800.0,"ul. Śląska 12, Gdańsk",54.4062832,18.5768217
+919852105,3,True,5300,blok,80.0,3,1000.0,"ul. Bolesława Chrobrego 96E, Gdańsk",54.3989923,18.6180347
+912256443,1,True,3200,kamienica,55.0,2,900.0,"Aleja Grunwaldzka, Gdańsk Oliwa",54.4052531,18.5728773
+919850182,4,True,3600,apartamentowiec,55.0,3,600.0,"Marina Primore, Przymorze, Gdańsk",54.41147369999999,18.6015459
+919846146,1,True,3500,blok,40.0,2,700.0,"ul. Szpaki, Stogi, Gdańsk",54.362222,18.714369
+919843834,5,True,5300,apartamentowiec,60.0,3,1100.0,"Apartament Baltica Towers, Gdańsk",54.402936,18.624115
+919840347,5,True,4000,blok,50.0,2,750.0,"ul. Opacka, Gdańsk Oliwa",54.4126697,18.5598886
+913834625,1,True,2550,blok,40.0,2,590.0,"ulica Hokejowa, Gdańsk",54.3064699,18.5969504
+919826292,0,True,3000,blok,32.0,2,750.0,"ul. Lęborska 22E, Gdańsk",54.4039766,18.5825352
+878634825,0,True,3100,blok,30.0,2,750.0,"ul. Lęborska 22E, Gdańsk Przymorze",54.4039766,18.5825352
+670635626,1,True,5500,wolnostojacy,85.0,4,1.0,"Gdańsk, Piecki-Migowo",54.3519218,18.5769404
+919826909,1,True,3160,blok,34.82,2,500.0,"ul. Kołobrzeska, Gdańsk - Przymorze",54.4040611,18.590768
+861796771,0,True,2500,blok,35.0,2,575.0,"ul. Niepołomicka, Gdańsk",54.3102567,18.5987694
+759965447,2,False,4000,blok,72.0,3,640.0,"ulica Andersa, Gdańsk",54.3522067,18.5496857
+691651638,2,True,3300,blok,53.0,2,750.0,"ul. Św. Barbary, Gdańsk Śródmieście, Gdańsk",54.3490283,18.6632218
+919362964,0,True,2200,blok,37.0,1,500.0,"Orunia Górna, Gdańsk",54.3241896,18.615913
+919612225,0,True,2000,blok,30.0,1,400.0,"ul. Kołobrzeska 44, Gdańsk Przymorze",54.4044269,18.5985221
+919717312,0,True,2500,blok,49.8,2,750.0,"ul. Stolema, Gdańsk Jasień",54.3413999,18.5666456
+747195879,9,True,3400,blok,40.0,2,800.0,"Gdańsk, Alei Rzeczypospolitej",54.3962594,18.5990906
+904370795,,False,2400,pozostale,36.5,2,500.0,"ul. Pastelowa, Ujeścisko, Gdańsk",54.3103315,18.6041188
+919677199,5,True,3000,apartamentowiec,57.0,3,1100.0,"ul. Popiełuszki 22, Gdańsk",54.3604048,18.6547054
+918902147,0,True,2000,blok,31.0,1,,Gdańsk - Górki Zachodnie,54.3622172,18.7516723
+919627981,1,True,3500,blok,62.0,3,1100.0,"ul. Suchanka, Gdańsk Chełm",54.3352582,18.6241016
+919586302,2,True,2800,apartamentowiec,46.2,2,650.0,"Kokoszki, Gdańsk",54.354099,18.491961
+919584310,7,True,3000,blok,36.92,2,,"ul. Kołobrzeska 11/13, Gdańsk",54.40226819999999,18.579041
+919572571,2,True,2350,blok,29.0,2,550.0,"ulica Słowackiego, Gdańsk Wrzeszcz",54.3790655,18.581215
+919544786,1,True,3500,apartamentowiec,52.0,2,,"ul. Tandeta 1, Gdańsk",54.351117,18.6552817
+919540547,7,True,3500,apartamentowiec,47.0,2,600.0,"ulica Hemara, Gdańsk Wrzeszcz",54.3825278,18.5916236
+663483100,10,True,250,blok,45.0,2,630.0,dzielnica Gdańsk Przymorze,54.4110465,18.598796
+892856234,0,True,6250,kamienica,127.4,4,700.0,"Gdańsk, centrum Wrzeszcza",54.3754013,18.6091245
+919517922,0,False,2400,pozostale,36.0,2,400.0,"Gdańsk, Jasień",54.3397877,18.5482228
+919505050,3,True,2900,blok,47.3,3,550.0,"ul. Konrada Guderskiego, Jasień, Gdańsk",54.3198958,18.5626349
+794048764,4,True,2500,blok,37.0,2,450.0,Gdańsk Jasień ul. Lawendowe Wzgórze 21,54.3270908,18.5621811
+837617462,5,True,2600,blok,36.0,2,480.0,"ul. Niepołomicka, osiedle Biotura, Gdańsk",54.3130239,18.5958458
+919495969,1,False,2500,blok,38.41,2,450.0,"Lawendowe Wzgórze, Gdańsk Jasień",54.3287623,18.5637772
+919492024,0,True,3100,apartamentowiec,42.0,2,600.0,"ul. Chłopska 64, Gdańsk",54.4184722,18.5873951
+780032740,1,True,1900,wolnostojacy,20.0,1,1.0,Ul. Łanowa 94 Gdańsk Olszynka,54.3167,18.6833442
+897446034,7,True,4700,apartamentowiec,67.0,3,970.0,"Popiełuszki 24c, Śródmieście, Gdańsk",54.36005910000001,18.6560009
+919460011,4,True,2100,blok,27.0,1,650.0,"ul. Grottgera, Oliwa, Gdańsk",54.403436,18.5627827
+667263779,0,True,2500,blok,58.0,2,950.0,"ul. Wileńska, Gdańsk Morena",54.361597,18.5996424
+910874704,3,True,2300,blok,54.0,2,680.0,"ul. Alojzego Bruskiego, Gdańsk, Orunia Górna",54.3223859,18.6097694
+908632887,2,True,5000,kamienica,43.0,2,1.0,"ul. Wita Stwosza 23A, Gdańsk Oliwa",54.4039316,18.5653086
+919427161,2,False,3750,blok,72.5,3,500.0,"ul. Sympatyczna 15, Gdańsk Kiełpinek",54.35138269999999,18.5313702
+755091763,1,True,3500,apartamentowiec,41.0,2,600.0,Gdańsk Oliwa,54.4046859,18.5318617
+918810057,3,True,300,blok,45.0,2,,Gdańsk Przymorze,54.4110465,18.598796
+911438637,2,True,3750,blok,68.0,3,800.0,"ul. Krzysztofa Komedy, Gdańsk Jasień",54.3444429,18.5334596
+804855730,1,True,2650,apartamentowiec,33.0,1,490.0,"ul. Toruńska 20, Gdańsk",54.34177649999999,18.6537644
+837761285,2,True,3500,apartamentowiec,30.0,1,580.0,"Neptun Park, Gdańsk",54.4187332,18.6041931
+661450280,7,True,2500,blok,42.4,2,900.0,"Zaspa ul. Pilotów 20, Gdańsk",54.3961019,18.5878256
+919314625,7,True,2600,blok,29.0,1,280.0,"ul. Meissnera, Gdańsk, Zaspa",54.4019971,18.6067549
+687965352,3,True,3100,pozostale,51.0,2,520.0,"ul. Myśliwska, Gdańsk Morena",54.3483645,18.5618468
+668096583,1,True,2700,apartamentowiec,35.0,2,580.0,"ul. Antoniego Madalińskiego 1, Gdańsk",54.33025490000001,18.6199679
+919219901,1,True,7000,apartamentowiec,56.0,2,1100.0,"Botanica Jelitkowo, Gdańsk",54.4239535,18.5897695
+681509607,0,True,3200,apartamentowiec,38.0,2,500.0,"ul. Lęborska, Gdańsk Przymorze",54.4048868,18.5800961
+919070466,1,True,2690,blok,45.0,2,730.0,"Przymorze, Gdańsk",54.4110465,18.598796
+904242653,7,True,3000,blok,56.0,3,1000.0,Gdańsk Siedlce,54.3470942,18.6171409
+648982339,1,True,4000,blok,63.5,3,940.0,"Suchanino, Gdańsk",54.3547702,18.6031969
+651784076,2,True,10000,apartamentowiec,115.0,4,1500.0,"ul. Szafarnia, Gdańsk",54.3488218,18.6603044
+912718337,3,True,2500,kamienica,25.0,1,600.0,"ul. Jana z Kolna 8, Gdańsk",54.3608881,18.646713
+918954531,1,True,1999,kamienica,25.0,1,250.0,"Główny deptak, Gdańsk",54.3644949,18.6527695
+918946300,1,False,2600,apartamentowiec,53.0,2,,"ul. Myśliwska, Gdańsk Morena",54.3483645,18.5618468
+918941047,5,True,4200,apartamentowiec,51.0,3,790.0,"ulica Kopernika, Gdańsk Aniołki/Wrzeszcz",54.362767,18.6354206
+918920255,0,True,3500,blok,38.0,1,450.0,"ul. Szymanowskiego 12, Gdańsk",54.3843301,18.5894688
+918920347,0,True,3500,blok,38.0,1,450.0,"ul. Szymanowskiego 12, Gdańsk",54.3843301,18.5894688
+918878983,2,True,2950,apartamentowiec,35.0,2,690.0,"ul. Tartaczna, Gdańsk",54.354378,18.6561738
+912395649,7,False,2800,blok,41.87,2,600.0,"Gdańsk, blisko centrum Gdańska",54.35202520000001,18.6466384
+918870622,0,True,2700,blok,25.0,2,700.0,"ul. Lęborska, Gdańsk",54.4048868,18.5800961
+918870449,2,True,3000,blok,53.0,3,750.0,"ul. Kadetów 7, Gdańsk",54.378493,18.504874
+811473956,2,True,6300,blok,63.4,3,1.0,"ul. Częstochowska 27, Gdańsk Ujeścisko",54.329401,18.5796059
+787091781,3,True,2300,blok,40.0,2,450.0,"ul. Lawendowe Wzgórze, Gdańsk Jasień",54.3287623,18.5637772
+918816754,3,True,2550,blok,38.0,2,550.0,"Osiedle Zdrovo, Gdańsk",54.345306,18.6765716
+911159520,0,True,2350,blok,38.0,2,440.0,"os. Leszczynowe, Gdańsk Jasień",54.3321445,18.5592965
+918788432,11,True,3500,apartamentowiec,45.0,2,700.0,"ul. Starowiejska, Gdańsk",54.3953089,18.6466291
+918703711,2,True,3000,apartamentowiec,35.0,2,600.0,"ul. Wilcza, Gdańsk Śródmieście",54.3442279,18.6472457
+820248658,0,True,3250,kamienica,33.0,2,650.0,"ul. 3 maja 25, Gdańsk",54.3598624,18.6432591
+627010534,11,True,390,apartamentowiec,46.4,2,150.0,"Przymorze, Gdańsk",54.4110465,18.598796
+918659123,0,True,350,kamienica,40.0,2,,Gdańsk Brzeźno,54.407593,18.6325201
+918649591,1,True,1900,blok,21.0,1,580.0,"ul. Hokejowa, Orunia Górna, Gdańsk",54.3241896,18.615913
+890150026,5,True,2600,apartamentowiec,37.0,2,600.0,"ul. Myśliwska, Piecki-Migowo, Gdańsk",54.349787,18.5673632
+918623441,1,False,2900,apartamentowiec,34.0,1,600.0,"ul. Rybaki Górne, Gdańsk, Śródmieście",54.3569113,18.6545321
+918599643,1,True,2700,blok,42.0,2,550.0,"ul. Władysława Jagiełły, Osiedle Zielony Południk, Gdańsk",54.3029865,18.6113015
+760919134,0,True,2500,kamienica,30.0,2,300.0,"Nowy Port, Gdańsk",54.40101569999999,18.6640287
+862963377,5,True,3800,pozostale,54.0,3,,"Gdańsk, pomiędzy Wrzeszczem i Moreną",54.3754013,18.6091245
+918567796,8,True,2950,blok,31.0,1,490.0,"ul. Pilotów 8, Gdańsk",54.3914211,18.5937302
+918564660,2,True,2900,blok,40.0,2,500.0,"Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+810829133,2,True,2800,blok,46.0,2,400.0,Gdańsk,54.35202520000001,18.6466384
+918530104,3,True,2500,apartamentowiec,70.0,2,,"Osiedle Galeria Malczewskiego, Gdańsk, dzielnica Siedlce",54.3496342,18.6258659
+918520053,1,True,2400,kamienica,53.0,3,680.0,"Ulica Rejtana, Gdańsk",54.3287669,18.6357125
+773810331,2,True,2990,blok,50.6,2,450.0,"ul. Szafranowa, Karczemki, Gdańsk",54.3542778,18.5000099
+894887262,0,False,5000,kamienica,50.0,3,1000.0,"Stare Miasto, Gdańsk",54.351817,18.6508134
+897458893,1,False,2200,blok,27.0,1,380.0,"ul. Sucharskiego, dzielnica Przeróbka, Gdańsk",54.3932671,18.6877646
+918450046,0,False,3200,kamienica,70.35,3,1000.0,"Strzyża, Gdańsk",54.3865467,18.5836153
+918431453,1,True,3800,apartamentowiec,57.0,3,,"Nowe Osiedle, Młode Stogi, Gdańsk",54.4186814,18.6040874
+870939440,5,True,2300,blok,27.0,1,400.0,"ul. Lawendowe Wzgórze, Gdańsk",54.3287623,18.5637772
+918417276,1,True,2600,blok,37.0,2,400.0,"ul. Kazimierza Wielkiego 30, Gdańsk",54.3028445,18.6117758
+911746426,1,True,2500,apartamentowiec,35.0,2,450.0,"ul. Życzliwa 8, Jasień, Gdańsk",54.3451119,18.5293113
+918001779,2,True,2250,blok,50.0,2,605.0,"ul. Dulina, Ujeścisko-Łostowice, Gdańsk",54.320294,18.5763397
+641935008,0,True,1900,blok,27.0,1,500.0,"Gdańsk, dzielnica Morena",54.35202520000001,18.6466384
+900481879,0,True,4400,pozostale,110.0,3,1800.0,"Małe Przymorze, Gdańsk",54.4110465,18.598796
+918327411,1,True,3500,blok,57.0,3,500.0,"ul. Kochanowskiego, Gdańsk Wrzeszcz",54.3866508,18.6309058
+844104860,4,True,4500,blok,67.0,3,900.0,"Gdańsk, ul. Powstańców Warszawskich",54.3562666,18.6207493
+840473780,4,True,2650,blok,41.0,2,420.0,"ul. Lawendowe Wzgórze 45, Gdańsk Jasień",54.3259088,18.5621999
+682093092,1,True,2500,blok,33.0,2,900.0,"ulica Wejhera, Gdańsk",54.4217076,18.5856203
+918293018,4,True,2650,blok,41.0,2,420.0,"ul. Lawendowe Wzgórze 45, Gdańsk Jasień",54.3259088,18.5621999
+911271135,1,True,3276.93,apartamentowiec,43.0,2,,"ul. Kilińskiego 1, Gdańsk",54.3824763,18.6070859
+918219456,5,True,9500,pozostale,79.7,4,,"Śródmieście, Gdańsk",54.3480121,18.6564851
+918207624,4,True,8500,apartamentowiec,47.0,2,1500.0,"Śródmieście, Gdańsk",54.3480121,18.6564851
+674166124,2,True,3000,apartamentowiec,44.0,2,815.0,"ul. Jaglana, Gdańsk Stare Miasto",54.3440628,18.6567513
+918146488,3,False,3200,kamienica,65.0,3,500.0,"Gdańsk Śródmieście, okolica ECS",54.361313,18.64974
+774650165,1,True,3490,blok,66.5,3,730.0,"ulica Myśliwskie Wzgórze 1, Gdańsk",54.3501695,18.5636527
+705645156,1,True,2200,blok,29.0,1,350.0,"Dzielnica Przymorze, Gdańsk",54.4110465,18.598796
+918061687,2,True,3300,apartamentowiec,44.0,2,700.0,"ul. Andersa, osiedle Alfa Park, Gdańsk",54.3478924,18.548277
+918022771,3,True,3500,blok,72.0,3,700.0,Gdańsk Ujeścisko,54.3302454,18.5903984
+768484548,1,True,2700,apartamentowiec,23.0,1,450.0,"ul. Śląska 12, Gdańsk",54.4062832,18.5768217
+918013074,3,True,2300,blok,50.0,2,700.0,"ul. Stężycka, Gdańsk Jasień",54.3336918,18.5403848
+899437725,5,True,3600,apartamentowiec,56.0,3,600.0,"Osiedle Marina Primore, Przymorze, Gdańsk",54.41147369999999,18.6015459
+917975617,1,True,3110,blok,35.0,2,530.0,"ul. Kołobrzeska 34, Przymorze, Gdańsk",54.4032149,18.589299
+826929879,3,True,2000,blok,40.0,1,500.0,"Gdańsk, Orunia Górna Platynowa",54.3247082,18.6197019
+826469254,2,True,3300,apartamentowiec,40.0,2,670.0,"ul. Chmielna 73, Gdańsk",54.3431729,18.65603
+917878720,,True,2700,apartamentowiec,24.0,1,,"Gdańsk, Samym centrum Gdańska",54.35202520000001,18.6466384
+820294037,4,True,3300,blok,64.0,3,800.0,"ul. Myśliwska, Gdańsk",54.3483645,18.5618468
+917777658,4,True,2550,blok,32.0,1,410.0,"ul. Karpacka 8, Gdańsk Oliwa",54.4157449,18.5545404
+668989848,2,True,3800,apartamentowiec,43.0,2,850.0,"ul. Angielska Grobla, Gdańsk, Polska",54.3506474,18.6652889
+917744633,0,True,1800,wolnostojacy,29.0,1,,"ul. Niedźwiednik, Gdańsk",54.3770182,18.5628685
+917732174,0,True,2950,apartamentowiec,42.0,2,750.0,"Gdańsk, Mieszkanie w Gdańsku nad Motławą",54.219044748443,18.73263217075845
+896897895,1,True,2500,wolnostojacy,38.0,1,,"Gdańsk, brak informacji",54.35202520000001,18.6466384
+917695344,3,True,2400,blok,56.0,2,,Gdańsk Ujeścisko,54.3302454,18.5903984
+690722733,11,True,3500,apartamentowiec,45.0,2,800.0,"Gdańsk, Albatros Towers, Gdansk Przymorze",54.4020214,18.5906669
+803866392,2,True,3000,blok,48.0,2,550.0,"Domy pod Koroną, Gdańsk Morena",54.347889,18.5665582
+688638618,3,True,4600,apartamentowiec,60.0,3,500.0,"Stare Miasto, Gdańsk",54.351817,18.6508134
+909536195,4,True,2200,blok,25.96,1,530.0,"Letnicy, Gdańsk",54.388053,18.6501848
+681504886,1,True,2800,kamienica,45.0,2,680.0,"Strzyża Chopina, Gdańsk",54.3875563,18.5837379
+917542189,2,True,3550,apartamentowiec,40.0,2,500.0,"Gdańsk, Osiedle Moderna Scala",54.35202520000001,18.6466384
+917532342,4,True,2700,blok,44.0,2,450.0,"ulica Wielkopolska, Gdańsk",54.3121867,18.5900551
+917442779,2,True,3500,blok,62.0,3,840.0,Gdańsk-Zaspa,54.3964051,18.6017672
+872381058,4,True,2500,blok,45.0,2,400.0,"Wrzeszcz, Gdańsk",54.3754013,18.6091245
+847234846,6,True,10000,blok,86.0,4,1250.0,"ul. Prezydenta Lecha Kaczyńskiego, Gdańsk Przymorze",54.4135057,18.6017856
+894617804,3,True,2300,blok,43.0,2,700.0,"Jagiellońska 28, Gdańsk Przymorze",54.4117289,18.5960398
+682577539,4,True,2200,blok,50.0,2,650.0,"Morena, Gdańsk",54.352628,18.5928151
+605450565,1,True,2700,blok,35.0,2,450.0,"ul. Wejhera, Gdańsk Żabianka",54.4217076,18.5856203
+805715124,0,True,2600,apartamentowiec,28.0,1,480.0,"Gdańsk, Ul. Letnicka 10",54.4026323,18.6491057
+914330026,2,True,2100,blok,32.0,2,,Gdańsk Żabianka,54.4190113,18.5754585
+844513870,4,True,2600,blok,38.0,1,400.0,"centrum dzielnicy Wrzeszcz, Gdańsk",54.3754013,18.6091245
+718084778,2,True,2700,kamienica,38.0,2,300.0,Gdańsk Wrzeszcz,54.3754013,18.6091245
+679188940,2,True,2300,blok,43.0,2,400.0,"osiedle Wiszące Ogrody, Gdańsk",54.3505177,18.5319095
+799443419,4,True,1900,blok,35.0,2,770.0,"ul. Wita Stwosza, Gdańsk Oliwa",54.3971855,18.5700941
+913286618,1,True,2000,blok,30.0,1,,"Wrzeszcz, Gdańsk",54.3754013,18.6091245
+913045090,1,True,2300,blok,32.0,2,350.0,"ulica Niepołomicka, Gdańsk",54.3102567,18.5987694
+752920721,4,True,4700,apartamentowiec,62.0,2,700.0,"ul. Rajska 8, Gdańsk",54.35555189999999,18.6497164
+773925297,1,True,2500,blok,43.0,2,700.0,"ul. Pułaskiego, Brzeźno, Gdańsk",54.408818,18.6341253
+901343486,2,True,2500,blok,42.0,2,500.0,"Łostowice, Gdańsk",54.3124404,18.5955531
+841273839,3,True,1900,blok,26.0,1,500.0,Gdańsk,54.35202520000001,18.6466384
+683295911,0,True,2800,apartamentowiec,37.0,2,500.0,"ul. Czarny Dwór, Gdańsk",54.4073692,18.6136221

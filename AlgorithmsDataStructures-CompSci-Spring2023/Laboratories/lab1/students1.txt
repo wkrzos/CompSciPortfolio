@@ -1,0 +1,4 @@
+Kierunek Informatyka 
+Oceny z przedmiotu Podstawy programowania 
+Nowak Jan (123456) 5.0 5.0
+Kowalski Adam (654321) 5.0 4.0

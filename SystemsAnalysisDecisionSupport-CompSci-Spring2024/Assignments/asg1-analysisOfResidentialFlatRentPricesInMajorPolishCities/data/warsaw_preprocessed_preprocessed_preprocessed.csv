@@ -1,0 +1,1062 @@
+offerid,floor,furnitured,price,buildingtype,area,rooms,rent,address,latitude,longitude
+700400448,1,True,3900,apartamentowiec,47.8,2,1.0,"ul. Płaskowickiej, Imielin, Warszawa",52.1412284,21.0407998
+923247797,11,True,7500,apartamentowiec,53.0,2,1050.0,"ul. Kasprzaka, Wola Tower, Warszawa",52.2272738,20.9567721
+731320805,2,True,5700,apartamentowiec,70.0,3,800.0,"Park Wilanowski, Warszawa",52.1631444,21.0902157
+917400129,3,True,3450,blok,36.0,2,390.0,"Warszawa, ul. Samochodowa",52.1861094,21.0075701
+918003624,4,True,3000,blok,29.0,1,400.0,"Jagiellońska, Warszawa",52.2689367,21.0192611
+923908382,3,True,2200,blok,47.0,2,1110.0,"Warszawa, ul. Meander 22",52.1404028,21.0537767
+918999678,1,True,2500,blok,40.0,2,600.0,"ul. Białołęcka 253, Warszawa",52.31295,21.0295361
+919812201,6,True,2990,blok,52.0,2,800.0,"Dzieci Warszawy 41, Ursus, Warszawa",52.19608040000001,20.8940697
+923907020,0,True,4700,apartamentowiec,80.0,3,1150.0,"ul. Zaściankowa, Wilanów Zawady, Warszawa",52.1689613,21.1150383
+635342450,4,True,3000,blok,32.0,1,100.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+916381212,7,True,3200,blok,49.0,2,800.0,"ul. Skoroszewska 11, Warszawa",52.1860495,20.8963778
+923905469,3,True,3200,kamienica,62.0,2,1000.0,"Warszawa, Wilcza Street, City Center, Warsaw",52.2247175,21.0149539
+908424100,3,True,3100,blok,48.0,2,1.0,"ul. Kochanowskiego 10a, Bielany, Warszawa",52.2674348,20.951511
+818409483,7,False,5000,blok,64.0,3,800.0,"ul. Habicha, Ursus, Warszawa",52.2044563,20.8808517
+922770990,7,True,4500,blok,49.0,2,1.0,"ul. Sokołowska 9, Warszawa",52.2346993,20.9596215
+655538110,4,True,2200,blok,31.0,1,650.0,"ul. Modlińska, Białołęka, Warszawa",52.3808143,20.9096615
+921153095,2,True,4000,apartamentowiec,60.0,3,1000.0,"Osiedle Sakura, Warszawa",52.3476434,20.9452624
+923903044,0,True,2000,blok,26.0,1,570.0,"Ul. Szekspira 2, Warszawa",52.28290260000001,20.9335167
+923493067,4,True,2500,blok,37.0,1,490.0,"ul. Sokratesa, Bielany, Warszawa",52.2851312,20.9289567
+923902802,8,True,3200,blok,56.0,2,800.0,"Aleja Ken 56, Warszawa",52.1453785,21.0540134
+923902153,4,True,2000,blok,56.0,2,800.0,"ulica Marsylska 7, Stegny, Warszawa",52.1762096,21.0506843
+923901520,4,True,2100,blok,29.0,1,580.0,"ul. Suwalska, Warszawa",52.2951588,21.0337271
+922364859,2,True,2900,blok,22.0,1,,"ul. Dmochowskiego, Powiśle, Warszawa",52.225619,21.0346042
+864078327,2,True,3800,kamienica,48.0,2,800.0,"ul. Elektoralna, Warszawa",52.2402148,20.9975821
+923900722,10,True,2400,blok,25.0,1,500.0,"ul. Dymińska, Warszawa",52.2611122,20.9975701
+922505686,1,True,3500,apartamentowiec,63.0,3,1500.0,"metro Stokłosy, Warszawa",52.1561672,21.0346073
+922743747,2,True,2500,blok,33.0,2,1.0,"Ochota, Warszawa",52.2103359,20.9712206
+922406873,7,True,3800,apartamentowiec,40.0,2,,"ul. Zdziechowskiego 3, Mokotów, Warszawa",52.184597,21.0134242
+820357378,1,True,3100,blok,37.0,2,590.0,"ul. Silnikowa 13, Ursus, Warszawa",52.2010519,20.8888309
+917387877,3,True,3600,blok,39.0,2,,"Warszawa, Nakielska Street",52.2304217,20.9391628
+922567804,8,True,3200,blok,56.0,2,800.0,"Aleja Ken 56, Warszawa",52.1453785,21.0540134
+923899653,5,False,3500,kamienica,54.0,2,,"ul. Żelazna, Warszawa",52.2346688,20.9907818
+923895480,7,True,3000,blok,28.0,1,300.0,"Warszawa, Kasprzaka 31A",52.2269381,20.9534043
+891919464,2,True,2700,kamienica,47.0,2,700.0,"ul. Szanajcy 18, Warszawa",52.26349279999999,21.030666
+911579085,1,True,3100,blok,59.0,2,800.0,"ul. Prochowa, Praga-Południe, Warszawa",52.248015,21.0847753
+916348236,1,True,3500,blok,54.0,3,700.0,"ul. Brzeziny, Białołęka, Warszawa",52.3307442,21.0397849
+921511493,0,True,4400,kamienica,63.0,3,1600.0,"Warszawa, Old Town",52.2477331,21.0136079
+923894994,4,True,3900,pozostale,38.0,2,,"ul. Okęcka, Mokotów, Warszawa",52.1876522,21.0161332
+923895068,3,True,3700,apartamentowiec,48.05,2,,"ul. Kazachska, Miasteczko Wilanów, Warszawa",52.1609851,21.0796706
+906696337,1,True,2300,wolnostojacy,27.0,1,1.0,"05-075 Warszawa Wesoła, ul. Podleśna",52.2394224,21.1967886
+869439011,7,True,3500,apartamentowiec,24.0,1,500.0,"ul. Wiktoryn 6, Warszawa",52.2047251,20.9365115
+923891247,2,True,4500,blok,56.0,4,840.0,"ulica Lazurowa, Warszawa",52.2326597,20.8968437
+913730425,,True,5500,apartamentowiec,70.0,3,1000.0,"ul. Jana Kazimierza, Wola, Warszawa",52.2229213,20.9393172
+917981689,10,True,3249,blok,50.0,2,0.1,"Bródno Targówek, Warszawa",52.2884301,21.0307641
+846141387,3,True,3700,apartamentowiec,35.0,1,800.0,"ul. Ogrodowa, Warszawa",52.2387232,20.9885287
+909936770,4,True,3300,blok,63.0,3,900.0,"ul. K. Wyki, Bemowo, Warszawa",52.2299616,20.9019988
+923528301,,True,3100,apartamentowiec,60.0,2,700.0,"ul. Motorowa, Warszawa",52.2339127,21.0816053
+747190686,4,True,3000,apartamentowiec,34.0,2,800.0,"ul. Żupnicza 25A, Warszawa",52.2547131,21.0714203
+906936652,11,True,4000,blok,40.0,2,1.0,"Ul. Jana Pawła II 20, Warszawa",52.2344382,20.9984821
+923887138,2,True,3000,apartamentowiec,37.0,1,500.0,"ul. Mińska, Warszawa",52.2496855,21.0646958
+912086399,3,True,2500,blok,20.0,1,400.0,"Plac Zawiszy, Warszawa",52.224642,20.9887508
+862339637,2,True,3000,blok,50.48,3,813.0,"ul. Kamyk, Stara Miłosna, Warszawa",52.2190094,21.2253949
+681493599,2,True,3000,kamienica,45.0,2,1.0,"Metro Stare Bielany, Warszawa",52.2818727,20.94926
+923886797,7,True,1650,blok,31.0,1,800.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+918676255,0,True,70,szeregowiec,65.0,2,,"Ursynów, Warszawa",52.13785439999999,21.0291229
+917979408,,True,2400,apartamentowiec,47.0,2,2400.0,"Targówek Mieszkaniowy, Warszawa",52.2713763,21.0536728
+923886463,6,True,3000,blok,38.0,2,,"ul. Siedlecka, Praga Północ, Warszawa",52.2588389,21.0579973
+923886042,6,True,2800,blok,54.0,2,800.0,"osiedle Gocław Lotnisko, Warszawa",52.2251938,21.1007234
+923886027,1,True,2750,blok,28.0,1,,"ulica Pustola, Zielona Wola, Warszawa",52.233134,20.9413157
+776660490,4,True,3400,apartamentowiec,55.0,2,750.0,"ul. Bora Komorowskiego 56A, Gocław, Warszawa",52.2278522,21.0779555
+825395632,1,True,2790,blok,36.0,2,449.0,"Ursus - Skorosze, Warszawa",52.188616,20.9008991
+923885968,2,True,3000,apartamentowiec,37.0,1,500.0,"Soho Factory, Warszawa",52.2496147,21.0594989
+923885359,7,True,2700,blok,57.0,4,500.0,"ul. Myśliborska 98F, Tarchomin, Warszawa",52.3197492,20.9574579
+923271664,2,True,3200,blok,62.0,2,700.0,"ul. Naukowa, Nowe Włochy, Warszawa",52.2056642,20.9330342
+807635610,0,True,4500,blok,50.0,3,900.0,"Metro Ratusz Arsenał, Warszawa",52.24489,21.0012
+774115040,2,True,2500,blok,40.0,2,510.0,Warszawa Ursus - Skorosze,52.188616,20.9008991
+907049705,0,True,2700,apartamentowiec,39.0,2,650.0,"ul. Trakt Nadwiślański (Osiedle Życzliwa Praga), Warszawa",52.3137501,20.9756226
+864998296,3,True,2300,blok,26.0,1,500.0,"Ochota, Warszawa",52.2103359,20.9712206
+914434545,2,True,3000,apartamentowiec,47.0,2,1000.0,"Grochowska 87, Warszawa",52.2403731,21.1081853
+922614088,6,True,4000,apartamentowiec,51.0,2,850.0,"ul. Witebska, Warszawa",52.2687672,21.0459701
+854343341,4,True,3000,blok,35.0,2,700.0,"ul. Trakt Nadwiślański 4A, Białołęka, Warszawa",52.31277430000001,20.9717015
+910081933,2,True,3200,blok,45.0,2,1000.0,"ul. Bonifacego 70, Warszawa",52.1809763,21.0555484
+923878619,2,True,2500,blok,40.0,1,,"Warszawa, ul. Szaserów",52.247068,21.1016718
+914547909,3,True,2300,apartamentowiec,26.0,1,500.0,"ul. Dionizosa 6, Tarchomin, Białołęka, Warszawa",52.33855029999999,20.9516841
+825279485,3,True,5500,blok,82.0,3,950.0,"Park Szcześliwicki, Warszawa",52.20474129999999,20.9593258
+923876142,7,True,2850,pozostale,39.0,2,750.0,"ul. Chłodna 11, Warszawa",52.23767849999999,20.9918614
+680656894,6,True,2700,apartamentowiec,38.0,1,590.0,"Aleja Solidarności 64, Warszawa",52.2459247,21.0040689
+920354567,1,True,3530,blok,47.4,2,680.0,"ul. Taśmowa 2, Warszawa",52.17786450000001,20.9906088
+649958982,4,True,2400,kamienica,32.0,1,634.1,"Warszawa, Górnym Mokotowie",52.194157,21.0346955
+917363457,7,True,5500,blok,53.0,3,650.0,"Pohoskiego 1, Warszawa",52.1783758,21.0295086
+789651733,0,True,3500,apartamentowiec,38.0,2,1.0,"Osiedle Hubertus, Mokotów, Warszawa",52.1703646,20.9963108
+923435939,7,True,3200,apartamentowiec,38.0,1,1.0,"ul. Siennej, Warszawa",52.230823,20.9964345
+916006959,2,True,3200,blok,51.0,3,1100.0,"ul. Bogusławskiego, Warszawa- Bielany",52.2785217,20.9168395
+921840925,9,True,2700,blok,37.5,2,800.0,"ul. Mozarta 10, Warszawa",52.171966,21.0291872
+923872515,2,True,2600,kamienica,44.0,2,400.0,"Warszawa, Ul. Łomiańska",52.2807103,20.9693791
+923873645,0,True,2300,blok,38.0,2,790.0,"ulica Kochanowskiego, Bielany, Warszawa",52.2686547,20.9451469
+749986258,2,True,4500,apartamentowiec,50.0,2,800.0,"Warszawa, Grzybowska",52.2346688,20.9907818
+911152815,1,True,4990,blok,64.0,3,1000.0,"ul. Tamka 33A, Warszawa",52.2367307,21.0247888
+821299807,2,True,2250,kamienica,19.0,1,450.0,"ul. J. Dąbrowskiego 25, Warszawa",52.2016315,21.017249
+754590258,0,True,2900,blok,48.0,2,800.0,"ul. Orlego Lotu 4, Warszawa",52.22725089999999,21.0905508
+923869817,1,True,4100,blok,57.0,2,900.0,"ul. Jana Kazimierza 46, Warszawa",52.22357359999999,20.940538
+923039182,1,True,4200,blok,68.0,4,,"ul. Puszczyka, Ursynów, Warszawa",52.160238,21.0224973
+904917741,1,True,3700,blok,50.0,2,700.0,"Warszawa, Al. Zjednoczenia 15",52.2797578,20.9484496
+923093719,1,True,3800,kamienica,47.0,2,58760.0,"Dąbrowskiego 79, Warszawa",52.1989575,21.0045078
+920735397,2,True,4000,blok,49.0,3,650.0,"ul. Narwik, Bemowo, Warszawa",52.2420203,20.8961554
+923867865,3,True,2000,blok,29.0,1,493.0,"ul. Begonii, Warszawa, Marysin Wawerski",52.2399444,21.1472254
+921134679,5,True,4000,apartamentowiec,56.0,2,1.0,"ul. Łopuszańska, Warszawa",52.1935787,20.9411611
+923866437,6,True,3500,blok,45.04,3,600.0,"ul. Kompanii AK „Goplana” 7, Warszawa, Ursus",52.2062887,20.8772306
+653111503,10,False,2500,blok,40.0,2,720.0,"ul. Książkowa 9c, Białołęka Tarchomin, Warszawa",52.33084350000001,20.9405707
+921760814,1,True,3500,blok,42.0,2,,"Warszawa, Bemowo",52.2409067,20.9113297
+922601897,0,True,4200,blok,46.0,2,,"ul. Bukowiecka, Warszawa (Targówek)",52.2731589,21.0773312
+640899423,4,True,3700,apartamentowiec,67.0,3,1080.0,"ul. Hery 25abcd, Bemowo, Warszawa",52.2505399,20.9089102
+917650997,3,True,4500,apartamentowiec,100.0,4,1500.0,"Warszawa, Ulica Braci Stryjeńskich Ursynów",52.1365391,21.0503
+896822190,2,True,2200,blok,48.0,2,800.0,"ul. Ludowa, Mokotów, Warszawa",52.2010249,21.0273894
+714893329,1,True,2700,wolnostojacy,45.0,2,1.0,"Warszawa, Wesola",52.2329397,21.225198
+921322011,2,True,4000,apartamentowiec,45.0,2,800.0,"ul. Szwedzka 22, Warszawa",52.264421,21.0433214
+799602792,,True,2190,blok,17.0,1,1.0,"Kawcza 60, Warszawa",52.2406945,21.1052676
+916408614,2,True,3600,blok,45.0,2,,"ul. Marywilska, Białołęka, Warszawa",52.3098028,21.0046376
+923860466,2,True,2800,kamienica,45.0,1,10.0,Warszawa Zwoleńska 131,52.2042905,21.1642237
+923861676,3,True,3300,blok,67.0,3,1200.0,"ulica Belgradzka, Warszawa",52.1399919,21.0579816
+913118813,1,True,7800,szeregowiec,120.0,4,500.0,"ul. Celulozy, Wawer, Warszawa",52.1664392,21.1774925
+674090198,2,True,2800,apartamentowiec,31.0,2,500.0,"ul. Obrzeżna, Mokotów, Warszawa",52.173523,20.9999269
+845752752,0,True,2600,blok,23.0,1,450.0,"ul. Wilcza, Centrum, Warszawa",52.2247175,21.0149539
+920759643,4,True,2799,apartamentowiec,41.0,2,710.0,"ulica Herbu Oksza, Ursus, Warszawa",52.2037337,20.8840122
+922767932,1,True,3100,blok,44.1,3,600.0,"Ursus H Brodatego, Warszawa",52.1993033,20.8564087
+912654899,3,True,3399,pozostale,42.0,2,,"Warszawa, Warszawski Żoliborz",52.26932859999999,20.9818745
+747035652,3,True,3300,kamienica,31.0,1,680.0,"ul. Chmielna 73C, Warszawa",52.2281604,20.9966249
+922567340,4,True,2500,apartamentowiec,28.0,1,400.0,"ul. Lazurowa, Bemowo, Warszawa",52.2326597,20.8968437
+804469623,1,True,3700,apartamentowiec,41.0,2,450.0,"Warszawa, ul. Kłobucka 6D, Mordor",52.1614795,20.9926609
+687381202,1,True,3000,blok,30.0,2,1.0,"ul. Podskarbińska 30, Praga Południe, Warszawa",52.2536986,21.0742763
+923856617,0,True,2700,blok,37.0,2,650.0,"ul. Sulmierzycka, Warszawa",52.1922357,20.9712089
+812812717,3,True,2600,blok,37.0,1,512.0,"Warszawa, Bemowo",52.2409067,20.9113297
+910327470,2,True,2450,blok,40.0,2,650.0,"ul. Szegedyńska, Warszawa",52.2911564,20.9437695
+771761454,0,True,3000,blok,46.0,2,850.0,"ul. Księcia Janusza, Warszawa",52.2442006,20.9400676
+917942787,5,True,5800,apartamentowiec,81.0,3,,"ul. Narwik 16, Warszawa",52.2422348,20.8961151
+922134095,0,True,3200,blok,58.0,3,1.0,"Skarbka z Gór 27a, Warszawa",52.3176025,21.0570251
+691533476,1,True,2700,apartamentowiec,41.0,2,800.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+860190730,9,True,3200,kamienica,54.4,2,700.0,"ul. Wolska, Wola, Warszawa",52.2303327,20.9540324
+919580290,3,True,5900,kamienica,83.9,3,1300.0,"ulica Rakowiecka 45, Stary Mokotów, Warszawa",52.2068727,21.0054965
+856956035,4,True,2200,blok,19.5,1,600.0,"ul. Krzemieniecka 10, Warszawa",52.2747366,20.9664551
+920427973,1,True,3900,blok,50.0,2,800.0,"ul. Dygata, Żoliborz, Warszawa",52.2555273,20.9675252
+923851178,3,True,2500,blok,45.0,2,800.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+825743082,3,True,3300,apartamentowiec,42.0,2,500.0,"ul. Igańska 2a, Warszawa",52.2393741,21.0926967
+923849567,,True,2300,blok,38.0,1,640.0,"ulica Grójecka, Warszawa Ochota",52.2111237,20.9767819
+916879751,9,True,2800,blok,36.0,2,800.0,"ul. Jana Bytnara ‘Rudego’ 13A, Mokotów, Warszawa",52.1926631,21.0083367
+863708865,7,True,5000,blok,52.0,3,1000.0,"Saska Kępa, Warszawa",52.2323652,21.0608047
+790694148,5,True,2099,kamienica,22.0,1,299.0,"Puławska 69, Warszawa",52.2020497,21.0238127
+922611445,2,True,1250,blok,10.0,4,,"ul. Smoluchowskiego 6, Mokotów, Warszawa",52.17831779999999,21.0125603
+923847960,11,True,2500,blok,19.0,1,400.0,"ul. Batorego, Mokotów, Warszawa",52.2108885,21.0085384
+916895097,7,True,3600,apartamentowiec,39.5,2,550.0,"ul. Fort Wola, Wola, Warszawa",52.2264922,20.9306028
+675752357,5,True,3700,blok,29.0,2,,"ul. Żelazna 76, Warszawa",52.2380204,20.988881
+922455994,,True,2700,blok,55.0,2,800.0,"Warszawa, UL. LASEK BRZOZOWY, URSYNÓW, WARSZAWA",52.1440582,21.0603001
+923682010,4,True,2900,apartamentowiec,30.0,2,400.0,"ul. Lazurowa, Warszawa",52.2326597,20.8968437
+827387845,1,True,3100,blok,45.0,2,600.0,"ul. Goździków 13, Marysin Wawerski, Warszawa",52.2388887,21.1370539
+923845256,4,True,3900,blok,52.1,2,700.0,"Warszawa, ul. Jana Kazimierza 64",52.2225135,20.9310395
+880392681,2,True,2900,blok,35.0,2,600.0,"Warszawa, ul. Chrzanowskiego 19",52.2524096,21.0784442
+923235666,0,True,3200,blok,32.0,2,,"Warszawa, ul. Fleminga 43",52.3187038,20.9792052
+899390162,1,True,3500,wolnostojacy,25.0,1,1.0,"Warszawa, Żerań (Białołęka), 03-190",52.3099444,20.9864688
+673435845,1,True,4300,apartamentowiec,63.0,3,1.0,"ul. Sokołowska 9, Warszawa",52.2346993,20.9596215
+922588232,8,True,5000,apartamentowiec,40.0,2,720.0,"ul. Ludwiki, Warszawa",52.2301906,20.9624746
+923842606,2,True,4200,apartamentowiec,45.0,2,520.0,"ul. Cybernetyki 7F, Warszawa",52.1736449,20.9973916
+807316609,2,True,2499,blok,30.0,1,300.0,"Sadach Żoliborskich, Warszawa",52.26837159999999,20.9897152
+709950024,2,True,1400,wolnostojacy,18.0,1,1.0,"ul. Żubrowa, okolice ul. Wóycickiego, Bielany Młociny, Warszawa",52.3113462,20.9156719
+923841015,3,True,2200,kamienica,24.0,1,,"Zakroczymska, Nowe Miasto, Warszawa",52.2558151,21.0054166
+666421601,0,True,4200,apartamentowiec,68.0,2,1.0,"ul. Aleja Rzeczypospolitej 29c, Wilanów, Warszawa",52.1661168,21.0669043
+920892623,3,True,2500,blok,32.0,1,610.0,"Chomiczówka, Bielany, Warszawa",52.27319860000001,20.9240837
+656654693,1,True,3700,blok,43.0,3,800.0,"ul. Domaniewska, Warszawa",52.1833264,21.007074
+923839890,6,True,2600,blok,35.0,2,1.0,"Warszawa, ul. Krzyżówki (Żerań)",52.3078468,20.9938462
+678110246,0,True,3500,blok,59.0,2,800.0,"Olszynka Grochowska, Warszawa",52.24591479999999,21.1230451
+695234164,4,True,2600,blok,32.0,2,,"ul. Batalionów Chłopskich, Bemowo, Warszawa",52.2320623,20.8832508
+786612379,2,True,3900,kamienica,80.0,1,1.0,"ul. Lubelska 10a, 05-077 Warszawa",52.2131477,21.2590841
+692391616,2,True,3500,apartamentowiec,47.0,2,500.0,"ul. Instalatorów 5a, Warszawa",52.1976726,20.9590895
+923837240,1,True,2700,blok,26.0,1,450.0,"ul. Grójecka, Ochota (Rakowiec), Warszawa",52.2048213,20.9709475
+921113782,1,True,4500,blok,52.0,3,,"ul. Grzybowska, Śródmieście, Warszawa",52.2349503,20.9921181
+920711075,2,True,8000,kamienica,80.0,3,,"Stary Żoliborz, Warszawa",52.2667563,20.9888273
+923414751,10,True,3500,blok,45.0,2,500.0,"ul. Wita Stwosza 50, Warszawa",52.1789504,21.0196153
+923432654,0,True,1460,kamienica,20.0,1,320.0,"ul. Moniuszki 11c, Marki, Warszawa",52.3415437,21.1249241
+655245565,2,True,2700,blok,21.0,1,1.0,"ul. Grzeszczyka, Ochota, Warszawa",52.2001173,20.971808
+922584655,,True,2500,blok,20.0,1,1.0,"ul. Daleka, Centrum, Warszawa",52.2221249,20.9885376
+616683156,10,True,3500,blok,37.0,2,1.0,"ulica Norwida, Wola, Warszawa",52.2318338,20.9373223
+923787997,6,True,3900,apartamentowiec,38.0,2,600.0,"ul. Żeńców, dzielnica Bemowo, Warszawa",52.2261677,20.8937259
+922583331,1,True,12000,szeregowiec,140.0,4,500.0,"Bysławska, Warszawa Wawer",52.157134,21.1911222
+916827178,2,True,3400,blok,60.0,3,1243.0,"Ul. Dziatwy, Białołęka, Warszawa",52.3315583,20.971177
+923832117,,True,1700,blok,17.0,1,,"Bokserska 73, Warszawa",52.1712009,20.9891433
+919042997,3,True,3500,blok,44.0,2,,"Warszawa, Al. Jana Pawła II",52.2452495,20.9908202
+920660273,6,True,4700,apartamentowiec,50.0,3,958.0,"Warszawa, ul. Cybernetyki 3C",52.17504590000001,20.998964
+835665754,3,True,2500,apartamentowiec,36.0,1,640.0,"Teatralna, Warszawa",52.24847279999999,21.0072266
+923209911,11,True,3500,blok,27.0,1,,"ul. Marszałkowska, Śródmieście, Warszawa",52.2281812,21.0125643
+923210331,11,True,3500,blok,27.0,2,,"ul. Marszałkowska, Śródmieście, Warszawa",52.2281812,21.0125643
+920684986,2,True,2100,blok,38.89,2,700.0,"ul. Międzyborska, Praga-Południe, Warszawa",52.2378467,21.0811995
+761140337,4,True,4100,blok,76.0,3,1100.0,"ul. Zadumana, Ochota, Warszawa",52.205019,20.9481081
+646308182,1,True,3100,blok,36.0,2,1.0,"ul. Korotyńskiego 20, Warszawa, dzielnica Ochota",52.20179719999999,20.9769582
+711514077,2,True,2300,blok,24.0,1,500.0,"Morskie Oko, Mokotów, Warszawa",52.2035449,21.0248094
+923829358,3,True,4300,blok,64.7,3,1000.0,"ul. Jana Wasilkowskiego 3, Warszawa",52.1448011,21.0489668
+906877243,2,True,2600,blok,38.2,2,525.0,"Praga Północ, Warszawa",52.26330050000001,21.0283169
+923827968,3,True,1400,blok,10.0,4,,"ul. Pohoskiego, Mokotów, Warszawa",52.1789292,21.0301944
+918800546,0,True,3000,blok,33.0,2,650.0,"ul. Herbu Oksza, Ursus, Warszawa",52.2037337,20.8840122
+922336678,3,True,3300,blok,30.0,2,500.0,"Warszawa, ul. Bagno 5",52.2353363,21.0053227
+914512199,4,True,3000,blok,30.0,2,500.0,"ul. Aleksandra Kotsisa 8C, Praga Północ, Warszawa",52.27622599999999,21.0172216
+755862840,3,True,4000,blok,40.0,2,700.0,"ul. Hubnera, Żoliborz Artystyczny, Warszawa",52.256132,20.96522
+759788055,11,True,5000,blok,65.0,3,,"ul. Bukowińska 12, Warszawa",52.1831593,21.0254022
+905254694,1,True,3000,blok,52.0,3,1000.0,"ul. Podchorążych, Mokotów, Warszawa",52.2084886,21.0449823
+922580173,0,True,3500,blok,50.0,2,500.0,"Warszawa, ul. Jana Długosza",52.2403892,20.9678242
+923826374,6,True,2900,blok,47.0,3,,"ul. Magnacka, Warszawa",52.1959144,20.8587123
+912873606,1,True,2200,pozostale,30.0,1,600.0,"Warszawa, Centrum Warszawy, Muranów, blisko stacji Ratusz Arsenał i Placu Bankowego",52.24552,20.99994
+755295105,11,True,2700,blok,57.0,3,1250.0,"ul. Szolc-Rogozińskiego, Ursynów, Warszawa",52.1514006,21.0513759
+923823203,1,True,2050,blok,36.0,1,700.0,"ul. Odyńca - stary Mokotów, Warszawa",52.1959902,21.013328
+923001498,5,True,3300,blok,57.0,2,670.0,"ul. Bluszczańska 74, Warszawa",52.2091588,21.0606728
+895565162,,True,4000,pozostale,30.0,1,1.0,"ul. Galopu 7, Warszawa",52.1562121,21.0033567
+922952793,1,True,3500,kamienica,68.0,2,1.0,"ul. Wiejska, Warszawa",52.2257689,21.0260328
+829263769,3,True,2600,blok,42.51,2,553.0,"ul. Świetlików 8, Warszawa",52.2285225,20.9115734
+867215279,2,True,3400,blok,41.0,2,700.0,"ul. Orzyca 16, Warszawa",52.1755848,21.0039285
+917270385,0,True,3000,blok,64.0,2,1300.0,"ul. Skarbka z Gór, Warszawa",52.3172627,21.0591052
+767492951,3,True,3200,blok,40.0,2,500.0,"ul. Mołdawska/Okińskiego, Warszawa",52.19693359999999,20.977111
+923822215,0,False,5000,blok,55.0,3,1200.0,"ul. Kierbedzia, Mokotów, Warszawa",52.1988632,21.044042
+923822169,2,True,2800,blok,38.0,2,600.0,"Białołęka, Warszawa",52.32898789999999,21.0076793
+923821739,2,True,2800,blok,38.0,2,600.0,"Bialoleka, Warszawa",52.32898789999999,21.0076793
+686756325,2,True,3500,blok,38.0,2,,"Wołoska, Mokotów, Warszawa",52.1899919,21.0016905
+787012840,2,True,2200,kamienica,24.0,1,550.0,"Metro Świętokrzyska, Warszawa Śródmieście, mazowieckie",52.23527319999999,21.0084945
+854066013,3,True,2800,apartamentowiec,32.0,1,350.0,"Al. Jerozolimskie, Warszawa",52.2072628,20.945304
+911269683,4,True,2600,blok,45.0,2,750.0,"ul. Wrzeciono 36, Bielany, Warszawa",52.2945869,20.941556
+923819073,1,True,3399,apartamentowiec,41.0,1,630.0,"Lazurowa 19, Warszawa",52.2262265,20.8967927
+764017114,0,True,4490,pozostale,79.0,3,1170.0,"Białołęka, Warszawa",52.32898789999999,21.0076793
+917087130,1,True,3399,apartamentowiec,41.0,2,630.0,"Lazurowa 19, Warszawa",52.2262265,20.8967927
+692023823,3,True,3750,apartamentowiec,34.0,2,,"Osiedle 19 Dzielnica, Warszawa",52.226619,20.9820864
+799730210,0,True,3100,blok,50.0,2,650.0,"ul. Solipska, Warszawa Włochy",52.2012927,20.9092621
+920908633,5,True,2800,apartamentowiec,32.0,1,500.0,"ul. Jana Kazimierza, Warszawa",52.2229213,20.9393172
+691181939,2,True,2200,blok,31.0,1,740.0,"Warszawa, Warszawskie Ursynów",52.13785439999999,21.0291229
+736469664,4,True,2500,apartamentowiec,35.0,1,600.0,"ul. Postępu 12, Warszawa",52.176897,20.9966073
+923815542,3,True,3450,blok,30.0,1,550.0,"Port Praski, Warszawa",52.2489758,21.0320858
+617825862,4,True,4000,blok,41.0,2,800.0,"ul. Kasprzaka 29C, Warszawa",52.2260152,20.9564341
+708414938,2,True,2200,kamienica,30.0,1,690.0,"ul. Grochowska, Praga Południe, Warszawa",52.2449097,21.0887778
+921328116,2,True,3300,blok,34.0,2,550.0,"ul. Taylora 2A, Warszawa",52.1996009,20.8817181
+923411706,4,True,3800,apartamentowiec,71.7,3,1200.0,"ulica Bora-Komorowskiego, Gocław, Warszawa",52.2253818,21.0899687
+923155263,,True,2000,wolnostojacy,22.0,1,400.0,"ul. Łuki Małe, Nowe Włochy, Warszawa",52.2081337,20.9085844
+679501570,6,True,1400,blok,40.0,2,300.0,"ul. Stańczyka 4, Warszawa",52.2224588,20.9570884
+923814267,4,True,2700,blok,36.0,2,750.0,"ul. Herbsta 4, Warszawa",52.155162,21.0321323
+920720223,3,True,3950,apartamentowiec,67.0,3,1059.0,"ul. Drawska, Warszawa, Ochota",52.206864,20.954589
+563984609,1,True,2300,blok,21.0,1,500.0,"Warszawa, ul. Zegadłowicza 4",52.2278654,20.9723353
+923813860,6,True,3000,blok,42.0,2,850.0,"ul. Mińska 25A, Praga Południe, Warszawa",52.2491036,21.0594373
+919600097,1,True,3250,apartamentowiec,44.0,2,,"Kieślowskiego 3A, Wilanów, Warszawa",52.1655473,21.0798859
+919430600,5,True,4000,apartamentowiec,45.0,2,800.0,"ul. Szwedzka 22, Warszawa",52.264421,21.0433214
+921319574,1,True,3300,blok,40.0,2,700.0,"ul. Silnikowa 13, Warszawa",52.2010519,20.8888309
+923810390,3,True,2400,blok,26.0,1,800.0,"Warszawa, ulica Astronautów",52.1827581,20.9746711
+846313635,3,True,2400,kamienica,20.0,1,1.0,"ul. Astronautów 1, Warszawa",52.181683,20.9777193
+918694287,0,True,3000,blok,34.0,2,750.0,"ul. Bartycka, Mokotów, Warszawa",52.2126045,21.0604251
+654882462,3,True,3700,blok,44.0,2,670.0,"ul. Ryżowa, Warszawa-Ursus",52.192209,20.9081966
+894675292,2,True,2900,blok,37.0,2,600.0,"ul. Instalatorów, Warszawa",52.1991661,20.9542324
+923807539,4,True,4000,blok,47.0,3,500.0,"osiedle Miasteczko Nova Ochota, Warszawa",52.2103359,20.9712206
+919975998,8,True,3800,blok,47.0,2,650.0,"Warszawa, ul. Władysława Smoleńskiego",52.2805827,20.9639322
+786262359,1,True,2500,blok,25.0,1,1.0,"ul. Majewskiego, Ochota, Warszawa",52.2053039,20.9733717
+798742266,2,True,2900,apartamentowiec,32.0,2,620.0,"ul. Jana Kazimierza, Warszawa",52.2229213,20.9393172
+783580238,4,True,2600,blok,35.0,2,700.0,"ulica Myśliborska, Białołęka, Warszawa",52.3130945,20.9643614
+923806124,4,True,4000,apartamentowiec,60.0,3,900.0,"ul. Winorośli, Warszawa",52.3389773,20.9509355
+922587895,3,True,3600,blok,37.0,2,,"Szeligowska 53D, Bemowo, Warszawa",52.22541469999999,20.886063
+733276946,8,True,3500,blok,45.0,2,615.0,"ulica Skorosze, Warszawa",52.188616,20.9008991
+923805835,0,True,3800,apartamentowiec,41.0,2,700.0,"ul. Pola Karolińskie, Ogrody Włochy, Warszawa",52.2080751,20.8917829
+923805346,4,False,3000,apartamentowiec,45.0,2,550.0,"ul. Podskarbińska 34, Praga Południe, Warszawa",52.2550108,21.0742281
+923804511,4,True,3500,blok,40.0,2,700.0,"ul. Redutowa 25, Warszawa",52.23023689999999,20.941582
+889675029,5,True,3000,blok,44.0,2,900.0,"ul. Kierbedzia 6, Warszawa",52.1984943,21.0444366
+835741331,1,True,2700,blok,50.0,2,804.0,"Warszawa, Żeglugi Wiślanej",52.3611972,21.0373248
+923803964,3,True,2350,blok,40.0,2,750.0,"Warszawa, ulica Pileckiego 104, Ursynów",52.1397591,21.0399419
+652681591,4,True,2100,blok,29.0,1,500.0,"Elekcyjna 33, Warszawa",52.2367157,20.9476933
+867902417,2,True,2000,blok,34.0,1,478.94,"Tarchomin, Warszawa",52.3168496,20.9586065
+791676048,5,True,2600,blok,36.0,2,600.0,"ul. Chełmżyńska 198B, Warszawa",52.2753335,21.1188637
+918816428,1,True,3000,kamienica,41.5,2,700.0,"ul. Wolska 54, Warszawa, Wola",52.233887,20.966731
+923802408,9,True,2700,blok,47.6,2,,"ul. Ostrobramska, Warszawa",52.2343216,21.1025323
+923386677,7,True,4200,blok,57.0,3,700.0,"ul. Mariana Smoluchowskiego, Warszawa",52.1776576,21.0127384
+883047358,2,True,2500,kamienica,38.0,1,590.0,"ul. Kasprowicza, Stare Bielany, Warszawa",52.28247,20.948344
+923385354,0,True,3200,blok,50.0,2,,"Metro Młynów, Wola, Warszawa",52.23765,20.9605501
+736641568,1,True,2900,blok,40.0,1,,"Warszawa, Latyczkowska housing estate, Gocław, Warsaw",52.2247096,21.0952054
+923800686,4,True,3000,apartamentowiec,40.0,2,650.0,"ul. Sokratesa 7, Bielany, Warszawa",52.2832259,20.9259618
+918565154,4,True,1790,apartamentowiec,16.0,1,400.0,"ul. Płochocińska 16A, Żerań, Białołęka, Warszawa",52.3093849,20.9896997
+853484005,0,True,3800,blok,78.0,4,900.0,"ul. Pawlikowskiego, Warszawa Praga Południe, osiedle Gocław",52.2247721,21.0815236
+842160271,11,True,2400,blok,30.0,1,700.0,"Czerniakowska róg Bartycka, Mokotów, Warszawa",52.2114148,21.0472601
+916293336,1,True,3400,apartamentowiec,39.0,2,800.0,"ul. Pieskowa Skała, Warszawa",52.162117,20.9963433
+914722055,0,True,3200,blok,43.0,2,,"ul. Środkowa, Nowa Praga, Warszawa",52.261203,21.0395681
+923795412,3,True,4500,blok,42.0,2,500.0,"Żupnicza 16, Warszawa",52.25093080000001,21.062975
+828684487,1,True,3950,kamienica,52.0,2,350.0,"Rakowiecka, Warszawa",52.2079759,21.0104211
+919425167,6,True,3150,blok,38.4,2,750.0,"ul. Ciołka, Warszawa",52.2430938,20.9446318
+923792235,4,True,3300,apartamentowiec,42.0,2,600.0,"Konstruktorska 5E, Warszawa",52.18538040000001,20.9940691
+917261105,3,True,2400,apartamentowiec,37.5,2,650.0,"ul. Pohulanka 3b, Warszawa",52.27774429999999,21.0847208
+923793131,1,True,3200,szeregowiec,40.0,1,,"ul. Lubartowska, Praga Południe, Warszawa",52.2455249,21.1014305
+922704583,4,True,2600,blok,28.0,1,,"ul. Jurija Gagarina 6, Warszawa Mokotów",52.2072081,21.0466817
+923792008,4,True,3000,apartamentowiec,30.0,1,340.0,"ul. Gumińska, Warszawa",52.2207977,20.9564482
+919909677,5,True,5000,apartamentowiec,56.0,2,,"Emilii Plater 10, Warszawa",52.2240651,21.0086222
+914655841,1,True,2800,blok,43.0,2,,"ul. Włościańska, Żoliborz, Warszawa",52.2705651,20.9654957
+923791956,1,True,3900,blok,33.0,1,,"Praga Południe, Warszawa",52.2416808,21.0840602
+861072166,0,True,2600,kamienica,18.0,1,150.0,"Rakowiecka róg Puławskiej, Stary Mokotów, Warszawa",52.2098193,21.020961
+923370324,11,True,11900,apartamentowiec,91.0,3,,"Grzybowska 4, Warszawa",52.237404,21.0014382
+923789830,5,True,2500,apartamentowiec,51.0,2,750.0,"ul. Sierpińskiego 1A, Ochota, Warszawa",52.2000639,20.9685737
+909987764,6,True,2900,blok,46.0,2,800.0,"Metro Natolin, Warszawa",52.1403392,21.0575824
+773824343,3,True,2650,kamienica,18.0,1,1.0,"ul. Rakowiecka 1/3, Stary Mokotów, Warszawa",52.2095299,21.0204182
+826458492,5,True,4200,apartamentowiec,35.0,2,500.0,"ul. Krochmalna, Wola, Warszawa",52.236404,20.990861
+908758051,8,True,3400,blok,36.3,2,,"Platynowa 6, Warszawa",52.2268548,20.9901744
+922886478,2,True,2600,blok,47.0,2,740.0,"ulica Rozłucka, Warszawa",52.2383684,21.077624
+849116334,4,True,11900,apartamentowiec,120.0,4,2500.0,"ul. Branickiego, Wilanów, Warszawa",52.1551702,21.0724713
+901691665,3,True,2500,blok,50.0,2,500.0,"ul. Odkryta, Tarchomin / Nowodwory, Warszawa",52.3320834,20.9357682
+923786824,3,True,1500,blok,32.0,1,500.0,"ul. Astronautów, Warszawa",52.1827581,20.9746711
+923786092,1,True,2500,blok,30.0,1,500.0,"ul. Optyków, Warszawa",52.2312996,21.1097658
+656967505,9,True,2900,apartamentowiec,36.0,2,700.0,"ul. Skierniewicka 34, Warszawa",52.2327808,20.9688363
+923785740,1,True,4000,blok,40.0,2,500.0,"ul. Cybernetyki, Mokotów, Warszawa",52.1763606,20.9944114
+923785233,4,True,1845,apartamentowiec,47.0,2,1845.0,Warszawa Mokotów Służew ul.Zygmunta Modzelewskiego 15,52.1728374,21.0111561
+727761036,2,True,2850,blok,56.0,2,760.0,"Skarbka z Gór, Białołęka, Warszawa",52.3172627,21.0591052
+823174544,7,True,2500,apartamentowiec,34.0,1,600.0,"Kasprzaka 29, Warszawa",52.2271258,20.9570063
+731141931,3,True,2800,blok,45.0,2,1.0,"ul. Mała Łąka 10, Warszawa",52.13612020000001,21.054453
+913166324,2,True,2800,blok,30.0,2,,"Warszawa, ul. Wawelberga",52.2356498,20.9686314
+923780996,3,True,2250,apartamentowiec,28.0,1,700.0,"Bliska Wola, Warszawa",52.23826159999999,20.9553681
+758530029,0,True,1800,blok,18.0,1,,"ul. Puławska 483, Warszawa",52.1330766,21.0185221
+921546928,3,True,3500,apartamentowiec,50.0,3,900.0,"Warszawa, UL. Ostrobramska",52.2343216,21.1025323
+840395749,1,True,2700,blok,30.0,2,475.0,"ul. Żelazna, Warszawa",52.2346688,20.9907818
+722026186,7,True,2500,blok,27.0,1,500.0,"Zielony Żoliborz, Warszawa",52.1971623,20.9956886
+923774601,1,True,3400,blok,51.0,2,850.0,"ul. Bluszczańska, Warszawa",52.2092088,21.066728
+922673564,2,True,3390,kamienica,52.0,2,800.0,"ul. Andersa 14, Warszawa, Centrum",52.25115539999999,20.9990244
+796013750,2,True,2600,blok,45.0,2,800.0,"Warszawa, ulica Wrzeciono 51",52.29471789999999,20.9431296
+781901810,1,True,3500,apartamentowiec,27.23,2,600.0,"ul. Burakowska 16 b, Warszawa",52.2564277,20.9803013
+921192479,9,False,3800,blok,54.0,3,756.0,"ul. Walewska 2, Warszawa",52.2396764,21.0747089
+922479271,11,True,2800,blok,57.5,4,1000.0,"ul. Krochmalna, Centrum, Warszawa",52.2363728,20.9906957
+923775683,1,True,2100,blok,27.0,1,500.0,"Warszawa, ulica Śniardwy",52.1740833,21.0051626
+705874923,0,True,2700,blok,34.0,1,530.0,"Osmańczyka 12, Warszawa",52.2593209,20.9312185
+917236906,5,True,2500,apartamentowiec,35.0,2,700.0,"ulica Bogusławskiego 17, dzielnica Bielany, Warszawa",52.28020369999999,20.9184799
+923773819,1,True,2600,apartamentowiec,20.0,1,,"Służew Smyczkowa 21, Mokotow, Warszawa",52.1723571,21.0117738
+917238331,4,True,3300,apartamentowiec,40.0,2,,"Bemowo, Warszawa",52.2409067,20.9113297
+923728545,4,True,2800,kamienica,32.0,2,761.0,"ul. Kopińska, Ochota, Warszawa",52.2176379,20.9754338
+842804154,2,True,4100,blok,56.0,3,790.0,"ulica Kartograficzna, Targówek, Warszawa",52.3127422,21.0729753
+857988747,4,True,2200,blok,34.0,1,1.0,"ul. Osmańczyka, Bemowo, Warszawa",52.25964,20.9309922
+922443550,2,True,5500,blok,59.0,2,800.0,"Warszawa, Kaliny Jędrusik 7",52.2572168,20.965579
+748174272,,True,7400,apartamentowiec,76.0,3,1100.0,"ulica Okopowa, Warszawa",52.2449587,20.9773502
+690348755,1,True,3300,kamienica,48.5,2,750.0,"ul. Ogrodowa, Warszawa",52.2387232,20.9885287
+870207476,2,True,4900,blok,63.0,2,,"ul. Dembowskiego 4, Ursynów, Warszawa",52.1537255,21.0318743
+857953828,4,True,3000,apartamentowiec,39.0,2,990.0,"osiedle Bliżej Gwiazd, Tarchomin, Warszawa",52.32820299999999,20.9521076
+920654590,6,True,2699,blok,28.0,1,350.0,"ul. Marymoncka, Bielany, Warszawa",52.288001,20.951691
+923769557,2,True,3800,blok,45.0,2,800.0,"Śródmieście, Warszawa",52.2296756,21.0122287
+922906446,11,True,2000,blok,35.0,1,,"ul. Jarocińska, Warszawa",52.2395289,21.1056031
+922457960,10,True,3299,blok,50.0,2,0.1,"Bródno, Targówek, Warszawa",52.2884301,21.0307641
+923765416,5,True,3500,blok,48.0,2,,"ulica Lanciego, Ursynów, Warszawa",52.1437572,21.05796
+922123111,7,True,4800,apartamentowiec,55.0,2,,"Warszawa, Mokotów, Bukowińska 2",52.1787869,21.0282682
+923200130,3,True,2999,blok,45.0,2,1025.0,"ul. Wilcza 26a, Warszawa",52.2253525,21.0168711
+923763039,1,True,3450,blok,54.0,2,750.0,"Warszawa, Tarchomin",52.3168496,20.9586065
+923765487,5,True,2200,blok,36.0,1,430.0,"Warszawa, Odkryta 48",52.3335427,20.9369096
+777823108,4,True,2100,blok,28.0,1,600.0,"Bielany, Warszawa",52.2933234,20.928664
+923761740,5,True,2650,blok,34.0,2,750.0,ulica Tomcia Palucha 39 Warszawa - Ursus,52.1877743,20.8944253
+840786654,2,True,4500,apartamentowiec,46.0,2,800.0,"ul. M. Kasprzaka 29, tower C, floor 2, Warszawa",52.2271258,20.9570063
+923760135,0,True,3000,blok,48.0,3,900.0,"ul. Majewskiego, Ochota, Warszawa",52.2053039,20.9733717
+912242136,,True,1800,kamienica,31.0,1,700.0,"Metro Pole Mokotowskie, Warszawa",52.2094192,21.0073712
+923759833,6,True,3500,blok,40.0,2,,"ul. Habicha, Ursus, Warszawa",52.2044563,20.8808517
+923759622,5,True,3500,blok,43.0,2,780.0,"ul. Jutrzenki 114G, Warszawa",52.1933277,20.9315166
+794673021,4,True,10000,kamienica,120.0,3,1500.0,"Warszawa, ul. Stępińska",52.2056604,21.0376758
+646835207,1,True,2400,apartamentowiec,33.0,1,600.0,"ul. Sokołowska 9, Warszawa",52.2346993,20.9596215
+917553414,1,True,2399,pozostale,18.0,1,260.0,"ul. Lekka 3, Warszawa",52.2853062,20.9265929
+690159044,0,True,1950,blok,33.0,1,755.0,"Zielona Białołęka, Warszawa",52.3239756,21.0687182
+923758168,5,True,3600,apartamentowiec,38.0,2,650.0,"Warszawa, osiedle ""Mój Ursus""",52.204527,20.8816476
+684037546,1,True,3000,blok,50.0,2,900.0,"Ostrobramska, Praga Południe, Warszawa",52.2343216,21.1025323
+919148597,0,True,4500,apartamentowiec,50.0,3,820.0,"ul. Wschodu Słońca, Warszawa",52.2011941,20.9430575
+923758341,2,True,2200,blok,34.0,2,600.0,"ul. Żeglugi Wiślanej, Warszawa Kobiałka",52.3611972,21.0373248
+922670758,8,True,2500,apartamentowiec,31.0,1,600.0,"Warszawa, dzielnica Wola",52.2333751,20.9571835
+923756253,4,True,2900,apartamentowiec,41.0,2,750.0,"ul. Bakalarska 15, Warszawa",52.1935403,20.9552882
+922455613,6,True,2800,blok,30.0,2,600.0,"Rondo ONZ, Warszawa",52.2328461,20.9985246
+922999875,2,False,3700,kamienica,37.0,2,,"Warszawa, ul. Nowogrodzka 44",52.2283547,21.0093657
+919692668,11,True,24000,apartamentowiec,117.0,3,4000.0,"Złota 44, Warszawa",52.2311697,21.0023775
+923754206,5,True,2700,kamienica,36.0,2,,"Konduktorska 3B, Warszawa",52.2000898,21.0295513
+776025606,2,True,2200,blok,38.0,1,600.0,"ul. Siedlecka, Praga Północ, Warszawa",52.2588389,21.0579973
+923751507,4,True,2800,kamienica,32.0,2,761.0,"Ul. Kopińska, Warszawa",52.2176379,20.9754338
+918502841,1,True,3500,blok,37.0,2,500.0,"ul. Stefana Bobrowskiego, Warszawa",52.2086643,20.9707043
+822655717,1,True,6500,blok,71.0,2,700.0,"Warszawa, Park Szczęśliwicki",52.20474129999999,20.9593258
+922670155,3,True,2900,apartamentowiec,38.0,1,400.0,"ul. Grójecka 194, Ochota, Warszawa",52.2011987,20.9670541
+921860259,1,True,2800,apartamentowiec,50.0,2,1.0,"Warszawa, pogranicze Rembertowa i Zielonki",52.2630714,21.145839
+800217244,1,False,3200,blok,54.0,2,250.0,"Warszawa, brak informacji",52.2296756,21.0122287
+656593943,2,True,2700,blok,50.0,2,600.0,"ul. Żwirki i Wigury, Ochota/Włochy, Warszawa",52.1839327,20.97875
+731066181,1,True,1500,blok,37.0,2,750.0,"UL. Siemiatycka, Jelonki, Warszawa",52.2271135,20.9012023
+921831011,9,False,2200,blok,44.2,2,,"ul. Światowida, Warszawa",52.3303925,20.9412281
+915117581,0,True,3150,apartamentowiec,27.0,1,680.0,"ul. Zdziechowskiego 4, Warszawa",52.1850304,21.0127922
+917884646,3,True,3800,blok,65.0,3,1260.0,"ul. Noskowskiego 20, Mokotów, Dolinka Służewiecka, Warszawa",52.1725213,21.0376104
+697689261,8,True,2200,blok,26.0,1,275.0,"Ul. Rembielińska 19, 03-724 Warszawa",52.29191119999999,21.0269445
+675294563,2,True,2199,apartamentowiec,20.0,1,300.0,"ulica Krzyżówki, Osiedle Riviera Park, Żerań, Białołęka, Warszawa",52.3078468,20.9938462
+921854740,4,True,3700,kamienica,38.0,2,1.0,"ul. Grójecka 70, Warszawa",52.2135975,20.9781911
+923747001,3,True,3500,blok,54.0,3,800.0,"ul. Keniga, Ursus, Warszawa",52.1939483,20.8679177
+905647715,1,True,4900,blok,63.0,4,600.0,"ul. Goplanska, Stegny, Warszawa",52.1764183,21.0685472
+923746175,4,True,2570,blok,42.0,2,730.0,"ul. Modlińska 125, Białołęka, Warszawa",52.3137501,20.9756226
+858556499,,True,4600,apartamentowiec,37.0,2,1.0,"Bliska Wola, Warszawa",52.23826159999999,20.9553681
+920198550,2,True,3500,blok,60.0,3,923.0,"Targówek, Warszawa",52.2823819,21.0653678
+846179265,3,True,3800,apartamentowiec,38.0,2,600.0,"Ogrodowa, Warszawa",52.2387232,20.9885287
+622110859,8,True,2550,apartamentowiec,21.0,1,400.0,"Aleja Prymasa Tysiąclecia 83a, Wola, Warszawa",52.226098,20.9568279
+852043861,5,True,3300,apartamentowiec,21.0,1,95.0,"ul. Wola, Warszawa",52.2251188,21.0120474
+779565472,5,True,2400,blok,30.0,1,1.0,"ul. Malawskiego, Warszawa",52.189723,20.9907244
+916602710,1,True,3200,kamienica,37.0,2,750.0,"ul. Krakowskie Przedmieście, Warszawa",52.2426018,21.0150499
+923741936,3,True,3500,blok,54.0,3,800.0,"ul. Keniga, Ursus, Warszawa",52.1939483,20.8679177
+916598450,1,True,3200,kamienica,37.0,2,750.0,"ul. Krakowskie Przedmieście, Warszawa",52.2426018,21.0150499
+918487165,0,True,5900,apartamentowiec,65.0,3,,"ulica Zbąszyńska 8, Warszawa",52.1917924,20.9560333
+923741691,7,True,2700,blok,28.5,1,500.0,"ulica Wspólna, Centrum, Warszawa",52.2302091,21.0113922
+922832331,5,True,3200,blok,39.0,2,700.0,"ul. Szeligowska, Bemowo, Warszawa",52.2279242,20.8809174
+922723062,3,False,2500,blok,77.8,3,,"ul. Sulejkowska, Warszawa",52.2397265,21.1005023
+923741640,,True,1600,wolnostojacy,30.0,1,400.0,"Targówek, Warszawa",52.2823819,21.0653678
+838891349,3,True,3700,blok,54.0,2,900.0,"Warszawa, ul. Dereniowa",52.1479489,21.0419581
+921647975,2,True,3700,blok,30.0,2,,"ulica Pańska 3, Warszawa",52.2329368,21.0018517
+923738368,1,True,1850,kamienica,25.0,1,510.0,"ul. Stalowa 7, Praga Północ, Warszawa",52.2587807,21.0367106
+923739326,2,True,2900,blok,37.0,1,600.0,"ulica Nowolipki, Muranów, Warszawa",52.2445746,20.9908244
+735522254,6,True,3950,apartamentowiec,32.0,2,100.0,"ul. Siedmiogrodzka 1a, Warszawa",52.2323713,20.9760495
+645256079,4,True,2450,blok,26.0,1,620.0,"ul. Broniewskiego, Warszawa",52.2682465,20.9582809
+923738817,4,True,2800,apartamentowiec,38.0,2,750.0,"Posag 7 Panien 11, Centro Ursus, Warszawa",52.2039767,20.8803276
+922173623,2,True,3300,blok,44.0,2,700.0,"Ursus, Warszawa",52.1951226,20.8837885
+866134947,3,True,2300,blok,44.0,2,850.0,"ul. Wittiga, Tarchomin, Warszawa",52.3130576,20.9608058
+755213575,2,True,4000,blok,77.0,3,1130.0,"ul. Ekologiczna 16, 05-077 Kabaty, Warszawa",52.1298284,21.058514
+921796712,5,True,3299,apartamentowiec,40.0,2,558.0,"ul. Przy Agorze 6, Bielany, Warszawa",52.2942275,20.9420947
+923738621,4,True,2800,blok,37.4,2,600.0,"ul. Górczewska róg Płockiej, Warszawa",52.2371087,20.9653179
+923738767,2,False,3390,apartamentowiec,80.0,4,1700.0,"Sadyba, Warszawa",52.1868279,21.0638192
+923737680,2,True,2800,blok,67.0,3,1200.0,"ul. Meander, Warszawa",52.1404028,21.0537767
+923737044,4,True,2800,blok,37.45,2,600.0,"ul. Górczewska róg Płockiej, Warszawa",52.2371087,20.9653179
+676330281,5,True,2950,blok,34.5,1,600.0,"ul. Nocznickiego, Warszawa",52.2895803,20.92919
+922522460,9,True,2100,blok,47.0,2,1000.0,"ul. Międzynarodowa, Saska-Kępa, Warszawa",52.2358137,21.0650792
+923736034,11,True,3200,blok,48.0,2,515.0,"ul. Polna, Warszawa",52.2168657,21.0167806
+922835563,2,True,4000,blok,75.0,3,1000.0,"ul. Fabryczna, Stara Miłosna, Warszawa",52.2101889,21.2294411
+897814819,0,True,2500,blok,41.0,2,550.0,"ul. Sieczna 67, Białołęka, Warszawa",52.31724879999999,21.0762998
+784322286,3,True,3000,blok,29.0,1,530.0,"Fort Wola, Warszawa",52.2264922,20.9306028
+923299531,9,True,2700,blok,34.0,2,800.0,"ul. Okopowa róg Leszno, Warszawa",52.23807619999999,20.9785359
+917185874,1,True,7200,kamienica,74.0,3,,"ul. Jarosława Dąbrowskiego, Stary Mokotów, Warszawa",52.2007264,21.0113727
+923735377,4,False,4900,pozostale,55.0,3,600.0,"Solec 18, Warszawa",52.2325355,21.0387835
+923734016,2,True,3200,blok,30.0,2,800.0,"Warszawa, Wilanów",52.1561298,21.1116284
+791194353,3,False,2800,kamienica,37.0,2,200.0,"ul. Popiełuszki, Żoliborz, Warszawa",52.2669164,20.9766288
+886030375,1,True,3500,kamienica,34.0,2,1.0,"ul. Bonifrateska, Warszawa",52.2538524,21.0000071
+923733162,0,True,2300,blok,38.0,2,790.0,"ulica Kochanowskiego, Bielany, Warszawa",52.2686547,20.9451469
+920239035,3,True,2500,kamienica,23.0,1,500.0,"Żoliborz, Warszawa",52.26932859999999,20.9818745
+923732836,6,True,4200,apartamentowiec,52.0,2,850.0,"ul. Zwycięzców 40, Saską Kępa, Warszawa",52.2325576,21.0634674
+903587334,2,True,3100,blok,36.0,2,700.0,"Warszawa, Al. Jerozolimskie 194",52.1982806,20.9299455
+922851920,1,True,2800,blok,38.7,2,680.0,Warszawa Białołęka (Nova Sfera),52.2983633,21.0125882
+865766688,1,True,6500,kamienica,72.0,3,300.0,"ul. Ursynowska, Warszawa",52.1975395,21.0188435
+645665108,0,True,2500,blok,30.0,1,1.0,"ul. Pustola 22, Wola, Warszawa",52.2336433,20.9428627
+914331436,10,True,3000,blok,38.0,2,100.0,"ul. Radzymińska, Praga Północ, Warszawa",52.2694964,21.0609174
+895450139,2,True,4400,blok,65.0,3,1050.0,"Powązkowska, Warszawa Żoliborz",52.2593432,20.9608283
+923724476,4,True,1800,blok,25.0,1,500.0,"Warszawa, Pradze-południe",52.2416808,21.0840602
+738840971,1,True,2400,blok,38.0,2,1.0,"ul. Wyszogrodzka, Targówek-Bródno, Warszawa",52.2884523,21.0356194
+778413691,2,True,2890,kamienica,25.0,1,1.0,"Nowy Świat 52, Warszawa",52.2350536,21.0188555
+923723537,4,True,2800,kamienica,32.0,2,761.0,"Warszawa, ul. Kopińska",52.2176379,20.9754338
+863580896,1,True,2850,apartamentowiec,42.0,2,650.0,"ul. Krzyżówki 28A, Warszawa",52.3070976,20.9944886
+923280649,4,True,3500,blok,52.0,3,1.0,"ul. Orzycka 4, Warszawa",52.1717486,21.0075291
+923720218,3,True,3600,kamienica,57.0,3,980.0,"Ulica Długa, Warszawa",52.248009,21.0054609
+911740308,4,True,3700,kamienica,47.0,2,650.0,"ul. Solec, Warszawa",52.2321905,21.0388946
+741567672,5,True,3500,apartamentowiec,37.2,1,700.0,"ul. Kolejowa 43, Wola, Warszawa",52.2257696,20.9805266
+921170495,1,True,3100,blok,36.0,2,635.0,"ul. Szaserów 30A, Warszawa",52.2450528,21.1157793
+923717683,1,True,4500,apartamentowiec,42.0,2,1000.0,"Warszawa, PORT PRASKI",52.2489758,21.0320858
+919318447,0,True,2800,blok,50.0,2,500.0,"Saska Kępa, Warszawa",52.2323652,21.0608047
+918679349,8,True,2500,blok,35.0,1,800.0,"Metro Ratusz Arsenał, Warszawa",52.24489,21.0012
+881358828,1,True,3000,apartamentowiec,70.0,2,300.0,"Górczewska 246, Warszawa",52.2401085,20.8939813
+888687130,0,True,3700,blok,60.0,3,900.0,"Skarbka z Gór, Białołęka, Warszawa",52.3172627,21.0591052
+918705803,1,True,3199,apartamentowiec,58.0,3,980.0,"ulica Quo Vadis, Warszawa",52.2001298,20.8899542
+907748175,0,True,2790,blok,48.0,2,795.0,"Bohaterów Warszawy, Ursus, Warszawa",52.1936037,20.8909965
+779546076,11,True,3700,blok,30.0,2,1.0,"Rondo ONZ, Warszawa",52.2328461,20.9985246
+922393247,3,True,3500,blok,45.0,2,1000.0,"Al. Rzeczypospolitej 12, Miasteczko Wilanów, Warszawa",52.1631803,21.0710926
+923428453,3,True,2500,blok,43.0,2,800.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+911694972,0,True,2499,blok,40.0,2,500.0,"Metro Dw. Gdański, Warszawa",52.2580071,20.9945975
+653177894,1,True,2300,kamienica,30.0,1,530.0,"Szczęśliwicka 25, Warszawa",52.2161339,20.9710936
+900681504,5,True,3000,apartamentowiec,56.0,2,800.0,"ul. Jeziorańskiego, Gocław, Praga-Południe, Warszawa",52.2312337,21.0925229
+923054038,7,True,3000,apartamentowiec,45.0,2,890.0,"ul. Ogrodowa 49a, Warszawa",52.237523,20.9859188
+771442488,5,True,2850,apartamentowiec,54.0,2,1100.0,"ul. Przejazd 6, Warszawa",52.193454,20.988311
+907082245,5,True,2990,blok,31.0,1,647.0,"Dzielnica Bródno/Targówek, Warszawa",52.2884301,21.0307641
+923710284,6,True,4300,blok,46.0,2,650.0,"ul. Redutowa 25, Warszawa",52.23023689999999,20.941582
+923709476,11,False,4500,apartamentowiec,44.0,2,1153.0,"Wolska 45, Skierniewicka 34, Wola, Warszawa",52.2338332,20.968385
+923707942,1,True,3500,blok,49.0,2,,"ul. Szymanowskiego, Warszawa",52.2623679,21.032486
+920893814,3,True,4100,blok,60.0,3,1200.0,"ul. Marii Dąbrowskiej, Warszawa, Bielany",52.2734611,20.9330048
+923706068,5,True,3950,apartamentowiec,32.0,2,,"ul. Siedmiogrodzka 1a, Warszawa",52.2323713,20.9760495
+906129465,3,True,3500,blok,47.96,2,900.0,"ul. Racławicka, Warszawa",52.1966101,20.9941093
+911044102,5,False,5000,apartamentowiec,96.0,3,1300.0,"ul. Obrońców Tobruku, Bemowo, Warszawa",52.2591528,20.9362529
+923705016,3,True,2500,blok,34.0,1,500.0,"ul. Deyny 7, Bemowo, Warszawa",52.24131819999999,20.9019715
+923705619,1,True,2950,apartamentowiec,23.0,1,,"ulica Popularna 51, Warszawa",52.2034843,20.926942
+923709534,6,True,4200,apartamentowiec,41.0,2,690.0,"ul. Giełdowa 4, Warszawa",52.2307812,20.9758023
+923703545,4,True,3300,blok,52.0,2,850.0,"Warszawa, Nowolipki 12",52.24507999999999,20.991533
+923703138,1,True,4400,apartamentowiec,38.0,2,,"ul. Siedmiogrodzka 1a, Warszawa",52.2323713,20.9760495
+833112899,5,True,6100,blok,70.0,4,1140.9,"ul. Sonaty 6, Warszawa",52.1711967,21.0278642
+783352780,5,True,4000,blok,120.0,3,2200.0,"ul. Szeligowska 2, Bemowo, Warszawa",52.2174844,20.9012267
+888203746,6,True,2400,apartamentowiec,21.0,1,,"ul. Wolska 165, Warszawa",52.2258106,20.9431114
+864873603,2,True,1250,wolnostojacy,15.0,1,600.0,"Warszawa, Radość",52.1871349,21.1919633
+887958494,1,True,3290,apartamentowiec,50.0,2,770.0,"ul. Szeligowska 5, Warszawa",52.2177506,20.8992031
+923702507,1,True,3200,apartamentowiec,37.0,2,600.0,"ul. Fasolowa 16, Stare Włochy, Warszawa",52.19906,20.9098122
+923701768,9,True,3200,blok,32.0,2,,"księcia Janusza 62, Warszawa",52.244741,20.9404896
+923022983,9,True,2200,blok,31.0,1,,"ulica Wysockiego, Bródno, Warszawa",52.2876602,21.0207587
+916641262,4,True,2300,kamienica,20.0,1,400.0,"Al. Jana Pawła II 36, Warszawa",52.24051009999999,20.9955842
+905497702,1,True,4900,apartamentowiec,56.0,3,900.0,"Krzemieniecka 8, Warszawa",52.27513039999999,20.965525
+923700102,3,True,3000,blok,39.0,2,1.0,"ul. Przasnyska, Żoliborz, Warszawa",52.2608246,20.9682856
+923700393,5,True,2300,apartamentowiec,32.0,1,200.0,"Ul. Kasprzaka, Wola, Warszawa",52.227969,20.958856
+923700202,3,True,3500,blok,69.0,3,1200.0,"ul. Myśliborska, Białołęka, Warszawa",52.3130945,20.9643614
+923699584,2,True,3200,apartamentowiec,56.0,2,800.0,"ul. Sarmacka 1a, Miasteczko Wilanów, Warszawa",52.16716479999999,21.075982
+869910413,9,True,2800,blok,36.0,2,700.0,"ul. Siemiatycka, Warszawa",52.2271135,20.9012023
+763851927,3,True,4900,apartamentowiec,70.0,3,950.0,"ul. Postępu 12E, Warszawa",52.1770654,20.9983458
+841061496,2,True,4500,blok,60.0,3,750.0,"Warszawa, Ursus",52.1951226,20.8837885
+923699412,2,True,2100,blok,27.0,1,600.0,"ul. Podleśna, Bielany, Warszawa",52.2839833,20.9677569
+923698944,6,True,4700,apartamentowiec,50.0,3,958.0,"ul. Cybernetyki 3C, Warszawa",52.17504590000001,20.998964
+923698283,9,True,3500,blok,48.0,2,3500.0,"Warszawa, Warszawska Białołęka, Tarchomin",52.3168496,20.9586065
+918435545,1,True,3800,blok,40.0,2,750.0,"Warszawa, ul. Jutrzenki 114c",52.19274720000001,20.9329676
+914031196,0,True,2600,blok,47.3,2,925.77,"ul. Oczary, Białołęka-Tarchomin, Warszawa",52.3299702,20.9519254
+710022815,7,True,3300,blok,37.0,2,1.0,"Al. Stanów Zjednoczonych 72, Warszawa",52.24371550000001,21.0853086
+923696365,1,True,3000,blok,42.0,2,,"ul. Fasolowa, Warszawa",52.199309,20.9086874
+624371984,10,True,2000,blok,20.0,1,350.0,"róg ul. Żwirki i Wigury i ul. Racławickiej, Warszawa Ochota",52.2059888,20.9866658
+890167722,0,True,2700,blok,44.0,2,883.0,"Tarchomin, Nowodwory Pasłęcka, Warszawa",52.3315907,20.9488553
+923695261,6,False,2900,apartamentowiec,33.0,1,,"ul. Lazurowa, Warszawa",52.2326597,20.8968437
+914438263,6,True,7000,blok,100.0,4,2000.0,"Warszawa, WRZECIONO",52.2925973,20.9394164
+907504469,3,True,1990,apartamentowiec,18.0,1,400.0,"ul. Płochocińska 16A, Żerań, Białołęka, Warszawa",52.3093849,20.9896997
+907521945,3,True,1790,apartamentowiec,16.0,1,400.0,"ul. Płochocińska 16A, Żerań, Białołęka, Warszawa",52.3093849,20.9896997
+839986208,4,True,2700,blok,34.0,2,700.0,"Sady Żoliborskie, Warszawa",52.2598891,20.9659241
+821266052,3,True,3000,blok,38.0,2,700.0,"ul. Bogusławskiego, Bielany, Warszawa",52.2785217,20.9168395
+919908180,4,True,3500,blok,50.0,2,800.0,"Bielany, Warszawa",52.2933234,20.928664
+740527815,2,True,3200,blok,52.0,2,600.0,"ul. Zamoyskiego 49, Stara Praga, Warszawa",52.2481263,21.0504006
+750523616,1,True,3350,kamienica,50.0,2,650.0,"Warszawa, stary Mokotów",52.2033149,21.0101208
+922805097,3,True,2400,blok,38.0,1,430.0,"Ogród Saski, Warszawa",52.240265,21.0076336
+923688956,3,True,2500,blok,20.0,1,1.0,"ulica Pułku Baszta, Wierzbno, Warszawa",52.191087,21.0057475
+677632713,4,True,3900,kamienica,50.0,2,700.0,"Dolny Mokotów, Warszawa",52.2005721,21.029504
+638127093,1,True,2200,kamienica,38.0,1,0.01,"Praga Południe, Warszawa",52.2416808,21.0840602
+923684549,3,True,3200,blok,44.0,2,,"Warszawa, ul. Obywatelska, osiedle Zielona Italia, Włochy",52.2062491,20.8935153
+921731111,5,True,4900,apartamentowiec,50.0,2,755.0,"ul. Lazurowa, Bemowo, Warszawa",52.2326597,20.8968437
+916864678,11,True,17000,pozostale,77.0,2,1000.0,"ul. Twarda 4, Warszawa",52.2353745,21.0015863
+916923441,2,True,3500,blok,49.98,2,700.0,"Warszawa, ul. Beskidzka",52.2424402,21.116856
+872136577,1,True,2350,blok,46.0,2,800.0,"ul. Szklanych Domów, Praga Południe, Warszawa",52.2510905,21.0965397
+764894049,10,True,2800,blok,48.0,2,1100.0,"ul. Wolska 75, Warszawa",52.2324965,20.9627875
+920834718,4,True,2999,blok,54.0,2,951.0,"ul. Niska, Śródmieście, Warszawa",52.250702,20.9863681
+923640898,4,True,3900,apartamentowiec,34.0,2,600.0,"Aleja Jana Pawła II, Centrum, Warszawa",52.2452495,20.9908202
+923681565,10,True,2200,blok,27.0,1,500.0,"Warszawa, Bielany, metro Słodowiec",52.276943,20.959999
+911804920,0,True,3500,blok,38.0,2,500.0,"Powiśle, Warszawa",52.2407178,21.0258297
+923679690,0,True,2800,blok,32.0,1,1.0,"Warszawa, Powiśle",52.2407178,21.0258297
+877451257,,True,1400,apartamentowiec,70.0,3,1.0,Warszawa. Stare miasto,52.2477331,21.0136079
+802881990,7,True,3099,blok,45.0,2,560.0,"ul. Przerwana 13, dzielnica Włochy, Warszawa",52.1918904,20.9184758
+923679285,0,True,2300,wolnostojacy,25.0,1,1.0,"Warszawa, ul. Jeziorki",52.1292327,21.0047766
+854782568,0,True,4000,apartamentowiec,40.0,2,700.0,"ul. Maszynowa, Ochota, Warszawa",52.2020538,20.9510721
+921811354,7,True,4200,apartamentowiec,38.0,2,785.0,"ul. Gandalfa 1, Mokotów (Służewiec), Warszawa",52.1857796,20.9898831
+916868717,11,True,24000,pozostale,100.0,2,2000.0,"ul. Złota 44, Warszawa",52.2311697,21.0023775
+908184959,6,True,2300,apartamentowiec,18.0,1,400.0,"ul. Posag 7 Panien, Warszawa Ursus",52.2042812,20.8803311
+618354078,1,True,3300,blok,51.0,2,780.0,"ul. Zamkowa 4, Targówek, Warszawa",52.27413050000001,21.0792848
+795022896,4,False,8000,kamienica,106.0,4,1670.0,"Starego Żoliborza, Warszawa",52.2667563,20.9888273
+919473361,5,True,4000,apartamentowiec,30.0,2,600.0,"Grzybowska 37, Warszawa",52.23522490000001,20.9943577
+649903165,2,True,3000,kamienica,37.0,2,450.0,"ul. Jana Bytnara, Górny Mokotów, Warszawa",52.1928354,21.0072453
+916416637,8,True,3000,blok,36.0,2,750.0,"Śródmieście, Warszawa",52.2296756,21.0122287
+916759991,2,True,2900,blok,50.0,2,800.0,"Warszawa (Praga Południe, Grochów, przy Rondzie Wiatraczna)",52.245369,21.0848394
+777916773,2,True,3000,kamienica,38.0,2,450.0,"ul. Jana Bytnara, Mokotów, Warszawa",52.1928354,21.0072453
+917113422,1,False,3300,wolnostojacy,50.0,2,700.0,"Stare Miasto, Warszawa",52.2477331,21.0136079
+921012343,1,True,2500,blok,32.0,1,550.0,"Warszawa, Park Obwodu Praga Armii Krajowej",52.2468286,21.0731225
+737288857,2,True,3000,kamienica,55.0,3,834.0,"Muranów, Warszawa",52.2502507,20.9953916
+923673857,7,True,3100,blok,41.92,2,906.0,"ul. Jana Kazimierza, Wola, Warszawa",52.2229213,20.9393172
+645376046,2,True,3800,kamienica,48.0,2,800.0,"ul. Odolańska, Stary Mokotów, Warszawa",52.200938,21.0177634
+923671990,2,True,1500,wolnostojacy,16.0,3,1.0,"Warszawa, Stanisława Leszczyńskiego 8, Ursus",52.20606009999999,20.8665887
+923672226,5,True,3200,kamienica,34.0,1,,"ul. Andersa, Śródmieście, Warszawa",52.2517164,20.9981571
+692880389,1,True,3000,blok,25.0,1,300.0,"Warszawa, Wola ul. Ogrodowa",52.2385765,20.9880887
+920281825,2,True,2100,blok,19.0,1,450.0,"Grochowska 87, Warszawa",52.2403731,21.1081853
+923671772,3,True,3000,apartamentowiec,40.0,2,700.0,"osiedle Żoliborz Artystyczny, Warszawa",52.256132,20.96522
+923673909,2,True,3700,blok,49.2,2,800.0,"Warszawa, ul. Dzielna",52.2449663,20.987715
+918169983,1,True,3200,kamienica,50.0,3,0.01,"ul. Ruchliwa 21, Włochy, Warszawa",52.1754676,20.9471647
+923670554,4,False,3500,blok,47.0,3,800.0,"ul. Gojawiczyńskiej, Sady Żoliborzskie, Warszawa",52.2692246,20.9718481
+853863527,1,True,4500,blok,54.0,3,720.0,"Osiedle Nowe Bielany, Warszawa",52.29002029999999,20.9304017
+820361375,1,True,2800,blok,47.0,3,707.0,"Warszawa, Muranów",52.2502507,20.9953916
+923667884,4,True,3600,blok,52.0,2,800.0,"ul. Heleny Kozłowskiej, Mokotów, Warszawa",52.1958924,21.0516152
+916700144,4,True,3700,apartamentowiec,67.0,3,1000.0,"przy stacji Metra w Kabatach, Warszawa",52.1291577,21.0715129
+923667635,3,True,3200,apartamentowiec,45.0,3,635.0,"ul. Rechniewskiego, Praga Południe, Gocław, Warszawa",52.2269877,21.1048683
+922732781,1,True,2800,blok,32.0,1,,"ul. Redutowa, Warszawa-Wola",52.2307504,20.9420122
+697041328,0,True,2999,apartamentowiec,35.0,2,500.0,"ul. Jana Kazimierza 2, Warszawa",52.2223385,20.9361854
+656500313,1,True,2900,blok,35.0,1,1.0,"Warszawa, białołęka ul. Aluzyjna",52.3461975,20.9363419
+923419639,2,True,2300,blok,40.0,2,800.0,"Warszawa, ulica Kosynierów, Marki, pierwsza ulica od strony Warszawy",52.3062696,21.100637
+920443755,5,True,3500,blok,55.0,2,600.0,"ul. Fieldorfa, Praga-Południe, Warszawa",52.2272057,21.0935424
+923666867,4,True,900,blok,10.0,4,,"ul. Nowogrodzka 62 B, Warszawa",52.2265469,21.0010565
+923666627,8,True,2900,blok,45.0,2,700.0,"Metro Trocka, Warszawa",52.27547449999999,21.0562499
+916297700,1,True,2900,blok,50.0,2,750.0,"ul. Gotarda, Służewiec, Warszawa",52.1703322,21.0026349
+923044550,0,True,5000,blok,68.0,3,5000.0,"ul. Odkryta 50a, Warszawa",52.3345619,20.9384839
+817854148,2,True,4900,blok,85.0,4,1.0,"metro Stokłosy, Warszawa",52.1561672,21.0346073
+739796106,7,True,1900,blok,29.0,1,1.0,"Warszawa, ul. Etiudy Rewolucyjnej 9",52.191101,20.9896107
+661111023,0,True,3200,kamienica,46.0,3,700.0,"ul. Krakowskie Przedmieście, Warszawa",52.2426018,21.0150499
+758306925,2,False,2400,apartamentowiec,39.4,1,,"Kabaty, Warszawa",52.1291577,21.0715129
+866303511,3,True,1800,szeregowiec,16.0,1,300.0,"ul. Pięciu Stawów 8, Ursynów, Warszawa",52.1443555,21.0158512
+923660316,5,True,3300,apartamentowiec,44.0,2,600.0,"Warszawa Bielany, Metro Słodowiec",52.276943,20.959999
+923659589,,False,3200,pozostale,47.0,2,1.0,"ul. Powstańców Śląskich przy Połczyńskiej, Bemowo, Warszawa",52.2438169,20.912364
+784929800,4,True,4500,blok,53.0,3,560.0,"ul. Chłodna 2/18, Warszawa",52.2380624,20.9911185
+750332799,1,False,3000,kamienica,44.0,2,530.0,"ul. Wiktorska 92, Stary Mokotów, Warszawa",52.1982436,21.0045361
+777964878,8,True,2500,blok,28.0,1,550.0,"Rzymowskiego 47, Warszawa",52.17396249999999,21.0020082
+923638143,2,True,3500,apartamentowiec,42.0,2,700.0,"Warszawa, Ursynów, Aleje Jana Rodowicza ""Anody""",52.1615874,21.0386979
+923657257,5,True,3000,apartamentowiec,25.0,1,200.0,"ul. Marii Rodziewiczówny 1, Warszawa",52.2339634,21.112508
+842956411,6,True,3500,blok,54.0,1,1.0,"ul. Łukowska, Warszawa",52.2375229,21.1028382
+835636705,3,True,2700,apartamentowiec,46.0,1,500.0,"ul. Woronicza, Mokotów, Warszawa",52.1890001,21.0033015
+824030442,8,True,2800,blok,38.5,2,700.0,"Saska Kępa, Warszawa",52.2323652,21.0608047
+921511511,3,True,3500,kamienica,34.0,2,,"ulica Podskarbińska, Warszawa",52.252098,21.0741978
+913053110,1,True,4300,apartamentowiec,56.0,3,400.0,"ul. Młodnicka 17, Warszawa",52.243575,21.1365926
+908052923,1,True,3300,blok,45.0,2,700.0,"ul. Kasprzaka, Warszawa",52.227969,20.958856
+919045695,1,True,5000,apartamentowiec,54.0,3,890.0,"ul. Holzera 3, Wilanów, Warszawa",52.1552987,21.0839209
+909702277,1,True,2600,blok,40.0,2,1000.0,"ul. Lubartowska 8, Praga Południe, Warszawa",52.2442627,21.1009278
+778314943,0,True,2600,blok,32.0,1,1.0,"osiedle Zielona Dolina, Warszawa",52.34308309999999,21.0517965
+850620464,,True,3000,blok,44.0,2,650.0,"Sokołowska, Warszawa, Wola",52.2360375,20.9595694
+917066700,9,True,2750,blok,48.0,2,,"ul. Nicejska 1, Warszawa",52.1757719,21.0495351
+923652455,1,True,2500,blok,30.0,3,750.0,"Warszawa, ul. 1-go Sierpnia",52.2296756,21.0122287
+892956507,0,True,3450,blok,62.0,2,800.0,"Ursus, Warszawa",52.1951226,20.8837885
+834171713,7,True,4200,blok,54.0,2,950.0,"Warszawa, Green Ochota, Warsaw",52.2103359,20.9712206
+833788362,6,True,6000,pozostale,52.0,2,600.0,"ul. Marcina Kasprzaka 31A, Wola, Warszawa",52.2269381,20.9534043
+918068930,3,True,3850,blok,50.0,2,600.0,"Warszawa, metro Kabaty",52.1312925,21.0657398
+922331041,1,True,2900,blok,35.0,2,825.0,"ul. Markowska 3, Warszawa",52.2515504,21.0449617
+921093351,3,True,3500,kamienica,38.0,3,1200.0,"ul. Saskiej Kępy, Warszawa",52.2323652,21.0608047
+923646996,5,True,2998,pozostale,24.0,1,,"ul. Białej Floty/Żwirki i Wigury, Mokotów, Warszawa",52.1934323,20.9805272
+917782090,2,True,2850,blok,38.0,2,700.0,"ul. Życzliwa, Warszawa",52.3139149,20.9727646
+762398501,0,True,4850,blok,71.0,3,800.0,"Warszawa, Gorczewska 255d",52.23851939999999,20.8954172
+923644204,9,False,2400,blok,28.0,1,1.0,"ul. Lizbońska, Warszawa",52.228068,21.0664348
+755625289,1,True,2400,blok,27.0,1,630.0,"ul. Herbsta, Warszawa",52.1536224,21.0306853
+922153938,3,True,2500,blok,28.0,1,,"Mokotow, Warszawa",52.194157,21.0346955
+923642167,2,True,3200,blok,38.0,2,800.0,"ul. Łopuszańska 55, Miasteczko Nova Ochota, Warszawa",52.193605,20.9385271
+923641593,8,True,3200,blok,29.4,2,600.0,"Górnośląska 3, Warszawa",52.22566279999999,21.0405186
+922753600,2,True,2300,blok,30.0,1,835.0,"ul. Odyńca, Mokotów, Warszawa",52.1959902,21.013328
+923640261,4,True,5500,kamienica,88.5,4,1500.0,"Al. Niepodległości, Warszawa",52.2008836,21.0113016
+857705406,1,True,3700,blok,55.0,3,800.0,"Warszawa, Bemowo, okolice metra",52.250785,20.9190258
+885889694,1,True,2600,apartamentowiec,20.0,1,450.0,"ul. Szczęsna, Warszawa",52.2097544,20.9304474
+922972198,1,True,2600,kamienica,24.0,1,500.0,"ul. Obrońców Helu, Warszawa",52.1926049,20.8928137
+623234123,6,False,6500,apartamentowiec,122.0,3,,"Al. Jana Pawła II, Warszawa",52.2452495,20.9908202
+918648243,11,True,3300,blok,45.0,2,870.0,"ul. Ostrobramska 83, Warszawa",52.2342089,21.0995755
+919424144,2,True,3600,apartamentowiec,50.0,2,707.0,"ul. Floriańska, Warszawa",52.2520577,21.0321734
+923637504,2,True,4450,blok,41.0,2,,"Szwedzka 4, Warszawa",52.260931,21.0465968
+923296020,2,True,3300,kamienica,45.0,2,856.0,"Al.Solidarności, Muranów, Warszawa",52.2442892,21.0014313
+679384611,6,True,3500,apartamentowiec,34.0,2,600.0,"ul. Skierniewicka 34, Warszawa",52.2327808,20.9688363
+840650282,2,True,4500,blok,58.0,3,800.0,"ul. Rakowiecka, Warszawa",52.2079759,21.0104211
+922746665,0,True,3500,blok,64.0,2,875.0,"ul. Sokratesa, Bielany, Warszawa",52.2851312,20.9289567
+653479029,3,True,3400,kamienica,50.0,2,636.3,"plac Wilsona, Żoliborz, Warszawa",52.2688189,20.9862739
+923635258,0,True,2200,blok,31.0,1,600.0,"ul. Żółkiewskiego, Praga Południe, Warszawa",52.2452307,21.1093276
+923634208,2,True,3000,kamienica,53.0,3,,"Stare Bielany, Warszawa",52.2800772,20.9469787
+923634168,6,True,3700,blok,42.0,2,620.0,"ul. Lazurowa 19, Warszawa",52.2262265,20.8967927
+922093476,3,True,2200,apartamentowiec,11.0,1,,"ul. Tytoniowa 1, Warszawa",52.2342382,21.1284539
+921959638,0,True,2500,blok,20.0,1,300.0,"ul. Radarowa, Okęcie, Warszawa",52.1892111,20.9643281
+787962215,1,True,2350,blok,56.0,2,850.0,"ul. Skarbka z Gór 65, Białołęka, Warszawa",52.3225718,21.0567322
+687762463,6,True,2400,blok,35.0,2,600.0,"ul. Myśliborska, Tarchomin, Warszawa",52.3155337,20.9618916
+761781105,0,True,1500,wolnostojacy,25.0,1,400.0,"ul. Bartycka, Warszawa",52.2126045,21.0604251
+923632841,2,True,3400,apartamentowiec,50.0,3,600.0,"ulica Belliniego, Białołęka, Warszawa",52.3451183,21.0507443
+876050308,,True,2700,blok,26.0,1,500.0,Warszawa Bielany,52.2933234,20.928664
+922501999,4,True,2800,blok,37.0,2,700.0,"Al Jerozolimskie 135, Ochota, Warszawa",52.2229462,20.9838103
+917683318,1,True,4500,apartamentowiec,44.0,2,800.0,"Elektoralna 12a, Centrum, Warszawa",52.2409227,20.995942
+774568593,1,True,3100,blok,52.0,2,,"ul. Kołacińska, Warszawa",52.3245553,20.9804733
+852671142,7,True,2000,blok,20.0,1,650.0,"Al. Solidarności róg Żelaznej, Warszawa",52.2398447,20.987072
+801469575,5,True,2800,blok,32.0,1,550.0,"ulica Borsucza 55, Warszawa Włochy",52.1969734,20.955082
+923630800,2,True,1500,blok,10.0,3,,"Wola, Warszawa",52.2333751,20.9571835
+840631237,4,True,2900,blok,49.0,2,790.0,"osiedle Zielone Zacisze, Warszawa",52.2898491,21.0523041
+831146290,0,False,2500,blok,38.0,2,1.0,"PKP Rembertów, Warszawa",52.2571739,21.1577792
+604220424,9,True,3200,blok,30.0,1,1.0,"ul. Wiślicka, Ochota, Warszawa",52.2030058,20.9779132
+849898538,7,True,2800,blok,49.0,2,700.0,"ul. Wspólna Droga, Warszawa",52.2470903,21.0970667
+923629467,9,True,3400,apartamentowiec,51.0,2,820.0,"Al. Jerozolimskie 151, 02-326 Warszawa",52.2211939,20.9768517
+923628858,4,True,2900,apartamentowiec,25.0,1,250.0,"Warszawa, ul. Wolska 171",52.2253012,20.9394587
+720862433,6,True,2500,blok,35.0,2,500.0,"ul. Kościeszów, Tarchomin, Białołęka, Warszawa",52.3179363,20.9680976
+923627443,1,True,2360,kamienica,30.0,1,640.0,"Ul. Pawła Suzina, Stary Żoliborz, Warszawa",52.2688176,20.9804125
+900401642,4,True,2800,apartamentowiec,31.0,1,450.0,"ul. Grochowska, Warszawa",52.2449097,21.0887778
+847887275,2,True,2640,blok,34.0,2,560.0,"ul. Orlow Piastowskich, Ursus - Gołabki, Warszawa",52.2011898,20.8680314
+923625731,4,True,3900,apartamentowiec,35.0,2,,"ul. Wynalazek 3e, Warszawa",52.1790635,20.9920195
+701633982,5,True,3000,blok,51.62,3,660.0,"ul. Marywilksa, Warszawa",52.3091379,21.0051338
+923624455,6,True,4000,apartamentowiec,44.5,2,,"ul. Pełczyńskiego, Bemowo, Warszawa",52.243441,20.9075295
+874333362,8,True,4200,apartamentowiec,44.0,2,661.1,"ul. Kasprzaka 29a, 01-211 Warszawa",52.2268913,20.9556478
+922247249,6,True,4400,apartamentowiec,44.0,2,300.0,"ul. Solec 18, Warszawa",52.2325355,21.0387835
+923590326,4,True,4000,blok,55.0,3,850.0,"ul. Dzieci Warszawy 40c, Ursus, Warszawa",52.1965121,20.9015852
+875415791,-1,True,2500,wolnostojacy,50.0,1,1.0,"ul. Mosiężna, Warszawa",52.2854114,21.076818
+861852070,2,True,4900,blok,58.0,3,900.0,"ul. Krzemieniecka 10, Warszawa",52.2747366,20.9664551
+923620763,2,True,4500,blok,65.0,3,1100.0,"Żoliborz Artystyczny, Warszawa",52.256132,20.96522
+923620602,11,True,2900,blok,28.0,2,1.0,"ul. Chłodna 11, Warszawa",52.23767849999999,20.9918614
+821481972,1,True,3400,blok,1.0,2,1.0,"Warszawa, ul. Andersa 21B",52.2505756,20.9977401
+922295052,0,True,2600,blok,36.0,2,660.0,"ul. Dywizjonu 303 113, Warszawa",52.2464453,20.9097526
+923610874,6,True,5500,kamienica,78.0,3,1300.0,"ul. Targowa, Praga-Północ, Warszawa",52.2507286,21.0395226
+923610802,5,True,2500,kamienica,33.0,1,1.0,"Warszawa, aleja Niepodległości",52.2008836,21.0113016
+913280534,9,True,2400,blok,27.0,1,400.0,"Galeria Ursynów, ul. KEN i Belgradzka, Natolin, Warszawa",52.13969710000001,21.0586222
+803462652,0,True,4000,blok,57.0,3,1172.01,"Warszawa, Mokotów",52.194157,21.0346955
+748960160,1,True,2500,blok,34.0,2,600.0,"ul. Szeligowska 10, Bemowo, Warszawa",52.2193078,20.8989606
+835629236,4,True,3150,apartamentowiec,35.0,2,700.0,"Skierniewicka 34, Wola, Warszawa",52.2327808,20.9688363
+789519567,1,True,4500,apartamentowiec,62.0,3,950.0,"ul. Jutrzenki, Warszawa",52.1913964,20.9279354
+923603023,2,True,2900,apartamentowiec,31.0,1,520.0,"Port Praski, Warszawa",52.2489758,21.0320858
+895005780,9,True,1600,blok,22.0,1,500.0,"ul. Św Bonifacego, Sadyba, Warszawa",52.1835356,21.0586861
+917572738,6,True,6000,blok,108.0,4,1804.0,"Marina Mokotów, Warszawa",52.1959337,20.9889769
+923601100,2,True,4000,wolnostojacy,70.0,3,,"Warszawa, Warszawski Wawer",52.1962166,21.1782251
+917867789,3,False,3800,apartamentowiec,52.0,2,800.0,"ul. Lazurowa 15, Warszawa",52.2246343,20.8962437
+923599109,2,True,2200,blok,38.0,2,750.0,"Grochów, Warszawa Praga Południe",52.2397633,21.0869276
+806730286,3,True,2299,kamienica,23.0,1,430.0,"Marszałkowska róg Wspólnej, Warszawa",52.2271007,21.0135175
+921602472,3,True,2800,blok,47.0,2,550.0,"ul. Grottgera 12A, Warszawa",52.2059417,21.0298612
+846037347,4,True,3400,apartamentowiec,52.0,2,890.0,"Jasnodworska, Żoliborz, Warszawa",52.2621557,20.9588206
+923596348,3,True,3200,apartamentowiec,43.0,2,639.0,"ul. Habicha 17, Ursus, Warszawa",52.2052245,20.8796089
+923596405,11,False,8000,blok,135.0,4,,"Bukowińska 22, Warszawa",52.18085259999999,21.026075
+921347989,3,True,9000,apartamentowiec,104.0,4,,"Warszawa, Rezydencja Sienna, centrum Warszawy",52.230823,20.9964345
+871877997,3,True,2800,blok,63.0,2,1200.0,"ul. Gdecka, Grochów, Warszawa",52.2405379,21.1009973
+918965687,3,True,3500,apartamentowiec,42.0,2,550.0,"ul. Chodkiewicza, Mokotów, Warszawa",52.2030807,20.9960449
+659168349,5,True,3500,apartamentowiec,43.0,2,650.0,"ul. Cybernetyki, Mokotów Służewiec, Warszawa",52.1763606,20.9944114
+923593577,4,True,3000,blok,38.5,2,650.0,"ulica Pruszkowska, Ochota, Warszawa",52.2018074,20.9795006
+923594193,4,True,4100,apartamentowiec,54.0,2,1000.0,"ul. Szczęśliwicka, Ochota, Warszawa",52.2145328,20.969015
+856011380,1,True,4000,kamienica,54.0,2,546.4,"ul. Zamoyskiego, Praga Południe, Warszawa",52.2477355,21.0457033
+858401062,3,True,3300,blok,49.0,2,875.0,"ul. Sosnowskiego 2, Ursynów, Warszawa",52.1542809,21.0288674
+921360001,11,True,2790,blok,46.0,2,,"ul. Klaudyny, Bielany, Warszawa",52.2825278,20.9722026
+809875965,0,True,2700,blok,36.0,1,1.0,"metro Służew, Warszawa",52.17343959999999,21.0266339
+865747889,0,True,2400,blok,39.7,1,690.0,"Wawrzyniec, Warszawa",52.2270636,20.9442049
+759291856,3,True,2500,blok,43.0,2,1000.0,"Stary Żoliborz, Warszawa",52.2667563,20.9888273
+854749165,,True,2700,apartamentowiec,43.0,2,480.0,"ul. Skoroszewska, Warszawa",52.1904745,20.8999725
+922279576,0,True,3300,blok,43.0,2,710.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+660675896,11,True,2100,blok,30.0,1,500.0,"ul. Kędzierskiego, Bemowo, Warszawa",52.2519758,20.9187568
+917002218,2,True,2600,kamienica,47.0,2,700.0,"Warszawa, Praga Północ",52.26330050000001,21.0283169
+757517142,3,True,4000,apartamentowiec,85.0,3,1.0,"ul. Ryżowa, Skorosze, Ursus, Stare Włochy, Warszawa",52.192209,20.9081966
+885185618,1,True,3000,blok,64.0,3,1100.0,"ul. Miączyńska 56, Warszawa",52.19378,20.9917099
+919720250,4,True,3800,apartamentowiec,67.0,3,1000.0,"ul. Al. KEN, Ursynów, Kabaty, Warszawa",52.132339,21.06474
+917963140,3,True,5300,blok,132.0,4,,"Warszawa, Białołęka, Warsaw",52.32898789999999,21.0076793
+758974202,6,True,4200,blok,74.0,4,1.0,"ul. Ryżowa 41 C, Ursus - Stare Włochy, Warszawa",52.1902852,20.9072696
+923585174,7,True,3999,blok,65.6,3,1070.0,"ul. Jana Brożka, Wola, Warszawa",52.2423631,20.9391198
+841982512,2,True,4500,kamienica,52.5,2,780.0,"ul. Barska, Stara Ochota, Warszawa",52.2188712,20.9788301
+814450575,1,True,3500,apartamentowiec,51.0,2,500.0,"ul. Lazurowa 11, Bemowo, Warszawa",52.2235929,20.8959773
+828672155,1,False,3300,apartamentowiec,56.0,2,750.0,"ul. Mikołajczyka, Warszawa",52.2290611,21.1011427
+838006228,1,True,2600,blok,37.0,2,710.0,"ul. Okrzei, Warszawa",52.2505479,21.0338393
+916970872,3,True,3000,blok,42.0,2,750.0,"ul. Olbrachta, Warszawa",52.2338792,20.928441
+693206212,4,True,2700,apartamentowiec,36.0,1,600.0,"ul. Racjonalizacji, Warszawa",52.1873064,20.992825
+921762976,3,True,2500,blok,44.0,2,700.0,"ul. Krzyżówki, Białołęka, Warszawa",52.3078468,20.9938462
+922662322,0,True,1400,wolnostojacy,35.0,1,,"ul. Poranna, Warszawa",52.2803954,21.0658428
+913271831,4,True,1800,blok,24.0,1,500.0,"ul. Międzyborska 23, Praga Południe, Warszawa",52.2334371,21.0855558
+847287355,0,True,2800,blok,30.4,1,450.0,"ul. Janowiecka 17a, Warszawa",52.2753263,21.086102
+697220127,0,True,2500,kamienica,18.6,1,500.0,"Warszawa, ul. Nowolipie, Warsaw",52.2445746,20.9908244
+784162205,2,True,3300,blok,30.0,2,300.0,"Warszawa, ul. Postępu 12",52.176897,20.9966073
+923539756,5,True,1500,blok,1.0,4,,"ul. Łucka, Warszawa",52.2322355,20.9873257
+908847995,4,True,3500,apartamentowiec,43.5,2,690.0,"ulica Konstruktorska, Mokotów, Warszawa",52.1855149,20.9943781
+923576221,,True,2700,blok,42.0,2,800.0,"ul. Żeromskiego, Bielany, Warszawa",52.2765326,20.9515904
+923575497,7,True,5800,blok,66.0,3,911.31,"ul. Marcina Kasprzaka 29A, Warszawa",52.2268913,20.9556478
+774790613,2,True,3100,apartamentowiec,40.0,2,800.0,"ul. Puławska przy Wałbrzyskiej, Warszawa",52.1734489,21.0290498
+923574614,,True,3000,blok,56.0,3,1000.0,"ul. Okularowa, Warszawa",52.2409789,21.1368987
+908513879,0,True,3400,blok,42.0,2,1.0,"Ostródzka 135, Warszawa",52.3195847,21.0488993
+910159212,0,True,2950,blok,60.0,2,700.0,"Dolny Mokotów, Warszawa",52.2005721,21.029504
+919670169,2,True,2300,blok,32.0,1,2300.0,"ul. Puławska, Mokotów, Warszawa",52.1899564,21.0243597
+923573962,2,True,300,blok,30.0,1,1.0,"Warszawa, centrum miasta, przy metrze ONZ",52.2330811,20.998285
+907508809,7,True,5200,apartamentowiec,56.0,3,800.0,"Ul. Kłopot 4, Warszawa",52.257549,20.9797303
+766515837,2,False,3000,apartamentowiec,58.0,2,1000.0,"ul. Czerniakowska 131, Mokotów, Warszawa",52.2099053,21.0469045
+923572065,4,True,2700,blok,50.0,2,690.0,"ul. Zadumana 3/5, Ochota, Warszawa",52.20405340000001,20.9489379
+919597805,8,True,4000,apartamentowiec,52.0,2,500.0,"ul. Jana Kazimierza 12, Warszawa",52.22615020000001,20.9484877
+923575529,5,True,3000,apartamentowiec,38.45,2,600.0,"ul. Lazurowa, Warszawa",52.2326597,20.8968437
+923571204,1,True,1900,blok,26.0,1,600.0,"ul. Szegedyńska, Bielany, Warszawa",52.2911564,20.9437695
+923284034,7,True,2700,blok,27.0,1,500.0,"Tamka 49, Warszawa",52.236219,21.0208178
+922770705,7,True,5900,apartamentowiec,50.0,2,900.0,"Oxygen Residence, Warszawa",52.2345305,20.9842731
+923570288,8,True,8000,apartamentowiec,105.0,2,1000.0,"Mokotów, przy metrze Wilanowska, Warszawa",52.194157,21.0346955
+816866084,2,True,4800,blok,62.0,3,1100.0,"Malborska 14, Warszawa",52.2957932,21.0512521
+923568686,,True,2500,blok,30.0,1,,"ul. Geodetów, Warszawa",52.2046875,20.9689865
+918941718,1,True,1850,blok,45.0,2,,"Praga-Południe, Warszawa",52.2416808,21.0840602
+923567798,2,True,2200,blok,25.0,1,710.0,"Żoliborz, Warszawa",52.26932859999999,20.9818745
+923567212,6,True,2300,apartamentowiec,48.0,2,600.0,"ul. Dzieci Warszawy, Ursus Skorosze, Warszawa",52.1939509,20.9025545
+923362914,4,True,2300,kamienica,20.0,1,400.0,"Ul. Jana Pawła II 36, Warszawa",52.24051009999999,20.9955842
+798812205,7,True,3400,blok,40.0,2,650.0,"ulica Posag 7 Panien 9, Warszawa",52.2044353,20.8815856
+885363383,5,True,2500,blok,35.0,2,650.0,"Ul. Marywilska 60c, Białołęka, Warszawa",52.3200633,21.0008062
+913073846,8,True,4500,blok,75.0,4,1000.0,"ul. Herbu Oksza 14, Warszawa",52.203298,20.8851516
+833736042,3,True,2400,apartamentowiec,63.0,2,1100.0,"Warszawa, ul. Powstańców Śląskich",52.2438169,20.912364
+740711194,0,True,2800,apartamentowiec,50.0,2,800.0,"ul. Sokołowska 9, Warszawa",52.2346993,20.9596215
+923563623,0,True,2350,apartamentowiec,25.0,1,,"ul. Fraszka, Warszawa Wesoła",52.219483,21.250265
+921415827,5,True,4390,blok,52.34,2,600.0,"Zielony Żoliborz, Warszawa",52.1971623,20.9956886
+595771490,3,True,3000,apartamentowiec,21.0,1,400.0,"Prymasa Tysiąclecia 83a, Warszawa, Wola",52.226098,20.9568279
+922258057,4,True,2500,blok,34.0,1,700.0,"Myśliborska, Tarchomin, Warszawa",52.3155337,20.9618916
+681503785,2,True,3000,kamienica,46.0,2,850.0,"ul. Stare Bielany, Warszawa",52.2523288,21.0099873
+770323422,1,True,3500,blok,54.0,3,1.0,"ul. Marywilskiej 65, Białołęka, Warszawa",52.3177728,20.997214
+923559685,5,True,3500,blok,41.44,2,,"ul. Znanieckiego 2A, Warszawa",52.2234459,21.1038179
+922209085,6,True,3300,apartamentowiec,38.0,2,650.0,"ul. Stańczyka 2, Warszawa",52.2226136,20.9577704
+789692395,2,True,2950,blok,43.5,2,550.0,"ul. Odkryta, Tarchomin, Warszawa",52.3320834,20.9357682
+909724808,6,False,2500,blok,39.0,1,1.0,"ul. Malborska róg Kondratowicza, Warszawa",52.2918913,21.0485298
+923556755,3,False,6600,apartamentowiec,82.3,3,800.0,"Miasteczko Wilanów, Ostoja Wilanów, Warszawa",52.1648005,21.0741926
+918887259,1,True,3500,blok,39.0,2,,"ul. 11 Listopada 56, Praga Północ, Warszawa",52.2652411,21.038904
+920869636,3,True,4800,blok,46.0,3,1.0,"ul. Pańska 57, Warszawa",52.231932,20.9956624
+778699905,2,True,3200,kamienica,51.0,2,700.0,"Warszawa, ul. Czerska",52.2050533,21.0455863
+661383805,4,True,3200,apartamentowiec,40.0,1,,"Sadach Żoliborskich, Warszawa",52.26837159999999,20.9897152
+921667561,2,True,2400,kamienica,34.0,1,1.0,"ul. Bolesława Chrobrego 25, Warszawa Włochy",52.2019788,20.915225
+923550366,3,True,2800,blok,40.0,2,700.0,"ul. Stanisławowska, Praga Południe, Warszawa",52.2502328,21.0709179
+754936891,6,True,2700,blok,34.0,1,1.0,"Warszawa, Warszawskie Ursynów",52.13785439999999,21.0291229
+822421548,0,True,2490,blok,37.0,1,500.0,"ul. Płaskowicka 44, Ursynów, Warszawa",52.1415063,21.0345993
+850686329,8,True,2600,apartamentowiec,30.63,1,657.0,"ul. Rodziny Połanieckich 29, Warszawa",52.2758761,20.9148874
+711714310,1,True,2400,blok,25.0,1,600.0,"Warszawa, ul. Symboliczna",52.2210706,20.9341862
+621857259,1,True,3300,blok,42.0,2,,"ul. Kosiarzy, Wilanów, Warszawa",52.1708397,21.0798987
+756263844,3,True,6100,blok,80.0,3,1.0,"ul. Dolna 11, Mokotów, Warszawa",52.2001042,21.0321096
+810507070,1,True,3300,apartamentowiec,51.0,2,800.0,"ul. Zwycięzców 40, Warszawa",52.2325576,21.0634674
+923547136,11,True,5300,apartamentowiec,31.0,2,700.0,"ul. Grzybowska 37, Warszawa",52.23522490000001,20.9943577
+916440880,1,False,5100,blok,75.0,4,,"Metro Szwedzka, Warszawa",52.2352339,21.0084455
+863181932,2,False,9550,kamienica,68.03,3,1200.0,"ul. Koszykowa 59, Warszawa",52.2224118,21.0120866
+825607437,0,True,2650,kamienica,24.0,1,350.0,"Rakowiecka 1/3, Warszawa",52.2095299,21.0204182
+909347425,2,True,3250,apartamentowiec,40.0,2,700.0,"ul. Herbu Oksza 14, Ursus, Warszawa",52.203298,20.8851516
+809821304,1,True,4000,blok,68.0,3,1000.0,"ul. A. Kamińskiego, Białołęka, Warszawa",52.3220076,20.9524834
+918692824,1,True,2649,blok,25.06,1,,"Strzelecka 24, Warszawa",52.26198429999999,21.0420024
+923541866,6,True,2000,blok,29.0,1,600.0,"ul. Kinowa 25, Praga Południe, Warszawa",52.2438891,21.0703955
+914505389,4,True,3400,blok,40.0,3,600.0,"ul. Aleksandra Kotsisa 8C, Praga Północ, Warszawa",52.27622599999999,21.0172216
+923538792,5,True,11000,apartamentowiec,70.0,3,1000.0,Warszawa,52.2296756,21.0122287
+895591317,,True,4000,apartamentowiec,30.0,1,,"ul. Galopu 7, Warszawa",52.1562121,21.0033567
+917391904,1,True,2700,apartamentowiec,50.0,2,800.0,"ul. Bora Komorowskiego, Warszawa",52.2255572,21.0890155
+923081871,1,True,3100,kamienica,40.0,2,600.0,"ul. Zegadłowicza 4, Warszawa",52.2278654,20.9723353
+923547142,1,False,5300,blok,85.5,4,1085.0,"ul. Solipska 33, Warszawa",52.2012756,20.9068909
+872662066,4,True,4000,blok,53.0,3,500.0,"ul. Jana Kazimierza 12, Warszawa",52.22615020000001,20.9484877
+922318996,9,True,2600,blok,38.0,2,750.0,"Al. Jerozolimskie 131, Warszawa",52.2234492,20.9857762
+669065719,4,True,2400,blok,50.0,2,1000.0,"ul. Królowej Marysieńki, Wilanów, Warszawa",52.1720853,21.0738813
+866821020,6,True,2900,blok,40.0,2,1.0,"Targówek, Warszawa",52.2823819,21.0653678
+923536316,1,True,4050,blok,40.0,2,690.0,"ul. Jerzego Holzera, Wilanów, Warszawa",52.1567794,21.0848733
+923514968,0,True,2650,apartamentowiec,37.0,1,700.0,"ulica Sarmacka 1, Wilanów, Warszawa",52.1667409,21.0762724
+923535387,5,True,4700,blok,50.0,2,500.0,"ul. Domaniewska 47A, Mokotów, Warszawa",52.18248939999999,20.9929795
+912310448,4,True,4000,blok,65.0,3,1500.0,"ul. Zegadłowicza 1, Warszawa",52.2281734,20.9716568
+792404150,1,True,1900,wolnostojacy,40.0,1,400.0,"Warszawa, Anin, blisko Wawer",52.22014009999999,21.1790119
+807313729,0,True,4700,blok,70.0,3,900.0,"ulica Egejska, Mokotów, Warszawa",52.1786362,21.0585005
+923535816,,False,2500,pozostale,30.0,1,,"Grochowska 355, Warszawa",52.246963,21.0553609
+840341039,1,True,2700,blok,37.0,2,800.0,"ul. Jana Olbrachta, Wola, Warszawa",52.2338003,20.9295749
+923533404,8,True,3300,apartamentowiec,56.0,2,1.0,"Warszawa, ul. Grójecka 194",52.2011987,20.9670541
+783717971,11,True,3500,blok,32.0,2,800.0,"Prymasa Tysiąclecia 83A, Warszawa",52.226098,20.9568279
+923540259,0,False,3500,blok,53.0,3,800.0,"ul. Ogólna 7, Bielany, Warszawa",52.2719399,20.9629229
+661077670,0,True,2200,kamienica,40.0,2,900.0,"ul. Skarbka z Gór 134B, Białołęka, Warszawa",52.3221533,21.0598276
+923532759,5,True,2900,blok,63.5,3,1100.0,"ul. Rosy Bailly, Warszawa",52.2485862,20.9254422
+631483386,1,True,2500,blok,37.0,2,500.0,"Warszawa, ul. Powstańców Śląskich 45",52.2299915,20.91446
+830831180,1,True,2900,blok,43.0,2,637.0,"Liwiecka, Gocławek, Warszawa",52.2415841,21.1180495
+893065730,1,True,3500,blok,52.0,2,1.0,"Ul. Wiśniowy Sad, Białołęka, Warszawa",52.313504,21.0265703
+923528905,2,True,2900,blok,40.0,2,600.0,"ul. Malawskiego, Mokotów, Warszawa",52.189723,20.9907244
+923529569,10,True,3200,blok,36.5,2,300.0,"ul. Prymasa Tysiąclecia, Warszawa",52.235382,20.9559186
+778909941,3,True,4300,apartamentowiec,47.0,2,720.0,"ulica Hubnera 2, Warszawa",52.2581382,20.9694346
+910510733,5,False,3000,blok,39.03,2,715.0,"ul. Edwarda Habicha, Warszawa-Ursus",52.2044563,20.8808517
+908556157,2,True,4500,blok,64.1,3,1165.0,"ul. Lazurowa 12, Warszawa",52.22451969999999,20.898491
+923529641,1,True,3100,blok,32.0,2,500.0,"ul. Podskarbińska, Aleje Praskie, Warszawa",52.254576,21.0741722
+923525569,8,True,2500,blok,31.0,1,630.0,"Ursynów, Warszawa",52.13785439999999,21.0291229
+672874923,3,True,3350,apartamentowiec,45.0,2,750.0,"ul. Rzeczypospolitej 8, Wilanów, Warszawa",52.1592901,21.074177
+909931951,7,True,1850,blok,20.0,1,311.0,"ul. Sanocka, Rakowiec, Warszawa",52.2035757,20.9823078
+923492747,0,True,3500,apartamentowiec,45.0,2,997.0,"ul. Wileńska 14B, Warszawa",52.2584837,21.0425878
+861336745,2,True,2900,blok,32.0,2,480.0,"ul. Łopuszańska 51, Nova Ochota, Warszawa",52.1930439,20.9406341
+923522827,2,True,3300,pozostale,40.0,2,600.0,Warszawa,52.2296756,21.0122287
+784244936,0,True,2800,blok,30.0,1,500.0,"ul. Próchnika, Żoliborz, Warszawa",52.2679901,20.9799263
+923521090,2,True,2900,blok,41.0,2,700.0,Warszawa Grochów,52.2397633,21.0869276
+923521311,0,False,4200,kamienica,52.0,2,,"Pl. Bankowy, Warszawa",52.2433888,21.0022238
+837912907,0,True,2800,blok,44.0,2,1.0,"ul. Aluzyjna 33f, Białołęka, Warszawa",52.34809689999999,20.939625
+923521895,2,False,5000,kamienica,55.0,3,920.0,"ul. Żeromskiego, Stare Bielany, Warszawa",52.2763004,20.9536872
+923522869,2,True,7500,blok,119.0,4,2000.0,"ul. Literacka, Bielany, Warszawa",52.2648142,20.9516958
+923518084,1,True,4700,apartamentowiec,60.0,3,950.0,"Rydygiera 11, Żoliborz, Warszawa",52.26040399999999,20.9774129
+923517609,3,True,2590,apartamentowiec,28.0,1,690.0,"ul. Ludwika Rydygiera 18, Żoliborz, Warszawa",52.258943,20.9715449
+923527729,4,True,3100,pozostale,60.0,2,700.0,"ulica Motorowa, Warszawa",52.2339127,21.0816053
+657858014,5,True,2850,apartamentowiec,45.0,1,1016.0,"ul. Malborska, Bródno, Warszawa",52.2989097,21.0636348
+923522060,0,True,3500,blok,49.5,2,,"ul. Hemara, Białołęka, Warszawa",52.3265338,21.0403192
+774676786,5,True,4400,blok,65.0,3,1.0,"Metro Płocka, Warszawa",52.23296819999999,20.965985
+923522829,3,False,3100,blok,36.0,2,650.0,"ulica Lazurowa, Bemowo, Warszawa",52.2326597,20.8968437
+923526665,0,True,8100,blok,75.0,3,1642.0,"ul. Sarmacka, Wilanów, Warszawa",52.1604733,21.0784774
+923522835,0,True,3200,pozostale,52.0,2,,"ul. Mickiewicza, Stary Żoliborz, Warszawa",52.268365,20.9868244
+917325546,3,True,4500,blok,53.0,2,770.0,"Kaliny Jędrusik, Żoliborz Artystyczny, Warszawa",52.256132,20.96522
+923522831,1,False,4300,kamienica,50.0,2,700.0,"ul. Nowogrodzka, Warszawa",52.2271187,21.0045967
+923522845,0,True,10000,pozostale,125.0,4,1000.0,"ul. Ruczaj, Wilanów, Warszawa",52.1469137,21.1185077
+605983768,2,True,2700,apartamentowiec,38.0,1,400.0,"Osiedle Park Leśny, Warszawa",52.3365484,20.9456466
+921545642,3,True,3800,kamienica,57.0,3,1000.0,"ul. Długa, Śródmieście, Warszawa",52.248009,21.0054609
+886478762,4,True,4000,apartamentowiec,47.0,2,700.0,"Warszawa, Mokotów",52.194157,21.0346955
+923522849,5,True,3600,blok,56.0,3,,"ul. Aleja Stanów Zjednoczonych, Warszawa",52.2325187,21.0742131
+916893130,3,True,2750,pozostale,52.0,2,805.0,"ul. Pileckiego 132, Ursynów, Warszawa",52.1480632,21.0358956
+922088510,1,True,2300,apartamentowiec,45.0,2,850.0,"ul. Aluzyjna, Białołęka, Warszawa",52.3461975,20.9363419
+923522858,0,True,2650,blok,40.0,1,700.0,"Nowy Wilanów, Warszawa",52.1561298,21.1116284
+679735166,8,True,14000,apartamentowiec,135.0,4,2000.0,"Polach Mokotowskich, Mokotów, Warszawa",52.2126297,21.0034235
+707071185,4,True,7900,apartamentowiec,83.0,3,1.0,"Giełdowa, Wola, Warszawa",52.2306533,20.9756919
+774343396,8,True,2700,blok,40.0,3,700.0,"ul. Wiślicka, Ochota, Warszawa",52.2030058,20.9779132
+788040897,1,True,3000,blok,37.0,2,750.0,"Saska Kępa, Warszawa",52.2323652,21.0608047
+923508576,4,True,1800,blok,25.0,1,,"ul. Szaserów 115, Warszawa",52.24799489999999,21.0963434
+916929088,1,True,5400,blok,65.0,3,850.0,"Ulica Sejmu Czteroletniego 2, Miasteczko Wilanów, Warszawa",52.1566099,21.0722967
+923508624,5,True,5980,apartamentowiec,59.0,3,1000.0,"ul. Ordona 12F, Warszawa",52.2249369,20.9523131
+923507727,0,True,8100,blok,75.0,3,1642.0,"ul. Sarmacka, Wilanów, Warszawa",52.1604733,21.0784774
+918290446,4,True,2500,blok,28.0,1,1.0,"ul. Obozowa, Warszawa",52.2472813,20.9545336
+923506813,,True,2500,kamienica,26.0,1,1.0,"Warszawa, ul. Sienna - Śródmieście",52.2307286,20.9959931
+918216837,7,True,2700,apartamentowiec,40.0,2,600.0,"Wola, Warszawa",52.2333751,20.9571835
+923506393,1,True,3200,kamienica,35.0,2,750.0,"ul. Szymanowskiego, Warszawa",52.2623679,21.032486
+923506291,0,True,3500,blok,38.0,2,1000.0,"Saska Kępa, Warszawa",52.2323652,21.0608047
+741902549,3,True,2990,apartamentowiec,35.0,1,444.0,"ul. Sokratesa 9, Warszawa",52.2838521,20.926816
+922069791,0,True,3500,apartamentowiec,42.0,2,675.0,"ul. Siennicka, Warszawa",52.2489601,21.0774559
+923505862,5,True,2700,blok,30.0,1,607.0,"ul. Solec, Warszawa",52.2321905,21.0388946
+750452406,2,True,3500,blok,43.0,2,1.0,"Warszawa, ulica Umińskiego",52.2264688,21.0992057
+732556284,1,True,2700,blok,36.0,2,600.0,"Mokotów, Warszawa",52.194157,21.0346955
+923507390,3,False,3750,blok,59.89,3,805.0,"os. Rewir, Mińska 69b, Warszawa",52.2518495,21.0707835
+919000348,5,True,3200,apartamentowiec,42.0,2,520.0,"ul. Floriana Znaniackiego, Praga-Południe, Warszawa",52.2250369,21.1047836
+923503026,1,False,2000,blok,25.0,1,700.0,"ul. Szaserów i Serocka, Warszawa",52.247068,21.1016718
+910592328,7,True,3600,blok,68.0,3,1000.0,"Warszawa, Natolin",52.1382389,21.0525916
+923507019,0,True,5000,apartamentowiec,48.0,2,,"Warszawa, Serce Pragi, przy metrze Dworzec Wileński",52.2471608,21.0344245
+923506206,1,True,3300,blok,45.0,1,990.0,"ul. Sarmacka 17, Miasteczko Wilanów, Warszawa",52.1589693,21.0814106
+856218654,0,True,3200,blok,49.0,2,688.0,"ul. Sardyńska, Stegny Południe, Mokotów, Warszawa",52.1784875,21.0531318
+923505916,3,True,2750,blok,38.5,2,800.0,"Warszawa, Na Woli",52.2333751,20.9571835
+923498310,9,True,5000,apartamentowiec,34.0,2,500.0,"ul. Żelazna, Warszawa",52.2346688,20.9907818
+923498002,7,True,2700,blok,37.5,1,675.0,"ul. Fabryczna, Powiśle, Warszawa",52.2407178,21.0258297
+863426193,1,False,3700,wolnostojacy,87.0,4,150.0,"ul. Patriotów, Warszawa Wawer",52.1835877,21.1888817
+923496036,4,True,2500,blok,44.17,2,,"Karolkowa 58, Wola, Warszawa",52.2369997,20.9383447
+923498408,5,True,3800,apartamentowiec,38.0,2,650.0,"osiedle ""Mój Ursus"", Warszawa",52.204527,20.8816476
+903543424,2,True,3600,blok,45.0,2,600.0,"ulica Składkowskiego 3, Warszawa",52.1894187,20.9006916
+793676302,3,False,4650,pozostale,28.0,1,1.0,"ul. Krochmalna 58, Browary Warszawskie, Warszawa",52.235408,20.9851834
+923437578,6,True,3700,blok,38.0,2,,"ul. Grójecka 101, Ochota, Warszawa",52.2076573,20.9743839
+733116459,2,True,3500,kamienica,32.0,2,,"ul. Nowowiejska, Warszawa",52.2200565,21.0076693
+923491917,1,True,3150,apartamentowiec,30.59,1,500.0,"ul. Pożaryskiego, Warszawa",52.20849,21.1726073
+833739981,11,True,4400,apartamentowiec,37.0,2,700.0,"ul. Kasprzaka 29, Wola, Warszawa",52.2271258,20.9570063
+923492458,4,True,4200,blok,45.0,2,500.0,"ulica Szwedzka, Warszawa",52.2640965,21.0427622
+916700569,5,True,2890,blok,50.0,2,850.0,"Malawskiego 7, Mokotów, Warszawa",52.1895506,20.9895905
+923489799,4,True,2500,blok,37.0,1,500.0,"ul. Sokratesa, Bielany, Warszawa",52.2851312,20.9289567
+818917580,8,True,2700,apartamentowiec,19.0,1,1.0,"ul. Kasprzaka 29, Warszawa",52.2271258,20.9570063
+914169696,2,True,1590,kamienica,47.0,2,980.0,"ul. Noakowskiego 10, Warszawa",52.2213164,21.0112418
+923489909,0,True,2300,kamienica,30.0,1,,Warszawa Mokotów Dolny,52.2005721,21.029504
+746988752,,True,2900,blok,30.0,2,560.0,"ul. Hoża, Warszawa",52.2260478,21.0133538
+923489728,1,True,3200,apartamentowiec,42.0,2,700.0,"ul. Racjonalizacji 3, Mokotów, Warszawa",52.18667199999999,20.9925244
+923489233,2,False,2700,pozostale,49.0,2,800.0,"Al. Ken, Warszawa",52.1475204,21.0489998
+923488472,5,True,6000,blok,112.0,4,1701.0,"ul. Wielicka, Mokotów, Warszawa",52.186962,21.021859
+923487919,1,True,5000,blok,58.0,3,800.0,"ul. Kaliskiego, Boernerowo, Warszawa",52.2577586,20.897714
+838815352,2,True,2890,blok,84.0,3,1290.0,"Warszawa, Sulmierzycka 4, Włochy",52.1917316,20.9710369
+770864328,1,True,2500,blok,32.0,2,500.0,"metro Trocka, Warszawa",52.27547449999999,21.0562499
+880459317,2,True,4182,blok,60.0,3,611.0,"Warszawa, Praga Południe",52.2416808,21.0840602
+669486316,2,True,3800,blok,45.0,2,800.0,"Śródmieście, okolica Placu Zbawiciela, Warszawa",52.2200027,21.0176897
+817757590,5,True,2400,blok,16.0,1,1.0,"Warszawa, Saska Kępa, Warsaw",52.2323652,21.0608047
+923483823,9,True,2500,blok,35.0,1,650.0,"Wawrzyszew, Warszawa",52.2828976,20.9317479
+923483702,5,True,7500,apartamentowiec,122.0,4,1500.0,"Warszawa, Grzybowska Street, Warsaw",52.2346688,20.9907818
+895996061,,True,3999,apartamentowiec,76.0,3,1000.0,"ul. Księcia Janusza, Warszawa",52.2442006,20.9400676
+923481790,3,True,2600,blok,38.0,2,526.0,"ul. Dionizosa 7B, Warszawa",52.3373253,20.9499976
+605419949,5,True,4000,blok,36.0,2,600.0,"Kaliny Jędrusik 6, Żoliborz, Warszawa",52.2556252,20.9647986
+923478312,11,True,2400,apartamentowiec,30.5,1,1.0,"Orzycka 6, Warszawa",52.17206669999999,21.0066739
+913692792,9,True,2300,blok,40.0,2,700.0,"ul. Solec, Śródmieście, Warszawa",52.2321905,21.0388946
+923476654,1,True,3800,apartamentowiec,50.0,2,,"ul. Dygata, Żoliborz, Warszawa",52.2555273,20.9675252
+923476623,5,True,2500,blok,32.0,1,1000.0,"ul. Jana Kazimierza 49, Warszawa",52.2216075,20.934516
+920568272,7,True,2300,blok,28.0,1,385.0,"ul. Broniewskiego, Żoliborz-Bielany, Warszawa",52.2682465,20.9582809
+923474777,5,True,1400,blok,38.0,1,1100.0,"Warszawa, ul. Bogusławskiego 6, Bielany",52.2769872,20.9157512
+923473531,0,True,3000,apartamentowiec,31.0,1,574.0,"Powązkowska St., Żoliborz Artystyczny, Warszawa",52.256132,20.96522
+923471623,1,False,4900,pozostale,56.0,3,900.0,"ul. Krzemieniecka, Żoliborz, Warszawa",52.2749076,20.965314
+923470813,5,False,9500,kamienica,144.0,4,1.0,"ul. Zimna, Warszawa Śródmieście",52.2402358,20.9997737
+830570002,5,True,2700,apartamentowiec,31.0,1,550.0,"stacja Szwedzka, Warszawa",52.2640965,21.0427622
+917241032,6,True,5000,apartamentowiec,88.0,3,1300.0,"ul. Orzycka, Mokotów, Warszawa",52.1727969,21.0047751
+921556289,4,True,6100,apartamentowiec,40.0,2,900.0,"ul. Siedmiogrodzka 3, Warszawa",52.2318608,20.9752107
+923468674,8,True,5000,blok,89.0,4,1500.0,"ul. Klaudyny, Bielany, Warszawa",52.2825278,20.9722026
+923468114,4,True,3300,blok,65.0,3,1600.0,"ul. Melchiora Wańkowicza, Ursynów - Kabaty, Warszawa",52.1334047,21.0660575
+837299228,0,True,3700,blok,56.0,3,750.0,"ul. Ostródzka, Warszawa",52.3218585,21.0493786
+916212217,3,True,2900,apartamentowiec,43.0,2,600.0,"ul. Ceramiczna 5, Białołęka, Warszawa",52.3208376,20.9659313
+923047070,4,True,2650,kamienica,27.0,1,1.0,"Warszawa, Warszawska Wola",52.2333751,20.9571835
+923466855,6,True,2500,blok,44.0,2,1000.0,"ul. Nugat 9, Ursynów, Warszawa",52.1552819,21.0511287
+666357418,1,True,3500,kamienica,70.0,3,,"Zwoleńska, Wawer-Międzylesie, Warszawa",52.2015747,21.1583882
+918239649,5,True,2500,blok,39.29,2,,"ul. Przasnyska 11, Warszawa",52.2607531,20.9680837
+914312103,2,True,2600,apartamentowiec,40.0,2,1.0,"ul. Korkowa, Wawer, Warszawa",52.2393142,21.1529794
+806561414,1,True,2400,blok,48.0,3,800.0,"Osiedle Niedźwiadek, Warszawa",52.19336939999999,20.8676675
+888570976,4,True,4639,apartamentowiec,66.0,4,708.0,"Warszawa, Praga Południe",52.2416808,21.0840602
+880978415,3,True,3275,blok,39.65,2,409.0,"ul. Żupnicza 30, Praga, Warszawa",52.2534991,21.0728124
+923461960,,True,2600,blok,37.0,2,800.0,"Warszawa, Al. Stanów Zjednoczonych/Ostrobramska",52.2337218,21.0761904
+691803945,6,True,3700,apartamentowiec,50.5,2,750.0,"ul. Mińska 23, Warszawa",52.24833719999999,21.059138
+877402556,0,True,4520,blok,64.0,3,677.0,"Warszawa, ul. Żupnicza 30A",52.2527451,21.070787
+923461503,3,True,3000,apartamentowiec,30.0,1,,"ulica Józefa Siemieńskiego 3, Ochota, Warszawa",52.2077721,20.9776891
+923458777,3,True,3200,kamienica,50.0,3,0.01,"Stoczkowska 9, Warszawa, Praga Południe",52.24360840000001,21.1058177
+923458715,0,True,7000,apartamentowiec,65.5,3,1300.0,"Warszawa, nie znaleziono informacji o adresie",52.2296756,21.0122287
+923461736,3,True,3000,kamienica,40.0,2,750.0,"Kielecka 3, Warszawa",52.2014112,21.0068119
+918891522,1,True,3100,blok,46.91,2,880.0,"ul. Dąbrowskiego, Stary Mokotów, Warszawa",52.2007264,21.0113727
+778391110,4,True,2800,blok,39.0,2,640.0,"ul. Sierpińskiego 1A, Ochota, Warszawa",52.2000639,20.9685737
+893088537,4,True,4249,blok,61.0,3,643.0,"Warszawa, Praga Południe",52.2416808,21.0840602
+923462050,5,True,2800,apartamentowiec,32.0,1,447.0,"Żupnicza 14, Warszawa (teren SOHO Factory)",52.250969,21.061924
+923454534,3,True,3000,blok,38.0,2,550.0,"Warszawa, ul. Łopuszańska 55A",52.192593,20.9377591
+923463366,1,True,3600,kamienica,40.0,2,700.0,"Stępińska 3, Warszawa",52.2025803,21.0374366
+923453820,4,True,1900,blok,23.0,1,400.0,"Warszawa, ul. Jana Pawła",52.2452495,20.9908202
+923458798,3,True,3400,apartamentowiec,33.0,2,760.0,"Sienna 65, Warszawa",52.2307997,20.9968887
+915176072,5,True,3650,pozostale,30.0,2,,"ul. Kasprowicza 48, Stare Bielany, Warszawa",52.2810289,20.9519425
+923452876,5,True,2500,kamienica,22.0,1,540.0,"Plac Grzybowski, Warszawa",52.236311,21.0030001
+921849320,10,True,3100,blok,65.0,3,900.0,"Bemowo, Warszawa",52.2409067,20.9113297
+923452569,11,True,3700,blok,68.0,3,1000.0,"Praga Południe, Warszawa",52.2416808,21.0840602
+683533798,4,True,4000,apartamentowiec,40.0,2,,"ul. Wołoska, Mokotów, Warszawa",52.1899919,21.0016905
+916817010,11,True,4450,apartamentowiec,37.12,2,850.0,"ulica Kasprzaka 29, Warszawa",52.2271258,20.9570063
+923450763,9,True,3760,blok,34.0,2,460.0,"ul. Pohoskiego 1, Warszawa",52.1783758,21.0295086
+923450122,4,True,3250,apartamentowiec,32.0,2,700.0,"ul. Siedmiogrodzka, Warszawa",52.2317586,20.9735513
+907296733,10,True,2500,blok,27.0,1,500.0,"Bielany, Warszawa",52.2933234,20.928664
+916772304,2,True,3800,apartamentowiec,43.0,2,500.0,"ul. Sarmacka, Miasteczko Wilanów, Warszawa",52.1648005,21.0741926
+861520069,7,True,15000,apartamentowiec,86.18,4,1600.0,"Mennica Residence, Gdańsk, Warszawa",52.2296756,21.0122287
+923448231,1,True,3700,apartamentowiec,38.0,2,700.0,"ul. Siedmiogrodzka, Warszawa",52.2317586,20.9735513
+914186316,4,True,2200,kamienica,20.0,1,400.0,"al. Jana Pawła II, Warszawa",52.2452495,20.9908202
+848666807,5,True,3500,blok,53.0,2,1.0,"ul. Osmańczyka, Bemowo, Warszawa",52.25964,20.9309922
+909917454,8,True,3000,blok,50.0,2,875.0,"Mokotów, Warszawa",52.194157,21.0346955
+568682643,2,True,2400,apartamentowiec,29.0,1,820.0,"ul. Popularna 7, Stare Włochy, Warszawa",52.2055967,20.9181076
+923447522,6,True,4300,kamienica,50.4,2,700.0,"ul. Marszałkowska 136, Warszawa",52.2356588,21.0088611
+923446822,2,False,3600,kamienica,43.0,2,990.0,"Stary Żoliborz, Warszawa",52.2667563,20.9888273
+911870772,1,True,4303,blok,64.0,3,644.0,"Żupnicza 32, Warszawa",52.2529324,21.0718051
+853042310,2,True,3328,blok,39.0,2,367.0,"Warszawa, Żupnicza",52.2519401,21.0648952
+876938054,3,True,3338,blok,40.0,2,399.0,"Żupnicza 30, Warszawa",52.2534991,21.0728124
+877140419,1,True,4297,blok,64.0,3,651.0,"Żupnicza 28A, Praga Południe, Warszawa",52.2523951,21.0696021
+655524056,0,True,2900,kamienica,45.0,3,500.0,"Międzylesie, Wawer, Warszawa",52.2093198,21.1922283
+923212542,4,True,2800,kamienica,32.0,1,1.0,"ul. Korytnicka 23, Grochów, Warszawa",52.2415021,21.087499
+918741460,5,True,3000,blok,32.0,1,450.0,"ul. Lazurowa, Warszawa",52.2326597,20.8968437
+920937926,2,True,2500,blok,38.0,2,800.0,"Wola, Warszawa",52.2333751,20.9571835
+918230430,11,True,3500,blok,38.72,2,420.0,"Warszawa, Mokotów",52.194157,21.0346955
+923300342,3,True,3610,blok,42.48,2,460.0,"ul. Bokserska, Mokotów, Warszawa",52.1693334,20.9986089
+897037689,4,False,2200,blok,37.0,2,750.0,"ulica Łabiszyńska, Targówek, Bródno, Warszawa",52.2968085,21.0330249
+805377437,,True,6800,apartamentowiec,110.0,4,1800.0,"Warszawa, Jana Nowaka Jeziorańskiego 9",52.2297715,21.1053598
+923439102,1,True,2000,blok,27.48,1,600.0,"ul. Międzyborska 19, Praga Południe, Warszawa",52.2329488,21.0861008
+824780782,4,True,5000,apartamentowiec,75.0,3,1250.0,"ul. Hanki Czaki, Żoliborz, Warszawa",52.2702932,20.9754932
+827207684,0,True,6000,apartamentowiec,66.0,3,1000.0,"Ulica Obornicka 29, Wilanów, Warszawa",52.1675464,21.0803195
+826570672,0,True,2000,blok,30.0,2,700.0,"ul. Wiślicka, Ochota, Warszawa",52.2030058,20.9779132
+669986208,5,True,2500,apartamentowiec,30.0,1,500.0,"ul. Górczewska 224, Warszawa",52.2402024,20.9015546
+650489699,3,True,2500,blok,43.0,2,1054.0,"Targowa róg Ratuszowej, Warszawa",52.257746,21.0318538
+918169299,4,True,2500,kamienica,40.0,2,0.01,"Stoczkowska 9, Praga Południe, Warszawa",52.24360840000001,21.1058177
+849107432,2,True,3900,apartamentowiec,52.0,2,900.0,"ul. Woronicza, Warszawa",52.1890016,21.003581
+910229853,2,True,2800,blok,44.0,2,800.0,"Warszawa, ul. Gocławska",52.2479121,21.0636241
+861286391,0,True,3600,apartamentowiec,38.0,2,600.0,"ul. Marywilksa 17a, Warszawa",52.2296756,21.0122287
+923433951,3,True,3100,blok,46.6,2,700.0,"ul. Międzyborska 113, Warszawa",52.2446219,21.074371
+793774643,2,True,3000,blok,79.0,4,620.48,"ul. Dalii, Stara Miłosna, Warszawa",52.2123258,21.2424142
+923434515,2,False,2800,blok,37.0,1,600.0,"Międzyborska 21, Gocław, Warszawa",52.2332795,21.08554
+860435129,2,True,3300,apartamentowiec,35.0,2,700.0,"ul. Złoty Potok, Warszawa, osiedle Harmony Park",52.1601828,20.9943073
+765609776,5,True,4000,apartamentowiec,50.0,2,1.0,"Bemowo-Jelonki, Warszawa",52.235585,20.9096456
+851769301,2,True,4200,apartamentowiec,69.0,3,1000.0,"Osiedle Piecyka, Targówek, Warszawa",52.2823819,21.0653678
+856196627,3,True,2700,blok,24.0,1,400.0,"ul. Wiktoryn 6, Stare Włochy, Warszawa",52.2047251,20.9365115
+770737487,1,True,1850,blok,56.0,4,1850.0,"Ochota, Warszawa",52.2103359,20.9712206
+695890996,2,True,3700,apartamentowiec,42.0,2,688.0,"ul. Taśmowa, Mokotów, Warszawa",52.1785639,20.9894679
+634745610,0,True,2300,blok,17.0,1,300.0,"ul. Puszczyka 8, Warszawa",52.15899479999999,21.0247555
+923426942,4,True,4100,blok,48.0,3,880.0,"Warszawa, brak informacji",52.2296756,21.0122287
+900240427,0,True,2650,apartamentowiec,37.0,1,700.0,"ul. Sarmacka 1, Nowy Wilanów, Warszawa",52.1667409,21.0762724
+923422308,4,True,3400,blok,53.0,3,900.0,"ul. Krymska, Stegny, Warszawa",52.1839197,21.0519111
+644025099,1,True,4200,apartamentowiec,55.0,2,1250.0,"Powiśle, róg ul. Dobrej i Lipowej, Warszawa",52.2435807,21.0221313
+923420490,1,True,3500,blok,37.0,2,1.0,"ul. Kasprowicza 72, Warszawa",52.2872368,20.938691
+915303088,5,True,4100,apartamentowiec,40.0,2,900.0,"ul. Ludwiki, Wola, Warszawa",52.2301906,20.9624746
+914644604,3,True,4900,blok,75.1,3,785.0,"ul. Wilanowska, Warszawa",52.2298189,21.0383174
+923418675,3,True,2550,apartamentowiec,16.0,1,,"Suwak 13, Warszawa",52.1880104,20.9879281
+920494922,2,True,6100,kamienica,58.0,3,,"Warszawa, ulica C. Śniegockiej 7",52.2267476,21.0366663
+923418216,0,True,2200,blok,28.0,1,450.0,"Wola, Warszawa",52.2333751,20.9571835
+923417366,0,True,3000,blok,54.0,3,750.0,"ul. Ceramiczna, Białołęka-Tarchomin, Warszawa",52.3217874,20.9627575
+922152535,1,True,2200,blok,24.5,1,,"ul. Przy Agorze, Bielany, Warszawa",52.2924205,20.9383828
+923416920,4,True,4950,blok,78.0,3,1150.0,"Warszawa, Metro Wilanowska",52.1816258,21.0228732
+914227374,1,True,3200,blok,47.0,2,800.0,"ulica Górczewska 200c, Warszawa",52.2406643,20.9096367
+923415188,7,True,3000,blok,38.0,2,500.0,"ul. Popiełuszki, Żoliborz, Warszawa",52.2669164,20.9766288
+923415069,4,True,3500,apartamentowiec,42.0,2,500.0,"Warszawa, ul. Budki Szczęśliwickie 35",52.2076582,20.9372715
+687211420,1,True,2290,wolnostojacy,18.0,1,1.0,"Skrzyżowanie ulic Ciszewskiego i Pileckiego, Ursynów, Warszawa",52.1557785,21.0425332
+923414483,4,True,3500,blok,44.71,2,650.0,"ul. Sztuk Pięknych 1, Odolany, Warszawa",52.2213651,20.936249
+854711333,10,True,3500,blok,40.0,2,700.0,"Czerniakowska 30, Mokotów, Warszawa",52.2030875,21.0505432
+923413947,5,True,2650,blok,25.0,1,,"Jagiellońska, Rondo Starzyńskiego, Warszawa",52.26332240000001,21.0215302
+923414059,4,True,3700,blok,45.0,2,680.0,"ul. Bokserska 71 A, Warszawa",52.1708963,20.9906036
+923413262,10,True,2500,blok,51.0,2,500.0,"ul. Włościańska, Warszawa",52.2705651,20.9654957
+923412019,4,True,10000,apartamentowiec,80.0,3,1000.0,"Rondo Daszyńskiego, Warszawa",52.2300538,20.984534
+923412691,8,True,3000,blok,40.0,2,1.0,"Al. Jerozolimskie, Ochota, Warszawa",52.2188657,20.9690955
+916833342,1,True,2900,blok,49.0,2,430.0,"ul. Kopalniana, Bemowo, Warszawa",52.2196486,20.894303
+923363313,5,False,9500,kamienica,144.0,4,1.0,"ul. Zimna, Warszawa Śródmieście",52.2402358,20.9997737
+923410882,0,True,2600,apartamentowiec,38.0,2,650.0,"ul. Daniszewskiej 31, Warszawa Białołęka",52.3123661,21.0246996
+920891192,5,True,3600,blok,56.0,3,,"Al. Stanów Zjednoczonych, Gocław, Warszawa",52.2325187,21.0742131
+923410463,4,True,3800,apartamentowiec,71.7,3,1200.0,"ulica Bora-Komorowskiego, Osiedle Saska, Gocław, Warszawa",52.2255572,21.0890155
+918108097,6,True,3200,wolnostojacy,38.0,2,1.0,"Śliska, Warszawa",52.2320038,20.9995607
+918774563,3,True,2800,kamienica,33.0,1,1.0,"Warszawa, Al. Solidarności",52.2467852,21.014601
+907270084,5,True,2700,blok,39.0,2,600.0,"ul. Wolska 117, Warszawa",52.2291864,20.9515446
+921448080,2,True,3000,blok,33.0,2,,"ulica Włodkowica, Białołęka, Warszawa",52.3091454,21.0249391
+923410635,3,True,4500,apartamentowiec,38.0,2,,"ul. Siedmiogrodzka 3, Warszawa",52.2318608,20.9752107
+923407200,7,True,5900,apartamentowiec,50.0,2,900.0,"Oxygen Residence, Warszawa",52.2345305,20.9842731
+923406146,,True,1600,blok,35.0,2,,"Bielany, Warszawa",52.2933234,20.928664
+780931459,0,True,3200,blok,65.0,3,1156.87,"ul. Głębocka 56 F, Warszawa",52.3105975,21.0697605
+763454888,7,True,2900,blok,34.0,2,2900.0,"ul. Karmelicka 19, Muranów, Warszawa",52.2486593,20.99096
+694144507,5,True,2900,blok,49.89,2,1000.0,"Ul. Na Uboczu 20, Warszawa",52.141793,21.0478614
+876531904,0,True,3400,apartamentowiec,62.0,2,704.0,"Fortach Bema, Warszawa",52.2282282,20.9593143
+804683121,2,True,3300,blok,42.0,2,600.0,"ulica Posąg 7 Panien, Ursus, Warszawa",52.2042812,20.8803311
+923395372,2,True,2300,wolnostojacy,20.0,1,,"ul. Jordanowska, Gocławek, Warszawa",52.2370191,21.1271596
+913943715,2,True,3300,apartamentowiec,32.0,2,250.0,"Postępu 12C, Mokotów, Warszawa",52.1773181,20.9968559
+916675682,1,True,3100,apartamentowiec,35.0,2,580.0,"ul. Komputerowa 8, Mokotów, Warszawa",52.1755272,20.9916206
+813617575,0,True,3600,kamienica,60.0,3,200.0,"Warszawa, ul. Kazimierza Wielkiego",52.1896522,20.9546136
+923393612,6,True,3250,blok,39.0,2,750.0,"ul. Zwycięzców, Saskiej Kępie, Warszawa",52.2322056,21.0594862
+917450583,4,True,2750,blok,50.0,2,770.0,"ul. Myśliborska, Tarchomin, Warszawa",52.3155337,20.9618916
+923391379,11,False,2800,blok,46.0,2,,"Warszawa, centrum Ursynowa",52.1507387,21.0450927
+923390537,6,True,5500,apartamentowiec,55.0,3,100.0,"Resi4Rent Wilanowska, Warszawa",52.178314,21.0300127
+923390063,0,True,3160,apartamentowiec,40.28,2,750.0,"Warszawa, Kokoryczki",52.2342371,21.1230479
+923389863,4,True,3000,apartamentowiec,21.2,1,1.0,"Warszawska Wola (róg Kasprzaka i Alei Prymasa Tysiąclecia), Centrum Warszawy, Warszawa",52.2357125,20.9559259
+815908490,4,True,3100,blok,38.0,2,580.0,"Żerań, Warszawa",52.3129114,20.9948343
+923387252,1,True,2900,blok,30.0,2,,"Powiśle, Warszawa",52.2407178,21.0258297
+864101893,5,True,3090,blok,45.0,2,800.0,"NOWOGRODZKA 78, OCHOTA, Warszawa",52.2246252,20.9922967
+902499660,6,True,3300,blok,44.0,2,600.0,"Cybernetyki 4A, Warszawa",52.1762487,20.9988011
+923386608,0,True,2200,blok,22.0,1,420.0,"Anielewicza, Warszawa",52.2466668,20.9865335
+903948035,4,True,3100,blok,52.44,2,818.0,"ul. Pełczyńskiego, Bemowo, Warszawa",52.243441,20.9075295
+922578327,7,True,2200,blok,18.0,1,,"ul. Wiktoryn, Warszawa",52.2039133,20.936067
+923384891,7,True,4200,blok,57.0,3,700.0,"ul. Mariana Smoluchowskiego, Warszawa",52.1776576,21.0127384
+660647105,0,True,2350,blok,36.0,1,480.0,"osiedle Tarchomin, Warszawa",52.3204551,20.9633057
+923348325,1,True,2500,kamienica,28.0,1,,"ul. Skaryszewska, Kamionek, Warszawa",52.2494423,21.049258
+711860251,3,True,2200,blok,26.5,1,491.0,"ul. Anielewicza 27, Warszawa Wola",52.2459105,20.9867598
+840357889,1,True,2800,apartamentowiec,41.0,2,470.0,"ul. Herbu Oksza, Warszawa Ursus",52.2037337,20.8840122
+916792844,3,True,3700,blok,64.0,3,915.0,"osiedle ZGRUPOWANIA AK ŻMIJA, Bielany, Warszawa",52.2693477,20.9386821
+740455937,2,True,2500,blok,22.6,1,,"ul. Kawęczyńska, Warszawa",52.2574324,21.0563059
+923376981,3,True,6700,apartamentowiec,105.0,3,1200.0,"Ul. Łucka 18, Warszawa",52.2324661,20.9874054
+923376538,1,True,2900,blok,30.0,1,,"Bielany, Warszawa",52.2933234,20.928664
+923376112,3,True,3500,blok,47.5,2,850.0,"ul. Niskiey 27, Warszawa",52.2296756,21.0122287
+923373142,2,True,1200,blok,45.0,2,,"ul. Mozarta, Mokotów, Warszawa",52.1718572,21.0309291
+923372367,5,True,7700,apartamentowiec,113.0,4,1200.0,"Ul. Łucka 18, Warszawa",52.2324661,20.9874054
+916786955,10,True,5500,blok,81.3,3,900.0,Warszawa Bródno,52.2884301,21.0307641
+923371890,0,True,5800,blok,58.0,3,,"Warszawa, Mordor",52.2296756,21.0122287
+923370726,0,True,3000,blok,57.0,2,1000.0,"ul. S. Mikołajczyka, Warszawa",52.2290611,21.1011427
+922096484,3,True,3000,blok,27.0,1,400.0,"ul. Pustola 32B, Zielona Wola, Warszawa",52.23340750000001,20.938136
+901178277,7,True,2200,kamienica,22.0,1,514.0,"Muranów, Warszawa",52.2502507,20.9953916
+923363207,4,True,2000,blok,16.0,1,300.0,"Grójecka 186, Warszawa",52.2015608,20.9671611
+693435990,7,True,2500,apartamentowiec,46.0,1,600.0,"ul. Powstańców Śląskich, Bemowo, Warszawa",52.2438169,20.912364
+923367106,6,True,3500,blok,61.0,3,900.0,"Stary Mokotów, Warszawa",52.2033149,21.0101208
+923366639,5,True,3100,blok,58.0,2,640.0,"Ryżowa 44, Warszawa",52.190779,20.906455
+923366239,4,True,3500,apartamentowiec,46.0,2,780.0,"Osiedle Dobra Wola, Warszawa",52.1820198,20.9476162
+923364486,3,True,6000,kamienica,75.0,3,1000.0,"ulica Kaliska, Warszawa",52.2197158,20.9809803
+922088941,2,True,4000,apartamentowiec,34.0,2,500.0,"ul. Kolejowa, 19.Dzielnica, Warszawa",52.226619,20.9820864
+923361560,2,True,2800,kamienica,43.0,2,150.0,"Sadyba, Warszawa",52.1868279,21.0638192
+923363144,2,True,4200,apartamentowiec,38.0,2,,"ulica Jana Pawła Woronicza 82, Warszawa",52.19301549999999,20.9851742
+893652883,2,True,2700,apartamentowiec,38.0,2,700.0,"ul. Włodarzewska, Ochota, Warszawa",52.2021313,20.9554848
+827862140,0,True,3300,blok,37.5,2,750.0,"Al. Lotników 13, Mokotów, Warszawa",52.1741509,21.010906
+918057845,2,True,3400,blok,40.0,2,600.0,"ul. Odkryta 24, Białołęka - Tarchomin, Warszawa",52.329288,20.9366751
+646651270,9,True,6000,apartamentowiec,91.0,3,1400.0,"Warszawa, Cybernetyki 3B, Mokotów",52.1751423,20.9995951
+923361336,9,True,2900,apartamentowiec,28.0,2,475.0,"Kasprzaka 29C, Wola, Warszawa",52.2260152,20.9564341
+920537244,1,True,8000,apartamentowiec,94.0,3,,"Warszawa, Wilanów",52.1561298,21.1116284
+922683030,1,True,4000,blok,58.0,3,850.0,"Róg ulic Czerska i Gagarina, Dolny Mokotów, Warszawa",52.2050533,21.0455863
+923359401,9,True,6000,apartamentowiec,50.0,2,1.0,"ul. Grzybowska 85, Warszawa",52.2326419,20.9791476
+913676109,4,True,4500,apartamentowiec,80.0,3,1800.0,"ul. Łucka, Wola, Warszawa",52.2322355,20.9873257
+917493271,7,True,2300,blok,25.0,1,600.0,"ul. Potocka, Warszawa",52.2749734,20.9810566
+816430351,2,True,4500,blok,85.0,3,900.0,"ulica Zaborowska 15, Warszawa",52.24376969999999,20.9194773
+798903882,3,True,3000,blok,38.0,2,1.0,"ul. Olbrachta, Warszawa",52.2338792,20.928441
+923361395,5,True,3600,pozostale,48.0,2,500.0,"ul. Postępu 12B, Mokotów, Warszawa",52.1776309,20.9967083
+923360698,2,True,2900,blok,46.0,2,850.0,"ulica Skarbka z Gór, Białołęka, Warszawa",52.3172627,21.0591052
+923357496,5,True,2600,apartamentowiec,48.0,2,700.0,"ul. Tomcia Palucha, Ursus, Warszawa",52.1910174,20.8963716

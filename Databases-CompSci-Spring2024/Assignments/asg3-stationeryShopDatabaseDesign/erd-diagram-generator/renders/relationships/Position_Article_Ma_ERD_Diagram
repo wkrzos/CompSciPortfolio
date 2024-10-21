@@ -1,0 +1,11 @@
+// Custom Labeled ERD
+graph {
+	bgcolor=transparent rankdir=LR ratio=fill size="6,1!"
+	node [color=black fillcolor=white shape=rectangle style=filled]
+	Position [label=POZYCJA peripheries=2]
+	Article [label=ARTYKUL peripheries=2]
+	node [shape=diamond]
+	relation [label=Ma]
+	Position -- relation [labelangle=30 labeldistance=1.5 minlen=1 taillabel="0,N"]
+	relation -- Article [headlabel="1,1" labeldistance=1.5 minlen=1]
+}

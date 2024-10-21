@@ -1,0 +1,53 @@
+\section{Methodology}
+Data on rental prices were collected from OLX.PL, a child company of the Dutch OLX Group \cite{noauthor_meet_nodate}. The collection process was implemented using a web-scraping Python application specifically designed to suit the needs of this study.
+
+\subsection{Tools}
+The following tools were utilized in this study:
+\begin{itemize}
+\item \textbf{Python}: Used for data collection, analysis, and visualization. Libraries such as pandas, geopandas, matplotlib, seaborn, contextily, and folium were employed.
+\item \textbf{Geopandas}: Used for geospatial analysis and visualization of the rental data.
+\item \textbf{Matplotlib & Seaborn}: Used for plotting graphs and heatmaps to visualize the distribution of rental prices.
+\item \textbf{Folium}: Used for creating interactive heatmaps.
+\item \textbf{Scikit-learn}: Used for regression analysis to estimate rental prices based on available parameters.
+\item \textbf{LaTeX}: Used for documenting the methodology and findings, with Overleaf as the platform for compilation.
+\item \textbf{Zotero}: Used for documenting all the references used in the paper.
+\item \textbf{Chat GPT API by OpenAI}: Used for the retrieval of addresses from the descriptions of the offers. The GPT 3.5 turbo model was used due to its reliance and cost-efficiency.
+\item \textbf{Google Maps API}: Used for the retrieval of geolocation of the offers.
+\end{itemize}
+
+\subsection{Methodology}
+The methodology involved several key steps:
+\begin{enumerate}
+\item \textbf{Data Collection}: Rental price data was collected from olx.pl.
+\item \textbf{Data Preparation}: The collected data was cleaned and preprocessed. This involved handling missing values, encoding categorical variables, ensuring consistency in data formats, determining addresses, and correcting the addresses.
+\item \textbf{Geospatial Analysis}: Geospatial analysis was conducted using geopandas and contextily to visualize the spatial distribution of rental prices in different cities. Heatmaps and distribution plots were generated for each city.
+\item \textbf{Regression Analysis}: Regression models were developed using scikit-learn to estimate rental prices based on features such as floor, furniture, area, rooms, and building type. Model performance was evaluated using R-squared and Mean Absolute Error (MAE).
+\item \textbf{Visualization and Documentation}: The results were visualized using matplotlib, seaborn, and folium. Figures were included in the LaTeX document to provide a clear representation of the findings.
+\end{enumerate}
+
+\subsection{Data Collection and Preparation}
+The data coveres six major Polish cities: Gdańsk, Kraków, Łódź, Poznań, Warszawa, and Wrocław. Those cities were chosen as a representative set of polish cities with population above 400,000 residents. Each dataset included attributes such as the price, floor level, furniture status, area, number of rooms, building type, and geographic coordinates (latitude and longitude).
+
+\begin{itemize}
+    \item \textbf{Accessing olx.pl API}: The OLX.pl API was accessed to retrieve real-time data on rental listings.
+    \item \textbf{Downloading .json files}: The data was downloaded in JSON format, which included detailed information about each rental listing.
+    \item \textbf{Parsing JSON data}: The JSON files were parsed to extract relevant fields such as price, address, floor level, furniture status, area, number of rooms, building type, and geographic coordinates.
+    \item \textbf{Extracting addresses}: The address of each property was extracted using Chat GPT 3.5. A prompt was sent for each description that returned the address.
+    \item \textbf{Extracting locations}: The longitude and latitude were extracted using Google Maps API.
+    \item \textbf{Storing data}: The extracted data was stored in CSV files for ease of analysis and processing. Additionally, a SQLite database has been introduced for long-term storage.
+    \item \textbf{Data verification}: The data was verified for accuracy and completeness, ensuring that all necessary fields were present and correctly formatted.
+    \item \textbf{Handling missing values}: Any missing or incomplete data entries were identified and appropriately handled, either through imputation or exclusion - the choice was case-specific.
+    \item \textbf{Handling outliers}: Any outliers, whether due to their location being too far from the city or their prices being too low or too high, were manually removed using geospatial visualizations in section \ref{appendix}.
+\end{itemize}
+
+\subsection{Constraints}
+Several constraints were encountered during the study:
+\begin{itemize}
+\item \textbf{Data Availability}: Not all offers provided complete data, leading to potential gaps in the dataset.
+\item \textbf{Computational limits}: Data has been collected using a personal computer and a virtual private server. Due to machine's hardware limitations, less data could have been collected in a given time-frame.
+\item \textbf{API access limit}: Due to limitations set by OLX.pl and potential rate limits, data collection was conducted in a phased manner to avoid overloading the API and ensure compliance with usage policies.
+\item \textbf{Geographic Coverage}: The data was limited to six major cities, which may not fully represent rental trends in smaller towns or rural areas.
+\item \textbf{Geographic Coverage within a City}: The data relating to a city has been cleaned off any offers from the suburbs that do not belong to the city itself.
+\item \textbf{Temporal Consistency}: The data was collected at the span of 2 weeks, which may not account for seasonal variations in rental prices.
+\item \textbf{Feature Limitations}: Certain potentially influential features (e.g., proximity to amenities, public transport) were not available in the dataset, which may impact the accuracy of the regression models.
+\end{itemize}

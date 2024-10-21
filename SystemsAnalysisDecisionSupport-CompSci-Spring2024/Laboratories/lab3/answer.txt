@@ -1,0 +1,15 @@
+Nie zawsze jest to najlepszy model. Ze względu na wariantność danych, 
+ważnym aspektem modelu jest jego zdonlość generalizacji. Model, 
+który został dopasowany 'zbyt idealnie' do danych na których 
+był trenowany będzie idealny jedynie dla tych danych. Inaczej może to wyglądać dla nowych danych, 
+gdzie może się nagle okazać, że 90% danych jest outlierami według takiego modelu.
+
+W modelach ważny jest balans pomiędzy dwoma stronami spektrum: nadmiernym dopasowaniem i niewystarczającym dopasowaniem. 
+Niewystarczająco dopasowany model będzie znów nadmiernie entuzjastyczny w stosunku do outlierów, 
+które może uznać za jak najbardziej prawdopodobne wyniki.
+
+Dobrymi źródłami na ten temat są:
+https://www.geeksforgeeks.org/underfitting-and-overfitting-in-machine-learning/
+
+W kole moich zainteresowań jest to rónwież: 
+https://www.investopedia.com/terms/o/overfitting.asp#:~:text=Overfitting%20is%20a%20modeling%20error,to%20any%20other%20data%20sets.

@@ -1,0 +1,1048 @@
+offerid,floor,furnitured,price,buildingtype,area,rooms,rent,address,latitude,longitude
+923676733,2,True,1600,blok,21.0,1,465.0,"Daszyńskiego, Kraków",50.0552233,19.9537146
+922891023,1,True,2500,kamienica,50.0,1,1.0,"Kraków, ul. Dietla",50.0542174,19.9432891
+862033654,5,True,5500,apartamentowiec,75.0,4,700.0,"ul. Śliczna, Kraków",50.072611,19.9775043
+766506898,-1,True,1700,kamienica,35.0,2,600.0,"Kraków, ul. Szlak 1 A",50.0700965,19.9329993
+920379195,1,True,2200,blok,38.0,1,300.0,"ul. Felińskiego 29, Górka Narodowa, Kraków",50.1005772,19.9666866
+817124308,2,True,2500,apartamentowiec,36.0,1,500.0,"Ulanów, Kraków",50.0778397,19.9835756
+923906124,3,True,2500,apartamentowiec,35.1,2,450.0,"ul. Wrocławska i Świętokrzyska, Kraków",50.0777876,19.924889
+628876135,3,True,2500,blok,49.0,2,650.0,"os. Kombatantów, Kraków",50.09122869999999,20.0074737
+915144071,2,True,2500,blok,40.0,2,750.0,"ul. Okulickiego, Kraków",50.0939584,20.01461
+923200091,0,True,2900,apartamentowiec,42.0,2,550.0,"Dębniki, Kraków",50.0488946,19.9259644
+682546187,3,True,2500,apartamentowiec,35.1,2,450.0,"ul. Świętokrzyska/Wrocławska, Kraków",50.0757798,19.929647
+754184368,2,True,4900,kamienica,83.0,3,,"ul. Limanowskiego 3, Kraków",50.0451437,19.9506193
+836327530,3,True,3000,apartamentowiec,50.0,2,700.0,"ul. Oraczy 7, Łagiewniki, Kraków",50.0256546,19.9337074
+659596795,4,True,2600,apartamentowiec,47.0,2,2600.0,"ul. Marcholta, Prądnik Czerwony, Kraków",50.0925077,19.9850655
+660539155,1,True,2600,apartamentowiec,42.0,2,273.0,"ul. Mała Góra 15b, Kraków",50.0159098,20.0289614
+923896464,1,False,1800,blok,29.75,1,550.0,"ul. Kępna, Kraków",50.0140602,19.9173324
+846913966,2,True,1800,apartamentowiec,37.0,1,700.0,"os. Oświecenia, Kraków",50.0933562,19.9918617
+871474630,2,True,2800,blok,44.0,2,600.0,"ul. Sosnowiecka, Kraków",50.092606,19.892862
+923888699,5,True,2600,blok,48.0,2,,"ul. Bochenka, Podgórze Duchackie, Kraków",50.0114279,19.9751579
+923887654,3,True,3100,blok,48.0,2,512.0,"Orlińskiego, Kraków",50.0790723,20.0025525
+831338547,2,True,3200,blok,67.0,3,892.0,"ul. Myśliwska 74, Mały Płaszów, Kraków",50.0464426,19.9991996
+923881194,5,True,2300,blok,34.0,1,250.0,"ul. Bobrowskiego, Grzegórzki, Kraków",50.0584433,19.9667963
+917625846,1,True,2700,kamienica,40.0,2,1.0,"ulica Obopólna, Kraków",50.0734847,19.9064902
+693162571,0,True,2700,blok,45.0,2,450.0,"ul. Architektów, Kraków",50.0971852,20.0549
+766693694,5,True,1950,apartamentowiec,16.0,1,550.0,Pokoju 1a Kraków (przy Rondzie Grzegórzeckim),50.0639571,19.9614349
+920208463,2,True,1800,blok,25.0,1,560.0,"ul. Dobrego Pasterza 109, Kraków",50.089276,19.968971
+910413312,8,True,2650,apartamentowiec,27.0,1,400.0,"ul. Grzegórzecka 69b, Kraków",50.0563634,19.9625956
+737994718,5,True,2000,apartamentowiec,16.0,1,500.0,"Pokoju 1a, Kraków",50.0572574,19.9614608
+744946771,9,True,2050,apartamentowiec,16.0,1,450.0,Pokoju 1a Kraków,50.0572574,19.9614608
+766692129,8,True,2250,apartamentowiec,16.0,1,250.0,Pokoju 1a Kraków,50.0572574,19.9614608
+683144777,1,True,2600,blok,42.0,2,160.0,"Kraków, ul. Reduta",50.0955254,19.9772311
+920875009,0,True,6400,apartamentowiec,94.0,3,1300.0,"ul. Podłącze, Wola Justowska, Kraków",50.0669519,19.8795705
+920073522,3,True,3100,blok,47.5,2,600.0,"Wizjonerów, Bronowice Małe, Kraków",50.0857005,19.8864483
+897659948,1,True,3653,blok,53.73,3,600.0,"Bonarka, Kraków",50.0302312,19.9412306
+908717828,1,True,3013,blok,43.0,2,500.0,"Bonarka City Center, Kraków",50.0280248,19.9510097
+907103211,1,True,1900,blok,31.0,1,210.0,"ul. Ketlinga, Kraków",50.0005235,19.8987373
+875881922,7,True,2000,blok,33.0,1,535.0,"Piaski Nowe, Kraków",50.0121445,19.9713472
+923876782,5,True,1950,blok,39.0,2,500.0,"ul. Srebrnych Orłów, Kraków - Mistrzejowice",50.0940487,20.0085426
+897735640,3,True,5043,blok,75.71,4,800.0,"Bonarka City Center, Kraków",50.0280248,19.9510097
+908717846,2,True,2900,blok,40.0,2,400.0,"Łagiewniki, Kraków",50.0238859,19.9399876
+923042478,0,True,1900,wolnostojacy,50.0,3,470.0,"ul. Zielińska 2, Kraków",50.09601139999999,19.9315298
+693126769,3,True,2300,blok,34.0,2,600.0,"Oś na Wzgórzach 40, Kraków",50.0941279,20.062633
+923872435,4,True,2450,blok,34.0,1,520.0,"oś. Mozarta, Kraków",50.0950878,19.9519956
+913683055,1,True,3500,blok,60.0,3,1000.0,"Kraków, ul. Chełmońskiego, Prądnik Biały",50.0941362,19.9024539
+923010312,2,True,1800,blok,27.0,1,1.0,"ul. Kobierzyńska, Kraków",50.0226935,19.9100304
+923869161,0,True,2200,blok,32.19,1,440.0,"os. Europejskie, Kraków",50.0153933,19.8915212
+922864857,3,True,2800,apartamentowiec,36.0,2,430.0,"ul. Piltza 23A, Kraków",50.01010549999999,19.8896175
+870180689,4,True,4000,apartamentowiec,50.0,2,1.0,"ul. 29 listopada, Kraków",50.0891773,19.9578683
+923792972,0,True,1300,szeregowiec,20.0,1,0.01,"ul. Maryewskiego, Stare Podgórze, Kraków",50.0397456,19.9599596
+682967767,0,True,3500,apartamentowiec,50.0,2,590.0,"ul. Cystersów 2, Kraków",50.0659656,19.970011
+911308902,2,True,2600,blok,50.0,2,650.0,"ulica Marii Jaremy, Prądnik Biały, Kraków",50.0864298,19.9083594
+922341598,2,True,2800,kamienica,56.0,2,450.0,"ul. Batorego, Śródmieście, Kraków",50.0672404,19.9316223
+891601804,4,True,2080,apartamentowiec,24.5,1,700.0,"Alei 3 Maja 51B, Kraków",50.0639744,19.9082012
+923862856,3,True,3200,blok,52.0,3,597.0,"ul. Pawła Włodkowica, Prądnik, Kraków",50.074661,19.982248
+920648637,6,True,2170,blok,24.53,1,560.0,"Aleja 3 Maja 51B, Kraków",50.0639744,19.9082012
+779095794,1,True,2400,blok,42.6,2,650.0,"Kraków, Dobrego Pasterza 99E",50.09059010000001,19.9671171
+923863926,1,True,3500,blok,37.72,2,,"ul. Bajeczna 22, Kraków",50.05603840000001,19.9770005
+629518980,7,True,2600,blok,42.0,2,540.0,"ul. Marii Dąbrowskiej, Kraków",50.0795765,20.0155432
+922892385,0,True,3000,blok,53.0,3,650.0,"Kraków, ul. Zalesie 50",50.0232172,19.9077942
+923374426,2,True,4000,kamienica,80.0,2,,"ul. Wiślna, Kraków",50.059999,19.9343397
+922586163,5,True,2500,apartamentowiec,30.0,1,350.0,"ul. Rakowicka 22D, Kraków",50.0722169,19.9523415
+920572095,4,True,2400,apartamentowiec,30.0,1,500.0,"ul. Lubelska, Kraków",50.0741779,19.9326165
+721139547,0,True,2800,blok,35.0,2,461.0,"Kraków, blisko Bonarka City Center",50.06465009999999,19.9449799
+923856180,3,True,3500,blok,68.0,3,800.0,"Mały Płaszów, Kraków",50.0404979,20.0033153
+649440690,1,True,2800,blok,45.0,2,493.0,"Olsza, Kraków",50.0832229,19.9638396
+917346079,2,True,3000,blok,50.0,2,610.0,"ul. Henryka Pachońskiego 9, Kraków",50.094045,19.9236535
+900073257,2,True,4000,apartamentowiec,58.0,4,1.0,"ul. 29 listopada, Kraków",50.0891773,19.9578683
+923853113,2,True,3000,blok,44.0,2,,"ul. Bajeczna 6, Dąbie, Grzegórzki, Kraków",50.0569386,19.9775863
+848682026,2,True,3000,kamienica,40.0,2,1200.0,"Starowiślna, Kraków",50.054804,19.9471229
+922863955,3,True,2200,apartamentowiec,27.0,2,110.0,"ul. Marchołta 30A, Kraków",50.0925077,19.9850655
+923848298,1,True,1450,blok,18.0,1,1.0,"Prokocim Bieżanów, Kraków",50.0139559,19.9996092
+702679314,3,True,3000,blok,52.0,3,1000.0,"Lea/Przybyszewskiego, Bronowice, Kraków",50.0725389,19.8956456
+922996585,1,True,4000,apartamentowiec,60.0,2,900.0,"ul. Pilotów, dzielnica Olsza, Kraków",50.078549,19.9712943
+923847426,,True,2400,blok,42.0,2,700.0,"ul. Żwirki i Wigury, Kraków",50.0783242,19.974113
+923846741,0,True,1900,kamienica,25.0,1,1.0,"ul. Kamiennej/Murowanej, Kraków",50.07742529999999,19.9448489
+923019765,7,False,2500,blok,38.0,2,500.0,"Barska 69, Kraków",50.04560679999999,19.9332041
+738295519,1,True,2350,blok,33.0,1,450.0,"ul. Serbska, Wola Duchacka, Kraków",50.0200208,19.9727863
+660902470,1,True,3100,apartamentowiec,54.0,2,500.0,"ul. Cystersów, Kraków",50.0643481,19.9699393
+659816520,1,True,1700,blok,25.0,1,326.0,"osiedle Kalinowe, Kraków Nowa Huta",50.0914497,20.0137037
+707561798,2,True,2100,kamienica,36.0,1,,"ul. Urzędnicza, Kraków",50.0717587,19.9195256
+921019199,1,True,4000,apartamentowiec,65.0,3,,"ul. Przy Cegielni, Kraków",50.0403404,20.0305665
+923836490,1,True,3000,blok,53.0,2,480.0,"ul. Radzikowskego, Kraków",50.086513,19.8992982
+919217510,5,True,2500,blok,33.8,2,500.0,"ul. Meiera 16, Prądnik Biały, Kraków",50.0974891,19.9644384
+899663209,0,True,1400,pozostale,30.0,1,300.0,"ul. Jerzego Smoleńskiego, Kraków",49.9827633,19.9206155
+917655317,5,True,2400,blok,25.0,1,600.0,"Kraków, Aleja Jana Pawła II 150",50.0737339,20.0092492
+923013006,1,True,2000,blok,25.0,1,450.0,"Rondo Grzegórzeckie, Kraków",50.0574422,19.9594329
+923834982,2,True,3000,blok,53.0,2,500.0,"Kraków, Królewska",50.0724489,19.9176268
+922982143,2,True,2900,blok,32.0,1,,"Kraków, ul. Okulickiego",50.0939584,20.01461
+766956180,17,True,2800,szeregowiec,44.0,1,1.0,"Kraków, city center",50.06465009999999,19.9449799
+623791412,2,True,2800,szeregowiec,54.0,2,1.0,"Śródmieście, Kraków",50.06465009999999,19.9449799
+910392336,1,True,2800,blok,44.0,2,480.0,"ul. Krowoderskich Zuchów, Krowodrza Górka, Kraków",50.0884928,19.9269536
+643847886,1,True,2800,szeregowiec,54.0,2,1.0,"Kraków, Śródmieście",50.06465009999999,19.9449799
+923429146,1,True,2200,apartamentowiec,35.0,1,200.0,"ul. Kuklińskiego, Płaszów, Zabłocie, Kraków",50.0407421,19.9780906
+923717993,2,True,3000,kamienica,40.0,1,,"Stare Podgórze, Kraków",50.0437925,19.9471326
+923828128,2,True,2550,blok,44.0,2,420.0,"ul. Felińskiego 33b, Kraków",50.1027711,19.9667676
+714393513,0,True,3600,apartamentowiec,45.0,2,640.0,"ul. Rakowicka 22c, Kraków",50.0718985,19.9534149
+699503471,4,True,3500,blok,56.0,3,800.0,"Kraków, ul. Dąbska",50.0669834,19.9853116
+917415257,1,True,2100,apartamentowiec,32.0,1,420.0,"ul. Cechowa 100, Podgórze Duchackie, Kraków",50.0069461,19.9729603
+923827847,2,True,2300,blok,40.0,2,650.0,"os. Kozłówek, Prokocim, Kraków",50.0183736,19.9833621
+923827205,1,True,3100,blok,52.0,2,,"ul. Kwartowa, Kraków",50.0917113,19.9790754
+923827024,1,True,2300,blok,42.0,2,600.0,"Kraków, ul. Racławicka",50.0774554,19.9206956
+691689830,0,True,1500,kamienica,20.0,1,170.0,"Al. Słowackiego, Kraków",50.0729283,19.9326377
+839416316,1,True,2300,blok,56.0,3,800.0,"os. Strusia, Kraków Bieńczyce",50.088227,20.0092966
+923825633,,True,2392,apartamentowiec,41.0,1,565.0,"ul. Dworska - Bułhaka, Kraków",50.0461109,19.9311033
+866424133,5,True,2700,blok,44.0,2,400.0,"os. Avia, Kraków",50.0798242,20.0044829
+923825057,3,True,2600,apartamentowiec,34.0,2,450.0,"Żabiniec, Kraków",50.0834959,19.9451373
+918358178,1,True,1600,pozostale,40.0,2,,Igołomska Kraków,50.0741118,20.131686
+921535524,2,True,5300,apartamentowiec,67.0,4,,"ul. Adama Vetulaniego, Kraków",50.0953615,19.9247659
+843013549,0,True,2600,apartamentowiec,26.76,1,400.0,"ul. Rakowicka, Kraków",50.0713956,19.954938
+923824189,2,True,2450,szeregowiec,49.0,2,1.0,"ulica Nowosądecka, Kraków",50.0176294,19.9760607
+836638326,5,True,6000,apartamentowiec,73.0,3,1000.0,"ul. Masarska, Grzegórzki, Kraków",50.0551752,19.9562366
+919212505,8,True,1900,blok,28.0,1,404.0,"ul. Mazowiecka, Kraków",50.0755806,19.9242028
+862382733,1,True,2700,apartamentowiec,30.0,1,400.0,"ul. Mieszczańska, Kraków",50.0461198,19.9276814
+917284163,1,True,3000,blok,57.5,3,722.0,"Karola Bunscha, Ruczaj, Kraków",50.015159,19.8855507
+919374577,3,True,1600,blok,25.0,1,250.0,"ul. Wrocławska, Kraków",50.0777876,19.924889
+923801836,1,True,2500,blok,39.0,2,800.0,"ul. Bałuckiego, Stare Dębniki, Kraków",50.0494421,19.9259681
+922945395,3,True,2900,blok,43.0,2,560.0,"ul. Zabawa, Kraków",50.0223613,19.9619316
+754497991,1,True,2800,blok,44.0,2,310.0,"Kraków, ul. Komuny Paryskiej",50.0013133,19.8910598
+869803466,4,True,2500,blok,40.0,2,380.0,Kraków Śródmieście - Dąbie,50.0593486,19.9756676
+923799210,0,True,2900,blok,58.0,2,700.0,"ul. Dobrego Pasterza 21a, Kraków",50.0891557,19.9597117
+849117872,0,True,2900,kamienica,40.0,1,205.0,"ul. Aleja Słowackiego 33, Kraków",50.0729283,19.9326377
+833405912,2,True,1900,blok,33.0,1,580.0,"osiedle Kurczaba, dzielnica Bieżanów-Prokocim, Kraków",50.0133584,20.005787
+724455741,3,True,2900,kamienica,44.0,2,230.0,"ul. Aleja Słowackiego 33, Kraków",50.0729283,19.9326377
+695626673,1,True,2350,blok,28.0,1,530.0,"ul. Wrocławska 53, Kraków",50.0794487,19.9232404
+923795630,1,True,2950,blok,52.0,2,850.0,"Os. Spółdzielcze, Nowa Huta, Kraków",50.0769821,20.0272574
+903448123,6,True,3650,apartamentowiec,70.0,3,,"Kluczborska, Krowodrza, Kraków",50.0870584,19.9333004
+923792971,3,False,2200,blok,35.0,2,650.0,"Nowosądecka, Kraków",50.0176294,19.9760607
+923783345,5,True,3300,blok,49.5,2,890.0,"ul. Rozdroże, Kraków",50.0394556,19.9288222
+830809577,6,True,2200,blok,26.0,1,500.0,"ul. Grzegorzecka, Kraków",50.0569787,19.9603504
+922547592,2,True,2100,kamienica,70.0,2,600.0,"ul. Langiewicza, Kraków",50.0804913,19.9476882
+923790230,0,True,1850,kamienica,45.0,3,480.0,"ul. Zielińska, Prądnik Biały, Kraków",50.0948259,19.9327867
+805127703,6,True,2400,apartamentowiec,30.0,1,500.0,Kraków Kazimierz,50.04855629999999,19.9447183
+762634748,11,True,3500,blok,60.0,3,650.0,"ul. Pachońskiego 4, Prądnik Biały, Kraków",50.09364129999999,19.9237914
+898024654,11,True,850,blok,11.0,3,,"ul. Kozietulskiego, Kraków",50.0157855,19.9972963
+922934382,0,True,1900,kamienica,17.0,1,200.0,"ul. Konarskiego, Kraków",50.068937,19.9208026
+755151039,6,True,2800,blok,73.0,4,1027.0,"os. Dywizjonu 303, Czyżyny, Kraków",50.0831593,20.0031326
+820423854,5,True,3200,blok,40.0,2,900.0,"ul. Wrocławska 53, Nowa 5 Dzielnica, Kraków",50.0794487,19.9232404
+910275685,2,True,2200,blok,33.0,1,550.0,"ul. Strzelców 7, Kraków (Prądnik Czerwony)",50.0925237,19.9734231
+922769092,1,True,3900,kamienica,54.0,3,,"ul. Niedziałkowskiego, Kraków",50.0731184,19.9042117
+637312925,1,True,4000,apartamentowiec,44.0,3,780.0,"ul. Masarska 6, Kraków",50.0554066,19.9551082
+921914665,5,True,3000,apartamentowiec,40.0,2,350.0,"Ul. Józefa Wybickiego 5, Krowodrza, Kraków",50.0829044,19.92853
+774567246,3,True,2420,kamienica,38.0,2,380.0,"ul. Szeroka, Kraków",50.0526211,19.9479381
+896494075,8,True,2500,blok,38.0,2,550.0,"Al. Pokoju, Grzegórzki, Kraków",50.059888,19.9733779
+821104225,5,True,4000,apartamentowiec,41.0,2,510.0,"ul. Grzegórzecka 69D, Kraków",50.0553486,19.9636285
+920658014,1,True,1790,wolnostojacy,20.0,1,510.0,"ul. Uśmiech, Kraków",50.0274029,19.9729401
+923775326,4,True,2900,blok,45.0,2,660.0,"ul. Bajeczna, Kraków",50.0564013,19.9765083
+921898878,4,True,2100,blok,30.0,1,450.0,"ul. Warmijska, Krowodrza, Kraków",50.0735311,19.9074023
+914175405,3,True,2200,kamienica,31.6,1,300.0,"ul. Warszawska, Kraków",50.0698293,19.9436474
+813817727,3,True,3000,blok,46.0,3,554.0,"ul. Anny Szwed Śniadowskiej, Kraków, Kliny",49.9969221,19.9018007
+922913366,0,True,2300,kamienica,65.0,3,370.0,"ul. Borelowskiego Lelewela, Salwator, Kraków",50.0552809,19.9221542
+923120335,2,True,2600,kamienica,50.0,2,400.0,"ul. Galla, Kraków",50.0731626,19.9142153
+922911323,0,True,1550,blok,36.0,1,550.0,"ul. Kordiana, Kraków",50.0106122,19.9649084
+923771607,1,True,2000,blok,36.0,2,600.0,"Kraków, ul. Okólna",50.016435,19.9844125
+631061955,3,True,2400,blok,48.0,2,550.0,"Kraków, ul. Czerwieńskiego",50.0862797,19.9038659
+919919017,1,True,2500,apartamentowiec,28.0,1,320.0,"ul. Konopnickiej, Kraków",50.0446703,19.9346923
+923768989,1,True,2850,blok,47.25,2,,"ul. Konopczyńskiego, Kraków",50.0172894,19.8957106
+685387498,1,True,2300,blok,51.0,3,600.0,"Kraków, ul. Wenedy, Prokocim",50.0188581,20.0060608
+921165376,2,True,4000,blok,49.0,3,800.0,"ul. Fabryczna 5, Kraków",50.0615714,19.9711444
+692367635,1,True,3100,blok,46.0,2,1.0,"ulica Cystersów, Kraków",50.0643481,19.9699393
+923692460,3,True,2950,blok,58.0,3,591.0,"Kraków, ul. Rydlówka",50.0349608,19.9361894
+774851396,0,True,1300,kamienica,20.0,1,1.0,"ul. Jana Długosza 6, Stare Podgórze, Kraków",50.04235509999999,19.9429247
+679502997,0,True,2800,wolnostojacy,52.0,4,1.0,"ul. Sołtysowska, Kraków",50.0643639,20.0178441
+699337037,1,True,2150,wolnostojacy,35.0,1,,"Kraków, Krakow-Bielany",50.0441444,19.8273006
+760123934,3,True,2900,blok,52.0,2,620.0,"ul. Siemaszki, Żabiniec, Kraków",50.0852196,19.9399865
+664492517,3,True,2358,blok,36.0,2,642.0,"ul. Lubostroń 22G, Kraków, Ruczaj",50.0179043,19.8945223
+923332525,1,True,2100,blok,34.0,1,380.0,"Alejki Grottgera, Kraków",50.0734712,19.9266098
+720436560,11,True,3600,apartamentowiec,55.44,3,700.0,"Łaszkiewicza 4, Kraków",50.0686759,19.976409
+923755470,0,True,2200,blok,25.0,1,375.0,"ul. Stanisława Lentza, Kraków",50.0837528,19.9096984
+885310113,4,True,2200,blok,33.0,1,550.0,"ul. Grota Roweckiego, Kraków",50.0301709,19.913921
+905675493,0,True,3999,blok,44.0,2,550.0,"Kraków, Zaczarowane Koło 2",50.0782965,19.9032721
+671940863,6,True,3000,apartamentowiec,42.51,2,635.0,"ul. Pachońskiego, Kraków",50.0944656,19.9266261
+911289370,0,True,3800,blok,72.0,4,850.0,"ulica Krowoderskich Żuchów, Kraków",50.0884928,19.9269536
+846443470,1,True,2000,blok,42.0,3,700.0,"ul. Wicherkiewicza, Kraków",49.9996133,19.89657
+923753987,2,True,1900,apartamentowiec,32.0,1,250.0,"Radzikowskiego, Kraków",50.086513,19.8992982
+923751020,3,True,2400,kamienica,40.0,2,350.0,"Kraków, ul. Karola Chodkiewicza 10",50.057322,19.9542872
+923747737,1,True,2500,blok,26.0,1,300.0,"Nadwiślańska 7, Kraków",50.0466517,19.9502356
+889979290,0,True,1500,kamienica,20.0,1,500.0,"Kraków, ul. Czyżówka 17a",50.0358802,19.945272
+823460725,1,True,1400,blok,30.0,1,500.0,"Kraków, ul. Myśliwska",50.0453087,19.9925305
+921835697,3,True,2000,blok,24.0,1,400.0,"DH Wanda, Kraków",50.08573759999999,20.0190829
+844225448,2,True,2400,kamienica,26.0,1,375.0,"ul. Długa, Kraków",50.0698993,19.9372753
+759684203,2,True,2200,kamienica,20.0,1,128.0,"ulica Zyblikiewicza, Kraków",50.0598569,19.9455339
+921391993,3,True,3200,blok,44.0,2,700.0,"ul. Łaszkiewicza 8a, Kraków",50.06910250000001,19.9767819
+923092897,,True,2600,blok,47.0,2,560.0,"ul. Pod Fortem 5, Krowodrza, Kraków",50.08306899999999,19.9235098
+923740238,3,True,2500,blok,47.0,2,550.0,"ul. Kryniczna, Kraków",50.0728209,19.9687161
+917542190,5,True,2800,apartamentowiec,32.0,2,500.0,"ul. Białoprądnicka, Prądnik Biały, Kraków",50.0946017,19.935831
+810980079,4,True,2900,blok,37.0,2,460.0,"os. Botanika, Czyżyny, Kraków",50.0708546,20.0294579
+921475219,4,True,2500,blok,32.0,1,300.0,"Kraków, ul. Fieldorfa Nila",49.9756102,19.7873533
+923737990,1,True,2800,blok,60.0,3,620.0,"ul. Malborska 10, Wola Duchacka, Kraków",50.0267806,19.974589
+859734493,3,True,2500,apartamentowiec,31.0,1,420.0,"ul. Kosocicka, Bieżanów-Prokocim, Kraków",50.0039691,20.0057373
+886310934,0,True,150,wolnostojacy,43.0,2,,"ul. Wiejska, Kraków",50.0776283,19.9715127
+919414071,3,True,3000,blok,56.0,2,512.0,"ul. Małysiaka, Kraków Kliny",49.998704,19.8930997
+708671066,0,True,1850,blok,34.0,1,530.0,"ul. Kluczborska 33, Kraków",50.0870584,19.9333004
+848628081,,True,3000,apartamentowiec,45.0,2,800.0,"Kraków, Rakowicka",50.0713956,19.954938
+922440704,0,True,2300,blok,31.0,2,450.0,"os. Piastów nr 74, Kraków",50.1056264,20.0161904
+826512719,2,True,3200,blok,47.0,2,650.0,"ul. Lema 26, Kraków",50.0689609,19.9862257
+904846807,8,True,2650,apartamentowiec,27.0,1,400.0,"ul. Grzegórzecka 69b, Kraków",50.0563634,19.9625956
+923728202,0,True,2000,kamienica,25.0,1,,"ul. Cieszyńska, Kraków",50.074917,19.9305162
+923727516,8,True,3300,blok,44.0,2,650.0,"ul. Rakowicka 20J, Kraków",50.0705645,19.9514009
+679253278,1,True,2200,kamienica,34.0,1,320.0,"ul. Śląska, Kraków",50.0742965,19.9331123
+910588912,3,True,2200,apartamentowiec,22.04,1,350.0,"ul. Różana, Kraków",50.0502475,19.9287722
+923035029,1,True,3950,apartamentowiec,31.0,1,750.0,"ul. Stradomska 14A, Kraków",50.053233,19.9411332
+921085309,2,True,2600,kamienica,40.0,2,,"ulica Źródlana, Kraków",50.0377585,19.9892673
+923723247,6,True,2299,apartamentowiec,28.0,1,1.0,"ul. Konopnickiej, Kraków",50.0446703,19.9346923
+923723591,1,True,2700,kamienica,45.0,3,300.0,"Krakowska Street 5, Kraków",50.05103,19.9420916
+912147775,1,True,1880,apartamentowiec,25.0,1,620.0,"ulica Uśmiech, Kraków",50.0274029,19.9729401
+923279795,3,True,3250,blok,36.0,2,500.0,"ul. Reduta, Kraków",50.0955254,19.9772311
+683779683,4,True,2900,blok,56.0,3,350.0,"ul. Friedleina, Kraków",50.07769,19.9318847
+866176516,2,True,2400,kamienica,35.0,2,900.0,"Ulica Chodkiewicza, Kraków",50.057322,19.9542872
+649286888,0,True,2400,blok,30.0,1,500.0,"Ruczaj, Kraków",50.0259406,19.9199088
+923715226,1,True,2000,szeregowiec,47.0,2,750.0,"al. Daszyńskiego 19, Kraków",50.0571545,19.95156
+923712909,2,True,2000,blok,32.0,1,600.0,"Kraków, Aleksandry",50.011726,20.0177559
+918446859,5,True,2999,apartamentowiec,38.0,2,390.0,"ul. Rakowicka, Kraków",50.0713956,19.954938
+920954417,3,True,2300,blok,32.0,2,362.0,"ul. Meissnera, Kraków",50.0762123,19.9789961
+909752411,2,True,2000,kamienica,40.0,1,450.0,"ul. Bobrowskiego, Kraków",50.0584433,19.9667963
+921304992,3,True,2200,blok,31.0,2,670.0,"ul. Banacha 35, Kraków",50.1018694,19.9579543
+914956546,1,True,2300,blok,35.0,2,270.0,"ul. Nowosądecka, Kraków",50.0176294,19.9760607
+921453249,1,True,1500,wolnostojacy,16.0,1,265.0,"ul. Kazimierza Chałupnika, Prądnik Czerwony, Kraków",50.0760493,19.9746841
+923711073,6,True,3300,apartamentowiec,49.0,2,680.0,"osiedle Avia, Kraków-Orlińskiego, Czyżyny, Kraków",50.0790723,20.0025525
+923711018,,True,2150,blok,45.0,1,300.0,"Kraków, Stare Miasto",50.0591121,19.9378922
+921016058,1,True,2200,apartamentowiec,28.0,1,120.0,"ul. Jasińskiego 4 A, Kraków Prokocim",50.0244949,19.9928346
+923710272,3,True,2950,apartamentowiec,38.0,2,700.0,"ul. Konopnickiej 62, Ludwinów, Stare Miasto, Kraków",50.048416,19.9321853
+923708309,4,True,2500,blok,50.0,2,500.0,"ul. Radzikowskiego, Kraków",50.086513,19.8992982
+906323448,1,False,1900,blok,31.0,1,210.0,"Kraków, Ul. Ketlinga 10, Krakow",50.0003858,19.898886
+922685483,2,True,4500,apartamentowiec,60.0,3,800.0,"ul. Przybyszewskiego 64D/11, Kraków",50.0692977,19.8972735
+868146040,3,True,2400,kamienica,45.0,2,650.0,"ul. św. Agnieszki, Kraków",50.0523822,19.9402519
+882322694,2,True,2499,blok,44.0,2,500.0,"ul. Zakrzowiecka 31A, Kraków",50.0323921,19.894892
+923702621,2,True,1750,wolnostojacy,25.0,1,,"Kraków, ulica Czyżówka 9",50.0360575,19.945943
+923700235,2,True,3150,apartamentowiec,62.0,3,300.0,"ul. Głowackiego, Bronowice, Kraków",50.0784397,19.9074703
+888362401,4,True,5200,apartamentowiec,69.79,3,940.0,"ul. Wincentego Danka, Kraków – Prądnik Biały",50.0932025,19.9267986
+903161616,1,True,2250,blok,38.1,1,500.0,"ul. Kuźnicy Kołłątajowskiej, Kraków",50.0994995,19.9499252
+921799762,3,True,2700,apartamentowiec,36.0,2,450.0,"ul. Stelmachów, Kraków",50.0971174,19.9002004
+923699319,3,True,2950,blok,58.0,3,591.0,"ul. Rydlówka, Kraków",50.0349608,19.9361894
+889187444,4,True,2999,apartamentowiec,30.0,2,500.0,"ul. Francesco Nullo 32, Kraków",50.0646523,19.9682119
+918967565,4,True,2800,apartamentowiec,40.0,1,625.0,"ul. Bronowicka, Kraków",50.0792438,19.8970439
+888587169,0,True,2400,blok,44.0,2,740.0,"ul. Agatowa, Kraków",50.0207836,20.0469294
+915430507,4,True,1600,blok,34.0,1,492.0,"os. Centrum A, Kraków",50.0721137,20.0413435
+889198615,2,True,2799,apartamentowiec,45.0,2,550.0,"Kraków, al. 29 Listopada 39 F",50.07986,19.9523544
+923695548,1,True,2800,blok,40.0,2,590.0,"ul. Biernackiego, Kraków",50.0727736,19.9241899
+923694915,1,True,2800,blok,40.0,2,590.0,"ul. Biernackiego, Kraków",50.0727736,19.9241899
+923247658,1,True,2100,apartamentowiec,30.0,1,345.0,"ul. Cystersów, Kraków",50.0643481,19.9699393
+690358243,0,True,1950,kamienica,25.0,1,250.0,"ul. Konarskiego, Kraków",50.068937,19.9208026
+690317414,5,True,2100,blok,29.0,1,500.0,"osiedle Zgody, Kraków",50.0767695,20.0328507
+922760563,5,True,2600,kamienica,30.0,2,310.0,"ul. Krasińskiego 9, Kraków",50.0421421,19.9413445
+796804405,1,True,2200,apartamentowiec,28.0,1,500.0,"ul. Jesionowa 16, Kraków",50.06928,19.8752771
+922364536,3,True,2500,blok,35.0,2,350.0,"ul. Prądnicka 99, Kraków",50.0897099,19.9391982
+843485323,0,True,2900,apartamentowiec,42.0,2,560.0,"Dębniki, Kraków",50.0488946,19.9259644
+911924819,2,True,2600,blok,35.0,2,650.0,"ul. Augustiańska, Kazimierz, Kraków",50.0492211,19.9418418
+923685856,1,True,1900,apartamentowiec,25.0,1,500.0,"ul. Poznańska, Kraków",50.0794812,19.9254219
+916487916,2,True,2800,blok,41.0,2,615.0,"Czerwone Maki, Kraków",50.0146564,19.8889155
+917139023,2,True,2650,apartamentowiec,39.65,2,590.0,"ul. Sołtysowska 12, Kraków",50.0641224,20.0181389
+923682359,2,True,2500,blok,41.0,2,612.0,"ul. Wado, Kraków",50.06465009999999,19.9449799
+923238176,,True,2500,kamienica,30.0,1,,"ul. Zarzecze, Kraków",50.0755374,19.8897072
+913490162,1,True,3000,apartamentowiec,40.0,2,400.0,"Kraków, Nowy Złocień",50.0201833,20.051675
+857780005,1,True,3000,apartamentowiec,28.0,2,370.0,"ul. Klimeckiego, Zabłocie, Kraków",50.0468638,19.9708564
+826359561,2,True,2300,blok,25.0,1,285.0,"ul. Sosnowiecka, Prądnik Biały, Kraków",50.092606,19.892862
+918018506,1,True,2100,blok,30.0,1,500.0,"Kraków, ulica Kordiana 50B",50.0104699,19.9633049
+919734785,2,True,2500,blok,41.0,2,,"ul. Wadowicka/Zakopiańska, Kraków",50.029082,19.9364734
+923679048,2,True,2200,blok,27.0,1,400.0,"ul. Marii Dąbrowskiej, Kraków",50.0795765,20.0155432
+848520115,4,True,2500,blok,48.0,2,458.0,"Osiedle Nowy Przewóz, Kraków, Podgórze",50.0423067,19.9910327
+799961142,0,True,2700,blok,50.0,2,850.0,"ul. Felicjanek, Kraków",50.0578373,19.9296047
+675435763,3,True,2950,apartamentowiec,40.0,2,650.0,"ul. Rydlówka 27, Kraków",50.0361177,19.9332332
+917113011,10,True,2150,blok,36.0,2,530.0,"ul. Bronowicka 54, Kraków",50.07859130000001,19.8979393
+759434083,2,True,2200,blok,64.0,3,1300.0,"Kampus UJ, Ruczaj, Kraków",50.02468,19.9025
+831379147,2,True,3500,blok,57.0,2,590.0,"Kraków, ul. Krygowskiego",50.0016871,19.9031387
+816928786,0,True,2500,kamienica,33.0,1,350.0,"Stare Miasto, Kraków",50.0591121,19.9378922
+882322404,3,True,3000,blok,37.0,2,500.0,"ul. Klimeckiego, Zabłocie, Kraków",50.0468638,19.9708564
+891781408,2,True,2900,apartamentowiec,37.0,2,500.0,"ul. Klimeckiego, Kraków",50.0468638,19.9708564
+923670325,2,True,8000,apartamentowiec,104.0,4,1400.0,"ul. Rakowicka, Śródmieście, Kraków",50.0713956,19.954938
+923670127,2,True,2900,apartamentowiec,37.0,2,500.0,"ul. Klimeckiego 8A, Kraków",50.0472911,19.973163
+672565858,7,True,1000,blok,30.0,2,350.0,"Avia, Czyżyny, Kraków",50.0798242,20.0044829
+923667623,1,True,2200,wolnostojacy,34.0,1,,"ul. Sadka 19, Kraków",50.0132284,19.984511
+923667127,2,True,950,kamienica,110.0,4,950.0,"Kraków, Aleja Słowackiego 52",50.0734973,19.9330988
+658227633,5,True,3000,apartamentowiec,37.0,1,500.0,"Rakowicka, Kraków",50.0713956,19.954938
+863595702,3,True,3500,blok,65.0,3,750.0,"ul. Piltza, Kraków",50.0107995,19.890049
+669174267,2,True,2800,apartamentowiec,36.5,2,495.0,"Wiślane Tarasy 2.0, Kraków",50.054626,19.9624353
+685019767,2,True,2200,blok,27.0,1,385.0,"ul. Przemiarki 24, Kraków",50.0225305,19.902628
+922235914,1,True,1800,blok,27.0,1,500.0,"os. Ogrodowe, Kraków",50.07109759999999,20.0451403
+923659941,1,True,2999,blok,30.0,2,500.0,"ul. Naukowców, Kraków",50.0843094,19.8844136
+700244747,2,True,2950,apartamentowiec,42.0,2,650.0,"Pasaż Podgórski-2, Zabłocie, Kraków",50.0495074,19.9640004
+821901557,0,True,1900,blok,45.0,2,1000.0,"ul. Jerzmanowskiego, Kraków",50.0151539,20.0104755
+923654066,3,True,2600,blok,50.0,2,580.0,"ul. Siemienowicza, Płaszów, Kraków",50.0382786,19.9957913
+758734526,3,True,2750,apartamentowiec,34.0,1,230.0,"ulica Pychowicka, Zakrzówek, Kraków",50.0325336,19.9172633
+862753646,0,True,2500,kamienica,40.0,2,155.0,"Ul. Emilii Plater, Centrum, Kraków",50.0774119,19.9318203
+923402510,0,True,2200,apartamentowiec,38.0,2,800.0,"ul. Żabiniec, Kraków",50.0829409,19.9443419
+868321257,1,True,2900,blok,57.0,2,800.0,"ul. Blachnickiego, Kraków, dzielnica Grzegórzki",50.0555495,19.9523725
+921769145,4,True,2800,blok,50.0,2,770.0,"Grzegórzki, Kraków",50.0664893,19.9599783
+911135145,3,True,3500,apartamentowiec,47.0,2,450.0,"Nowy budynek tuż przy samej Bonarce, Kraków",50.0302312,19.9412306
+676341185,1,True,3000,apartamentowiec,27.0,1,610.0,"Angel Wawel, Kraków",50.0511625,19.9383204
+923647516,3,True,2900,kamienica,54.0,2,800.0,"ul. Czarnowiejska, Kraków",50.0669454,19.9205746
+693663248,2,True,2900,apartamentowiec,60.0,3,720.0,"Os. Kazimierzowskie, Kraków",50.0859867,20.021793
+923642404,4,True,2500,blok,48.0,2,580.0,"os. Uroczym, Nowa Huta, Kraków",50.0788815,20.0363897
+922285796,3,True,2000,blok,37.0,2,500.0,"ul. Jaremy, Krowodrza, Kraków",50.0864298,19.9083594
+825971593,1,True,3000,apartamentowiec,45.0,2,500.0,"Rondo Grzegórzeckie, ul. Grzegórzecka, Kraków",50.05784629999999,19.9584441
+922973380,2,True,5500,apartamentowiec,47.0,2,,"ul. Kościuszki 22, Kraków",50.0540887,19.924846
+923633146,6,True,5000,apartamentowiec,56.0,3,800.0,"Bulwar Wiślany, Kraków",50.0520435,19.9565565
+923631165,0,True,3300,apartamentowiec,68.0,3,1200.0,"ul. Karola Bunsha, Dębniki, Kraków",50.0128339,19.883917
+765561498,6,True,3300,blok,55.0,2,630.0,"al. Kijowska, Kraków",50.0740591,19.9163014
+920469980,3,True,2200,apartamentowiec,46.0,2,650.0,"ul. Bobrzyńskiego, os. Europejskie, Kraków",50.0210479,19.8986757
+817597328,2,True,2615,szeregowiec,29.0,2,615.0,"Kraków, Nuszkiewicza 5",50.0900066,19.9625777
+785464509,0,True,1800,blok,28.0,1,740.0,"Kraków, ul. Padniewskiego",50.0689034,20.0281063
+923626130,1,False,3800,kamienica,103.0,4,200.0,"ul. Kazimierza Wielkiego, Kraków",50.0739632,19.9176286
+923625630,0,True,2800,blok,43.0,2,,"ul. Federowicza, Kraków",50.0148352,19.8820742
+668053753,2,True,2800,apartamentowiec,40.0,2,495.0,"ul. Nadwiślańska, Kraków",50.0469207,19.9507356
+923619891,1,True,2600,blok,58.24,4,807.0,"Kraków, ul. Chmieleniec",50.0185941,19.8975882
+911055141,4,True,2700,apartamentowiec,55.58,2,780.0,"ul. Stańczyka, Kraków",50.0786616,19.8920959
+648491714,3,True,2500,blok,36.0,2,500.0,"ul. Agatowa, Kraków",50.0207836,20.0469294
+921154049,0,True,2800,blok,50.0,2,,"rejon Placu na Stawach, Kraków",50.0547293,19.9211243
+857840600,1,True,2200,blok,50.0,2,380.0,"ul. Białoprądnicka, Kraków",50.0946017,19.935831
+922778609,2,True,3600,blok,61.0,3,360.0,"Myśliwska 3, Płaszów, Kraków",50.0456849,19.9862645
+903974153,6,True,2250,blok,24.0,1,390.0,"ul. Piastowska, Bronowice, Kraków",50.071349,19.9045845
+776336487,4,True,2800,blok,39.0,2,650.0,"ul. Smoluchowskiego 6, Kraków",50.0728819,19.9099133
+923615979,0,True,2700,kamienica,50.0,2,,"Kraków, brak informacji o dokładnym adresie",50.06465009999999,19.9449799
+923614105,3,True,2500,apartamentowiec,36.0,2,,"ulica Agatowa, Złocień, Kraków",50.0207836,20.0469294
+923153764,6,True,2500,blok,50.0,3,750.0,"os. Dywizjonu 303, Kraków",50.0831593,20.0031326
+923613017,3,True,2700,apartamentowiec,36.0,2,,"ul. Stelmachów, Bronowice, Kraków",50.0971174,19.9002004
+923609018,2,True,2100,apartamentowiec,33.0,1,500.0,"ulica Sosnowiecka, dzielnica Bronowice Wielkie, Kraków",50.092606,19.892862
+923604854,3,False,8900,apartamentowiec,132.0,4,1650.0,"ulica Ludwinowska, Kraków",50.0441617,19.9376191
+916940798,2,True,2700,kamienica,40.0,2,800.0,"ul. Skwerowa, Dębniki, Kraków",50.0495679,19.9257407
+784023774,2,True,2200,blok,27.0,1,400.0,"ul. Podłęska 5, Kraków",50.00975829999999,20.0156794
+923595694,2,True,2990,apartamentowiec,41.0,2,450.0,"ul. Bajeczna 22, Dąbie, Grzegórzki, Kraków",50.05603840000001,19.9770005
+923594651,11,True,2600,blok,46.0,2,960.0,"ul. Wileńska, Kraków",50.0821641,19.9540167
+658673479,5,True,2100,apartamentowiec,37.0,1,400.0,"Kraków, ulica Bociana",50.0950938,19.9543071
+838181757,4,True,1650,blok,25.0,1,330.0,"ul. Stachiewicza (oś. Azory), Kraków",50.0853998,19.9164599
+923592693,0,True,2700,apartamentowiec,34.0,2,600.0,"ul. Skowronia, Kraków",50.0252671,19.9683711
+644407018,1,True,3200,apartamentowiec,35.0,2,500.0,"ul. Rakowicka, Kraków",50.0713956,19.954938
+923591709,2,True,3700,wolnostojacy,95.0,3,,Kraków - Azory,50.0882804,19.9096578
+923590649,5,True,2900,blok,57.0,2,650.0,"ul. Marchołta 47, Kraków",50.0935496,19.9866381
+612319241,2,True,2800,blok,35.0,2,600.0,"Podgórze, Kraków",50.0448508,19.9730816
+845135347,2,True,4400,kamienica,70.0,4,1.0,"ul. Helclów, Kraków",50.0722959,19.9380981
+666471628,3,True,2900,blok,57.0,2,600.0,"ul. Wybickiego, Krowodrza Górka, Kraków",50.0839364,19.9268399
+919665273,3,True,2950,kamienica,33.7,2,480.0,"ul. Józefińska, Kraków",50.0456155,19.9534283
+900611858,4,True,2000,kamienica,22.0,1,500.0,"ul. Długa, Stare Miasto, Kraków",50.0704208,19.9367619
+660454248,1,True,1790,kamienica,20.0,1,1.0,"ul. Zamoyskiego, Kraków",50.0406974,19.9438816
+923581504,3,True,3600,blok,60.0,3,,"ul. Miechowity 10, Kraków",50.0832398,19.970099
+859910716,3,True,4500,apartamentowiec,80.0,4,800.0,"ul. Jana Kaczary 3, Śródmieście, Kraków",50.0858164,19.9659719
+896282851,3,True,2650,blok,45.0,2,612.0,"ul. Piltza 42, Kraków",50.0135127,19.8908214
+923578086,4,True,2700,blok,40.0,2,750.0,"ul. Wojciecha Weissa, Krowodrza, Kraków",50.0861564,19.9092184
+920573947,4,True,3000,blok,43.0,2,490.0,"ul. Banacha, Kraków",50.1020209,19.9584127
+922632041,1,True,2300,blok,30.0,2,530.0,"ul. M. Konopnickiej, Kraków",50.0446703,19.9346923
+847174896,3,True,2400,apartamentowiec,50.0,2,600.0,"ul. Fieldorfa Nila, Kraków-Krowodrza Górka",50.0840104,19.9334958
+923576608,0,True,4000,apartamentowiec,61.0,2,800.0,"ulica Cieszyńska, Krowodrza, Kraków",50.074917,19.9305162
+827140817,5,True,1800,blok,28.0,1,360.0,"Os. Kurdwanów, Kraków",50.0056222,19.9482692
+917705260,1,True,2450,blok,30.0,2,265.0,"Ul. Barbary, Kraków",50.0173183,20.0226076
+914079605,1,True,5900,wolnostojacy,99.0,4,,"ulica Głogowiec, Wola, Kraków",50.06465009999999,19.9449799
+923571417,0,True,4000,apartamentowiec,59.0,2,700.0,"ul. Cieszyńska, Kraków, Krowodrza",50.074917,19.9305162
+651988171,2,True,2600,apartamentowiec,36.0,2,260.0,"ulica Przemiarki, Kraków Ruczaj",50.0219311,19.9037512
+923568489,2,True,1090,kamienica,12.0,4,,"Plac Bohaterów Getta, Kraków",50.0468999,19.9548221
+829830567,-1,True,1600,apartamentowiec,25.0,1,350.0,"ul. Przemiarki, Kraków",50.0219311,19.9037512
+787032145,0,True,2950,blok,54.59,2,837.0,"Kraków, Wola Duchacka (Lirników)",50.0164299,19.9643491
+923562766,1,True,1990,kamienica,25.0,1,300.0,"ul. Krakusa, Stare Podgórze, Kraków",50.0453201,19.9524651
+923561919,6,True,2550,blok,47.0,2,750.0,"ul. Przewóz 38, Mały Płaszów, Kraków",50.0415435,20.0026751
+906381553,6,True,2770,apartamentowiec,36.45,2,780.0,"Alei 3 Maja 51B, Kraków",50.0639744,19.9082012
+765994610,4,True,3000,apartamentowiec,32.0,2,600.0,"ul. Miodowa, Kraków",50.0531366,19.9462192
+923561346,11,True,3000,blok,50.0,2,700.0,"ul. Ostatnia, Grzegórzki/Olsza, Kraków",50.0704648,19.9770164
+923561402,0,True,3681,apartamentowiec,45.0,2,870.0,"Kraków, ul. Wrocławska",50.0777876,19.924889
+923560763,3,True,2100,blok,28.0,1,410.0,"ul. Klemensiewicza 4, Kraków",50.0814941,19.9501868
+923559794,3,True,2600,blok,58.0,3,865.0,"Mistrzejowice, Kraków",50.0946905,19.9996253
+923556833,1,True,2799,blok,33.0,2,1.0,"ulica Lea, Kraków",50.0721523,19.906411
+923557278,2,True,2900,blok,52.0,2,370.0,"ul. Marchołta 51, Prądnik Czerwony, Kraków",50.0936747,19.9870965
+923355241,1,True,2900,apartamentowiec,61.0,3,,"Prądnik Biały, Kraków",50.090534,19.9190569
+921793547,3,True,2799,blok,35.0,2,1.0,"Grzegórzki, Kraków",50.0664893,19.9599783
+908867973,2,True,1900,kamienica,17.0,1,400.0,"ulica Lubelska, Nowy Kleparz, Kraków",50.0741779,19.9326165
+923553214,3,True,14200,kamienica,131.0,4,1000.0,"Kraków, Krakowskie Planty",50.0599245,19.9414307
+916982758,1,True,2300,blok,37.0,2,388.0,"Prądnik Czerwony-Olsza, Kraków",50.0832229,19.9638396
+906461258,0,True,4500,kamienica,60.0,3,1.0,"ul. Smoleńsk, Kraków",50.0588149,19.929392
+663364537,2,True,2250,kamienica,25.0,1,1.0,"ul. Stradomska, Kraków",50.0527763,19.9405294
+664949346,2,True,2100,kamienica,22.0,1,1.0,"ul. Dietla, Kraków",50.0542174,19.9432891
+886910088,0,True,2650,blok,44.0,2,750.0,"ul. Traugutta, Kraków",50.046123,19.957758
+766789908,0,True,2000,kamienica,20.0,1,190.0,"ul. Lea, Kraków",50.0721523,19.906411
+908163678,1,True,2200,kamienica,22.0,1,1.0,"ulica Stradomska, Kraków",50.0527763,19.9405294
+923546822,5,True,2800,blok,30.0,2,550.0,"ul. Grzegórzecka, Kraków",50.0569787,19.9603504
+923546625,0,True,2270,kamienica,25.0,1,,"ul. Botaniczna, Kraków",50.064875,19.9548233
+789146159,5,True,2300,kamienica,45.0,2,350.0,"ul. Galla, Kraków",50.0731626,19.9142153
+923545105,0,True,2450,kamienica,28.4,1,,"ul. Botaniczna, Kraków",50.064875,19.9548233
+627288443,2,True,2750,kamienica,32.0,1,550.0,"ul. Konarskiego, Kraków",50.068937,19.9208026
+916878994,2,True,10500,apartamentowiec,118.0,4,1700.0,"Ludwinowska 11, Kraków",50.0433169,19.9371398
+870194076,1,True,2700,kamienica,35.0,2,1.0,"Kraków, Kazimierz obok Hali Targowej",50.0583292,19.9492247
+923544465,3,False,2400,blok,48.5,2,600.0,"Kraków, ulica Szuwarowa",50.0194317,19.903806
+901325515,5,True,2900,blok,70.0,3,500.0,"Reduta Street, Kraków",50.0955254,19.9772311
+912720637,4,True,2099,apartamentowiec,32.0,1,450.0,"osiedle Złotej Jesieni 3b, Nowa Huta/Bieńczyce, Kraków",50.0922418,20.0230383
+793037851,2,True,2700,apartamentowiec,33.0,2,550.0,"ul. Wrocławska 54, Kraków",50.0782625,19.9232855
+923530576,5,True,2800,apartamentowiec,41.0,2,500.0,"ul. Teresy, Stare Miasto, Kraków",50.0710999,19.9321577
+923540424,2,True,2500,blok,28.0,1,350.0,"ul. Ciesielskiego 4, dzielnica Czyżyny, Kraków",50.06212619999999,20.0100661
+909695205,2,True,3600,blok,53.0,3,560.0,"ul. Vetulaniego, Kraków",50.0953615,19.9247659
+893161918,2,True,12500,pozostale,160.0,4,,"Kraków, Wola Justowska, Krakow",50.0617388,19.8486621
+923541271,4,True,2300,blok,35.0,2,450.0,"ul. Agatowa, Kraków",50.0207836,20.0469294
+887791885,6,True,3800,apartamentowiec,53.0,2,1200.0,"ul. Rajska 3, Kraków",50.0648181,19.9278215
+923538992,2,True,3000,apartamentowiec,53.0,3,250.0,"Kraków, ul. Koszykarska 22a, Krakow",50.0491387,19.9872605
+923538801,4,True,2400,apartamentowiec,25.0,1,400.0,"ul. Kobierzyńska, Kraków",50.0226935,19.9100304
+923539079,3,True,2700,blok,51.0,2,600.0,"ul. Żelechowskiego nr 6, Kraków",50.0744707,19.9028797
+923538303,2,True,1900,blok,29.0,1,240.0,"ul. Teligi 3, Nowy Prokocim, Kraków",50.01501140000001,19.9995583
+923539762,2,True,2200,apartamentowiec,40.0,2,700.0,"ul. Emaus, Kraków",50.0595759,19.9010906
+683732083,0,True,2000,blok,19.0,1,250.0,"ul. Rakowicka 22, Centrum, Kraków",50.0718109,19.9547238
+923536678,3,True,2699,blok,36.0,2,450.0,"ul. Piaski, dzielnica Bronowice, Kraków",50.0810361,19.8906961
+911418761,5,True,2500,apartamentowiec,30.0,1,440.0,"ul. Myśliwska, Kraków",50.0453087,19.9925305
+869376731,2,True,2000,kamienica,27.0,1,400.0,"ul. Topolowa, Kraków",50.0666467,19.9543084
+923534066,2,True,2700,kamienica,60.0,2,500.0,"ul. Szlak 63, Kraków",50.0708748,19.9410022
+900607156,4,True,2100,blok,27.5,1,415.0,"Rejtana 11, Stare Podgórze, Kraków",50.04352919999999,19.945549
+923529216,1,True,2800,blok,40.0,2,450.0,"Kraków, osiedle Walerego Sławka 8",50.0266185,19.9591106
+910963849,1,True,9500,wolnostojacy,230.0,4,1000.0,"Al. Kasztanowa, Zwierzyniec, Kraków",50.0659976,19.8604994
+916948599,9,True,3400,apartamentowiec,56.0,2,900.0,"ul. Dobrego Pasterza 118D, Kraków",50.0889006,19.9762304
+777811575,1,True,2900,apartamentowiec,44.0,2,580.0,"ul. Bronowicka 5, Kraków",50.0766218,19.9050787
+923522194,1,True,2800,blok,53.5,2,,"ulica Ułanów, Kraków",50.0778397,19.9835756
+839910169,0,True,3000,apartamentowiec,40.0,2,3000.0,"Borkowska, Kraków",50.0043146,19.9058142
+923519107,2,True,1900,blok,41.0,2,630.0,"ul. Nuszkiewicza, Kraków",50.0902999,19.9623342
+923519103,2,True,2200,blok,28.0,2,270.0,"Kraków, ulica Benedykta Cesarza 47",50.011468,19.9094031
+921278767,0,True,2000,kamienica,26.0,1,400.0,"ul. Idzikowskiego, Kraków",50.0769421,19.9600626
+922227037,1,True,2950,blok,52.0,2,850.0,"Os. Spółdzielcze, Kraków, Nowa Huta",50.0769821,20.0272574
+923514162,,True,2550,blok,43.0,1,300.0,"Kraków, Stare Miasto",50.0591121,19.9378922
+914016927,2,True,2500,blok,64.0,2,800.0,"Kraków, ul. Wichury 16",50.06465009999999,19.9449799
+828479637,6,True,3100,blok,50.0,2,900.0,"ul. Mogilska, Kraków",50.066655,19.9720541
+710191623,3,True,2850,apartamentowiec,50.0,2,700.0,"ul. Wrocławska 80, Kraków",50.080922,19.9174173
+923511141,3,True,3200,kamienica,54.0,2,810.0,"ul. św. Gertrudy, Stare Miasto, Kraków",50.0569602,19.9404593
+923510128,4,True,2900,blok,45.0,2,600.0,"Myśliwska 66a, Kraków",50.0456379,19.9962601
+923509279,3,True,2800,blok,45.0,2,590.0,"ulica Koszykarska 31A, Kraków",50.0492312,19.9878378
+761924885,6,True,2800,blok,35.0,2,350.0,"Osiedle Złotej Jesieni 3B, Kraków",50.0922418,20.0230383
+745271484,3,True,2200,blok,40.0,1,470.0,"ul. Kordiana, Kraków",50.0106122,19.9649084
+912194692,0,True,2700,apartamentowiec,38.0,2,500.0,"ul. Wielicka 109, Kraków",50.02791089999999,19.9743408
+897567204,1,True,2713,blok,36.22,2,400.0,"Kraków, Łagiewniki",50.0238859,19.9399876
+906630895,3,True,1900,blok,23.0,1,1.0,"Kraków, dzielnica Czyżyny, obok galerii M1",50.0740928,20.003899
+906181072,3,True,2399,blok,34.0,2,1.0,"ul. Centralna, Czyżyny, Kraków",50.065618,20.0105145
+923508505,7,True,3500,blok,67.0,3,620.0,"ulica Meissnera, Kraków",50.0762123,19.9789961
+923505689,0,True,2800,blok,40.0,2,600.0,"ul. Lema 15, Kraków",50.0661138,19.989447
+907265694,2,True,2700,kamienica,33.0,1,450.0,"Kraków, ulica Węgierska",50.0449757,19.9509326
+914170989,1,True,3700,apartamentowiec,63.0,3,550.0,"ul. Henryka i Karola Czeczów, Kraków",50.0212104,20.0595107
+915285556,3,True,2650,kamienica,44.0,2,889.0,"ul. Lwowska, Kraków",50.0450398,19.9572191
+873842159,4,True,2200,kamienica,20.4,1,332.0,"ul. Iwona Odrowąża, Kraków",50.0772932,19.9327458
+902494438,6,True,1899,apartamentowiec,25.0,1,233.0,"ul. Radzikowskiego, Kraków",50.086513,19.8992982
+923505774,5,True,3500,apartamentowiec,46.0,2,550.0,"ul. Stanisława Klimeckiego, Kraków",50.0468638,19.9708564
+923504354,3,True,2800,apartamentowiec,55.0,2,750.0,"ul. Prądnicka, Kraków",50.0825225,19.937678
+923505773,0,True,2500,kamienica,47.0,2,350.0,"ul. Krowoderska, Kraków",50.0698417,19.9358249
+918749640,3,True,2500,blok,51.0,2,655.0,"Osiedle Zgody 8, Nowa Huta, Kraków",50.0766017,20.0375285
+829096077,1,True,4400,blok,70.0,3,900.0,"al. J. Słowackiego, Kraków",50.0729283,19.9326377
+923504414,8,False,2700,pozostale,45.0,2,800.0,"ul. Kołowa, Kraków",50.0716346,19.8984402
+923501881,0,True,2000,blok,36.0,2,414.0,"ul. Litewska, Kraków",50.0770054,19.9242102
+909412546,1,True,2500,blok,47.48,2,730.0,"ul. Borkowska, Kraków",50.0043146,19.9058142
+896311413,3,True,2200,apartamentowiec,34.0,1,600.0,"ulica Friedleina, Kraków",50.07769,19.9318847
+923501295,,False,2550,pozostale,43.0,1,300.0,"Kraków, dzielnica Stare Miasto",50.0605618,19.9377113
+923499859,4,True,2490,apartamentowiec,48.0,3,690.0,"ul. Borsucza, Kraków",50.0275439,19.9280675
+923504907,4,True,2500,blok,60.0,2,700.0,"ul. Edwarda Heila, Podgórze Duchackie, Kraków",50.0222619,19.9577431
+724593632,1,True,2500,wolnostojacy,38.0,1,100.0,"Dzielnica Bronowice, Kraków",50.0810361,19.8906961
+917404043,0,True,2850,apartamentowiec,38.0,2,400.0,"Aleja Pokoju, Kraków",50.0643763,19.9889404
+923505769,2,True,2800,apartamentowiec,53.27,3,770.0,"os. bohaterów września, Kraków",50.10088649999999,20.0095641
+910978790,5,True,2800,apartamentowiec,60.0,2,890.0,"ul. Juliusza Lea, Kraków",50.0721523,19.906411
+923504916,2,True,2750,wolnostojacy,56.0,3,250.0,"ul. Kobierzyńska 200, Ruczaj, Kraków",50.0105484,19.8983076
+888310734,7,True,2300,blok,43.0,2,650.0,"ul. Bobrzyńskiego, Ruczaj, Kraków",50.0210479,19.8986757
+923493085,1,True,4500,kamienica,65.0,3,400.0,"os. Oficerskie, Kraków",50.07079179999999,19.9633277
+909221244,8,True,4500,pozostale,72.0,3,900.0,"Grzegózki Park, Kraków",50.0664893,19.9599783
+923491203,3,True,6000,pozostale,76.0,2,700.0,"ul. Rakowicka 20A, Kraków",50.0695859,19.952278
+913927435,1,True,3200,apartamentowiec,58.0,2,1050.0,"ul. Cybulskiego, Kraków",50.0619819,19.9268764
+923078258,0,True,1200,blok,20.0,4,,"ul. Kobierzyńska 60, Kraków",50.0301352,19.9205986
+778007965,5,True,3000,blok,36.0,2,650.0,"Osiedle Kazimierzowskie, Bieńczyce, Kraków",50.0859867,20.021793
+923488260,0,True,2200,kamienica,26.0,1,,Kraków Stare Miasto,50.0591121,19.9378922
+923489314,1,True,2000,blok,37.0,2,520.0,"Os. Piastów 21 B, 31-624 Kraków",50.0970504,20.0205979
+923488820,6,True,2300,blok,32.76,1,320.0,"ul. Reduta, Kraków",50.0955254,19.9772311
+825470330,3,True,1900,blok,34.0,1,300.0,"Kraków, os.Bohaterów Września 81",50.1000988,20.0067833
+921001413,3,True,2300,blok,30.0,1,520.0,"ul. Stefana Banacha, Prądnik Biały, Kraków",50.1020209,19.9584127
+923485362,4,True,2600,blok,49.0,2,650.0,"ul. Smoluchowskiego, Kraków",50.0731855,19.9098154
+923484449,1,True,2500,blok,55.0,2,400.0,"ul. Kuźnicy Kołłątajowskiej, Kraków",50.0994995,19.9499252
+918034874,4,True,2200,blok,50.0,2,550.0,"ul. Wysłouchów, Kraków",50.0089146,19.9548143
+923483466,0,True,3400,apartamentowiec,40.0,2,,"ul. Podskale, Stare Podgórze, Kraków",50.0379692,19.9420623
+923463961,,True,2600,blok,1.0,1,257.0,"Walerego Sławka 15, Kraków",50.0235646,19.9614175
+923482443,1,True,2300,wolnostojacy,64.0,2,1.0,"ul. Księcia Józefa, Przegorzały, Kraków",50.0462687,19.8759573
+893299719,1,True,2700,blok,35.49,2,425.0,"ul. Czerwone Maki, Podole, Sternbacha, Kraków",50.022097,19.8883265
+909486770,0,True,2800,blok,50.0,2,580.0,"ul. Wielicka, Podgórze, Kraków",50.0331805,19.9702226
+907441509,1,True,2190,blok,48.0,2,570.0,"Rydla 45a, Kraków",50.0795699,19.904837
+923478621,3,True,2600,blok,50.0,2,650.0,"ul. Fabryczna, Kraków",50.062957,19.9720545
+923477898,1,True,3800,blok,70.0,4,825.0,"ul. Reduta, Prądnik Czerwony, Kraków",50.0955254,19.9772311
+922979009,0,True,2600,blok,34.0,2,,"Ul. Ludwika Pasteura, Prądnik Biały, Kraków",50.0974583,19.9329591
+923476367,0,True,3700,wolnostojacy,90.0,4,400.0,"ul. Sarnie Uroczysko, Wola Justowska, Kraków",50.0677583,19.8596825
+923315784,4,True,2950,blok,52.0,3,730.0,"ul. Krowoderskich Zuchów, Kraków",50.0884928,19.9269536
+680326052,5,True,2300,blok,35.0,2,450.0,"Ruczaj, Kraków",50.0259406,19.9199088
+918190541,1,True,1800,apartamentowiec,20.0,1,500.0,"ul. Uśmiech, Kraków",50.0274029,19.9729401
+923430720,2,True,2700,blok,39.0,2,570.0,"ul. Stanisława Lema 17, Kraków",50.0701124,19.9871807
+896514687,3,True,4200,apartamentowiec,58.0,3,,"Park Lotników, Kraków",50.0702676,19.993358
+832079438,0,True,2500,blok,50.0,2,500.0,"ulica Profesora Wojciecha Bartla – osiedle Kliny Zacisze, Kraków",49.9995228,19.8985349
+834800409,2,True,1800,blok,31.0,2,390.0,"Kraków, ul. Borkowska",50.0043146,19.9058142
+923470322,5,True,2200,blok,27.0,1,300.0,"Kraków, Żabiniec 69 (Casa Feliz)",50.0831037,19.9452003
+923469835,,True,890,blok,20.0,3,,"ul. Zachodnia, Kraków",50.0242823,19.9076341
+909417826,,True,2200,blok,33.0,1,400.0,"Plac Centralny, Nowa Huta, Kraków",50.0717827,20.038011
+909197849,3,True,2000,blok,36.0,1,400.0,"osiedle Na Wzgórzach, ulica Kocmyrzowska, Kraków",50.0969217,20.0658583
+828066969,17,True,2220,wolnostojacy,40.0,2,640.0,"ul. Zamiejska, Ruczaj, Kraków",50.0116942,19.8961356
+923467809,1,False,2500,blok,50.0,2,700.0,"ul. Zjazdu Gnieźnieńskiego, Kraków",50.0984981,19.9932235
+923468842,2,True,2000,blok,40.0,2,600.0,"os. Bohaterów Września, Kraków - Mistrzejowice",50.10088649999999,20.0095641
+923467714,1,True,4000,apartamentowiec,60.88,2,,"Wola Justowska, Kraków",50.0617388,19.8486621
+894880120,2,True,2300,szeregowiec,28.0,1,1.0,"ul. Maurycego Beniowskiego, Kraków",50.0647617,19.9049613
+923464690,0,True,2000,kamienica,33.0,1,200.0,"ul. Dietla, Kraków",50.0542174,19.9432891
+679964797,4,True,3000,blok,55.0,3,850.0,"Kraków, ul. Szwedzka",50.0469415,19.9242239
+923462821,,True,2600,blok,1.0,1,257.0,"Walerego Sławka 15, Podgórze Duchackie, Kraków",50.0125894,19.9784544
+657284381,3,True,2500,blok,43.0,2,1100.0,"ul. Kryniczna, Kraków",50.0728209,19.9687161
+767832989,2,True,2700,blok,42.0,2,709.0,"ul. Królowej Jadwigi, Kraków",50.0629189,19.8860194
+712373244,0,True,1800,kamienica,26.0,1,250.0,"ul. Filarecka, Kraków",50.0560245,19.9201309
+923019862,2,True,3500,blok,56.0,3,1000.0,"ul. Wodna 34, Kraków, Płaszów",50.0377764,19.9758561
+922591792,1,True,2100,blok,44.0,2,700.0,"Al. 29 listopada, Kraków",50.0891773,19.9578683
+916879799,2,True,2500,blok,48.55,2,,"ul. Na Zakolu Wisły 12D, Kraków",50.0535666,19.9845107
+923455298,1,True,2700,blok,46.0,2,600.0,"ul. Mariana Smoluchowskiego, Krowodrza, Kraków",50.0731855,19.9098154
+923455289,8,True,3700,apartamentowiec,52.0,2,850.0,"ul. Fabryczna 5a, Grzegórzki, Śródmieście, Kraków",50.0615078,19.9718732
+900059520,1,True,1500,wolnostojacy,17.0,1,400.0,"Ksiedza Fr.Maja 9a, Kraków",50.06465009999999,19.9449799
+923452646,3,True,2550,apartamentowiec,37.0,2,400.0,"ul. Czyżewskiego 3, Kraków-Krowodrza",50.08147200000001,19.913794
+695179097,1,True,1700,blok,24.0,1,370.0,"Ul. Kielecka, Kraków",50.0685285,19.9629034
+918007945,3,True,3650,kamienica,51.0,2,490.0,"ul. Grodzka 50, Kraków",50.05753079999999,19.9388152
+659861029,3,True,3300,kamienica,51.0,2,390.0,"ul. Batorego 22, Kraków",50.0668799,19.9302271
+923451282,3,True,2500,blok,45.0,2,750.0,"ul. Nowowiejska 2, Kraków",50.07346279999999,19.9185807
+923450799,9,True,3500,apartamentowiec,52.0,2,510.0,"ul. Fabryczna, Kraków",50.062957,19.9720545
+896774709,0,True,4500,blok,68.0,3,10.0,"Kraków, Stary Bieżanów",50.0160446,20.0496196
+879643816,3,True,3213,apartamentowiec,45.0,2,800.0,"Ul. Wrocławska 53M, Kraków",50.0812307,19.9232658
+923443679,1,True,1700,wolnostojacy,20.0,1,400.0,"ul. Pilotów, Kraków",50.0793622,19.971971
+922003949,1,True,2200,blok,42.0,2,700.0,"ul. Nad Sudołem, Kraków",50.0921441,19.9291994
+923441355,10,True,1700,blok,36.0,1,520.0,"ul. Wysłouchów, Kraków",50.0089146,19.9548143
+744945603,9,True,1950,apartamentowiec,16.0,1,550.0,Pokoju 1a Kraków,50.0572574,19.9614608
+919504995,2,True,3500,pozostale,64.2,2,,"ul. Mogilska 15B, Kraków",50.066044,19.9624203
+840644488,2,True,2600,blok,38.0,2,520.0,"ul. Aleja Pokoju, Kraków",50.0643763,19.9889404
+923433971,1,True,2700,apartamentowiec,34.0,2,600.0,"ul. Nowohucka, Kraków",50.0536422,19.9925314
+794696498,0,True,1800,blok,28.0,1,0.1,"ul. Kobierzyńska, Kraków",50.0226935,19.9100304
+915245115,2,True,2500,blok,48.0,2,500.0,"os. Ogrodowe, Nowa Huta, Kraków",50.07109759999999,20.0451403
+923433669,0,True,2500,apartamentowiec,39.0,1,800.0,"ulica Łobzowska, Stare Miasto, Kraków",50.0693689,19.932831
+917156324,2,True,3099,apartamentowiec,32.0,2,440.0,"ulica Rakowicka, Kraków",50.0713956,19.954938
+923431862,4,True,3500,blok,74.71,3,800.0,"ul. Radzikowskiego, dzielnica Bronowice, Kraków",50.0879817,19.8952598
+923430517,7,True,2300,blok,42.0,2,800.0,"ul. Mikołaja Reja, dzielnica Prądnik Biały / Żabiniec, Kraków",50.0860996,19.9443068
+923430261,0,True,3000,blok,45.0,2,550.0,"ul. Fredry, Kraków",50.023424,19.9423039
+923429135,3,True,3300,blok,50.0,3,700.0,"ul. Rydlówka, Kraków",50.0349608,19.9361894
+855393937,3,True,3300,apartamentowiec,50.0,3,700.0,"ul. Rydlówka, Kraków",50.0349608,19.9361894
+658999201,4,True,3500,apartamentowiec,50.27,2,700.0,"ul. Dobrego Pasterza, Kraków",50.0895477,19.9775708
+917284175,0,True,2800,apartamentowiec,34.0,2,500.0,"Stanisława Lema, Czyżyny, Kraków",50.0688482,19.9877621
+913741265,4,True,2500,blok,40.0,2,500.0,"ul. Sądowa 1, Stare Miasto, Kraków",50.0625096,19.9653592
+923419280,2,True,2000,kamienica,18.0,1,350.0,"ul. J.H. Dąbrowskiego, Stare Podgórze, Kraków",50.0446905,19.9596547
+903710812,0,True,2500,blok,41.8,2,650.0,"ul. Kobierzyńska, Kraków",50.0226935,19.9100304
+922759955,0,True,2900,blok,46.0,2,600.0,"ul. Domagały 33C, Kraków",50.0255389,20.049275
+923418073,4,True,2000,kamienica,24.0,1,500.0,"Kazimierza Wielkiego, Kraków",50.0739632,19.9176286
+761848347,1,True,2100,blok,33.0,1,600.0,"os. Złota Podkowa, Kraków",50.0847488,19.8793689
+915535411,1,True,2500,szeregowiec,50.0,2,510.0,"ul. Ketlinga, os. Kliny, Kraków",50.0005235,19.8987373
+687332507,3,True,3700,kamienica,55.0,2,1.0,"ul. Szlak, Kraków",50.0714339,19.9391764
+923413124,0,True,2500,blok,35.0,2,300.0,"ul. Kotlarska, Kraków",50.0554664,19.9593753
+923411660,0,True,2900,blok,50.0,2,670.0,"Kraków, os. Urocze, Nowa Huta",50.0788815,20.0363897
+923411490,5,True,3500,blok,64.0,3,750.0,"ul. B. Orlińskiego 1, Kraków",50.0816215,20.0008327
+861864252,4,True,3000,apartamentowiec,40.0,2,700.0,"Okolice Nowego Kleparza, Kraków",50.07288,19.9354466
+922134872,2,True,2500,apartamentowiec,28.0,1,360.0,"ulica Ciesielskiego, Kraków",50.0615487,20.0144451
+923409930,2,True,2300,apartamentowiec,37.0,2,550.0,"ul. Federowicza, Kraków",50.0148352,19.8820742
+923409876,,True,2800,blok,56.0,3,500.0,"os. Bohaterów Września, Kraków",50.10088649999999,20.0095641
+919717433,1,True,3250,apartamentowiec,45.0,2,600.0,"Sołtysowska 23, Czyżyny, Kraków",50.0644706,20.0147731
+916830925,5,True,4000,blok,72.0,4,620.0,"ul. Wielicka, Kraków",50.0156249,19.9948761
+923408560,1,False,4400,kamienica,110.0,4,500.0,"ul. Węgierska, Stare Podgórze, Kraków",50.0449757,19.9509326
+923407689,17,True,2500,blok,50.0,2,,"Kraków, ulica Szuwarowa",50.0194317,19.903806
+786087321,1,True,3000,blok,55.0,3,500.0,"ul. Macieja Dębskiego, Kraków",49.9885697,19.904513
+751970318,5,True,2400,blok,44.0,2,550.0,"Osiedle Oświecenia, Kraków",50.0933562,19.9918617
+917457424,0,True,1700,wolnostojacy,14.0,1,300.0,"ul.Stefana Stolarza, Kraków",50.008268,20.0482989
+923397540,4,True,4800,kamienica,60.0,2,1000.0,"ul. Powiśle, Kraków, Stare Miasto",50.0555513,19.9310584
+655283168,1,True,2950,apartamentowiec,52.0,2,770.0,"ul. Stawowa 133, Kraków",50.0949445,19.8894595
+909803916,1,True,2150,blok,33.0,1,450.0,"ul. Mozarta, Kraków – Prądnik Biały",50.0950878,19.9519956
+676725817,2,True,4200,apartamentowiec,66.0,3,800.0,"Czyżewskiego 3, Kraków",50.08147200000001,19.913794
+923385245,3,True,2500,blok,50.0,2,,"ul. Siemienowicza, Płaszów, Kraków",50.0382786,19.9957913
+695021490,2,True,1800,blok,41.6,2,830.0,"Centrum B, Stara Nowa Huta, Kraków",50.0737746,20.0395411
+704176896,1,True,2500,blok,32.0,2,400.0,"Kraków, Ul. Podkowińskiego 8",50.0843389,19.8944174
+923374713,3,True,3700,apartamentowiec,55.0,2,,"ulica Stańczyka, Bronowice, Kraków",50.0786616,19.8920959
+682553716,2,True,3700,apartamentowiec,37.0,2,450.0,"ul. Marka Stachowskiego 4, Kraków",50.0540289,19.9632901
+758695516,0,True,3300,blok,70.0,4,1200.0,"Al. 29 listopada, Kraków, Olsza",50.0815666,19.9514072
+923371077,4,True,3900,kamienica,43.0,2,360.0,"ul. Długa, Śródmieście, Kraków",50.0698993,19.9372753
+783348147,2,True,4000,blok,55.0,3,1000.0,"ul. Retoryka, Kraków",50.0582868,19.9284142
+922257375,0,True,2100,wolnostojacy,16.0,1,400.0,"Grzegorzki, Kraków",50.0664893,19.9599783
+923368712,2,True,4500,apartamentowiec,52.0,2,780.0,"ul. Grzegórzecka, Grzegórzki, Kraków",50.0569787,19.9603504
+859525380,-1,True,2500,kamienica,35.0,2,600.0,"ul. Lobzowska/Szlak, Kraków",50.0700279,19.9323734
+919822250,1,True,2100,kamienica,25.0,1,160.0,"Kraków, Bałuckiego",50.0494421,19.9259681
+923364565,2,True,2790,blok,20.0,1,,"UL. KUŹNICY KOŁŁĄTAJOWSKIEJ 17E, Prądnik Biały, Kraków",50.097905,19.9555193
+923364330,3,True,2350,kamienica,45.0,2,750.0,"Nowa Huta, Kraków",50.0725561,20.0375211
+850765375,2,True,2500,blok,39.0,2,600.0,"Azory, Kraków",50.0882804,19.9096578
+923359834,4,True,3200,blok,40.0,2,250.0,"Ul. Wodna, Kraków",50.0381633,19.973858
+861686116,0,True,1350,wolnostojacy,20.0,1,450.0,"Prosta 2, Kraków",50.0237112,19.9910547
+840200106,5,True,3600,kamienica,50.0,2,,"ul. Grzegórzecka 67, Kraków",50.0569528,19.9599481
+923357203,2,True,5400,kamienica,76.0,4,580.0,"Plac Wolnica, Kraków",50.0490576,19.9445204
+923356725,7,False,5000,pozostale,62.0,4,,"ul. Mogilska, Kraków",50.066655,19.9720541
+923355295,1,True,2800,apartamentowiec,44.0,2,500.0,"Kraków, Poznańska 10",50.0803282,19.9260123
+923354693,10,True,4000,blok,60.0,3,850.0,"os. Na Lotnisku, Kraków",50.0871242,20.0171202
+683309417,7,True,2600,blok,36.0,2,740.0,"Kraków, ul. Łobzowska 57",50.0713723,19.9308838
+923353903,3,True,2750,apartamentowiec,42.74,2,580.0,"Lema 19, Kraków",50.0696603,19.9877776
+860097378,3,True,3500,blok,45.0,2,500.0,"ul. Racławicka 29, Kraków",50.0765093,19.9202289
+858130444,4,True,2850,blok,38.0,2,400.0,"ul. Fredry 4E, Kraków",50.024933,19.9437947
+861331138,0,True,100,wolnostojacy,200.0,4,1.0,"Ul. Sarnie Uroczysko, Kraków",50.0677583,19.8596825
+923341565,3,True,3000,blok,60.0,2,450.0,"ul. Bułgarska 15, Ruczaj, Kraków",50.0274048,19.9173462
+923339766,2,True,3200,kamienica,85.0,3,1.0,"ul. Krakówska, Kraków Kazimierz",50.0491074,19.9431548
+821007393,2,True,2700,blok,51.0,2,560.0,"Bohaterów Września, Kraków",50.10088649999999,20.0095641
+923338701,5,True,3100,apartamentowiec,55.0,2,,"ul. Frycza Modrzewskiego, Kraków",50.0869603,19.9454303
+861930601,0,True,2950,blok,45.0,3,650.0,"ul. Słomiana, os.Podwawelskie, Dębniki, Kraków",50.0428307,19.9261673
+756167165,3,True,2000,blok,38.0,1,500.0,"ul. Obozowa, Kraków",50.0164802,19.9091142
+726306245,7,True,2500,blok,51.0,2,720.0,"osiedle 2 Pułku Lotniczego, blok nr 9, Czyżyny, Kraków",50.0774331,20.0078131
+911270982,4,True,2400,blok,34.0,2,500.0,"Prądnik Biały, Kraków",50.090534,19.9190569
+784157446,4,True,2300,kamienica,25.0,1,,"Plac Wolnica, Kazimierz, Kraków",50.0490576,19.9445204
+918713439,1,True,2500,blok,38.0,2,425.0,"Ul. Morcinka 86A, Kraków",50.1028406,20.0569475
+923333481,4,True,3400,apartamentowiec,46.0,2,,"ul. Dobrego Pasterza 118, Kraków",50.08883580000001,19.9756117
+899733295,3,True,2600,blok,30.0,1,400.0,"ul. Kurzei 4, Mistrzejowice, Kraków",50.0956115,19.99107
+923330238,0,True,1900,kamienica,29.0,1,337.0,"ul. Urzędnicza, Kraków",50.0717587,19.9195256
+923329530,0,True,1700,wolnostojacy,19.0,1,,"Żeńców, Kraków",50.036974,19.9889963
+923328922,1,True,5000,apartamentowiec,56.0,3,1350.0,"Kraków, Sukiennicza and Koletek streets, Krakow",50.05189,19.9374653
+923326829,3,True,3700,kamienica,55.0,2,100.0,"ul. Szlak, Stare Miasto, Kraków",50.0714339,19.9391764
+923326704,2,True,3500,blok,64.56,3,850.0,"ul. Aleksandry, Bieżanów-Prokocim, Kraków",50.011726,20.0177559
+923325424,5,True,2000,blok,25.0,1,,"ulica Bronowicka, Kraków",50.0792438,19.8970439
+923324674,0,True,2900,wolnostojacy,38.0,2,400.0,"ul. Żeńców, Kraków",50.036974,19.9889963
+916462723,1,True,2850,apartamentowiec,34.0,1,435.0,"ul. Wawrzyńca, Kraków",50.0496404,19.9488851
+887362184,,True,3000,kamienica,33.0,1,1.0,"ul. Prądnicka 65, Kraków",50.0864454,19.9389071
+923322415,2,True,9600,apartamentowiec,110.0,4,1600.0,"ul. Ludwinowska, Kraków",50.0441617,19.9376191
+865267240,1,True,1799,wolnostojacy,17.0,1,1.0,"ul. Urocza, Łagiewniki, Kraków",50.025262,19.939363
+900185979,3,True,2999,apartamentowiec,40.0,2,1.0,"ul. Grzegórzecka, Kraków",50.0569787,19.9603504
+846293300,3,True,2399,apartamentowiec,37.0,2,1.0,"ul. Polonijna 23, Kraków",50.017222,19.9894801
+912668016,0,True,2500,kamienica,36.0,2,150.0,"al. Beliny Prażmowskiego, Kraków",50.0702813,19.9592361
+896042470,1,True,2700,blok,50.0,2,730.0,"ul. Dobrego Pasterza 31, Kraków",50.0895477,19.9775708
+923320917,3,True,3200,blok,54.0,3,900.0,"ul. Mariana Markowskiego, Kraków",50.0750386,19.9890591
+923320555,5,True,3200,blok,54.0,3,525.0,"ul. Przewóz, Płaszów, Kraków",50.0423067,19.9910327
+917372919,2,True,2700,apartamentowiec,56.0,2,800.0,"ul. Stańczyka 16, Kraków",50.077698,19.8921738
+923320098,1,True,2300,blok,27.0,1,445.0,"ul. Borkowska, osiedle Kliny Borkowskie, Kraków",50.0041044,19.9058102
+923320064,2,True,1800,kamienica,35.0,1,400.0,"ul. Limanowskiego, Stare Podgórze, Kraków",50.0447468,19.956308
+923318059,0,True,2100,blok,51.0,2,850.0,"ul. Pachońskiego, Kraków",50.0944656,19.9266261
+910829133,2,True,2500,blok,39.0,2,680.0,"ul. Łaszkiewicza 8, Kraków",50.0690906,19.9764366
+923317047,2,True,1000,kamienica,18.0,1,300.0,"ul. Limanowskiego, Stare Podgórze, Kraków",50.0447468,19.956308
+923316236,3,True,3500,apartamentowiec,50.0,2,750.0,"ul. Stanisława Lema, Grzegórzki, Kraków",50.0688482,19.9877621
+916721367,2,True,3000,kamienica,56.0,2,1.0,"ul. Zwierzyniecka, Śródmieście, Kraków",50.0573604,19.9303805
+923313761,4,True,1800,blok,25.0,1,400.0,"Kraków, Ul. Juliusza Lea 16a/9, 30048 Krakow",50.0701727,19.919214
+916712869,3,True,3300,blok,67.02,3,650.0,"ul. Zbrojarzy, Kraków",50.022293,19.9268266
+622674346,2,True,1900,blok,37.0,2,460.0,"Stachiewicza, Kraków",50.0853998,19.9164599
+842718034,6,True,2500,blok,47.0,2,700.0,"ul. Balicka, os. Widok, Kraków",50.081652,19.856911
+923310350,0,True,3500,blok,68.0,3,,"Kraków, Swoszowice",49.99008449999999,19.946059
+922036609,0,True,3200,blok,54.0,3,435.0,"ul. prof. Bronisława Geremka, Kliny, Kraków",50.0034363,19.8927119
+682772914,1,True,2200,kamienica,30.0,2,250.0,"ul. Urzędnicza, Kraków",50.0717587,19.9195256
+916523836,1,True,3000,kamienica,43.0,2,1.0,"ul. Bonerowska, Kraków",50.0591152,19.9474505
+923307541,0,False,2500,kamienica,38.0,2,350.0,"Stare Podgórze, Kraków",50.0437925,19.9471326
+923308055,0,False,3900,apartamentowiec,63.0,3,860.0,"Kraków, Wola Justowska",50.0617388,19.8486621
+923303958,10,True,1900,blok,34.3,2,560.0,"Kraków, ul. Łobzowska",50.0691402,19.9329584
+923297118,9,True,2400,blok,51.0,2,900.0,"ul. Bochenka, Kraków",50.0114279,19.9751579
+923299057,4,True,3300,apartamentowiec,53.0,2,1200.0,"ul.łączyńska 3, Kraków",50.06465009999999,19.9449799
+918457704,3,True,2800,kamienica,29.0,1,0.01,"ul. Ambrożego Grabowskiego 3, Kraków",50.0672864,19.9279367
+923292863,2,True,3200,kamienica,53.0,2,570.0,"ul. Zaleskiego, Osiedle Oficerskie, Kraków",50.0675817,19.9645295
+923291984,2,True,2000,apartamentowiec,25.0,1,400.0,"Kraków, Kalwaryjska",50.0409308,19.9428342
+629713635,1,True,2000,wolnostojacy,39.0,2,1.0,"ul. Szlak, Kraków",50.0714339,19.9391764
+923291225,5,True,3400,blok,49.0,2,400.0,"ul. Ślusarska, Zabłocie, Kraków",50.0489086,19.9619511
+641667056,3,True,3000,kamienica,58.0,2,1.0,"Ul. Dietla 57, Kraków",50.0532473,19.9435082
+892969477,5,True,2450,blok,43.0,2,600.0,"Kraków, ul. Mikołaja Reja",50.0860996,19.9443068
+922808348,2,True,3500,kamienica,50.0,2,500.0,"ul. Warszawska, 31-140 Kraków",50.0698293,19.9436474
+918935887,6,True,2550,apartamentowiec,33.0,2,393.0,"ul. Wrocławska, Kraków",50.0777876,19.924889
+923286524,0,True,1800,wolnostojacy,20.0,3,1800.0,"ul. Chelmonskiego 172a, Kraków",50.0958589,19.8975923
+923286435,5,True,3200,apartamentowiec,42.0,2,600.0,"Kraków, ul. Zbożowa",50.0786011,19.9369857
+923286632,2,True,4100,apartamentowiec,56.0,3,,"ul. Przewóz 44, Kraków",50.040755,19.997731
+923285510,5,True,3400,blok,49.0,2,400.0,"ul. Ślusarska, Zabłocie, Kraków",50.0489086,19.9619511
+923284995,5,True,3000,apartamentowiec,34.0,2,850.0,"ul. Szlak, Kraków",50.0714339,19.9391764
+797630950,4,True,3400,blok,34.0,2,600.0,"ul. Helclów, Kraków",50.0722959,19.9380981
+757245928,4,True,2000,blok,28.0,1,600.0,"Kraków, ul. Szpakowa",50.012524,19.9792393
+913068628,3,True,3650,kamienica,51.0,2,490.0,"ul. Grodzka 50, Kraków",50.05753079999999,19.9388152
+923280015,3,True,2750,apartamentowiec,36.0,2,,"ul. Lasówka, Podgórze, Kraków",50.048349,19.993871
+909032694,10,True,2000,blok,32.0,1,545.0,"os. Dywizjonu 303, Kraków",50.0831593,20.0031326
+901086218,0,True,3000,apartamentowiec,33.0,1,500.0,"Ul. Rakowicka, Kraków",50.0713956,19.954938
+923278996,5,False,3300,pozostale,36.0,2,550.0,"Kraków, ul. Kijowska 7",50.0705994,19.9139848
+920328008,3,True,2700,apartamentowiec,30.0,2,450.0,"ul. Wrocławska 53f, Nowa 5 Dzielnica, Kraków",50.08067399999999,19.9230388
+916674886,0,False,4500,kamienica,77.0,4,1.0,"ul. Tadeusza Pawlikowskiego/ Karmelicka, Kraków",50.067302,19.9272707
+921346850,17,True,3500,blok,102.0,3,,"ul. Radzikowskiego, Kraków",50.086513,19.8992982
+899359808,3,True,1900,blok,37.0,1,570.0,"Al. Pokoju, Kraków",50.0643763,19.9889404
+894423850,4,True,3820,blok,55.75,3,620.0,"ul. Orlińskiego, Czyżyny, Kraków",50.0790723,20.0025525
+923273773,1,False,2500,pozostale,50.0,1,,"ul. Dietla, Kazimierz, Kraków",50.0545487,19.9435364
+923273809,4,False,7500,pozostale,81.0,3,,"ul. Przedwiośnie, Kraków",50.0425519,19.9391194
+897143952,0,True,2520,blok,31.11,2,350.0,"ul. Orlińskiego, Kraków",50.0790723,20.0025525
+923270109,6,True,5000,apartamentowiec,58.0,3,900.0,"dzielnica Grzegórzki, Kraków",50.0664893,19.9599783
+923268490,0,True,1800,kamienica,19.0,1,200.0,"ul. Odrowąża, Kraków",50.0772932,19.9327458
+923268213,3,True,1550,blok,17.0,1,250.0,"ul. Szlachtowskiego, Kraków",50.0730893,19.9026399
+923266937,9,True,2999,blok,48.0,2,500.0,"Kraków, os. Avia, Czyżyny",50.0798242,20.0044829
+700072969,2,True,1900,kamienica,20.0,1,300.0,"ul. Wasilewskiego 10, Stare Dębniki, Kraków",50.0491882,19.9288923
+923266464,0,True,2800,apartamentowiec,55.0,3,270.0,"ul. Tetmajera, Bronowice, Kraków",50.0903044,19.8710246
+923265422,1,True,2500,blok,66.0,4,750.0,"ul. H. K. Czeczów 14, Kraków, os. Złocień",50.020311,20.055571
+923265096,2,True,3000,blok,42.0,2,700.0,"ul. Stańczyka 22, Bronowice, Kraków",50.07759309999999,19.8932333
+923264769,2,True,2500,blok,40.0,2,430.0,"ul. Saska 12, Kraków",50.03771769999999,19.9834132
+923263481,1,True,3000,blok,50.0,2,400.0,"Kraków, Osiedle Szymanowskiego, Wieliczka",49.987363,20.0412639
+813277168,6,True,8200,apartamentowiec,81.0,3,1000.0,"Angel City, Kraków",50.070225,19.944352
+916655822,0,True,4500,blok,87.0,4,950.0,"ul. Schweitzera, Kraków",50.0051841,20.0094795
+923259381,0,False,3000,blok,72.0,3,800.0,"ul. Godlewskiego 10, Kraków",50.0834463,19.8555252
+920167903,2,True,4500,blok,73.0,4,1240.0,"ulica Aleja Pokoju, Czyżyny, Kraków",50.065962,19.9984397
+923259117,4,True,3100,blok,64.0,3,600.0,"ul. Fiołkowa, Prądnik Czerwony, Kraków",50.0787646,19.9819142
+917675167,0,False,2650,blok,40.0,2,750.0,"Nowy Prokocim, Kraków",50.01408379999999,20.0094703
+923115483,5,True,2600,blok,50.0,3,,"Osiedle Złotego Wieku, Mistrzejowice, Kraków",50.09680179999999,20.0024973
+923251675,1,True,2000,wolnostojacy,35.0,1,1.0,"ul. Żółkiewskiego, Grzegórzki, Kraków",50.0590619,19.9578481
+923248793,1,True,3200,blok,65.0,3,0.1,"ul. Przy Cegielni, Płaszów, Kraków",50.0403404,20.0305665
+918453439,0,True,2173,wolnostojacy,25.0,1,400.0,"ul. Kobierzyńska, Kraków",50.0226935,19.9100304
+848425096,4,True,1900,blok,40.0,1,350.0,"Kraków, ul. Płaszowska 63",50.04633949999999,19.9816754
+724079810,2,True,2550,blok,48.5,2,,"okolice Mogilskiej, Kraków",50.066655,19.9720541
+908340881,1,True,2200,blok,39.7,2,850.0,"ul. Ks. Wincentego Turka 12, Kraków",50.0473017,19.9880804
+859049596,3,True,3800,blok,65.0,3,690.0,"ul. Podkowińskiego, Kraków",50.0849609,19.8948811
+923246214,3,True,4500,blok,72.0,3,,"ul. Płaszowska, Kraków",50.0450975,19.9784596
+768517316,5,True,4900,apartamentowiec,60.0,3,740.0,"ul. Grzegórzecka, Kraków",50.0569787,19.9603504
+691868077,0,True,2300,blok,38.0,1,315.0,"Ul. Podkowińskiego, Kraków",50.0849609,19.8948811
+835787820,1,True,2650,apartamentowiec,40.0,2,690.0,"ul. Poznańska, Krowodrza, Kraków",50.0794812,19.9254219
+860250710,1,True,1999,blok,21.0,1,450.0,"ul. Błękitna, Kraków",50.0804493,19.9604461
+697016305,5,True,2650,apartamentowiec,42.0,2,560.0,"ul. Halszki, Wola Duchacka, Podgórze, Kraków",50.0097881,19.9485684
+910321735,7,True,2100,blok,30.0,2,355.0,"os. Dywizjonu 303, Kraków",50.0831593,20.0031326
+895391082,0,False,2550,blok,45.0,3,630.0,"ul. Lotnicza, Kraków",50.0733766,19.9694755
+866128256,3,True,2800,blok,50.0,2,850.0,"al. Jana Pawła II, Kraków",50.0731174,20.0179265
+910652035,3,True,2800,apartamentowiec,40.0,2,430.0,"ulica Saska, Podgórze, Kraków",50.0431846,19.983575
+917169275,2,True,2800,blok,33.0,2,500.0,"ul. Racławicka, Kraków",50.0774554,19.9206956
+916910418,3,True,4100,blok,62.0,3,900.0,"Mogilska 23, Grzegórzki, Kraków",50.0656411,19.9637338
+910308112,1,True,3600,kamienica,50.0,3,500.0,"Krakowska 7, Kraków",50.050792,19.942111
+910309039,3,False,4800,kamienica,75.0,2,400.0,"ul. Krakowska 7, Kraków",50.050792,19.942111
+910306166,5,True,3500,blok,45.0,2,525.0,"Masarska 15, Kraków",50.0540491,19.9582446
+923236808,6,True,3000,blok,47.0,3,600.0,"ul. Marii Bobrzeckiej 3, Żabińiec (Prądnik Biały), Kraków",50.0873779,19.9431316
+915537414,2,True,4000,blok,70.0,3,500.0,"ul. Salwatorska, Salwator, Kraków",50.0533654,19.9114444
+923235477,3,True,5000,apartamentowiec,60.0,3,1000.0,"ul. Krótka i Krzywa, Kraków",50.0683662,19.940136
+833212776,0,True,2700,blok,42.0,2,600.0,"ul. Wielicka, Kraków",50.0156249,19.9948761
+923233590,3,True,2200,apartamentowiec,30.0,1,420.0,"Kraków, Al. 29 Listopada",50.0891773,19.9578683
+683452841,2,True,2600,blok,34.0,2,510.0,"ul. Orlińskiego, Kraków",50.0790723,20.0025525
+825193509,1,True,1500,kamienica,34.0,1,250.0,"Kraków, ul. Chłodna 4",50.017965,19.9263102
+862222884,0,True,3900,szeregowiec,95.0,3,1.0,"Kraków, Krowodrza, Azory, ul. Murarska",50.0846142,19.911315
+706576202,1,True,2700,kamienica,55.0,2,370.0,"Starowiślna, Kraków",50.054804,19.9471229
+923223936,0,True,2800,apartamentowiec,53.0,2,630.0,"ul. Cystersów, Kraków",50.0643481,19.9699393
+858765960,,True,650,blok,52.0,3,,"ul. Opolska, Krowodrza, Kraków",50.0912835,19.929797
+781003392,7,True,2999,blok,50.0,2,800.0,"Fieldorfa Nila, Kraków",49.9756102,19.7873533
+906455503,2,True,2590,apartamentowiec,30.0,1,550.0,"Kraków, UL Stefana Łaszkiewicza 8",50.0690906,19.9764366
+923213869,0,True,4000,szeregowiec,77.0,3,,"ul. Górnickiego, Prądnik Biały, Kraków",50.0972483,19.9409689
+914335547,2,True,2850,kamienica,42.0,2,,"ul. Brzozowa, Kraków",50.0538269,19.9450331
+847214791,2,True,2000,blok,38.0,1,590.0,"Nuszkiewicza Street, Prądnik Czerwony, Kraków",50.0902999,19.9623342
+923208365,4,True,2700,blok,33.0,1,545.0,"ul. Rzemieślnicza, Kraków",50.033146,19.9333106
+923206060,9,True,2700,blok,55.0,2,700.0,"ul. Opolska 27, Kraków",50.0906605,19.9272888
+691358295,2,True,2550,kamienica,65.0,2,1.0,"ul. Klemensiewicza, Śródmieście, Kraków",50.0820671,19.9508595
+908900161,6,True,2800,apartamentowiec,48.0,2,550.0,"ul. Kluczborska, Kraków",50.0870584,19.9333004
+923204154,3,False,2200,blok,36.0,2,650.0,"Kraków, ul. Nowosądecka",50.0176294,19.9760607
+835725916,7,True,2500,blok,40.0,2,400.0,"Aleja 29 Listopada, Kraków",50.0891773,19.9578683
+651706179,1,True,1800,blok,28.0,1,370.0,"ul. Gabrieli Zapolskiej, Kraków",50.0772826,19.8953469
+923200943,3,True,2500,blok,47.0,2,700.0,"Turniejowa, Kurdwanów, Kraków",50.0120744,19.959335
+915795207,1,True,2350,blok,38.0,2,450.0,"ul. Bohomolca, Prądnik Czerwony, Kraków",50.0921163,19.9879389
+884910930,3,True,700,apartamentowiec,12.0,3,350.0,"AL. Pokoju i ul. Nowohuckiej, Kraków",50.0643763,19.9889404
+923195222,7,True,5000,apartamentowiec,62.0,4,1050.0,"Kraków, ul. płk. pil. Stefana Łaszkiewicza",50.0689894,19.9757992
+694499333,3,False,2000,blok,48.0,2,955.0,"ul. Wysłouchów 15, os. Kurdwanów, Kraków",50.0084333,19.9519475
+862109558,0,True,2450,apartamentowiec,28.0,1,450.0,"ul. Malborska 29, Kraków",50.0258614,19.9739074
+923193226,5,True,4000,apartamentowiec,40.0,2,625.0,"ul. Grzegórzecka 69C, Grzegórzki, Kraków",50.05587209999999,19.9630297
+923190147,3,True,2500,blok,42.0,2,500.0,"ul. M. Bobrzyńskiego, Ruczaj, Kraków",50.0210479,19.8986757
+916170680,2,True,2400,blok,38.0,2,600.0,"ul. Dr Jana Piltza 19, Kraków",50.0092092,19.8893493
+702417343,0,True,1100,szeregowiec,15.0,1,1.0,"ul. Klemesiewicza 6, Kraków",50.0820289,19.9504582
+660371271,1,True,2600,blok,28.0,2,510.0,"Kraków, ul. Lea",50.0721523,19.906411
+923186187,2,True,3800,apartamentowiec,52.0,2,750.0,"ul. Stanisława Lema 17, dzielnica Grzegórzki, Kraków",50.0701124,19.9871807
+923185260,7,True,5000,apartamentowiec,62.0,4,1050.0,"Kraków, ul. płk. pil. Stefana Łaszkiewicza",50.0689894,19.9757992
+923184435,2,True,2800,blok,40.0,2,,"ul. Zwycięstwa, Kraków",50.0617874,19.9763637
+906529717,4,True,3999,kamienica,39.0,2,450.0,"Kraków, Wielopole Str., Krakow",50.058553,19.9447456
+892841150,1,True,4000,blok,76.0,4,600.0,"ul. Gustawa Morcinka, Kraków",50.1056887,20.0496938
+923173668,2,True,2100,blok,35.0,2,200.0,"ul. Jezuitów, Kraków",50.0875373,19.9600793
+923174289,0,True,2500,apartamentowiec,38.0,1,800.0,"Łobzowska, Krowodrza, Kraków",50.0742221,19.91037
+923171606,0,True,2800,apartamentowiec,40.0,3,500.0,"ul. Klimeckiego, Podgórze, Kraków",50.0468638,19.9708564
+923166813,2,True,1800,blok,47.0,2,660.0,"Os.Hutnicze, Kraków",50.0734034,20.0453329
+923162688,3,True,2200,blok,37.0,2,580.0,"Ruczaj, Kraków",50.0259406,19.9199088
+716467383,2,True,4300,kamienica,98.0,3,790.0,"ul. Senatorska, Salwator, Kraków",50.054282,19.9189095
+803270333,5,True,8800,apartamentowiec,104.0,4,1200.0,"ul. Rakowicka, Kraków",50.0713956,19.954938
+923140278,2,True,2500,blok,35.0,1,270.0,"ul. Kazimierza Wielkiego, Krowodrza, Kraków",50.0739632,19.9176286
+881032766,1,True,3800,pozostale,46.0,3,,"ul. Nowohucka, Kraków",50.0536422,19.9925314
+809182273,1,True,2000,blok,26.0,1,400.0,"ul. Na Szaniec, dzielnica Śródmieście, Kraków",50.0587717,19.9779824
+894459897,5,True,2850,blok,40.19,3,450.0,"ul. Orlińskiego, Czyżyny, Kraków",50.0790723,20.0025525
+918964708,1,True,2000,blok,16.0,1,300.0,"ul. Kuźnicy Kołłątajowskiej 68a, Kraków",50.09862829999999,19.9520524
+923131770,1,True,2150,blok,26.0,1,,"ul. Śliczna 26, Kraków",50.0730255,19.9772597
+923133491,6,True,3700,apartamentowiec,81.0,3,1900.0,"ulica św. Tomasza, Kraków",50.0629667,19.9394117
+923133639,2,True,2400,blok,59.0,3,700.0,"ul. Ojcowska, Bronowice Wielkie, Kraków",50.0987911,19.883429
+923130260,2,True,2400,apartamentowiec,59.0,3,700.0,"ul. Ojcowska, Bronowice Wielkie, Kraków",50.0987911,19.883429
+923130192,3,True,2700,blok,35.0,2,600.0,"ul. Centralna 32, Czyżyny, Kraków",50.065618,20.0105145
+912475994,3,True,2999,blok,37.0,1,,"ul. Langiewicza, Kraków",50.0804913,19.9476882
+923128106,7,True,4000,blok,54.0,3,600.0,"Ciesielskiego, Czyżyny, Kraków",50.0615487,20.0144451
+923127234,4,True,2000,blok,40.0,2,550.0,"ul. Podkowińskiego, Bronowice, Kraków",50.0849609,19.8948811
+923128111,0,True,2500,blok,33.0,1,500.0,"Rakowicka 22 C, Kraków",50.0718985,19.9534149
+923124772,7,True,2300,blok,39.0,2,660.0,"Osiedle Azory, Kraków",50.0882804,19.9096578
+919457433,3,True,2830,blok,42.12,2,470.0,"ul. Orlińskiego, Czyżyny, Kraków",50.0790723,20.0025525
+921851818,4,True,3100,apartamentowiec,55.0,2,640.0,"ulica Przewóz 36A, Kraków",50.0413992,19.9948059
+674838832,4,True,5000,apartamentowiec,76.0,3,1000.0,"ul. Grzegórzecka, Kraków",50.0569787,19.9603504
+917979037,1,False,6000,apartamentowiec,85.0,3,1000.0,"Kraków, Masarska, Galeria Kazimierz",50.0536197,19.9554304
+762977039,1,True,3000,blok,45.0,3,600.0,"ulica Dobrego Pasterza, Kraków",50.0895477,19.9775708
+923114731,3,True,2900,blok,43.0,2,400.0,"ul. Orlińskiego, dzielnica Czyżyny, Kraków",50.0790723,20.0025525
+923113962,8,True,2200,blok,35.0,2,400.0,"os. Piastów, Kraków",50.0996061,20.0167074
+764230602,4,True,3500,apartamentowiec,32.0,2,400.0,"ul. Dąbrowskiego, Podgórze, Kraków",50.0337903,19.9380992
+661803621,0,True,1900,szeregowiec,45.0,1,30.0,"rejon Mateczny, Kraków",50.0345013,19.9322789
+923108892,2,True,3400,pozostale,42.0,2,375.0,"Prądnik Czerwony, Kraków",50.0893007,19.9737283
+923107680,1,True,2700,apartamentowiec,43.0,2,500.0,"ul. Jana Długosza, Podgórze, Kraków",50.0428442,19.9420345
+923108178,0,True,2650,blok,45.2,3,630.0,"ul. Józefa Narzymskiego, Kraków",50.0738012,19.9681228
+923106977,3,True,3000,kamienica,58.0,2,682.0,"al. Ignacego Daszyńskiego, Grzegórzki, Kraków",50.0552233,19.9537146
+916466548,3,True,2650,kamienica,37.0,2,373.0,"ul. Odrowąża 20, Kraków",50.0768605,19.9324909
+914913384,5,True,2400,blok,22.0,1,340.0,"ul. Piastowska, Kraków",50.0672832,19.9031433
+923105604,1,True,3500,wolnostojacy,52.0,2,,"ul. Herbowa 12, Swoszowice, Kraków",49.9856236,19.9468005
+905660184,0,True,3500,apartamentowiec,42.0,2,445.0,"ul. Przedwiośnie, Stare Podgórze, Kraków",50.0425519,19.9391194
+808405043,0,True,2200,apartamentowiec,38.0,2,800.0,"ul. Żabiniec, Kraków",50.0829409,19.9443419
+849876325,3,True,3000,apartamentowiec,37.0,2,350.0,"ul. Banacha, Kraków",50.1020209,19.9584127
+923101976,2,True,2600,apartamentowiec,31.96,1,363.0,"ul. Turystyczna, Kraków",50.090539,19.9482112
+923101632,1,True,3900,blok,53.0,3,700.0,"ul. Strycharska, Kraków",50.0427876,19.9749587
+923099478,,True,2400,blok,1.0,1,257.0,"Walerego Sławka 15, Podgórze Duchackie, Kraków",50.0125894,19.9784544
+858789571,2,True,1900,blok,24.0,1,500.0,"ul. Widok, Dąbie, Kraków",50.0591829,19.9808169
+917576443,0,True,1800,blok,41.0,1,430.0,"os. Dywizjonu 303 bl.25, Kraków",50.0831593,20.0031326
+701755393,0,True,1500,blok,28.0,1,800.0,Kraków Swoszowice,49.99008449999999,19.946059
+923094383,1,True,2500,apartamentowiec,35.0,2,150.0,"ul. Strumienna, Łagiewniki-Borek Fałęcki, Kraków",50.0206203,19.9445476
+923092506,1,True,3250,blok,44.0,3,530.0,"ul. Miechowity, dzielnica Olsza, Kraków",50.0829553,19.966897
+886448256,0,True,1750,kamienica,28.0,1,440.0,"ulica Będzińska, Kraków",50.0762058,19.9435831
+886470646,0,True,2900,blok,65.0,3,940.0,"Fiołkowa 4, Kraków",50.0788024,19.9815737
+886472848,2,True,2200,blok,47.0,2,850.0,"Konopczyńskiego, Ruczaj, Kraków",50.0172894,19.8957106
+886454524,2,True,1700,blok,40.0,2,550.0,"Na Stoku 3, Wzgórza Krzesławickie, Kraków",50.09466099999999,20.0577175
+909201231,4,True,2200,blok,50.0,2,830.0,"Rydygiera 19, Kraków",50.0057141,20.0081389
+894671756,5,True,2500,blok,38.0,2,505.0,"ul. Orlińskiego 10, Czyżyny, Kraków",50.0800279,20.001987
+909199581,0,True,2300,blok,52.0,2,700.0,"ul. Podłęska 11D, Kraków",50.0088889,20.0146695
+909203078,0,True,2200,blok,45.0,2,560.0,"Mała Góra 11b, Kraków",50.0164006,20.0292861
+901031012,7,True,2100,blok,45.0,2,700.0,"Fieldorfa Nila 1A, Kraków",49.9759572,19.7882567
+809168222,1,True,2600,blok,33.0,1,360.0,"ul. Turystyczna, Prądnik Biały, Kraków",50.090539,19.9482112
+923089757,4,True,2700,apartamentowiec,30.0,2,600.0,"Ul. Rakowicka, Kraków",50.0713956,19.954938
+744703902,1,False,3800,kamienica,103.0,3,200.0,"ulica Kazimierza Wielkiego, Kraków",50.0739632,19.9176286
+923089008,7,True,5000,apartamentowiec,104.0,3,1200.0,"Osiedle 2 Pułku Lotniczego, Czyżyny, Kraków",50.0774331,20.0078131
+923084641,4,True,2050,blok,19.0,1,350.0,"Rejtana 11, Kraków",50.04352919999999,19.945549
+805133281,0,True,2250,blok,28.0,1,498.0,"Bronowice Nowe, Kraków",50.0810361,19.8906961
+923082898,1,True,2600,apartamentowiec,50.0,2,,"Osiedle Avia 3, Kraków",50.0804887,20.003981
+921798128,3,True,3300,apartamentowiec,50.0,2,780.0,"ul. Tatarska, Salwator, Kraków",50.0543986,19.9238339
+747560418,1,True,2200,kamienica,65.0,2,1.0,"ul. Bolesława Prusa, Kraków",50.0561261,19.9172206
+921088391,1,True,2750,blok,45.0,2,450.0,"os. Tysiąclecia, Mistrzejowice, Kraków",50.0920774,19.9990029
+845436306,3,True,3800,blok,42.0,2,480.0,"ul. Ślusarska, Zabłocie, Kraków",50.0489086,19.9619511
+923077403,2,False,3000,apartamentowiec,55.0,2,766.0,"Rakowicka 20E, Kraków",50.0712503,19.9510835
+921470465,4,True,2600,blok,46.0,2,580.0,"ul. Włoska, Wola Duchacka, Kraków",50.0188634,19.9724695
+788640146,1,True,4000,apartamentowiec,50.0,2,800.0,"ul. Piastowska 34, Kraków",50.0718744,19.9044147
+916452029,-1,False,2000,kamienica,45.0,3,,"Prądnik Biały, Kraków",50.090534,19.9190569
+913377952,1,True,3500,apartamentowiec,42.0,2,500.0,"Wybickiego Street, Prądnik Biały, Kraków",50.0838031,19.924571
+914235954,5,True,3800,apartamentowiec,55.0,3,400.0,"ul. Meiera, Górka Narodowa, Kraków",50.0979216,19.968713
+695971922,1,True,3500,kamienica,65.6,3,,Kraków,50.06465009999999,19.9449799
+902582252,-1,True,2100,kamienica,18.0,1,10.0,"ulica Jadwigi z Łobzowa, Kraków",50.0748896,19.9024339
+787701813,1,True,2500,blok,30.0,1,450.0,"Al. Słowackiego 11b, Stare Miasto, Kraków",50.070569,19.9282605
+717847200,2,True,12000,kamienica,167.0,4,2000.0,"ulica Stefana Batorego, Stare Miasto, Kraków",50.0672404,19.9316223
+923066431,4,True,2700,blok,44.0,2,,"ul. Na błonie, Bronowice, Kraków",50.0769657,19.8791039
+923064268,5,True,4000,apartamentowiec,40.0,2,625.0,"ul. Grzegórzecka, Kraków",50.0569787,19.9603504
+820637632,0,True,3599,apartamentowiec,58.0,3,49.0,"ul. Piotra Borowego 22, Kraków, Wola Justowska",50.0636708,19.8917855
+918734906,4,True,1900,blok,23.0,1,350.0,"os. Kalinowe 22, Kraków, Nowa Huta",50.0919525,20.0124959
+923060465,4,True,2600,apartamentowiec,40.0,2,400.0,"ul. Mariana Domagały - Złocień, Kraków",50.0260488,20.0514729
+923060539,9,True,2700,blok,57.0,3,900.0,"ul. Ścięgiennego, Kraków",50.0190592,19.9994648
+864144311,2,True,3000,kamienica,36.0,2,400.0,"Dębniki, Kraków",50.0488946,19.9259644
+729451424,7,True,2200,blok,42.0,2,,"ul. Jagodowa, Kraków-Łagiewniki (Borek Fałęcki)",50.013251,19.9183537
+923056289,1,True,2600,kamienica,49.0,2,650.0,"Kraków, leży w Nowej Hucie",50.0725561,20.0375211
+923054540,4,True,4000,kamienica,70.0,2,650.0,"ul. Ujejskiego, Stare Miasto, Kraków",50.0563932,19.9237839
+915147154,4,True,2300,blok,49.0,2,500.0,"ul. Imielna - Bieżanów, Kraków",50.0204896,20.0161931
+923048731,1,True,3500,szeregowiec,95.0,3,1.0,"Łagiewniki, Kraków",50.0238859,19.9399876
+764470001,3,True,2800,kamienica,23.0,1,500.0,"Stary Rynek, Kraków",50.0611114,19.9348907
+923043480,1,True,3700,apartamentowiec,58.0,3,750.0,"ul. Zygmunta Starego, Kraków",50.0770879,19.8619044
+923042618,1,True,2600,blok,50.15,2,876.0,"ul. Fatimska, Bieńczyce, Kraków",50.0874122,20.0310373
+923042707,0,True,4100,apartamentowiec,64.0,3,800.0,"ul. Dąbska, Kraków",50.0669834,19.9853116
+921447202,0,True,2100,blok,37.0,2,600.0,"ul. Elsnera, Kraków (Azory)",50.0864248,19.9108689
+920592745,5,True,2500,apartamentowiec,34.0,2,500.0,"ul. Meiera, Prądnik Biały, Kraków",50.0979216,19.968713
+921461517,4,True,1650,blok,38.0,2,550.0,"os. Centrum B, Nowa Huta, Kraków",50.0734705,20.0404862
+923036396,4,True,3100,blok,64.0,3,,"ul. Fiołkowa, Prądnik Czerwony, Kraków",50.0787646,19.9819142
+923034992,4,True,4000,apartamentowiec,66.0,3,850.0,"Kraków, ul. płk. pil. Stefana Łaszkiewicza",50.0689894,19.9757992
+923033508,4,True,2500,blok,44.0,1,440.0,"ulica Malborska, Kraków",50.0235867,19.9688601
+923034037,0,True,3100,apartamentowiec,32.0,2,500.0,"ul. Lipska, Kraków",50.0404915,19.9934377
+921719617,5,True,2800,blok,45.0,2,500.0,"ul. Śliczna, Kraków",50.072611,19.9775043
+923028596,2,True,2700,blok,60.0,3,700.0,Słoneczne miasteczko Kraków Złocień,50.0196905,20.058857
+831652974,4,True,2200,blok,26.4,1,400.0,"os. Złocień, Kraków",50.0201833,20.051675
+773693697,4,True,3200,blok,62.0,3,1050.0,"Teligi - Prokocim, Kraków",50.0157887,20.0060106
+923025032,2,True,2600,blok,38.0,2,,"Okolice cmentarza Rakowickiego, Kraków",50.0738873,19.954187
+921651372,0,True,2000,apartamentowiec,24.0,1,120.0,"ul. Jasińskiego 4 A, Kraków Prokocim",50.0244949,19.9928346
+618781060,17,True,1600,kamienica,35.0,1,600.0,"ul. Brodowicza, Kraków",50.0701863,19.9626973
+893076277,3,True,2200,blok,52.0,2,740.0,"ul. Raciborska 12, Ruczaj, Kraków",50.02092330000001,19.905162
+916401135,4,True,2490,blok,48.0,2,620.0,"Kraków, ul. Dr. Jana Piltza 44A",50.0133464,19.8924712
+923016721,1,True,2550,blok,45.0,3,750.0,"ul. Ładna, Kraków",50.0714792,19.9797922
+734823033,2,True,1800,blok,30.0,1,330.0,"Ułanów, Kraków",50.0778397,19.9835756
+923013666,4,True,2400,kamienica,22.0,1,190.0,"Kraków, ul. Zyblikiewicza",50.0598569,19.9455339
+923012416,0,True,2000,kamienica,30.0,1,210.0,"ulica Celna, Kraków, Stare Podgórze",50.0447346,19.9474151
+649085220,0,True,2500,blok,38.0,2,500.0,"Olsza 2, Kraków",50.0836322,19.963511
+838660335,2,True,2350,apartamentowiec,25.0,1,,"ul. Fatimska, Bieńczyce, Kraków",50.0874122,20.0310373
+923008705,0,True,2000,blok,25.26,1,,"Kraków, ul. Morcinka",50.1056887,20.0496938
+781249189,4,True,5000,apartamentowiec,60.0,3,800.0,"Kraków, Rakowicka Street, Krakow",50.0713956,19.954938
+827300966,6,True,3400,apartamentowiec,51.0,2,720.0,"ul. Pawia, Kraków",50.0685096,19.9451979
+922928885,4,True,2000,blok,38.0,2,540.0,"os. Bohaterów Września, Mistrzejowice, Kraków",50.10088649999999,20.0095641
+916396188,1,True,2400,kamienica,30.0,1,250.0,"ul. Ariańska, Kraków",50.0666467,19.9543084
+843060157,0,True,3300,blok,60.0,3,500.0,"ulica Domagały, Kraków",50.0260488,20.0514729
+923000854,10,True,1900,blok,45.0,3,700.0,"ul. Pachońskiego 18, Prądnik Biały, Kraków",50.09485489999999,19.9337496
+916384237,1,True,2300,kamienica,28.0,1,400.0,"Zabłocie, Kraków",50.0487044,19.9681022
+922999046,1,True,3200,kamienica,62.0,2,300.0,"Kraków, samo centrum w  Krakowie",50.0591121,19.9378922
+922998463,2,True,1900,blok,36.0,2,,"ul. Lubostroń, Kraków",50.0151358,19.8960133
+922998385,1,True,5500,apartamentowiec,90.0,4,500.0,"Skotniki, Dębniki, Kraków",50.0066767,19.8735925
+922995694,0,True,250,kamienica,60.0,2,40.0,"Kraków, centrum Krakowa",50.0591121,19.9378922
+922995312,0,True,3600,blok,45.0,2,780.0,"ul. Rakowicka 22c, Kraków",50.0718985,19.9534149
+922992701,2,True,2500,blok,51.0,2,680.0,"ul. Lubostroń, Osiedle Europejskie (ATENY), Kraków",50.0153933,19.8915212
+629765537,4,True,2400,blok,46.0,2,570.0,"ul. Prądnicka 77, Kraków",50.08740299999999,19.938802
+848444597,2,True,2990,kamienica,38.0,2,207.0,"ul. Chodkiewicza, Stare Miasto, Kraków",50.057322,19.9542872
+697908565,4,True,3500,blok,60.0,3,630.0,"ul. Akacjowa, Kraków",50.0834538,19.9795193
+922989037,0,True,2000,blok,57.0,3,700.0,"os. Jagiellońskie, Kraków",50.0880279,20.0253269
+922989098,1,True,2700,blok,40.0,2,640.0,"ul. Żabiniec, Kraków",50.0829409,19.9443419
+922987089,0,True,2300,blok,29.0,2,420.0,"Kraków, Dębniki",50.0488946,19.9259644
+839758239,1,True,2700,apartamentowiec,34.0,1,400.0,"ul. Stanisława Klimeckiego 8, Podgórze, Kraków",50.0469124,19.971793
+922771340,5,True,1800,blok,24.0,1,500.0,"os. Azory, Kraków",50.0882804,19.9096578
+691744719,0,True,1600,blok,25.0,1,450.0,"ul. Konarskiego, Krowodrza, Kraków",50.068937,19.9208026
+922971981,6,True,2200,apartamentowiec,16.0,1,500.0,Pokoju 1a Kraków,50.0572574,19.9614608
+922972022,3,True,2900,apartamentowiec,40.0,2,500.0,"ul. Goszczyńskiego, Kraków",50.0392292,19.9883493
+760976030,3,True,2100,blok,29.0,1,550.0,"ul. Radzikowskiego, Bronowice, Kraków",50.0879817,19.8952598
+922969484,4,True,2000,blok,38.0,2,594.0,"ul. Mazowiecka, Kraków",50.0755806,19.9242028
+922968921,3,True,2000,blok,39.0,2,550.0,"Kraków, Ul. Zygmunta Glogera",50.1046607,19.9261779
+814700452,1,True,2200,blok,45.0,2,490.0,"Kraków, Nowa Huta Mistrzejowice",50.0950253,20.0124554
+914590782,1,False,2800,blok,48.0,2,500.0,"Os. Krakowiaków, Kraków",50.0831041,20.0378597
+888119373,2,True,2000,kamienica,38.0,2,400.0,"Kraków, Brak informacji o dokładnym adresie",50.06465009999999,19.9449799
+899227079,2,True,2500,blok,38.0,1,600.0,"al. Kijowska, Kraków",50.0740591,19.9163014
+846696414,1,True,2200,blok,30.0,1,500.0,"ulica Piltza, Kraków, Ruczaj",50.0107995,19.890049
+922947566,2,True,3500,apartamentowiec,64.0,3,1800.0,"Kraków, ul. Lea",50.0721523,19.906411
+772013555,1,True,1700,wolnostojacy,26.0,1,321.0,"ul. Witkowicka 87A, Kraków",50.1096673,19.9643244
+898096429,0,True,1800,szeregowiec,45.0,1,0.1,"ul. Olszanicka/Amazonek, Kraków",50.0677892,19.8255016
+899250739,4,True,2400,blok,38.0,2,550.0,"Pradnik Biały, Kraków",50.090534,19.9190569
+922943697,1,True,135,blok,50.0,2,,Kraków Ruczaj Kobierzyńska,50.0198972,19.9073105
+922932973,5,True,2300,apartamentowiec,28.0,1,350.0,"ul. Ślusarska, Zabłocie, Kraków",50.0489086,19.9619511
+922939735,0,False,3600,szeregowiec,68.0,3,650.0,"Kraków, Wola Justowska",50.0617388,19.8486621
+922934232,5,True,2600,apartamentowiec,47.0,2,550.0,"ul. Nowohucka, Czyżyny, Kraków",50.0543913,19.9948238
+922931681,4,True,2900,apartamentowiec,44.0,2,730.0,"ul. Promienistych, Kraków",50.0867182,19.9688631
+922930017,4,True,3500,apartamentowiec,62.0,2,1000.0,"Przemysłowa, Garden Residence, Podgórze, Kraków",50.0492266,19.9593097
+791318681,0,True,2000,apartamentowiec,37.0,2,850.0,"ulica Bulwarowa, Nowa Huta, Kraków",50.0793146,20.0502955
+922927649,2,True,3200,apartamentowiec,55.0,2,620.0,"Masarska 9, Kraków",50.0549139,19.9567316
+922926890,2,True,5300,apartamentowiec,67.0,4,500.0,"Ul. Vetluaniego 5D, Prądnik Biały, Kraków",50.0951416,19.9215901
+915211100,5,True,2500,blok,37.0,2,500.0,"ul. Lasówka, Kraków",50.048349,19.993871
+908885143,2,True,5500,apartamentowiec,56.0,3,650.0,"Kraków, Wiślane Tarasy",50.0559722,19.9619427
+922912078,5,True,5000,apartamentowiec,67.0,3,900.0,"ul. Zabłocie, Podgórze, Kraków",50.0497618,19.9611704
+922910947,1,True,3300,apartamentowiec,43.0,2,500.0,"ul. Przyjaźni Polsko-Węgierskiej, Podgórze Duchackie, Kraków",50.0255646,19.9457772
+922918053,0,True,1800,blok,20.0,1,500.0,"ul. Armii Krajowej, Bronowicka, Kraków",50.0861907,19.8913639
+922918176,3,True,2700,blok,49.0,3,610.0,"os. Zielone, Nowa Huta, Kraków",50.0794613,20.0432504
+922918244,3,True,3500,pozostale,41.0,2,450.0,"ul. Grzegórzecka, Wiślane Tarasy, Kraków",50.0559722,19.9619427
+922918888,2,True,3500,blok,51.0,2,850.0,"Lema 19, Kraków",50.0696603,19.9877776
+922916328,1,True,2200,blok,47.0,2,600.0,"ul. Adama Staszczyka, Kraków",50.0757578,19.9041247
+888903868,2,True,2500,blok,45.0,2,700.0,"ul. Racławicka, Krowodrza, Kraków",50.0774554,19.9206956
+922914419,1,True,2200,blok,47.0,2,600.0,"Kraków, Bronowice, ul. Adama Staszczyka",50.0757578,19.9041247
+922914577,2,True,2400,blok,40.0,2,390.0,"ul. Domagały, Kraków - Bieżanów",50.0260488,20.0514729
+922913188,1,True,1900,kamienica,20.0,1,600.0,"ul. Urzędnicza, Krowodrza, Kraków",50.0717587,19.9195256
+881313559,3,True,2000,blok,36.0,1,380.0,"Kraków, Nowa Huta",50.0725561,20.0375211
+922910223,11,True,3000,apartamentowiec,45.5,2,623.0,"Myśliwska, Kraków",50.0453087,19.9925305
+916944504,1,True,2500,blok,40.0,2,500.0,"ul. Lubostroń, Ruczaj, Kraków",50.0152025,19.8956743
+916765482,3,True,3800,apartamentowiec,53.0,3,630.0,"ul. Dąbska, Grzegórzki, Kraków",50.0670741,19.9848875
+789842544,3,True,3100,blok,38.0,2,650.0,ul. Lublańska Kraków,50.0851714,19.9666101
+814048856,1,True,1500,blok,25.0,1,384.56,"ul. Elsnera 24, Prądnik Biały, Kraków",50.1036302,19.9246128
+922903894,2,True,3300,apartamentowiec,45.0,2,450.0,"Garden Residence Zabłocie, Kraków",50.0492266,19.9593097
+922898716,2,True,1900,blok,25.32,1,700.0,"ul. Przyjaźni Polsko-Węgierskiej 6A, Kraków",50.027739,19.946155
+922897237,2,True,2000,blok,20.0,1,250.0,"ul. Fatimska, Bieńczyce, Kraków",50.0874122,20.0310373
+909178192,3,False,2500,blok,32.6,2,650.0,"ul. Stańczyka, Bronowice, Kraków",50.0786616,19.8920959
+922896695,2,True,2300,blok,24.0,1,250.0,"ul. Fatimska, Bieńczyce, Kraków",50.0874122,20.0310373
+922896477,3,True,3000,apartamentowiec,44.0,2,750.0,"Kraków, ulica Rakowicka",50.0713956,19.954938
+922870061,1,True,3200,apartamentowiec,38.0,2,500.0,"ul. Bronowicka 54, Kraków",50.07859130000001,19.8979393
+922893514,1,True,3500,apartamentowiec,43.0,2,600.0,"Kraków, Grzegórzecka Street, Krakow",50.0569787,19.9603504
+922893624,3,True,350,kamienica,32.0,1,,"Starowislna, Kraków",50.054804,19.9471229
+922892998,0,True,2500,apartamentowiec,33.0,1,480.0,"ul. Saska, Kraków",50.0431846,19.983575
+922892405,1,True,2900,apartamentowiec,46.0,2,600.0,"Myśliwska, Kraków",50.0453087,19.9925305
+916081756,1,True,2900,blok,42.0,2,380.0,"ul. Papierni Prądnickich 80, Górka Narodowa, Kraków",50.1012601,19.9523002
+831719949,2,True,3100,apartamentowiec,43.0,2,430.0,"Kraków, ulica Bronowicka",50.0792438,19.8970439
+671025729,5,True,3200,apartamentowiec,42.0,2,550.0,"ul. Kluczborska, Kraków",50.0870584,19.9333004
+922890439,1,True,3400,blok,59.0,3,800.0,"Kraków, Kwartowa 1",50.0903707,19.9782242
+922890364,2,True,2200,blok,40.0,2,835.0,"ul. Woronicza, Prądnik Czerwony, Kraków",50.0868363,19.958454
+922890386,1,True,3000,apartamentowiec,36.0,2,460.0,"ul. Lwowska, Kraków",50.0450398,19.9572191
+922889268,4,False,2999,apartamentowiec,45.0,2,450.0,"Kraków, ul. Przyjaźni Polsko- Węgierskiej 4",50.0288996,19.9474675
+888663545,0,True,2850,blok,38.0,2,399.0,"Al. Pokoju, Kraków",50.0643763,19.9889404
+710760758,2,False,6000,kamienica,120.0,4,,"Krupnicza, Kraków",50.0634023,19.9280405
+922882691,2,True,2300,kamienica,40.0,2,450.0,"ul. Smolki, Podgórze, Kraków",50.0412444,19.9428388
+862026033,3,True,2500,blok,30.0,1,500.0,"ul. Heltmana, Podgórze Duchackie, Kraków",50.0291868,19.9687204
+922873498,7,True,2400,apartamentowiec,28.0,1,450.0,"ul. Stańczyka, Bronowice, Kraków",50.0786616,19.8920959
+922361116,1,True,3000,blok,49.63,2,610.0,"ul. Jana Pawła 150, Czyżyny, Kraków",50.0737339,20.0092492
+749088540,1,True,2000,blok,33.0,1,270.0,"ul. Alfreda Dauna, Podgórze, Kraków",50.0266597,19.9720772
+922872725,2,True,3550,blok,56.0,1,800.0,"ul. Naukowców, Kraków",50.0843094,19.8844136
+888651227,,True,1900,blok,31.5,1,450.0,"ul. Miłkowskiego 19, 30-349 Kraków",50.02805009999999,19.9173958
+909688089,2,True,3600,blok,54.0,3,580.0,"Kraków, Myśliwska 54c",50.0467008,19.9913359
+655964015,1,True,2300,blok,37.0,2,450.0,"Aleja Pokoju/ Francesco Nullo, Kraków",50.06021759999999,19.9672176
+922867521,1,True,3200,apartamentowiec,38.0,2,500.0,"ul. Bronowicka, Kraków",50.0792438,19.8970439
+839044382,2,True,2800,blok,55.0,3,740.0,"ul. Krowoderskich Zuchów, Kraków",50.0884928,19.9269536
+799922400,3,False,2200,blok,50.0,2,300.0,"ul. Na Grządkach, Łagiewniki, Kraków",50.0270552,19.9367816
+685036939,2,True,3700,apartamentowiec,50.0,2,1050.0,"Kraków, ścisłe centrum Krakowa",50.06465009999999,19.9449799
+922860855,2,True,1800,kamienica,25.0,1,1.0,"Stary Rynek, Kraków",50.0611114,19.9348907
+922859975,5,True,2700,blok,36.0,2,500.0,"ul. Pachońskiego, Kraków",50.0944656,19.9266261
+922859597,1,False,2500,apartamentowiec,46.0,3,500.0,"Ul. Armii Kraków, Kraków",50.0026341,19.9260145
+922856318,1,True,3200,blok,50.0,3,550.0,"ul. Gustawa Morcinka, Kraków",50.1056887,20.0496938
+922853756,2,True,10000,kamienica,168.0,4,900.0,"ul. Konarskiego, Kraków",50.068937,19.9208026
+896519770,4,True,1900,blok,37.0,1,570.0,"Al. Pokoju, Kraków",50.0643763,19.9889404
+922850276,2,True,3100,apartamentowiec,41.0,2,,"ul. Płk. Pil. Stefana Łaszkiewicza, Kraków",50.0689894,19.9757992
+914946149,0,True,2800,kamienica,32.0,2,550.0,"ulica Topolowa, Kraków",50.0666467,19.9543084
+784895074,3,True,3800,blok,54.0,3,800.0,"ul. Dąbska 18K, Kraków",50.0693146,19.9830955
+922849913,3,True,3200,apartamentowiec,45.0,2,920.0,"ul. Łobzowska, Kraków",50.0691402,19.9329584
+922848378,3,True,3350,blok,48.0,3,650.0,"ul. Słomiana 22, Dębniki, Kraków",50.0419382,19.9255666
+922639378,2,True,2900,blok,45.0,2,590.0,"ul. Miechowity 10, Olsza, Kraków",50.0832398,19.970099
+922848122,2,True,3500,kamienica,35.0,2,350.0,"ul. Zyblikiewicza, Kraków",50.0598569,19.9455339
+922846935,0,True,2800,apartamentowiec,34.4,2,600.0,"ul. Skowronia 3, Kraków",50.0250006,19.9670395
+921612653,4,True,3000,blok,43.0,2,600.0,"ul. Wybickiego, Kraków",50.0838031,19.924571
+922846516,1,True,3500,kamienica,90.0,3,,"ul. Karmelicka, Kraków",50.0664114,19.9295967
+922844703,0,True,2999,apartamentowiec,40.0,2,600.0,"ul. Kiełkowskiego, Kraków",50.045621,19.968269
+916199431,1,True,3000,kamienica,36.0,2,578.18,"ul. Lwowska, Stare Podgórze, Kraków",50.0450398,19.9572191
+922843156,3,True,3200,blok,86.0,3,1100.0,"ul. Szwedzka 23, Dębniki, Kraków",50.0473694,19.9232382
+922842786,6,True,2200,blok,70.2,3,950.0,"oś. Oświecenia 44, Kraków",50.09249579999999,19.9905498
+847828460,5,True,2400,apartamentowiec,32.0,1,450.0,"Barska 69, Dębniki, Kraków",50.04560679999999,19.9332041
+922841746,4,True,2299,blok,39.0,2,450.0,"Górka Narodowa, Kraków",50.0979626,19.9622276
+793554526,0,True,2900,szeregowiec,32.96,2,30.0,"Kraków, brak informacji",50.06465009999999,19.9449799
+763208039,5,True,3100,blok,52.0,2,1.0,"ul. Fabryczna, Kraków",50.062957,19.9720545
+922838182,1,True,2300,blok,34.0,1,450.0,"Kraków, ul. Fabryczna",50.062957,19.9720545
+922837937,0,True,2100,blok,35.0,2,490.0,"ul. Różyckiego, Azory, Kraków",50.088333,19.9111957
+922838470,4,True,2400,apartamentowiec,26.0,1,500.0,"ul. Wybickiego, Krowodrza, Kraków",50.0838031,19.924571
+919417403,2,True,2600,blok,50.0,2,680.0,"Kraków, ulica Pychowicka 18",50.0321286,19.916452
+922837024,5,True,3500,blok,53.0,2,600.0,"Apartamenty Nadwiślańska 11, Kraków",50.0468678,19.9514564
+906002590,6,True,2900,apartamentowiec,40.0,2,450.0,"ul. Adama Vetulaniego 5D, Prądnik Biały, Kraków",50.0951416,19.9215901
+653521457,1,True,1250,blok,12.0,2,250.0,"ul. Romana Ciesielskiego 6A, Kraków",50.06150359999999,20.0125636
+916715056,3,True,3300,kamienica,60.0,2,600.0,"Kraków, Karmelicka Street",50.0664114,19.9295967
+922630368,1,True,4000,apartamentowiec,47.0,3,600.0,"ul. Rakowicka, Kraków",50.0713956,19.954938
+916682421,1,True,2900,kamienica,50.0,2,700.0,"ul. Czysta, Stare Miasto, Kraków",50.0638432,19.926629
+903116598,1,True,3300,blok,50.0,2,500.0,"ul. Lindego 1F, Bronowice, Kraków",50.0787248,19.8783191
+916739955,5,True,3300,apartamentowiec,37.0,2,440.0,"ul. Grzegórzecka, Grzegórzki, Kraków",50.0569787,19.9603504
+806827387,3,True,2200,apartamentowiec,26.0,1,500.0,"ul. Halicka, dzielnica Kazimierz, Kraków",50.051829,19.948376
+915952336,5,True,2300,blok,37.0,2,550.0,"ulica Marii Dąbrowskiej, osiedle Albertyńskie, Kraków",50.0819424,20.0159437
+922828639,2,True,3000,apartamentowiec,48.0,2,750.0,"Kraków, ul. Prandoty 10",50.0781887,19.9510809
+922827703,3,True,3800,apartamentowiec,56.0,3,,"ul. Rejtana, Stare Podgórze, Kraków",50.0437854,19.9456336
+922822441,3,True,3000,apartamentowiec,37.0,2,550.0,"ul. Klimeckiego 8A, Zabłocie, Kraków",50.0472911,19.973163
+837585402,3,True,2250,blok,36.0,1,460.0,"ul. Konecznego, Kraków",50.0836552,19.9438213
+922823720,3,True,2850,apartamentowiec,40.0,2,690.0,"ul. Włoska 12, Podgórze Duchackie, Kraków",50.01667810000001,19.9702817
+820290675,2,True,3950,blok,80.0,3,675.0,"osiedle Kurdwanów, Kraków",50.0056222,19.9482692
+921384399,1,True,4300,apartamentowiec,64.0,3,900.0,"Ul. Przemysłowa, Zabłocie, Garden Residence, Kraków",50.0492266,19.9593097
+918517712,2,True,2300,blok,44.0,2,500.0,"Kraków, Nowa Huta, Plac Centralny",50.0717827,20.038011
+919556233,1,True,2000,szeregowiec,32.0,1,500.0,"Kraków, Nowa Huta, Mistrzejowice",50.0950253,20.0124554
+619340931,2,True,2200,blok,38.0,2,550.0,"ul. Topazowa, Kraków",50.0215074,20.0490891
+922820298,2,True,2900,kamienica,53.0,2,700.0,"Kraków, ul. Świętego Benedykta",50.0440929,19.9538718
+865232124,2,True,3400,kamienica,67.0,2,400.0,"ul. Lea, Kraków",50.0721523,19.906411
+922820174,2,True,3500,apartamentowiec,47.0,2,500.0,"ul. Lema, Kraków",50.0688482,19.9877621
+782942475,2,True,1800,blok,18.0,1,700.0,"Osiedle Kazimierzowskie, Kraków",50.0859867,20.021793
+922819687,2,True,2450,apartamentowiec,40.0,2,530.0,"ul. Zabłocie, Kraków",50.0497618,19.9611704
+922819499,2,True,4200,apartamentowiec,55.0,3,590.0,"ul. Seweryna Goszczyńskiego, Płaszów, Kraków",50.0392292,19.9883493
+915703573,4,True,3250,apartamentowiec,45.0,2,520.0,"ul. Wrocławska, Kraków",50.0777876,19.924889
+912668146,5,True,1600,apartamentowiec,18.0,1,430.0,"ul. Tomickiego 24D, Kraków",50.0661938,20.0220133
+922814922,1,True,2500,apartamentowiec,30.0,1,400.0,"Kraków, Prandoty 10A",50.0784922,19.9520947
+922488027,4,True,2700,apartamentowiec,40.0,2,600.0,"Kraków, ul. Jana Pilza",50.0120908,19.8904354
+837938530,5,True,3200,apartamentowiec,42.0,2,650.0,"ul. Wrocławska 53M, Kraków",50.0812307,19.9232658
+922810815,2,True,2300,blok,36.0,2,350.0,"osiedle Azory, dzielnica Prądnik Biały, Kraków",50.0882804,19.9096578
+905724689,2,True,3000,blok,32.0,2,500.0,"al. Kijowska 5, Kraków",50.07042029999999,19.9140623
+922810013,6,True,2500,blok,47.0,2,,"al. 29 Listopada 191, Kraków",50.1006258,19.9640914
+922809714,3,True,2989,blok,34.0,3,,"ul. Bagrowa, Podgórze, Kraków",50.0346626,19.9999881
+918206024,1,True,2700,szeregowiec,65.0,2,590.0,"ulica Trynitarska, Kraków",50.0476221,19.945154
+918210483,4,True,1999,szeregowiec,25.0,1,99.0,"ul. Królewska, Kraków",50.0724489,19.9176268
+922807599,1,True,1700,blok,26.0,1,500.0,"osiedle Kalinowe, Nowa Huta, Kraków",50.0914497,20.0137037
+866309958,3,True,2000,wolnostojacy,20.0,1,,"ul. Skromna 26, Kraków",50.04680889999999,20.0475409
+617158956,11,True,3500,apartamentowiec,29.0,1,700.0,"ul. Kołowa/Armii Krajowej/Lea, Kraków",50.0716346,19.8984402
+749162348,0,True,2500,blok,40.0,2,360.0,"Ul. Reduta, Kraków",50.0955254,19.9772311
+737678163,4,True,3300,apartamentowiec,64.0,3,800.0,"ul. Śliczna, Kraków",50.072611,19.9775043
+910775030,1,True,2600,apartamentowiec,42.0,2,570.0,"Ruczaj-Zaborze, Kraków",50.0293252,19.9163729
+860418325,2,True,2450,blok,30.0,1,450.0,"Kraków, ul. Wodna",50.0381633,19.973858
+922801194,1,True,3000,blok,61.0,3,650.0,"ul. Obozowa 33, Ruczaj, Kraków",50.0164802,19.9091142
+922799100,1,True,2200,kamienica,27.0,1,340.0,"ul. Brzozowa, Kraków",50.0538269,19.9450331
+916683829,1,True,4900,blok,75.0,3,800.0,"ul. Czapińskiego 2, Kraków",50.0694752,19.9199079
+921066307,3,True,2989,apartamentowiec,34.0,2,440.0,"ul. Bagrowa, Kraków",50.0346626,19.9999881
+888268155,2,True,2500,blok,38.0,2,700.0,"ul. Podłęska 9, Bieżanów, Kraków",50.0094352,20.0142015
+922797313,5,True,4000,blok,70.0,4,1000.0,"Kraków, miasteczko AGH",50.0688851,19.9055855
+921575622,2,True,3399,blok,55.0,2,,"ul. Pszona, Dzielnica III Prądnik Czerwony, Kraków",50.0798936,19.9785104
+626863597,2,True,3300,blok,47.0,2,,"osiedle Wizjonerów, Kraków",50.0860115,19.8835082
+922793496,2,True,2000,kamienica,15.0,1,,"Planty, Kraków",50.0599245,19.9414307
+916779629,0,True,2490,apartamentowiec,33.0,2,400.0,"ul. Saska, Płaszów, Kraków",50.0431846,19.983575
+801398939,4,True,2999,apartamentowiec,38.0,2,380.0,"ul. Rakowicka, Kraków",50.0713956,19.954938
+922791358,1,True,2550,blok,45.0,3,750.0,"ul. Ładna, Kraków",50.0714792,19.9797922
+922787470,1,True,5000,apartamentowiec,46.0,2,1125.0,"ul. Sukiennicza, Stare Miasto, Kraków",50.0508934,19.9383353
+922785680,2,True,2200,blok,33.0,1,450.0,"ul. Grażyny, Biały Prądnik, Kraków",50.0896409,19.9493157
+922784551,3,True,2550,blok,53.4,2,550.0,"ul. Lubostroń, Kraków",50.0151358,19.8960133
+849322939,1,True,2999,apartamentowiec,40.0,2,1.0,Kraków Łagiewniki,50.0238859,19.9399876
+922780257,,True,1700,blok,36.0,1,600.0,"Nowosądecka 15, Kraków",50.0195675,19.9785179
+710800115,3,True,1700,blok,36.0,1,550.0,"Kraków, Nowosądecka 15",50.0195675,19.9785179
+898567889,1,True,2200,wolnostojacy,22.0,1,1.0,"ul. Lea 181, Kraków",50.0725325,19.8976857
+922778518,0,True,2000,kamienica,19.0,1,270.0,"Kraków, ul. Józefitów",50.0705912,19.923735
+853783808,4,True,3900,kamienica,43.0,2,360.0,"ul. Długa, Kraków",50.0698993,19.9372753
+922773354,4,True,2800,apartamentowiec,43.0,2,470.0,"al. 29 listopada, Kraków",50.0891773,19.9578683
+922771669,1,True,2700,pozostale,25.0,2,280.0,"ul. Wileńska, Kraków",50.0821641,19.9540167
+669074960,2,True,1499,blok,20.0,1,299.0,"Nowa Huta, Kraków, ul. Górali",50.0798348,20.0381857
+904534678,1,True,2800,kamienica,48.0,2,505.0,"ul. L. Rydla, Kraków",50.0794193,19.9027633
+911999443,1,True,1800,apartamentowiec,20.0,1,200.0,"ul. Lublańska 13, Kraków",50.08545660000001,19.9619658

@@ -1,0 +1,1 @@
+GO_TEXT_ANALYSER_PATH = './text_analyser.go'

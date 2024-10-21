@@ -1,0 +1,1017 @@
+offerid,floor,furnitured,price,buildingtype,area,rooms,rent,address,latitude,longitude
+923893391,2,True,2650,kamienica,76.0,3,760.0,"ulica Sredzka, Wrocław",51.1472266,16.8554911
+905403623,0,True,2300,blok,51.0,2,650.0,"Wrocław, ulica Tyrmanda",51.1020802,16.9482988
+687439865,4,True,3000,blok,54.0,3,900.0,"ulica Legnicka, dzielnica Popowice, Wrocław",51.1218305,16.9920786
+923906982,4,True,3500,apartamentowiec,36.0,2,500.0,"Legnicka Residance, ul. Legnicka, Wrocław",51.1186225,16.9983948
+923905404,2,True,3100,blok,59.0,3,1100.0,"ul. Kukuczki, Krzyki, Wrocław",51.0718286,17.0358325
+862653959,3,True,3100,blok,54.0,2,300.0,"ul. Bolesława Chrobrego, Wrocław",51.1227944,17.0346759
+694825863,0,True,1300,szeregowiec,33.0,1,300.0,"Osiedle Wojszyce, Krzyki, Wrocław",51.0680471,17.0393594
+706256879,1,True,2000,blok,30.0,1,500.0,"ul. Reja, Wrocław",51.1170424,17.0582592
+923066925,6,True,2400,blok,27.0,1,380.0,"Wrocław, ul. Zielińskiego, centrum Wrocławia",51.098266,17.024196
+923898426,1,True,3800,kamienica,80.0,3,1150.0,"ul. Komuny Paryskiej, Wrocław",51.101719,17.046855
+923897266,2,True,2400,apartamentowiec,37.0,2,650.0,"ulica Komedy, osiedle Jagodno, dzielnica Krzyki, Wrocław",51.053753,17.0546358
+838644750,0,True,2700,apartamentowiec,42.0,2,800.0,"ul. Skarbowców, Wrocław",51.0742075,16.995378
+923897087,7,True,2800,blok,50.0,2,820.0,"ul. Kościuszki, Wrocław",51.1008268,17.0418116
+875447386,4,True,1950,blok,26.0,1,550.0,"ul. Kołłątaja/Kościuszki, Wrocław",51.1019699,17.0365226
+922790650,1,True,2900,blok,40.0,2,400.0,"ul. Buforowa, Jagodno, Wrocław",51.0568477,17.0570209
+662107283,0,True,2100,kamienica,33.0,1,1.0,"ul. Traugutta, Krzyki, Wrocław",51.1029133,17.0508547
+923892940,2,True,3700,blok,54.0,3,,"S. Jaracza 37, Wrocław",51.1250125,17.0575285
+912513789,3,True,2350,blok,36.0,2,580.0,"ul. Buforowa, Jagodno, Wrocław",51.0568477,17.0570209
+912729500,4,True,2250,blok,32.0,2,580.0,"ul. Nowowiejska, Śródmieście/Ołbin, Wrocław",51.120206,17.0558115
+923482763,0,True,2500,blok,50.0,2,600.0,"Wrocław, Al. Śliwowa, Maślice",51.155347,16.943674
+787414100,4,True,1700,kamienica,45.0,2,900.0,"ul. Krakowska, Wrocław",51.089041,17.0663013
+923478221,2,True,3000,blok,55.0,3,500.0,"ul. Królewiecka, Maślice, Wrocław",51.1498147,16.9294238
+923270659,4,True,2900,kamienica,46.0,2,450.0,"ul. Łukasińskiego, Wrocław",51.1020935,17.0492722
+759526314,4,True,3000,blok,45.0,3,800.0,"ul. Żytnia (pl. Legionów), Wrocław",51.1017476,17.01537
+701152369,2,True,2300,blok,52.0,2,850.0,"ul. Bolesławiecka, Wrocław",51.1148332,17.0007139
+731086831,2,True,2300,blok,30.0,1,700.0,"ul. Zaporoska, Wrocław",51.096659,17.0145876
+917849900,1,True,3500,blok,63.0,3,600.0,"ul. Suwalska/Królewiecka, Wrocław",51.15203409999999,16.9269545
+923820691,1,True,2000,blok,17.0,1,500.0,"Fabryczna 14K, Wrocław",51.1092927,16.9833093
+847725411,,True,2400,blok,20.0,1,1.0,"ul. Soltysowicka, Wrocław",51.1495112,17.0758417
+921533095,1,True,4000,apartamentowiec,78.0,3,990.0,"ul. Dzierżonia 18, Oporów, Wrocław",51.0792012,16.9610938
+923050650,0,True,3000,blok,40.0,2,400.0,"ul. Partynicka, Klecina, Wrocław",51.0640312,16.9931832
+923879471,4,True,4500,apartamentowiec,56.0,3,600.0,"Legnicka Residance, Strzegomska, Wrocław",51.1186225,16.9983948
+752183676,2,True,3000,blok,42.0,2,800.0,"ul. Krzycka, Wrocław",51.0705712,16.9987437
+923876348,6,True,2500,blok,50.2,3,900.0,"ul. Poleska, Wrocław",51.1441127,17.1276896
+923873503,0,True,2500,wolnostojacy,45.0,1,300.0,"osiedle Borek, Wrocław",51.0764359,17.0080559
+625305378,3,True,3250,kamienica,50.0,2,650.0,"Róg ul. Oławskiej i ul. Świdnickiej, Wrocław",51.1086348,17.0339872
+923042869,0,True,2200,kamienica,40.0,1,550.0,"pl. Grunwaldzki, Wrocław",51.1123373,17.0627448
+913644283,3,True,6700,apartamentowiec,84.11,4,500.0,"al. Śliwowa, Maślice, Wrocław",51.155347,16.943674
+830143786,0,True,2300,blok,43.0,2,600.0,"ul. Górnicza, Pilczyce, Wrocław",51.1368435,16.9577449
+703393827,9,True,570,blok,53.0,3,250.0,"ul. Śliczna 10/30, Wrocław",51.0846994,17.0367143
+915649814,2,True,3300,kamienica,54.0,3,900.0,"Wrocław, ul. Daszyńskiego",51.1245015,17.05421
+923871528,0,True,2500,wolnostojacy,45.0,1,300.0,"osiedle Borek, Wrocław",51.0764359,17.0080559
+681388523,4,True,2180,kamienica,34.0,1,210.0,"Pszenna Street, Old Town, Wrocław",51.1012982,17.0184794
+923864947,0,True,1300,wolnostojacy,20.0,1,,"ul. Księża Małego, Wrocław",51.0800549,17.0834195
+923862176,3,True,3000,apartamentowiec,41.0,2,800.0,"Wrocław, ulica Romana Dmowskiego",51.1169476,17.0215822
+923856683,2,True,2550,kamienica,29.0,1,300.0,"ul. Reja, Grunwald, Wrocław",51.1170424,17.0582592
+923855966,1,True,4000,apartamentowiec,78.0,3,990.0,"ul. Dzierżonia 18, Wrocław",51.0792012,16.9610938
+920493807,3,True,2100,blok,30.0,1,750.0,"ul. Haukego-Bosaka 18, Wrocław",51.1048579,17.0456871
+762197490,1,True,2400,blok,47.0,2,700.0,"ulica Poranna, Wrocław",51.0736912,16.9934055
+905535678,2,True,2700,blok,48.0,2,470.0,"osiedle Maślice, Wrocław",51.157561,16.9274743
+828212676,1,True,2700,blok,43.0,2,390.0,"ul. Konstantego Ildefonsa Gałczyńskiego, Wrocław",51.0552595,17.0305884
+700959014,5,True,2200,blok,20.4,1,1.0,Wrocław pl. Nowy Targ,51.1107645,17.0383292
+723115725,4,True,2400,apartamentowiec,26.2,1,450.0,"ul. Kręta, Wrocław",51.1234535,17.0400068
+923846153,2,True,2400,blok,31.0,1,500.0,"ul. Balonowa, Gądów Mały, Wrocław",51.1220574,16.9649683
+923844780,6,True,2490,blok,32.0,2,421.56,"ul. Kaszubska, Śródmieście, Wrocław",51.1208243,17.0298581
+923844262,4,True,3400,blok,58.0,3,750.0,"Okolice Skarbowców, Wrocław",51.0742075,16.995378
+922988460,2,True,2500,apartamentowiec,45.89,2,700.0,"Plac Powstańców Śląskich, Wrocław",51.0894903,17.0155834
+918015805,3,True,5000,apartamentowiec,88.0,4,1600.0,"ul. Dmowskiego, Kępa Mieszczańska, Wrocław",51.1169476,17.0215822
+825458422,8,True,2700,blok,45.0,2,500.0,"ul. Lotnicza 145, Wrocław",51.1372972,16.9509286
+683987060,4,True,3000,apartamentowiec,65.0,3,717.53,"ulica Pochyła, Wrocław, Stare Miasto",51.1032363,17.0108377
+835540289,2,True,2800,blok,50.0,3,600.0,"Wrocław, Arbuzowa 17, Stablowice",51.1555997,16.8981675
+919353763,7,True,2800,blok,40.0,2,500.0,"ul. Zakładowa, Wrocław",51.1299218,17.0416497
+835863436,3,True,3400,apartamentowiec,46.0,2,600.0,"ul. Chociebuska 11, Wrocław",51.1162386,16.9594185
+922356138,2,True,2800,blok,39.0,2,420.0,"ul. A. Vespucciego 13/28, Wrocław",51.1081984,17.1246435
+923837938,0,True,2400,kamienica,51.11,2,800.0,"ul. Pułaskiego, Wrocław",51.0999063,17.045453
+862073483,0,True,1950,kamienica,35.0,1,200.0,"ul. Łęczycka, Wrocław",51.1197307,17.0123315
+754942484,2,True,2150,blok,26.0,1,450.0,"ul. Henryka Brodatego, Wrocław",51.1187543,17.0334637
+922360860,0,True,2500,blok,39.0,2,,"ul. Nowogródzka, Wrocław",51.1406622,17.1362347
+837040508,1,True,1700,blok,30.0,1,550.0,"ul. Godlewskiego, Wrocław",51.1025622,16.943562
+646153080,3,True,2300,pozostale,47.0,2,640.0,"ul. Oleśnicka, Centrum, Wrocław",51.1209409,17.0462071
+923833370,5,True,3600,blok,47.0,3,500.0,"Wrocław, ul. Inżynierska 84",51.0930756,16.9825296
+923832946,0,True,1700,blok,17.0,1,600.0,"ul. Adama Jerzego Czartoryskiego 55, Wrocław",51.1544364,17.0453384
+923831709,1,True,1900,kamienica,40.0,1,600.0,"ul. Rzeźnicza, centrum miasta, Wrocław",51.1114911,17.0284207
+922969930,4,True,3400,blok,55.0,3,850.0,"ul. Racławicka, Wrocław",51.0808338,16.9975774
+858114508,2,True,2200,kamienica,30.0,1,450.0,"Wrocław, między Dworcem Głównym a Placem Dominikańskim",51.10929480000001,17.0386019
+781596194,1,True,2900,blok,75.0,3,1000.0,"ul. Deszczowa, Krzyki, Wrocław",51.0730837,16.9997624
+917924581,2,True,1500,blok,21.0,1,500.0,"ul. Górnickiego, Wrocław",51.1165931,17.0555251
+923830427,5,True,3600,blok,72.0,3,850.0,"Wrocław, ul. Pułaskiego",51.0999063,17.045453
+915818800,2,True,2500,blok,39.0,2,,"ulica Nowogródzka, Psie Pole, Wrocław",51.1406622,17.1362347
+922970253,3,True,2300,blok,35.0,2,,"ul. Wandy Rutkiewicz, Gaj, Wrocław",51.0732316,17.0376964
+923438151,5,True,1980,blok,33.0,2,400.0,"ul. Poleska, Psie Pole, Wrocław",51.1441127,17.1276896
+821156848,11,True,2000,blok,40.0,2,900.0,"Karłowice, Wrocław",51.1389665,17.0492602
+902349142,7,True,2500,blok,65.0,2,500.0,"Wrocław, Psie Pole",51.1458649,17.0355841
+860637548,,True,2100,kamienica,22.0,1,100.0,"ul. Tomaszowska 12, Wrocław",51.08995239999999,17.039173
+709216717,8,True,2450,blok,30.0,1,450.0,"ul. Białowieska, Popowice, Wrocław",51.1269867,16.9935394
+843841816,4,True,2000,blok,30.0,1,600.0,"ul.Górnickiego 23, Wrocław",51.1178161,17.0564646
+808559134,3,True,3200,blok,48.3,3,760.0,"ul. Stefana Czarnieckiego, Wrocław",51.115777,17.0074108
+920906794,0,True,3100,kamienica,54.0,3,400.0,"ul. Kotsisa, Wrocław - Biskupin",51.0997425,17.1051184
+923410744,2,True,3600,kamienica,62.0,3,1.0,"ul. Grunwaldzka 102, Wrocław",51.1150378,17.0702335
+828336650,0,True,3000,blok,46.07,2,705.0,"Osiedle Wojszyce, ul. Iwaszkiewicza, Wrocław",51.0559995,17.0361725
+691891391,5,True,3500,blok,62.0,3,600.0,"ul. Bema, Wrocław",51.1180178,17.0419685
+758825171,4,True,2750,apartamentowiec,50.0,2,705.0,"Świeradowska / Strońska, Wrocław",51.0770006,17.0408221
+838777547,2,True,4000,blok,72.0,3,1000.0,"ul. Grota Roweckiego, Wrocław",51.0629318,17.0316627
+791456721,0,True,2800,blok,45.0,3,600.0,"ul. Grabiszyńska, Wrocław",51.0981666,16.9949737
+922758843,4,True,2300,blok,28.0,1,,"ul. Piękna 21, Wrocław",51.0847093,17.0526506
+894417177,4,True,2300,blok,58.0,3,900.0,"ul. Sempołowska, Biskupin, Wrocław",51.1036414,17.1051166
+781826857,2,True,1950,blok,33.0,1,400.0,"ulica Szybka, Wrocław",51.1029497,17.054668
+921429191,3,True,3300,apartamentowiec,45.0,2,350.0,"ul. Grabiszyńska, Wrocław",51.0981666,16.9949737
+852434174,2,True,2600,blok,54.0,2,1.0,"Wrocław, S. Jaracza 37",51.1250125,17.0575285
+923802191,8,True,2490,blok,39.0,2,420.0,"ul. Kaszubska 15, Wrocław",51.1208082,17.0288125
+918199765,11,True,2250,blok,16.0,1,,"ulica Robotnicza 96, Wrocław",51.1126145,16.9953581
+923799652,4,True,3500,apartamentowiec,62.0,3,1000.0,"ul. Międzyleska, Wrocław",51.0799186,17.0700693
+732634955,2,True,2300,blok,48.0,2,790.0,"Wrocław, Szprotawska",51.120717,17.00178
+923797350,3,True,3400,blok,57.0,2,2200.0,"Wrocław, Stabłowice / Pracze",51.15955049999999,16.9003899
+922879565,3,True,2800,blok,52.0,2,500.0,"Wrocław, ul. Kolejowa",51.1025044,17.0193298
+886753659,8,True,2400,blok,39.0,2,650.0,"ul. Kruszwicka, Wrocław",51.1142012,17.0089334
+740155319,9,True,2200,blok,33.0,2,550.0,"Wrocław, ul. Gajowicka, przy Sky Tower",51.0945733,17.0189505
+923794489,5,True,2999,apartamentowiec,51.0,2,700.0,"ul. Tęczowa 83R, Lokum Victoria, Wrocław",51.10444529999999,17.0064341
+923791764,6,True,2500,blok,36.0,2,600.0,"ul. Grunwaldzka, Wrocław",51.1141627,17.0632247
+888836184,1,True,2700,blok,40.0,2,500.0,"ul. Drabika, Jagodno, Wrocław",51.0586353,17.0527136
+818025054,0,True,3000,wolnostojacy,54.0,3,1.0,Wrocław Ligota Piękna,51.2322676,17.042192
+797743623,1,True,2800,apartamentowiec,44.0,2,800.0,"Al. Architektów, Nowe Żerniki, Wrocław",51.1375027,16.9290965
+920021983,5,True,3000,blok,70.0,3,1305.0,"Wrocław, ul. Drzewieckiego",51.1240503,16.9693329
+677640610,7,True,3000,apartamentowiec,36.0,2,650.0,"Legnicka 33, Wrocław",51.11434999999999,17.005871
+922502464,0,True,2000,apartamentowiec,39.0,1,450.0,"ul. Maślicka, Wrocław",51.1556322,16.9364771
+865750429,1,True,3300,blok,61.0,3,805.0,"ul. Miedziana, Nowy Grabiszyn, Wrocław",51.0997682,16.9981367
+923781655,3,True,3200,blok,50.0,3,,"ul. M. Reja, Wrocław",51.1170424,17.0582592
+918921023,2,True,2800,apartamentowiec,44.67,2,500.0,"ul. Kopycińskiego, Jagodno, Wrocław",51.0582622,17.0524872
+895040337,1,True,3200,blok,57.1,3,920.0,"ul. Inflancka, Wrocław",51.1450026,17.1318533
+686687549,1,True,3100,kamienica,52.0,2,500.0,ul. Południowa Wrocław,51.074201,16.9929172
+923352277,2,True,2450,kamienica,39.7,2,950.0,"Wrocław, ul. Kazimierza Wielkiego 51, centrum Wrocławia",51.10734009999999,17.0312739
+923772650,4,True,2300,apartamentowiec,27.0,1,450.0,"ul. Kurkowa, Wrocław",51.120685,17.0278604
+806316204,1,True,1800,szeregowiec,30.0,1,400.0,"Krzyki, Wrocław",51.0785518,17.0531945
+923769578,2,True,2800,blok,41.0,2,895.0,"ul. Pawia, Wojszyce Krzyki, Wrocław",51.0665003,17.038673
+779859506,2,True,3000,apartamentowiec,46.0,2,650.0,"ul. Obornicka, Wrocław",51.1463535,17.0219425
+898169541,2,True,2900,blok,52.0,2,700.0,"Krzyki, Wrocław",51.0785518,17.0531945
+895904912,3,True,2220,kamienica,26.0,1,290.0,"ul. Górnicza 16, Wrocław",51.1344332,16.9565856
+923767084,8,True,2900,blok,40.0,2,610.28,"Wrocław, ulica Kościuszki, centrum Wrocławia",51.1008268,17.0418116
+873771609,4,True,3200,blok,40.0,2,600.0,"ulica Komuny Paryskiej, Wrocław",51.101719,17.046855
+724829403,1,True,3000,blok,50.0,2,330.0,"ul. Królewiecka, Wrocław",51.1488144,16.9304529
+916190526,0,True,449,blok,45.0,2,150.0,Wrocław,51.10929480000001,17.0386019
+916337552,7,True,3200,apartamentowiec,60.0,2,800.0,"ul. Inowrocławska, Szczepin, Wrocław",51.1155425,17.0145685
+608125437,1,True,3500,pozostale,75.0,3,510.0,"ul. Karola Miarki, Wrocław",51.1259711,17.0523309
+918274254,4,True,3000,blok,57.0,3,,"ul. Wesoła 19, Wrocław",51.0909738,17.0362084
+923760235,0,True,1200,kamienica,8.0,4,,"ul. Zegadłowicza, Wrocław",51.1285576,17.0327812
+686908161,6,True,2000,blok,25.0,1,450.0,"ul. Drobnera, centrum miasta, Wrocław",51.1180458,17.0374418
+813032917,1,True,3000,blok,35.0,1,,"Wrocław, Wrocławski Rynek",51.1106466,17.0332426
+923759209,3,True,2500,blok,34.0,1,400.0,"ul. Kuźnicza, Wrocław",51.1123394,17.0343094
+923759475,2,False,2500,apartamentowiec,35.0,2,600.0,"Ul. Bema 5A, Wrocław",51.1178841,17.0429664
+923754374,3,True,3200,apartamentowiec,49.0,2,700.0,"Wrocław, ul. Ślężna",51.0839248,17.0248102
+923232181,,True,2600,apartamentowiec,36.0,2,580.0,"plac Bema, Wrocław",51.1167727,17.0420048
+820075948,0,True,3000,apartamentowiec,65.0,3,900.0,"ul. Wagnera, Jagodno, Wrocław",51.0527444,17.0609334
+923752031,3,False,1500,blok,20.0,1,250.0,"al. Wiśniowa 14, Wrocław",51.0861746,17.0144179
+779148989,2,True,2900,kamienica,50.0,2,800.0,"Wrocław, Rynek 46-47",51.1107021,17.0329819
+662820430,4,True,2800,blok,40.0,2,435.0,"Wrocław, ul. Tęczowa",51.1049417,17.0118099
+638262950,1,True,3000,apartamentowiec,50.0,2,450.0,"ul. Litomska, Wrocław",51.1167319,17.0098192
+920652303,7,True,2800,blok,40.0,2,500.0,"ul. Zakładowa, Wrocław",51.1299218,17.0416497
+586850500,1,True,2300,apartamentowiec,32.0,1,1.0,"Wrocław, Grunwaldzka 32",51.1143146,17.0587754
+642799447,6,True,2300,blok,40.0,1,600.0,"Wrocław, ul. Krzycka",51.0705712,16.9987437
+917199947,2,True,2750,apartamentowiec,44.0,2,700.0,"ul. Tadeusza Kościuszki, Wrocław",51.1008268,17.0418116
+923507104,4,True,2000,blok,27.0,1,580.0,"ulica Jaworska 4, Wrocław",51.1146247,16.9929509
+766503707,2,True,3400,blok,49.0,3,700.0,"Szczepin, Wrocław",51.1176215,17.0121574
+922765311,1,True,2300,blok,52.0,2,650.0,"ul. Klasztorna, Wojszyce, Wrocław",51.0625137,17.0411628
+785031461,1,True,2400,blok,20.0,1,1.0,"ul. Gajowicka, Wrocław",51.0900196,17.0074738
+923745044,1,True,1900,blok,30.0,1,500.0,"Pocztowa, Wrocław",51.0868369,17.0153339
+822627013,2,True,2400,apartamentowiec,31.0,1,400.0,"Wrocław, ul. Grabiszyńska 85 A (Stare Miasto)",51.1020035,17.0105026
+805933039,1,True,1600,blok,26.0,1,600.0,"Os. Kosmonautów, Wrocław",51.1285983,16.9699522
+817589172,2,True,2650,blok,44.7,2,600.0,"ul. Buforowa, Wrocław",51.0566441,17.057307
+923739537,2,True,1900,apartamentowiec,20.0,1,600.0,"ulica Sołtysowicka 21, Karłowice, Wrocław",51.1416269,17.0709261
+923732616,4,True,2200,blok,48.0,2,750.0,"ul. Grabiszyńska, Wrocław",51.0981666,16.9949737
+822877597,4,True,3800,apartamentowiec,43.0,2,600.0,"Wrocław, brak informacji o dokładnym adresie",51.10929480000001,17.0386019
+913194190,9,True,1590,blok,20.0,1,400.0,"ul. Jastrzębia 13, Borek, Wrocław",51.0848519,17.0084076
+922789773,1,True,750,blok,67.0,4,,"Na Ostatnim Groszu 86 (Fabryczna), Wrocław",51.1210743,16.9767845
+921592149,,True,2580,apartamentowiec,29.0,1,570.0,"Bulwary Książęce, Wrocław",51.1151879,17.0303319
+923736478,2,True,2300,blok,30.0,1,,"ul. Sądowa, Wrocław",51.1056318,17.0235288
+885540684,1,True,2199,blok,40.0,1,600.0,"ulica Powstańców Śląskich, Wrocław",51.0893253,17.0159794
+923734490,1,True,2300,blok,45.0,3,650.0,"Grabiszyńska 113, Wrocław",51.1005821,17.0041805
+912729634,3,True,1700,blok,19.0,1,400.0,"ul. Bolesława Krzywoustego 270-272, Wrocław",51.145562,17.1080149
+916650188,4,True,2200,kamienica,24.0,1,390.0,"ul. Drobnera, Wrocław",51.1180458,17.0374418
+923731895,0,True,3200,blok,45.0,2,580.0,"ul. Beaty Artemskiej, Jagodno, Wrocław",51.055938,17.0510782
+923729583,,True,1300,blok,15.0,3,,"ul. Chalupnicza, Swojczyce, Wrocław",51.1113596,17.126963
+674238227,3,True,4000,apartamentowiec,60.0,3,550.0,"ul. Księcia Witolda, Wrocław",51.114873,17.0276526
+923386289,2,True,400,kamienica,20.0,1,,"okolica Astry, Wrocław",51.1265483,16.9760153
+923496795,2,True,2200,blok,44.39,2,425.0,"ul. Himalajska, Wrocław",51.0730354,17.0344085
+918622800,1,True,2000,blok,32.0,1,550.0,"ul. Marka Hłaski, Muchobór Mały, Wrocław",51.1009326,16.9490158
+912731081,3,True,2100,blok,26.0,1,300.0,"ul. Bolesława Krzywoustego 270-272, Wrocław",51.145562,17.1080149
+901688410,0,True,2400,pozostale,30.0,2,353.0,"ul. Awicenny, Oporów, Wrocław",51.0847185,16.9543212
+923719043,2,True,1800,wolnostojacy,29.0,1,1800.0,"ul. Sosnowiecka 9, Wrocław",51.0699351,17.0895623
+704226924,1,True,1800,apartamentowiec,27.0,1,200.0,"ul. Strachocińska 84, 51-511 Wrocław",51.1067555,17.1435951
+923714960,4,False,2000,blok,32.5,2,590.0,"ulica Braniborska, Wrocław",51.1113441,17.011501
+852645544,4,True,1200,kamienica,65.0,3,250.0,"ul. Rydygiera, Wrocław, Nadodrze",51.1200489,17.0324275
+834715770,7,True,3300,apartamentowiec,61.0,2,750.0,"ul. Powstańców Śląskich 48, Wrocław",51.0963434,17.0250813
+728672756,3,True,2600,kamienica,61.0,2,400.0,"ul. Grabiszyńska, Wrocław",51.0981666,16.9949737
+923692297,4,True,3950,apartamentowiec,68.17,3,900.0,"Olimpia, Wrocław",51.1306898,17.0324278
+909564495,5,True,2100,blok,42.0,2,670.0,"Wrocław, ulica Inflancka",51.1450026,17.1318533
+923708391,2,True,1900,blok,29.0,1,500.0,"ul. Zagony 5, Wrocław",51.0981059,16.948161
+923708534,2,True,2950,blok,45.0,2,800.0,"ul. Zaporoska, Wrocław",51.096659,17.0145876
+921155178,4,True,2600,apartamentowiec,28.0,1,380.0,"ul. Żegiestowska 11, Wrocław",51.0819184,17.0382355
+774898407,8,True,2500,blok,53.0,2,580.0,"ulica Litewska, Psie Pole, Wrocław",51.1425862,17.1318243
+916832954,4,True,3600,blok,57.65,2,985.21,"ul. Jaracza, Wrocław",51.1280468,17.0570195
+923701894,3,True,2300,kamienica,43.0,2,2300.0,"Nadodrze Plac Staszica, Wrocław",51.1237271,17.0296334
+921802091,2,True,2500,kamienica,50.0,2,1100.0,"ul. Roosevelta 11, Wrocław",51.1224696,17.0426504
+777419497,1,True,1800,blok,20.0,1,280.0,"ul. Sudecka, Krzyki/Borek, Wrocław",51.0803626,17.0160158
+922771822,1,True,2600,blok,35.0,2,300.0,"osiedle Jaracza, Wrocław - Śródmieście",51.1280468,17.0570195
+844588420,1,False,2200,wolnostojacy,48.0,4,1.0,"ul. Sportowa 18A, Wrocław",51.1440131,17.0626872
+908928716,2,True,1750,apartamentowiec,30.0,1,700.0,"ul. Strachowicka 13b, Wrocław",51.1233264,16.9151104
+793088467,5,True,3300,blok,48.0,2,600.0,"ul. Kleczkowska, Wrocław",51.1271107,17.0246632
+755732170,6,True,1950,apartamentowiec,23.0,1,350.0,"Wrocław, Legnicka Street",51.1186225,16.9983948
+923693505,9,True,2800,blok,47.5,2,790.0,"Wrocław, ul. Na Ostatnim Groszu 6",51.1255052,16.979465
+923690690,0,True,2400,kamienica,50.0,2,,"ul. Nowowiejska, Wrocław",51.1205498,17.0551953
+906011429,1,True,2650,blok,47.0,2,650.0,"Wrocław, ul. Jutrzenki",51.0710148,16.9799311
+918036895,6,True,3100,apartamentowiec,40.0,3,750.0,"ul. Jaworska 4, Wrocław",51.1146247,16.9929509
+923682686,7,True,2800,blok,34.0,2,700.0,"ul. Kołłątaja, Centrum, Wrocław",51.1019699,17.0365226
+848816164,2,True,3000,blok,40.0,2,790.0,"ul. Rymarska, Wrocław",51.0805753,16.9911796
+827375531,3,True,2400,blok,43.0,2,600.0,"Wrocław, ul. Stabłowicka",51.1642808,16.8971
+923681318,0,True,3200,blok,50.0,2,,"Plac Dominikański/ul. Księdza Piotra Skargi, Wrocław",51.1058039,17.0379735
+923679158,0,True,3200,blok,50.0,2,,"ul. Księdza Piotra Skargi, Wrocław",51.1058039,17.0379735
+923678463,,True,3200,apartamentowiec,48.0,2,,"ul. Pochyła, Wrocław",51.1032363,17.0108377
+922357437,2,False,3000,blok,55.0,3,600.0,"Wrocław, Nowe Żerniki",51.13756919999999,16.9268632
+918436867,4,True,2600,blok,45.0,2,,"ul. Piękna, Wrocław",51.085004,17.0544712
+785008588,1,True,5999,apartamentowiec,75.0,3,1200.0,"ul. Księcia Witolda 48, Wrocław",51.1151037,17.0251036
+922994744,7,True,2000,blok,32.5,1,,"ul. Poleska (Psie Pole), Wrocław",51.1441127,17.1276896
+840313625,1,True,3300,apartamentowiec,51.1,3,550.0,"ul. A. Vespucciego 13/26, Wrocław",51.1081984,17.1246435
+650274088,1,True,2700,wolnostojacy,40.0,2,,"Wrocław, Sępolno",51.11062159999999,17.0947398
+853059088,1,True,2400,blok,53.59,2,,"Wrocław, brak informacji",51.10929480000001,17.0386019
+784428335,0,True,1950,blok,25.0,1,600.0,"ul. Sudecka, Krzyki, Wrocław",51.0803626,17.0160158
+768362541,0,True,2800,blok,50.0,2,750.0,"Wrocław, ul. Szarskiego",51.1036636,16.9436824
+919917042,3,True,2800,kamienica,35.5,2,600.0,"Wrocław, ul. Kaszubska",51.1208243,17.0298581
+923575485,3,True,3000,apartamentowiec,54.0,2,700.0,"ul. Jaracza, Wrocław",51.1280468,17.0570195
+923666892,0,True,2900,apartamentowiec,39.5,2,500.0,"ul. Anyżowa, Wrocław",51.1775806,16.9971668
+923664899,2,True,4700,pozostale,57.0,3,,"ul. Mieszczańska, Wrocław",51.118262,17.0227547
+839681375,3,True,3100,kamienica,65.0,2,600.0,"ul. Lwowska, Wrocław",51.0994359,17.0108673
+922352774,3,True,2700,apartamentowiec,48.73,2,600.0,"ul. Klimasa, Krzyki, Wrocław",51.0803191,17.0618025
+628960817,3,True,2600,blok,38.0,2,600.0,"Wrocław, boczna ul. Grabiszyńska",51.0981666,16.9949737
+914537894,6,True,2100,blok,45.0,2,,"Ostrow Tumski, Wrocław",51.1144633,17.0467344
+923657252,10,True,2000,blok,24.0,1,,"Wrocław, ul. Na Ostatnim Groszu",51.1236642,16.9762521
+696991133,0,True,2300,kamienica,42.0,2,,"ul. Redycka, Sołtysowice, Wrocław",51.1552962,17.064964
+792041966,1,True,1900,kamienica,29.0,1,300.0,"Karłowice, Wrocław",51.1389665,17.0492602
+805273669,4,True,3200,blok,60.0,3,700.0,"Ulica Orzechowa, osiedle Gaj, Wrocław",51.0785822,17.043757
+875362284,3,True,1900,blok,25.1,1,600.0,"ulica Pochyła, Wrocław",51.1032363,17.0108377
+773953516,3,True,2300,blok,37.0,1,420.0,"okolice Mostów Warszawskich, Wrocław",51.10929480000001,17.0386019
+856855353,3,True,2100,blok,34.0,1,500.0,"Wrocław, ul. Piłsudskiego (Plac Legionów), Centrum Wrocławia",51.1044165,17.022038
+922332917,4,True,2600,blok,34.0,2,500.0,"ul. Popowicka, Wrocław",51.1276477,16.9897248
+868609199,4,True,4000,blok,62.0,3,660.0,"róg Kościuszki i Dąbrowskiego, Centrum, Wrocław",51.1009821,17.041901
+684449423,3,True,1900,kamienica,25.0,1,900.0,"Wrocław, róg Stawowej / Piłsudskiego",51.1003756,17.033996
+923638273,0,True,2700,apartamentowiec,32.0,2,490.0,Wrocław,51.10929480000001,17.0386019
+679574712,2,True,3000,apartamentowiec,38.0,2,800.0,"Wrocław, ul. Grabiszyńska 204D",51.096332,16.9890267
+770113834,1,True,3100,blok,56.11,2,500.0,"Osiedle Malownicze, Wrocław",51.1599284,16.8758663
+920473073,2,True,2300,blok,45.5,2,750.0,"ul. Włościańska, Wrocław",51.1067378,17.1473482
+774579379,0,True,1900,wolnostojacy,23.0,1,1.0,"ul. Rawicka, Wrocław",51.1435025,16.8816001
+923629055,0,False,2800,blok,56.0,3,780.0,"ul. Wiejska, Oporów, Wrocław",51.0779023,16.9604504
+900659138,2,True,2600,blok,49.0,2,800.0,"Czernicka 4, Psie Pole, Wrocław",51.1474479,17.1213418
+919801651,1,True,2800,blok,52.0,2,450.0,"ulica Królewiecka, Maślice, Wrocław",51.1498147,16.9294238
+792072224,4,True,2700,blok,40.0,2,410.0,"ul. Szybka, Wrocław",51.1029497,17.054668
+923624354,4,True,1900,blok,30.0,1,500.0,"ul. Żelazna, Wrocław",51.0971913,17.0089507
+923625074,3,True,3300,apartamentowiec,61.7,2,1600.0,"ul. Krawiecka 1, Wrocław",51.108321,17.0375509
+923624117,1,True,2700,blok,53.0,2,900.0,"Bulwar Ikara, Gądów Mały, Wrocław",51.1259716,16.9711026
+648275686,6,True,2000,apartamentowiec,42.0,1,665.0,"Wrocław, ul. Świstackiego",51.0978715,17.0505148
+802893158,0,True,3500,apartamentowiec,63.5,3,500.0,"Brzozowe Zacisze, Maślice, Wrocław",51.15803500000001,16.931793
+916324013,6,True,3000,blok,49.5,2,600.0,"Psie Pole, Wrocław",51.1458649,17.0355841
+893532414,,True,2100,apartamentowiec,30.0,1,400.0,"Wrocław, ul. Pomorska",51.1194662,17.0313964
+920678572,1,True,2400,apartamentowiec,32.0,1,450.0,"Poświętne, Wrocław",51.156974,17.0368205
+920917303,5,True,3200,blok,34.0,2,750.0,"Wrocław, ul. Swobodna, Wroclaw",51.0992912,17.0270284
+922757370,9,True,2700,apartamentowiec,26.0,1,,"ul. Jaworska, Wrocław",51.1152502,16.9935578
+631537260,3,True,4000,apartamentowiec,85.0,3,750.0,"ul. Wietrzna, Krzyki, Wrocław",51.0732926,16.9947308
+726593637,1,True,2000,kamienica,43.0,2,530.0,"ul. Uniwersytecka, Wrocław",51.1130817,17.0345713
+603505869,4,True,4700,loft,65.0,3,1.0,"Lofty Przy Fosie, Bulwar Staromiejski, Wrocław",51.1119801,17.0237357
+642929993,1,True,2300,szeregowiec,50.0,2,800.0,"ul. Miłostowska, Psie Pole, Wrocław",51.1450377,17.1198708
+923598537,10,True,2200,blok,33.0,2,650.0,"ul. Komandorska, Wrocław-Krzyki",51.0949817,17.0271255
+892008035,5,True,4000,blok,90.0,3,1400.0,"ul. Komandorska 53, Wrocław",51.0953981,17.0274414
+906756429,,True,1600,kamienica,20.0,1,400.0,"ulica Żeromskiego, Ołbin, Wrocław",51.1233992,17.0488142
+923596527,2,True,2800,blok,63.0,2,1500.0,"ul. Gliniana, Wrocław",51.0931196,17.0375372
+696026770,5,True,1950,apartamentowiec,20.0,1,550.0,"LEGNICKA STREET 57e, LEGNICKA STREET, Wrocław",51.1244895,16.9876356
+871104092,0,True,3000,blok,45.0,2,500.0,"ulica Bylinowa (Osiedle Zielna etap II), Wrocław",51.1407377,17.115921
+919634811,3,True,2950,apartamentowiec,47.0,2,770.0,"Wrocław, Grabiszyńska",51.0981666,16.9949737
+686959629,4,True,2500,blok,50.0,2,750.0,"al. Armii Krajowej, osiedle Huby, Wrocław",51.0831489,17.0479214
+923592653,4,True,2000,blok,32.0,1,500.0,"Wrocław, ul. Kołłątaja/Kościuszki, centrum Wrocławia",51.1019699,17.0365226
+913568366,4,True,2000,blok,34.0,1,700.0,"Wrocław, ul. Ładna",51.1138437,17.0556889
+923590374,0,True,1900,blok,33.0,1,550.0,"ul. Klimasa, Tarnogaj, Krzyki, Wrocław",51.0803191,17.0618025
+894949634,2,True,2200,blok,67.0,2,550.0,"ul. Opolska, Księże Małe, Wrocław",51.0767532,17.0849629
+907177055,7,True,2500,blok,34.0,2,540.0,"Na Ostatnim Groszu/róg Legnickiej, Wrocław",51.1266935,16.9796777
+806751657,3,True,2400,blok,46.0,2,730.0,"Wrocław, Jagodno",51.0537263,17.0578121
+923581969,2,True,2100,blok,40.0,2,450.0,"ul. Zatorska, Wrocław",51.1601472,17.1352065
+923489956,1,True,1740,blok,24.0,1,455.0,"ul. Inżynierska, Wrocław",51.0950482,16.9890845
+914106246,2,True,3200,blok,48.0,2,700.0,"Planty Racławickie, Wrocław",51.0808338,16.9975774
+922888424,1,True,2300,apartamentowiec,31.0,1,600.0,"ul. Dmowskiego 3, Wrocław",51.1171587,17.0225044
+923571643,1,True,2700,blok,48.0,2,,"ul. Krzywoustego 85-87, Wrocław",51.1382586,17.0771061
+923570239,1,True,2700,blok,40.0,2,400.0,"ul. Monte Cassino, Sępolno, Wrocław",51.1099798,17.1087566
+921159061,1,True,2500,blok,41.0,2,900.0,"ul. Kościańska, Osada Złotnicka, Złotniki, Wrocław",51.1435466,16.8867564
+888485460,1,True,2700,blok,80.0,3,850.0,"Wrocław, ul. Pucka",51.1237417,16.9428267
+923201678,1,True,2950,apartamentowiec,37.0,2,650.0,"ul. Jedności Narodowej, Wrocław",51.123858,17.0448522
+918107259,3,True,2950,blok,65.0,2,650.0,"Wrocław, Szwedzka",51.1090276,16.9622948
+828979645,0,True,2500,blok,31.0,1,460.0,"ulica Dożynkowa, Klecina, Wrocław",51.0700087,16.9834132
+698052769,3,True,2300,blok,50.0,2,1200.0,"ul. Antonia Vivaldiego, osiedle Jagodno, Wrocław",51.0521649,17.0626071
+718923184,2,True,2550,blok,26.0,2,550.0,"Wrocław, Krynicka 40",51.0804475,17.0480263
+923103409,4,True,2900,blok,33.0,2,350.0,"ul. Kościuszki i Pułaskiego, Wrocław",51.1008268,17.0418116
+923561133,3,True,2600,apartamentowiec,36.86,2,650.0,"Wrocław, ul. Sołtysowicka",51.1495112,17.0758417
+923560538,2,True,2600,blok,29.0,1,490.0,"Legnicka Residence, Wrocław",51.1186225,16.9983948
+680040311,7,True,3300,apartamentowiec,63.0,3,1000.0,"ul. Prądzyńskiego, Wrocław",51.0994522,17.049623
+647989886,4,True,2850,kamienica,50.0,2,610.0,"ul. Powstańców Śląskich, 50 mkw.,  Wrocław",51.0960282,17.0247974
+814455390,3,True,1700,apartamentowiec,18.0,1,400.0,"Wrocław, ul. Sołtysowicka 21c",51.1408189,17.0732726
+923556915,4,False,2500,blok,52.41,2,1000.0,"pl. Legionów, Wrocław",51.104405,17.0233795
+923556446,1,True,3300,apartamentowiec,48.0,2,440.0,"ul. Zakładowa, Wrocław",51.1299218,17.0416497
+923555219,2,False,2800,kamienica,43.0,2,905.0,"ul. Odrzańska, Wrocław",51.1121967,17.0313108
+923553781,3,True,2900,blok,49.0,2,480.0,"ul. Maczka, Krzyki, Ołtaszyn, Wrocław",51.0564743,17.0095061
+923548362,1,True,3600,kamienica,62.0,2,850.0,"ul. Saperów, Grabiszyn, Wrocław",51.085958,17.0013962
+923546734,2,True,3400,blok,71.0,2,750.0,"Partynice, Wrocław",51.060308,16.9999768
+923546942,5,True,4900,blok,63.0,3,,"ul. Stawowa, Wrocław",51.1006451,17.0341143
+918253453,1,True,2700,apartamentowiec,50.0,2,900.0,"ul. Blacharska, Wrocław",51.0813448,16.9895023
+923545679,3,True,2200,blok,33.0,1,700.0,"Traugutta, Wrocław",51.1030078,17.0505486
+737941490,2,True,2700,apartamentowiec,61.0,3,1.0,"ul. Strachocińska 84, Wrocław",51.1137879,17.1227766
+913070752,2,True,3777,blok,60.0,3,800.0,"ul. Wesoła 24, Krzyki, Wrocław",51.09135449999999,17.0362403
+923544288,4,False,5900,apartamentowiec,65.0,3,820.0,"Wrocław, Walońska",51.1045762,17.0508741
+923542240,1,True,2000,wolnostojacy,30.0,1,550.0,"Wrocław, ul. Szpacza",51.1339767,17.0814641
+923546976,3,True,2200,blok,33.0,1,700.0,"ul. Traugutta, Wrocław",51.1030078,17.0505486
+923549051,2,True,2900,blok,54.5,2,700.0,"Wrocław, ul. Piękna",51.085004,17.0544712
+920683508,2,True,1825,blok,37.0,2,350.0,"ul. Wesoła, Krzyki, Wrocław",51.091017,17.0377269
+923547529,1,True,2900,pozostale,55.0,3,1400.0,"ul. Partyzantów, Biskupin, Wrocław",51.1099079,17.1018384
+923537180,4,True,2200,apartamentowiec,25.0,1,400.0,"ul. Młynarska, Młyn Różanka, Wrocław",51.14300799999999,17.029018
+876270588,3,True,2500,blok,64.0,3,600.0,"Pilczycka, Wrocław",51.1384231,16.9634519
+915817433,0,True,3200,wolnostojacy,89.0,3,600.0,"Wrocław, ul. Dębowa, Żerniki Wrocławskie",51.0234418,17.0585275
+898684230,6,True,4400,apartamentowiec,70.0,3,800.0,"ul. Gen. Madalińskiego, Wrocław",51.0967862,17.0464761
+923535471,10,True,4600,apartamentowiec,60.0,3,900.0,"ul. Podwale, Wrocław",51.1053249,17.0279527
+923538132,2,False,6000,kamienica,99.9,4,,"Wrocław, ul. Piastowska",51.1153944,17.0607639
+923536060,2,True,3200,apartamentowiec,57.0,2,900.0,"ul. Blacharska, Wrocław",51.0813448,16.9895023
+923533646,2,True,4800,apartamentowiec,60.0,3,700.0,"Wrocław, Kępa Mieszczańska",51.1175001,17.0219599
+923532938,0,True,1950,blok,27.0,1,550.0,"ul. Długa, Wrocław",51.1210388,17.0132791
+923547822,2,True,3150,blok,40.0,2,350.0,"ul. Drabika, Jagodno, Wrocław",51.0586353,17.0527136
+704210485,0,True,2250,apartamentowiec,31.0,1,560.0,"ulica Stajenna, Krzyki, Wrocław",51.0669779,17.0080554
+881345037,4,True,2300,blok,27.0,1,549.0,"ul. Jaworska 4, Wrocław",51.1146247,16.9929509
+923536911,1,True,3000,pozostale,38.5,2,,"Wrocław, Kępa Mieszczańska",51.1175001,17.0219599
+916431565,3,True,2050,apartamentowiec,16.41,1,410.0,"ul. Legnicka 60C, Wrocław",51.1211084,16.9892015
+923530450,4,True,2600,blok,47.0,3,700.0,"Wrocław, ul. Grabiszyńska",51.0981666,16.9949737
+923531150,1,True,3400,apartamentowiec,42.0,2,380.0,"ul. Tęczowa, Wrocław",51.1049417,17.0118099
+923537635,1,True,3000,blok,58.63,3,1350.0,"ul. Bolesława Prusa, Wrocław",51.1196553,17.0502771
+923527857,3,True,2890,blok,49.0,3,680.0,Wrocław Stare Miasto,51.1087443,17.0143368
+859757133,0,True,2200,blok,49.0,2,850.0,"Wrocław, ul. Komandorska",51.0953981,17.0274414
+838107696,1,False,2000,kamienica,18.0,1,,"ul. Kościuszki 133, Wrocław",51.0992658,17.0479128
+658297820,,True,1600,blok,20.0,1,605.0,"ul. Białowieska 87, Wrocław",51.1298392,16.9899042
+923536948,4,True,4500,apartamentowiec,68.95,3,650.0,"ul. Jesionowa, Wrocław",51.0872176,17.0513668
+814169282,0,True,3000,blok,55.0,2,780.0,"ulica Komandorska 53 Dach Bud, Wrocław",51.0967802,17.0281458
+923523295,1,True,2100,blok,44.0,2,650.0,"ul. Sempołowskiej -Biskupin, Wrocław",51.1036414,17.1051166
+923523977,6,True,4000,pozostale,60.0,3,650.0,"ul. Sienkiewicza 30A, Wrocław",51.117392,17.0475705
+923521896,5,True,3500,kamienica,63.6,2,700.0,"Podwale, Wrocław",51.1053249,17.0279527
+923525741,4,True,5500,blok,100.0,3,,"ul. Legnicka, Stare Miasto, Szczepin, Wrocław",51.1131212,17.008416
+923524635,7,True,2300,blok,35.6,1,,"ul. Legnicka, Wrocław",51.1186225,16.9983948
+923525542,3,True,3500,pozostale,61.0,3,800.0,"Plac Grunwaldzki, Wrocław",51.1123373,17.0627448
+824114837,4,True,2800,apartamentowiec,37.0,2,490.0,"ul. Długa 57, Wrocław",51.12506579999999,17.0143036
+923513878,2,True,1392,blok,10.0,4,,"ulica Kamieńska, Wrocław",51.1568406,17.0443512
+820242206,1,True,7000,kamienica,106.0,3,1100.0,"ul. Powstańców Śląskich, Wrocław",51.0893253,17.0159794
+872310341,4,False,7000,apartamentowiec,53.0,2,785.0,"Młyn Maria, Wrocław",51.1154306,17.0404643
+875186589,5,False,3200,apartamentowiec,55.0,2,,"Wrocław, ulica Długa",51.1210388,17.0132791
+923512177,4,True,2900,blok,60.0,3,800.0,"ul. Obornicka, Wrocław",51.1463535,17.0219425
+655188799,5,True,1800,kamienica,22.0,1,400.0,"ul. Nowowiejska 15, Wrocław",51.1237872,17.0476418
+923510732,1,True,1300,blok,19.0,1,400.0,"aleja Jaworowa 21, Wrocław",51.0823574,17.016028
+923508800,1,True,2100,blok,29.0,1,500.0,"ul. Prądzyńskiego, Wrocław",51.0994522,17.049623
+689910879,2,True,3900,blok,70.0,4,1150.0,"Psim Polu, Wrocław",51.1458649,17.0355841
+922333494,3,True,2700,blok,34.0,2,550.0,"ul. Długa 55h, Wrocław",51.1240526,17.0131282
+915417137,1,True,2800,blok,43.0,2,600.0,"ul. Obornicka, Różanka, Wrocław",51.1463535,17.0219425
+761475580,2,True,2500,apartamentowiec,28.0,2,550.0,"ul. Kręta 21, Wrocław, Nadodrze",51.1239348,17.0402451
+923506711,1,True,2000,blok,40.0,2,600.0,"ul. Gajowicka 80, Krzyki, Wrocław",51.0955112,17.0123087
+923504033,1,True,2200,blok,36.0,1,280.0,"ul. M. Mochnackiego, Karłowice, Wrocław",51.1416749,17.0385651
+923498905,2,True,2800,kamienica,49.0,2,700.0,"ul. Gajowicka, Wrocław",51.0900196,17.0074738
+923498986,2,True,2900,kamienica,50.0,2,700.0,"ul. Odrzańska, Wrocław",51.1121967,17.0313108
+909740517,2,True,2900,apartamentowiec,35.0,2,580.0,"ul. Długa, Wrocław",51.1210388,17.0132791
+923495977,0,True,2800,blok,39.4,2,700.0,"ul. Śliwowa, Stabłowice, Wrocław",51.15955049999999,16.9003899
+923496045,1,True,2500,blok,58.0,2,900.0,"okolice placu Kromera, Wrocław",51.1323486,17.0661807
+921444101,3,True,4500,apartamentowiec,45.0,2,,"ul. Krucza 64, Wrocław",51.0933545,17.0096418
+923493401,1,True,2300,blok,32.52,2,600.0,"ul. Górnicza 57, Wrocław",51.1373389,16.9582174
+816993440,0,True,2200,blok,45.0,2,800.0,"Wrocław, Grabiszyńska",51.0981666,16.9949737
+923489155,3,True,2200,blok,42.0,2,400.0,"ul. Zielna, Wrocław",51.1440215,17.1145517
+909591362,0,True,2700,apartamentowiec,50.0,2,690.0,"Wrocław, osiedle Różanka",51.1387942,17.030374
+653555757,6,True,2450,apartamentowiec,40.0,2,700.0,"ul. Jesionowa, Wrocław",51.0872176,17.0513668
+923487206,0,True,2300,blok,17.0,1,,"ulica Adama Jerzego Czartoryskiego, Wrocław",51.1544364,17.0453384
+923484855,3,True,3000,blok,40.0,2,1.0,"ul. Drabika, Wrocław",51.0586353,17.0527136
+768816312,1,True,2099,wolnostojacy,32.0,1,550.0,"ulica Twardogórska, osiedle Poświętne, Wrocław",51.1534106,17.0405469
+923483471,4,True,3000,pozostale,55.0,2,700.0,"ul. Dobra, Wrocław",51.1119523,17.0157999
+923482377,0,True,2500,blok,32.0,2,500.0,"osiedle Stabłowice, Wrocław",51.15955049999999,16.9003899
+923481132,3,True,850,blok,12.0,4,,"Wrocław, ul. Obrońców Poczty Gdańskiej 5",51.0576395,17.0126834
+887478708,2,True,2800,blok,38.0,2,420.0,"ul. A. Vespucciego 13/28, Wrocław",51.1081984,17.1246435
+801199759,5,True,2800,blok,50.0,2,400.0,"pl. Grunwaldzki, Wrocław",51.1123373,17.0627448
+644629349,0,True,2300,kamienica,45.0,2,1111.0,"Wrocław, Pawłowice Dz. Psie-pole",51.1690535,17.0998527
+918864855,3,True,4750,blok,70.0,3,850.0,"ul. Niedzwiedzia, Wrocław",51.123493,16.9960705
+815546358,1,True,4000,wolnostojacy,100.0,3,1.0,"ul. Boguszowska, Stabłowice, Wrocław",51.1471886,16.8910355
+918972383,2,True,1900,blok,27.0,1,600.0,"ul. Kłodzka, Wrocław",51.0730328,17.0457849
+697518600,1,True,3199,blok,53.0,2,,"Krzyki, Jagodno, Wrocław",51.0537263,17.0578121
+920106212,3,True,1950,kamienica,37.0,1,,"ul. Reja, Wrocław",51.1170424,17.0582592
+802460929,0,True,3300,blok,51.0,3,550.0,"ul. Drabika, Wrocław",51.0586353,17.0527136
+923457246,4,True,2200,kamienica,31.0,1,,"ul. Łęczycka, Szczepin, Wrocław",51.1197307,17.0123315
+805296156,2,True,9500,apartamentowiec,101.0,4,1300.0,"osiedle Centauris, Wrocław",51.0809473,17.0254307
+692957878,1,True,2800,apartamentowiec,40.0,2,490.0,"ul. Osobowicka 141, Wrocław",51.14644699999999,16.9866439
+923453436,3,True,2999,apartamentowiec,39.0,2,750.0,"ul. Księcia Witolda, Wrocław",51.114873,17.0276526
+775941873,7,True,2800,blok,64.0,3,590.0,"ul. Kolista, Wrocław",51.1343603,16.9746883
+923452275,4,True,1700,blok,24.0,1,400.0,"ul. Bolesławiecka, Legnicka, Wrocław",51.11463639999999,17.0027757
+888299272,1,True,7000,kamienica,106.0,3,,"Wrocław, ulica Powstańców Śląskich",51.0893253,17.0159794
+919863594,5,True,2299,blok,40.0,2,699.0,"ul. Poleska 41, Wrocław",51.144861,17.125652
+923450354,0,True,2600,blok,40.0,2,850.0,"ul. Borowska, Wrocław",51.0849051,17.0350465
+853701797,1,True,2900,blok,41.0,2,450.0,"ul. Buforowa, Jagodno, Wrocław",51.0568477,17.0570209
+920652705,2,True,2850,kamienica,41.5,2,265.0,"ul. Wyszyńskiego, Ołbin, Wrocław",51.1219598,17.0523022
+682201436,1,True,2300,apartamentowiec,32.0,2,,"ulica Krzysztofa Komedy, Jagodno, Wrocław",51.053753,17.0546358
+923439548,3,True,2800,blok,38.0,2,400.0,"ul. Jamesa Cooka, Olimpia Port, Wrocław",51.1115526,17.1227615
+919557345,17,True,2400,blok,26.0,1,350.0,"ul. Jaworska, Wrocław",51.1152502,16.9935578
+910116162,2,True,3400,blok,60.4,3,347.0,"ul. Bednarska, Pilczyce, Wrocław",51.1349104,16.9543733
+836228557,3,True,3300,blok,50.0,3,660.0,"Wrocław, Jagodno",51.0537263,17.0578121
+918537158,0,True,2400,blok,49.9,2,,"os. Klecina, Krzyki, Wrocław",51.0613407,16.9759163
+923439020,0,True,2700,apartamentowiec,31.0,1,600.0,"ul. Walońska 7, Wrocław",51.1043336,17.0518031
+683909507,2,True,2100,blok,32.0,1,490.0,"ul. Świstackiego, Wrocław",51.0978715,17.0505148
+832078794,9,True,1800,blok,28.2,1,500.0,"ul. Kamienna, Wrocław",51.0886203,17.0330666
+923437504,9,True,2200,blok,29.0,1,420.0,"ulica Jaworska 5, Wrocław",51.1145182,16.9939925
+863508956,0,True,2200,blok,27.0,2,1.0,"ul. Kazimierza Wielkiego, Wrocław",51.1078104,17.0306317
+916858507,2,True,2900,apartamentowiec,50.0,2,683.7,"Moziężna, Wrocław",51.1011282,16.9990805
+676836039,6,True,2800,apartamentowiec,42.0,2,580.0,"ul. Nyska, Wrocław",51.0857501,17.0531068
+899662556,4,False,3800,apartamentowiec,68.0,3,780.0,"ul. Adama Jerzego Czartoryskiego, Psie Pole, Wrocław",51.1544364,17.0453384
+900345883,11,True,7300,blok,90.9,3,1200.0,"Wrocław, brak informacji",51.10929480000001,17.0386019
+899662546,4,False,2600,blok,70.0,3,1000.0,"Wrocław, Gądów Mały",51.124094,16.9688052
+897085195,2,True,8000,blok,108.0,4,1500.0,"Wrocław, ul. Hallera",51.0901584,16.9950803
+903778033,2,False,3000,apartamentowiec,49.3,2,600.0,"ul. Księcia Ziemowita, Wrocław",51.1112649,17.0165425
+903778049,5,False,6800,apartamentowiec,73.0,3,1300.0,"Wrocław, Jana Pawła Street",51.10929480000001,17.0386019
+903778027,2,False,4500,apartamentowiec,56.0,3,600.0,"bulwar nadrzeczny z Mariną, Wrocław",51.10929480000001,17.0386019
+902430355,5,False,8000,apartamentowiec,68.0,3,850.0,"ulica Księcia Witolda, Wrocław",51.114873,17.0276526
+903778023,1,False,6900,apartamentowiec,80.0,4,1025.0,"ul. Michalczyka, Wrocław",51.120627,17.0180598
+902159950,1,False,4500,blok,78.0,4,680.0,"ul. Gałczyńskiego, Wojszyce, Wrocław",51.055005,17.0312172
+894262220,1,True,6500,apartamentowiec,67.7,3,1500.0,"Wybrzeże Wyspiańskiego, Wrocław",51.1071437,17.0610568
+923397742,0,True,3750,apartamentowiec,51.0,2,680.0,"ul. Bylinowa 1, Wrocław",51.143882,17.1139641
+889604871,1,True,6900,kamienica,148.97,4,736.0,"blisko Placu Grunwaldzkiego, centrum, Wrocław",51.1123373,17.0627448
+898948623,5,True,3200,blok,57.0,3,1000.0,"ul. Grabiszyńska, Wrocław",51.0981666,16.9949737
+895739409,0,False,5000,apartamentowiec,81.9,3,800.0,"osiedle Borek, Wrocław",51.0764359,17.0080559
+892464925,3,False,1900,blok,19.0,1,300.0,"Stare Miasto, Wrocław",51.1087443,17.0143368
+923419035,5,True,2500,blok,38.0,1,400.0,"ul. Ślężna 116F, Wrocław",51.0815116,17.0246105
+923418018,4,True,3200,blok,48.5,3,1000.0,"ul. Wesoła, dzielnica Krzyki, Wrocław",51.091017,17.0377269
+918379296,2,True,3900,blok,60.0,3,600.0,"ul. Piękna 58C, Krzyki, Wrocław",51.0870125,17.0602124
+879861909,8,True,3200,apartamentowiec,40.0,2,600.0,"ul. Braniborska 10, Wrocław",51.1101816,17.0128206
+923416461,4,True,2890,blok,55.12,3,800.0,"Lipa Piotrowska, Wrocław",51.1756961,16.9932025
+760994313,2,True,2500,apartamentowiec,36.0,1,450.0,"ul. Drabika, Jagodno, Wrocław",51.0586353,17.0527136
+921658465,3,True,2850,apartamentowiec,45.0,2,550.0,"ulica Przedmiejska 4, Wrocław",51.1204634,16.9981306
+923411218,,True,2300,wolnostojacy,60.0,2,,"Wrocław, ulica Braniewskiego, Maślice",51.1483275,16.9387257
+914010452,0,True,2000,blok,20.0,1,287.0,"Wrocław, ul. Jemiołowa",51.0970202,17.0093461
+923409320,2,True,1590,kamienica,38.0,2,1590.0,"ul. Leopolda Staffa, Karłowice, Wrocław",51.1397908,17.058741
+918363922,0,True,2600,blok,50.0,2,850.0,"ul. Obornicka 77, Wrocław",51.1400424,17.0282164
+665403683,1,True,1350,blok,49.0,3,1.0,"ul. Dożynkowa 8b, Wrocław",51.06540640000001,16.9843966
+923402953,6,True,3900,kamienica,68.0,3,,"ul. Pułaskiego/Kościuszki, Wrocław",51.09981149999999,17.0454363
+758407773,1,True,2100,apartamentowiec,30.0,1,400.0,"ul. Reja, Wrocław",51.1170424,17.0582592
+923398802,1,True,2400,apartamentowiec,26.0,1,380.0,"Rynek, Wrocław",51.1106992,17.0323662
+923397998,2,True,3000,blok,52.0,3,1000.0,"ul. Bajana, Wrocław",51.1275146,16.962767
+923397219,1,True,2400,blok,33.0,1,590.0,"ul. Motylkowa, Ołtaszyn, Wrocław",51.0655526,17.0261981
+923396131,0,False,3500,wolnostojacy,80.0,3,1200.0,"ul. Moniuszki, Wrocław",51.1194922,17.0857039
+923394140,2,True,2700,apartamentowiec,35.0,2,500.0,"ul. Braniborska 65, Wrocław",51.112227,17.007398
+920272476,4,True,2800,blok,38.0,2,488.0,"ul. Słonimskiego 28, Wrocław",51.1321405,17.0447969
+921019330,0,True,2500,blok,30.0,1,400.0,"ul. Lipa Piotrowska, Wrocław",51.1756961,16.9932025
+848385025,0,True,3100,blok,54.0,2,500.0,"Wrocław, ul. Czartoryskiego",51.1540665,17.0471914
+923392209,5,True,2500,blok,53.0,2,900.0,"ul. Powstańców Śląskich, Wrocław",51.0893253,17.0159794
+923390145,1,True,2100,apartamentowiec,37.0,2,2100.0,"ul. Rogowska, Wrocław",51.1136776,16.9489519
+664610742,1,True,1700,kamienica,16.0,1,300.0,"ul. Miernicza, Wrocław",51.1020935,17.0492722
+923385855,2,True,2600,apartamentowiec,55.0,2,750.0,"ul. Czysta 2, Wrocław",51.1026963,17.0346028
+842134537,1,True,2800,apartamentowiec,39.12,2,550.0,"Osiedle Zielone Bulwary, dzielnica Krzyki, Wrocław",51.0668315,16.9899136
+878791995,2,True,2900,apartamentowiec,47.0,2,480.0,"ul. Maczka, Wrocław",51.0564743,17.0095061
+758965426,3,True,2700,kamienica,45.0,2,500.0,"Nadodrze, Wrocław",51.1213363,17.0322687
+918743436,8,True,2500,blok,33.0,2,550.0,"ul. Popowicka, Wrocław",51.1276477,16.9897248
+922105571,6,True,2400,blok,35.0,2,500.0,"ul. Balonowa, Wrocław",51.1220574,16.9649683
+923376090,1,True,1900,wolnostojacy,24.0,1,1.0,"ul. Białoruska, Muchobór Mały, Wrocław",51.1124712,16.9672573
+920271024,2,True,2650,blok,48.0,2,480.0,"ul. Kajdasza, Wrocław",51.053753,17.0546358
+920145571,6,True,2800,blok,45.0,2,750.0,"Wrocław, ul. Stacha Świstackiego",51.0978715,17.0505148
+923375938,0,True,2500,blok,33.0,1,500.0,"ulica Zefirowa, Wrocław-Krzyki",51.0752305,16.9930494
+918919344,3,True,2400,blok,50.0,3,,"ul. Sokola, Wrocław",51.0827588,17.0071892
+792025175,1,True,2700,apartamentowiec,40.0,2,500.0,"ul. Inżynierska, Wrocław",51.0950482,16.9890845
+895242978,1,True,3000,apartamentowiec,50.0,3,850.0,"ul. Mglista, Wrocław",51.0699608,16.9950241
+627991073,2,True,2000,blok,41.0,1,540.0,"ul. Główna, Wrocław",51.1617184,16.9020774
+921617363,1,True,2500,blok,39.0,2,770.0,"Wrocław, Krakowska 88",51.0909044,17.0649137
+777734734,4,True,2600,kamienica,35.0,2,,"Wrocław, ul. Żeromskiego",51.1233992,17.0488142
+663807317,-1,True,1300,wolnostojacy,22.0,1,1.0,"dzielnica Krzyki, Wrocław",51.0785518,17.0531945
+923368322,1,True,2300,blok,36.2,1,700.0,"ulica Łąka Mazurska, Wrocław",51.131234,17.0645654
+923367234,3,True,3000,apartamentowiec,45.0,2,615.0,"pl. Powstańców Śląskich, Wrocław",51.0894903,17.0155834
+920128944,3,True,3000,blok,58.0,3,950.0,"Białowieska, Wrocław",51.1269867,16.9935394
+923365553,3,True,3100,kamienica,28.0,1,,"ul. Marii Curie Skłodowskiej, Wrocław",51.1104474,17.0629107
+887816553,3,True,2850,blok,40.0,2,700.0,"Ogrody Hallera, Wrocław",51.0897048,16.995012
+923358551,3,True,2700,apartamentowiec,31.0,1,,"ul. Otyńska 4, Wrocław",51.1121777,16.9774445
+923358598,4,True,3200,apartamentowiec,41.0,2,,"ul. Otyńska 4, Wrocław",51.1121777,16.9774445
+916641956,3,True,3600,blok,54.0,3,850.0,"ul. Sanocka, Wrocław",51.0941411,17.0285803
+923351224,3,True,2600,blok,39.0,2,400.0,"ul. Syryjska, Wrocław Brochów",51.0489049,17.0863514
+846849613,3,True,2000,blok,30.0,1,350.0,"ul. Srebrnogórska, Wrocław",51.0720978,17.0472964
+923349829,-1,True,2500,kamienica,32.0,1,2508.0,"ul. Haukego Bossaka, Wrocław",51.1043163,17.0470557
+922071812,1,True,2200,apartamentowiec,28.0,1,400.0,"Wrocław, brak informacji",51.10929480000001,17.0386019
+779844162,11,True,4500,apartamentowiec,48.0,2,800.0,"ul. Sikorskiego 3, Wrocław",51.1135621,17.0223337
+923345740,1,True,3000,pozostale,31.5,1,3000.0,"ul. Gen. R. Traugutta 74, Wrocław",51.103005,17.0511274
+918472357,2,True,1750,apartamentowiec,32.0,1,200.0,Wrocław Krzyki / Gaj,51.0756442,17.0411497
+923342373,2,True,3200,blok,41.0,2,560.0,"Wrocław, ul. Madalińskiego 89",51.09728459999999,17.0477031
+702640259,2,True,2400,blok,30.0,1,550.0,"Wrocław, Piękna 21 (okolice Armii Krajowej)",51.08470939999999,17.0526507
+778789985,2,True,1750,apartamentowiec,32.0,1,411.0,Wrocław Krzyki / Gaj,51.0756442,17.0411497
+923339230,8,True,2600,blok,39.0,2,600.0,"Wrocław, ul. Chociebuska 11",51.1162386,16.9594185
+715422196,8,True,4200,apartamentowiec,60.0,3,950.0,"ul. Mieszczańska, Kępa Mieszczańska, Wrocław",51.118262,17.0227547
+923336534,2,False,3000,apartamentowiec,41.0,3,630.0,"ul. Kościuszki 85, Wrocław",51.100966,17.040438
+849887770,1,True,1900,blok,20.0,1,400.0,"ul. Dębowa, dzielnica Krzyki, Wrocław",51.0807398,17.0168843
+923333811,2,True,2800,blok,38.0,2,,"ul. Dobra, Wrocław",51.1119523,17.0157999
+923333892,2,True,2100,blok,37.0,1,680.0,"Wrocław, ul. Stanisława Więckowskiego",51.0983457,17.0528855
+922864491,6,True,3000,blok,38.0,2,470.0,"Wrocław, Braniborska",51.1113441,17.011501
+759937615,0,True,2300,apartamentowiec,38.0,2,350.0,"ul. Magellana, dzielnica Swojczyce, Sępolno, osiedle „OLIMPIA PORT”, Wrocław",51.1080601,17.1217119
+923328581,4,True,4500,apartamentowiec,52.0,3,600.0,"ul. Kościuszki, Wrocław",51.1008268,17.0418116
+923325341,2,True,2600,blok,48.0,2,800.0,"Plac Srebrny, Wrocław",51.0979263,16.9959512
+923324545,3,True,2700,blok,51.0,2,580.0,"ul. Krzycka, Wrocław",51.0705712,16.9987437
+923322944,3,True,2800,blok,45.0,2,,"ul. Ryszarda Wagnera, Wrocław",51.0527444,17.0609334
+904221493,7,True,3000,blok,45.0,2,700.0,"ul. Dmowskiego 19, Kępa Mieszczańska, Wrocław",51.1183951,17.0192721
+923317806,1,True,2100,blok,36.0,2,650.0,"ul. Skwierzyńska, Krzyki, Wrocław",51.0985865,17.0147797
+923317947,3,True,4100,blok,61.0,3,900.0,"ul. Skarbowców, Wrocław",51.0742075,16.995378
+916446204,2,True,2300,apartamentowiec,25.0,1,500.0,"ul. Kościuszki 51B, Wrocław",51.1015588,17.0351407
+923316497,1,True,3400,kamienica,42.0,1,650.0,"ulica Świętego Antoniego, Wrocław",51.1092344,17.0251985
+909051210,1,True,5500,apartamentowiec,75.0,3,1000.0,"Ogrody Hallera, Wrocław",51.0897048,16.995012
+923314588,1,True,2400,blok,29.0,1,700.0,"ul. Romana Dmowskiego, Wrocław",51.1169476,17.0215822
+876019326,3,True,2700,apartamentowiec,52.0,2,1100.0,"ul. Jagiełły 3, Wrocław",51.1159082,17.025304
+919559440,1,True,3000,kamienica,58.0,2,400.0,"ul. Św. Wincentego, Wrocław",51.1227892,17.0345733
+904467159,3,True,2500,blok,30.0,2,590.0,"ulica Opoczyńska, Wrocław Złotniki",51.1423965,16.8929679
+923310445,1,True,2650,blok,54.0,2,356.0,"ul. Iwaszkiewicza, Wrocław",51.0559995,17.0361725
+923310592,1,True,2600,pozostale,34.62,2,914.0,"Plac Biskupa Nankiera, Wrocław",51.1124888,17.0378732
+923310614,0,False,2850,pozostale,49.0,2,300.0,"Pułaskiego 18, Wrocław",51.101259,17.046306
+838741377,1,True,2700,apartamentowiec,40.0,2,550.0,"ul. Tęczowa, Wrocław",51.1049417,17.0118099
+916003125,7,False,2400,blok,54.0,2,780.0,"ul. Spiżowa, Wrocław",51.1014705,17.0014367
+923306462,1,True,1330,blok,60.0,3,1330.0,"Wrocław, ul. Zakładowa, Promenady Wrocławskie",51.1305817,17.0444211
+923306207,4,True,2300,blok,48.0,2,600.0,"ulica Hermanowska, Kuźniki, Wrocław",51.1234712,16.9515834
+923310626,4,True,2800,blok,54.0,3,809.0,"ul. Jugosłowiańska, Wrocław",51.1364129,17.022942
+918296041,4,True,2600,apartamentowiec,38.0,2,,"Wrocław, Ulica Miedziana 54",51.1002308,16.9984475
+923304383,2,True,1949,blok,45.0,2,751.0,"ul. Vivaldiego, Krzyki, Wrocław",51.0521649,17.0626071
+916049283,3,True,2500,pozostale,50.0,2,500.0,"ul. Motylkowa, Ołtaszyn, Wrocław",51.0655526,17.0261981
+894912243,1,True,2500,apartamentowiec,37.0,2,650.0,"ul. Zyndrama z Maszkowic 20, boczna Księcia Witolda, Kępa Mieszczańska, Nadodrze - Wrocław",51.11631,17.0262662
+865603035,8,True,1800,blok,24.0,1,370.0,"ul. Gajowicka, Krzyki, Wrocław",51.0900196,17.0074738
+816480588,2,True,2500,pozostale,58.0,2,500.0,"ul. Poranna, Wrocław",51.0736912,16.9934055
+860198386,2,True,2300,pozostale,50.0,2,500.0,"ul. Zielińskiego, Wrocław Krzyki",51.0986261,17.0208136
+914458507,2,True,2300,pozostale,29.21,1,550.0,"ul. Bierutowska, Wrocław",51.1540364,17.1367024
+915189207,1,True,2000,pozostale,26.0,1,,"ul. Jagiełły, Wrocław",51.1163506,17.0251101
+916056529,1,True,2300,apartamentowiec,40.0,2,,"ul. Kamieńskiego, Wrocław Polanowice",51.1641115,17.0475312
+923297130,5,True,2900,blok,34.0,2,,"ul.Gajowicka, Wrocław-Krzyki, Wrocław",51.0900196,17.0074738
+859912424,2,True,3500,blok,47.0,2,300.0,"Psim Polu, Wrocław",51.1458649,17.0355841
+923299494,3,True,2950,apartamentowiec,43.54,2,650.0,"ul. Skarbowców, Krzyki, Wrocław",51.0742075,16.995378
+923296125,1,False,1625,kamienica,20.0,1,,"ul. Karola Miarki 4 lok. III, Wrocław",51.12595210000001,17.0518658
+847284792,3,True,3200,kamienica,65.0,3,1000.0,"ul. Poniatowskiego, Śródmieście, Wrocław",51.1213205,17.0433971
+923299357,0,True,3200,blok,57.0,3,680.0,"Wrocław, ul. Gazowa",51.0781465,17.0667095
+923292047,3,True,1790,pozostale,36.0,2,,Wrocław Kozanów,51.1388553,16.9780266
+923291236,1,True,1800,pozostale,18.0,1,,"Plac Grunwaldzki, Wrocław",51.1123373,17.0627448
+923297688,4,True,1800,pozostale,18.0,1,,"ul. Dyrekcyjna 1, Wrocław",51.0948018,17.0333288
+923292050,6,True,2200,blok,40.0,2,500.0,"ul. Tadeusza Zielińskiego, Wrocław",51.0986261,17.0208136
+923291271,1,True,2500,pozostale,64.0,2,,"Parkowa, Grabiszyn, Wrocław",51.0900855,17.0072564
+923292068,2,True,3100,pozostale,72.0,3,,"ul. Zwycięska, Krzyki, Wrocław",51.0596713,17.0056292
+923292062,1,True,2000,pozostale,27.0,1,370.0,"ulica Wojciecha Gersona, Wrocław",51.1022953,17.1121392
+688145118,3,True,2200,pozostale,44.0,2,350.0,"Krzyki, Wrocław",51.0785518,17.0531945
+681990387,2,True,2450,blok,42.0,2,550.0,"ul. Komandorska, Krzyki, Wrocław",51.0949817,17.0271255
+923287263,6,True,5000,apartamentowiec,65.0,3,850.0,"ATAL TOWERS, Wrocław",51.1136742,17.0220496
+907364322,3,True,2900,kamienica,47.0,2,485.0,"Wrocław, ul. Ludwika Rydygiera",51.1200489,17.0324275
+923286564,0,True,2500,blok,40.0,2,650.0,"Wrocław, ul. Żegiestowska",51.0825957,17.0377429
+923292106,2,True,2900,apartamentowiec,35.0,2,,"ul. Sikorskiego, Wrocław",51.1140157,17.0203615
+923299634,1,True,2749,blok,39.0,2,680.0,"ul. Nyska, Wrocław",51.0857501,17.0531068
+923292066,5,True,2100,blok,38.0,1,,"ul. Zaporoska, Krzyki, Wrocław",51.0967935,17.0145424
+923281556,2,True,2300,kamienica,29.0,1,300.0,"ul. Zwycieska, Krzyki, Wrocław",51.0596713,17.0056292
+916692296,6,True,2700,apartamentowiec,50.0,2,750.0,"ul. Białowieska Pixel House, Wrocław",51.1222593,16.9930529
+923276608,2,True,5500,apartamentowiec,71.0,2,,"ul. Księcia Witolda, Wrocław",51.114873,17.0276526
+923275987,9,True,2500,blok,46.0,2,600.0,"Osiedle Nowy Dwór, Wrocław",51.1165253,16.9514112
+916664660,4,True,2750,blok,48.0,2,750.0,"Wrocław, ul. Tęczowa",51.1049417,17.0118099
+916644371,2,True,2300,kamienica,62.0,2,350.0,"pl. Grunwaldzki, Wrocław",51.1123373,17.0627448
+923265520,0,True,3000,apartamentowiec,46.0,2,500.0,"ul. Długa, Wrocław",51.1210388,17.0132791
+910004898,0,True,3000,blok,53.0,2,900.0,"osiedle Złota Podkowa, Krzyki, Partynice, Wrocław",51.0606229,17.0046108
+923262809,1,True,4400,apartamentowiec,73.0,3,680.0,"ul. Heinricha Lautersbacha, Wrocław",51.1374886,16.9261438
+802460946,1,True,1950,blok,27.0,1,400.0,"ul. Drabika, Wrocław",51.0586353,17.0527136
+923259241,1,True,4500,blok,50.0,2,,"ul. Czartoryskiego, Wrocław",51.1540665,17.0471914
+923258566,3,True,4000,apartamentowiec,60.0,3,750.0,"ul. Księcia Witolda, Wrocław",51.114873,17.0276526
+675842221,2,True,2200,blok,30.0,1,500.0,"ul. Ulanowskiego (boczna ul. Powstańców Śląskich), Wrocław",51.0827588,17.0071892
+923256409,5,True,3290,blok,30.0,1,,"ul. Zakładowa, Wrocław",51.1299218,17.0416497
+900567780,1,True,2200,kamienica,22.0,1,400.0,"ul. Jedności Narodowej, Ołbin, Wrocław",51.1259332,17.0467443
+909804666,4,True,2900,kamienica,45.0,2,240.0,"Wrocław, ul. Kościuszki we Wrocławiu",51.1008268,17.0418116
+902292540,4,True,3945,blok,53.5,3,770.0,"ul. Braniborska 44, Wrocław",51.1109811,17.0118886
+923253315,4,True,2599,kamienica,57.0,2,285.0,"ul. Kleczkowska, Wrocław",51.1271107,17.0246632
+923253418,2,True,3690,blok,54.75,3,740.0,"Wrocław, ulica Grabiszyńska 141",51.0996597,17.0004846
+903079394,4,False,3675,apartamentowiec,62.94,3,623.0,"ul. Dąbrowskiego, Wrocław",51.1009821,17.041901
+923252531,1,True,2700,blok,45.0,2,650.0,"ul. Stanisława Drabika, Jagodno, Wrocław",51.0586353,17.0527136
+923249539,2,True,3600,apartamentowiec,48.0,2,1000.0,"Na Grobli 24, centrum, Wrocław",51.1044476,17.0631737
+718512505,5,True,2700,kamienica,47.0,1,1.0,"ul. Szczytnicka, Wrocław",51.1134593,17.0533614
+913889007,3,True,2200,blok,55.0,2,750.0,"ul. Vivaldiego 27, Jagodno, Wrocław",51.0506085,17.0641743
+797132920,5,True,2400,blok,42.0,2,2400.0,"ulica Borowska, Wrocław",51.0849051,17.0350465
+923245802,5,True,4900,apartamentowiec,63.0,3,927.0,"Wrocław, ul. Stawowa",51.1006451,17.0341143
+923245954,1,False,3200,kamienica,59.37,2,800.0,"Centrum, Wrocław",51.1365437,17.0803563
+923244950,1,True,2299,blok,34.0,1,450.0,"ul. Cynamonowa 13, Lipa Piotrowska, Wrocław",51.1761851,16.9975184
+849278588,1,True,4570,apartamentowiec,53.5,3,675.0,"Aleje Dębowe, Wrocław",51.0807398,17.0168843
+923242998,3,True,3500,blok,68.0,4,650.0,"Wrocław, ul. Krucza",51.0934661,17.0064997
+910572875,1,False,2150,blok,50.0,2,550.0,"Psie Pole, Wrocław",51.1458649,17.0355841
+923237788,9,True,2900,apartamentowiec,36.0,2,400.0,"Wrocław, Promenady Wrocławskie",51.1298024,17.0439848
+822967760,0,True,2115,blok,29.0,1,725.0,"ul. Rakietowa 4b, Smolec, Muchobór, Wrocław",51.0979476,16.939465
+923237984,1,True,2900,blok,40.0,1,400.0,"ul. Psie Budy 18, Wrocław",51.10919639999999,17.0277762
+841063322,1,True,2000,apartamentowiec,29.0,1,700.0,"ul. Strońska, Wrocław",51.0742377,17.0415684
+923236371,0,True,3200,kamienica,50.0,2,400.0,"ul. Białoskórnicza 24, Wrocław",51.112493,17.0281128
+923234421,1,True,2100,blok,40.0,2,1000.0,"ul. Trawowa, Muchobór Wielki, Wrocław",51.1000953,16.9517193
+923231077,0,True,2600,blok,31.0,1,670.0,"ul. Mączna, Wrocław",51.1417997,16.9529442
+916440939,3,True,4800,kamienica,71.0,3,1200.0,"ul. Oławska, Wrocław",51.1079973,17.0373233
+923213011,4,True,2250,blok,36.0,2,500.0,"ul. Czartoryskiego, Wrocław",51.1540665,17.0471914
+923211990,1,True,3200,apartamentowiec,49.0,2,800.0,"Wrocław, Ul. Żwirki i Wigury, Muchobór Wielki",51.0975043,16.9349861
+923210356,3,True,2300,apartamentowiec,53.0,2,,"Białowieska 20A, 54-234, Wrocław",51.1236627,16.9905097
+882520606,10,True,2900,blok,53.0,3,900.0,"ulica Oficerska, Wrocław",51.0920493,17.0104232
+923210251,4,True,3200,apartamentowiec,42.0,2,800.0,"ul. Traugutta, Wrocław",51.1030078,17.0505486
+917267191,1,True,4699,blok,49.5,2,750.0,"Michalczyka, Wrocław",51.120627,17.0180598
+922703933,9,True,2350,pozostale,16.0,1,2350.0,"ul. Robotnicza 96, Wrocław",51.1126145,16.9953581
+751816780,1,True,2100,kamienica,37.0,1,280.0,"Wrocław, ul. Reja",51.1170424,17.0582592
+923172934,9,True,2650,apartamentowiec,26.0,1,,"ul. Jaworska 6, Wrocław",51.115153,16.9931037
+821998144,3,True,2500,blok,50.0,2,750.0,"Wrocław, Plac Kromera",51.1323486,17.0661807
+923198914,2,True,3400,apartamentowiec,54.0,3,780.0,"ul. Kajdasza 6, Wrocław",51.0550917,17.056889
+923197873,2,True,2300,blok,40.0,2,340.0,"Psie Pole-Kurlandzka, Wrocław",51.1392371,17.1362416
+846290090,,True,2700,apartamentowiec,43.0,2,99.0,"ul. Kościuszki i Pułaskiego (Nowa Manufaktura), Wrocław",51.099938,17.0461125
+923190618,1,True,4250,apartamentowiec,70.0,4,,"ul. Kwidzyńska, Kowale, Wrocław",51.1308267,17.0940181
+923188146,0,True,3200,blok,41.0,2,650.0,"ul. Międzyleska, Wrocław",51.0799186,17.0700693
+749418576,3,True,2100,kamienica,42.0,2,500.0,"ulica Chinska, Wrocław, Brochów",51.0597927,17.0846298
+923184191,3,True,4000,apartamentowiec,60.0,3,750.0,"ul. Księcia Witolda, Wrocław",51.114873,17.0276526
+916454765,1,True,2450,apartamentowiec,35.0,1,400.0,"ul. Nyska (Nyska/Armii Krajowej), Wrocław",51.0830109,17.0535791
+923179059,2,True,2200,blok,44.0,2,500.0,"Wrocław, ul. Sąsiedzka",51.0656791,16.9932737
+784704727,1,True,1800,apartamentowiec,25.0,1,650.0,"Psie Pole, Wrocław",51.1458649,17.0355841
+923173689,1,True,4100,blok,56.0,3,,"Wrocław, ul. Piękna 23",51.0847572,17.0540549
+923173400,2,True,3500,blok,56.0,3,1200.0,"ul. Ścinawska 14, Szczepin, Wrocław",51.1177986,17.0112678
+915410330,1,True,1900,kamienica,43.0,2,490.0,"ul. Uniwersytecka, Wrocław",51.1130817,17.0345713
+659589740,1,True,2500,blok,40.0,2,250.0,"Osiedle na Ustroniu Swojec, Wrocław",51.1186398,17.1277209
+923168515,0,True,2100,blok,25.0,1,,"Zielone Krzyki, Wrocław",51.06827520641473,17.10328193693856
+923167275,3,True,2000,blok,28.0,1,550.0,"Wrocław, ul. Kwiska",51.1219789,16.9813014
+923167184,2,True,3100,apartamentowiec,50.0,2,700.0,"ul. Jedności Narodowej, os. Browary Wrocławskie, Wrocław",51.1296628,17.0541669
+923165668,1,True,2999,kamienica,38.0,2,350.0,"ul. Pomorska, Wrocław",51.1194662,17.0313964
+923164826,4,True,3400,blok,68.0,3,750.0,"ulica Racławicka, Wrocław Krzyki, Borek",51.0833607,17.005244
+759771960,4,True,2199,apartamentowiec,30.0,1,800.0,"Legnicka Street, Wrocław",51.1186225,16.9983948
+897268076,3,True,2450,kamienica,38.0,2,1100.0,"ul. Kazimierza Wielkiego 77, Wrocław",51.10695500000001,17.035716
+820800917,1,True,2700,blok,48.0,2,800.0,"ul. Tadeusza Kościuszki, Wrocław",51.1008268,17.0418116
+740454841,1,True,3000,blok,44.0,2,530.0,"Aleja Generała Józefa Hallera, Ogrody Grabiszyńskie, Wrocław",51.0930665,16.9802586
+923154052,4,True,1850,kamienica,14.0,1,,"ul. Lwowska, Wrocław",51.0994359,17.0108673
+923115385,3,True,1300,blok,10.0,4,,"ul. Powstańców 168, Wrocław",51.10929480000001,17.0386019
+904815243,2,True,700,blok,58.0,2,,"Wrocław, ul. Balzaka 14g",51.0747528,16.9587087
+921871033,3,True,3000,kamienica,47.0,2,455.0,"ulica Wilhelma Roentgena, Wrocław",51.1147773,17.0634795
+878559326,0,True,2600,blok,40.0,2,580.0,"ul. Gałczyńskiego, Wrocław",51.0552595,17.0305884
+826034473,1,True,3100,blok,46.0,2,816.66,"ul. Prądzyńskiego, Wrocław",51.0994522,17.049623
+794353215,0,True,2500,blok,31.0,1,460.0,"ulica Dożynkowa, Klecina, Wrocław",51.0700087,16.9834132
+921673285,1,True,2400,blok,51.4,2,900.0,"Osiedle Gądów Mały, Wrocław",51.124094,16.9688052
+912184909,7,True,2250,apartamentowiec,25.0,1,450.0,"ul. Legnicka 59, Legnicka Street, Wrocław",51.124613,16.986729
+923132366,5,False,4200,apartamentowiec,40.0,2,500.0,"Księcia Witolda, Wrocław",51.114873,17.0276526
+923131144,1,True,3200,blok,58.0,3,810.0,"ulica Stysia, Wrocław",51.1006066,17.0207802
+915449034,2,False,6000,kamienica,99.9,4,900.0,"ul. Piastowska, Wrocław",51.1153944,17.0607639
+915277269,3,False,8000,kamienica,123.32,4,500.0,"Wrocław, ulica Komuny Paryskiej we Wrocławiu",51.101719,17.046855
+914700121,1,True,4000,apartamentowiec,56.0,2,870.0,"ul. Drukarska, Wrocław",51.0899916,17.0208572
+909662020,4,False,4000,apartamentowiec,46.13,2,700.0,"ul. Księcia Witolda, Wrocław",51.114873,17.0276526
+907387035,3,False,5000,apartamentowiec,54.0,3,700.0,"Browary Wrocławskie, ul. Jedności Narodowej, Wrocław",51.1296628,17.0541669
+913738315,3,False,6990,apartamentowiec,62.31,3,800.0,"Wrocław, Księcia Witolda",51.114873,17.0276526
+907768303,2,True,3000,kamienica,44.0,2,840.0,"Wrocław, Centrum Wrocławia",51.12354740000001,17.1244131
+906252824,3,False,4200,apartamentowiec,70.0,4,800.0,"ulica Rymarska, Wrocław",51.0805753,16.9911796
+904846332,1,True,8000,apartamentowiec,95.0,3,2000.0,"ulica Saperów, Wrocław",51.085958,17.0013962
+914700099,1,True,2300,blok,50.0,2,780.0,"Boczna Legnickiej, dzielnica Stare Miasto, osiedle Szczepin, Wrocław",51.1155396,17.0156972
+914700137,2,True,2700,blok,46.36,2,652.0,"Racławicka, Wrocław",51.0808338,16.9975774
+907972643,3,True,4200,apartamentowiec,39.0,2,600.0,"Bulwar Staromiejski, Wrocław",51.1131126,17.0248671
+909185066,2,False,2890,blok,40.25,2,515.0,"Port Popowice, Wrocław",51.1295122,16.9899891
+909185047,11,False,4800,apartamentowiec,53.0,2,1700.0,"Sky Tower, Wrocław",51.0945733,17.0189505
+908146449,5,True,2999,apartamentowiec,41.0,2,600.0,"Port Popowice, Wrocław",51.1295122,16.9899891
+923131505,2,False,3000,apartamentowiec,35.0,1,400.0,"ul. Księcia Witolda, Centrum, Wrocław",51.114873,17.0276526
+923131529,3,False,5500,apartamentowiec,50.0,2,500.0,"ul. Poniatowskiego, Wrocław",51.1213205,17.0433971
+923130215,2,True,4100,blok,60.0,3,700.0,"ul. Wita Stwosza 41, Wrocław",51.1102514,17.035619
+923131514,0,False,5000,apartamentowiec,40.0,2,500.0,"Wrocław, ul. Poniatowskiego",51.1213205,17.0433971
+923129372,2,True,4900,blok,56.6,2,1000.0,"Wrocław, Walońska",51.1045762,17.0508741
+923131527,5,False,4500,blok,50.07,2,967.0,"Kępa Mieszczańska, Wrocław",51.1175001,17.0219599
+923128008,10,True,3500,blok,54.0,3,914.0,"Dzielnica Krzyki, osiedle Gaj, Wrocław",51.07832089999999,17.0475492
+923131530,2,False,4300,apartamentowiec,67.0,3,600.0,"ulica Kłodzka, Gaj, Wrocław",51.0730328,17.0457849
+923126298,1,True,5200,kamienica,70.0,4,1000.0,"ul. Wita Stwosza 57, Wrocław",51.1105571,17.0340351
+731601092,6,True,2500,apartamentowiec,31.0,1,500.0,"ul. Braniborska, Wrocław",51.1113441,17.011501
+923130224,0,True,2500,pozostale,49.95,1,,"al. gen. Józefa Hallera, Wrocław",51.0927769,16.9812606
+923123265,2,True,2500,apartamentowiec,25.0,1,600.0,"ul. Kurkowa, Wrocław",51.120685,17.0278604
+923122576,2,True,1500,kamienica,17.0,3,,"Świętego Antoniego 25, Wrocław",51.1097058,17.0242073
+916510399,3,True,3000,apartamentowiec,58.0,3,950.0,"ul. Włókniarzy, Wrocław",51.1654444,16.9008502
+916417052,2,True,1900,apartamentowiec,18.78,1,450.0,"ul. Zwycięska 3, Wrocław",51.0607523,17.0000236
+916474276,2,True,2150,apartamentowiec,22.7,1,500.0,"Zwycięska 3, Wrocław",51.0607523,17.0000236
+923120195,10,True,2700,blok,40.0,2,720.0,"Wrocław, ul. Młodych Techników 4",51.11371380000001,17.0117504
+916505656,5,True,1650,blok,18.0,1,400.0,"Wrocław, ul. Karola Miarki",51.1259711,17.0523309
+669573649,1,True,2400,pozostale,55.0,2,700.0,"ul. Hubska, Wrocław",51.0906746,17.0444192
+923131517,1,False,2900,blok,37.0,2,500.0,"ul. Jedności Narodowej, Wrocław",51.123858,17.0448522
+896001165,3,True,2700,kamienica,48.0,1,250.0,"Żmigrodzka 13, Wrocław",51.1350799,17.037011
+923114803,2,True,2800,blok,48.0,2,600.0,"ul. Sołtysowicka 29G, Wrocław",51.1441838,17.0739548
+923113199,3,False,2800,kamienica,56.0,2,350.0,"Wrocław, Trzebnicka",51.1259259,17.0360506
+923111246,3,True,2900,blok,48.0,3,590.0,"ul. Prądzyńskiego, Wrocław",51.0994522,17.049623
+917090938,3,True,2100,blok,52.0,2,900.0,"ulica Poleska, Wrocław",51.1441127,17.1276896
+917090114,3,True,2550,kamienica,30.0,1,500.0,"ul. Łąkowa, Wrocław",51.1042228,17.0281832
+910580370,3,True,2900,blok,50.0,3,1200.0,"ul. Jastrzębia, Wrocław",51.0848244,17.0075521
+896267174,0,True,2990,apartamentowiec,69.0,3,650.0,"ul. Szparagowa, Wrocław",51.0674652,16.9759217
+752505265,2,True,2800,apartamentowiec,41.88,2,550.0,"ul. Bacciarellego 54, Wrocław",51.1035099,17.1144874
+730862004,5,True,2990,apartamentowiec,40.0,2,650.0,"ul. Tęczowa, Wrocław",51.1049417,17.0118099
+910554849,3,True,2700,blok,50.0,2,650.0,"ulica Wojaczka, Wrocław",51.1468562,17.0707603
+923110395,3,True,4400,pozostale,82.0,4,,"ul. Czechowicka 9c, Wrocław",51.0827811,17.0843485
+923109213,1,True,2600,blok,50.0,2,500.0,"ul. Gorlicka, Wrocław",51.1441781,17.1183903
+777051668,0,False,2750,apartamentowiec,63.0,3,750.0,"ul. Centralna 18, Brochów, Wrocław",51.0610862,17.0819263
+916495914,2,True,2500,blok,57.0,2,900.0,"Wrocław, ul. Zdrowa",51.1033271,17.0112328
+923110553,3,True,3690,apartamentowiec,65.0,3,805.0,"Tarnogaj, Wrocław",51.0833068,17.0617559
+923107297,4,True,3000,blok,55.0,2,500.0,"ulica Nyska, Tarnogaj, Wrocław",51.0854501,17.0531792
+923110859,1,True,6000,apartamentowiec,65.0,3,725.0,"ul. Przystankowa, Krzyki, Wrocław",51.0695518,17.0360291
+923110860,5,False,4900,pozostale,63.0,3,927.0,"Stawowa Apartments, Wrocław",51.1006451,17.0341143
+923103214,3,True,2500,blok,46.0,2,800.0,"ul. Malachowskiego, Wrocław",51.0986663,17.0412842
+923099636,4,True,3500,apartamentowiec,71.0,3,630.0,"Ogrody Grabiszyńskie, dzielnica Fabryczna, Wrocław",51.0930665,16.9802586
+923098995,2,True,4900,blok,56.6,2,1000.0,"Angel Citi, Wrocław",51.1031303,17.0521086
+923098308,3,False,3500,kamienica,91.0,3,880.0,"ulica Gajowa, Wrocław",51.0924032,17.0405996
+923099045,3,True,2700,blok,40.0,2,600.0,"Planty Racławickie ul. Wichrowa, Wrocław",51.0783529,16.9880373
+923097504,1,True,2500,blok,49.5,2,800.0,"Wrocław, ul. Drzewieckiego (Gadów Mały)",51.1240503,16.9693329
+923096295,5,True,3200,apartamentowiec,48.0,3,940.0,"ulica Piękna, Wrocław",51.085004,17.0544712
+828517577,2,True,2590,blok,48.0,2,550.0,"ul. Drabika, Krzyki, Wrocław",51.0586353,17.0527136
+863467205,5,True,1650,apartamentowiec,12.25,1,600.0,"Wrocław, wybrzeże Ludwika Pasteura 18",51.113882,17.070474
+923090665,2,False,3300,kamienica,49.23,2,400.0,"Wrocław, Wrocławskim Rynek",51.1106992,17.0323662
+923088988,1,True,2950,apartamentowiec,63.0,2,650.0,"ul. Brylantowa 24a, Wrocław",51.0479624,17.0283961
+909304887,7,True,2400,blok,40.0,2,50.0,"oś. Gaj, Wrocław",51.07832089999999,17.0475492
+922318198,0,True,2100,blok,25.0,1,497.0,"ul. Powstańców Śląskich, Wrocław",51.0893253,17.0159794
+895558994,1,True,3500,apartamentowiec,46.0,3,500.0,"ul. Braniborska, Wrocław",51.1113441,17.011501
+922849920,1,True,2300,blok,36.0,2,450.0,"ul. Kołłątaja (Stare Miasto), Wrocław",51.1019699,17.0365226
+923086685,5,True,2600,kamienica,40.0,2,600.0,"ul. pl. Uniwersytecki, Wrocław",51.1137826,17.0344225
+923085148,3,True,2300,kamienica,25.0,1,500.0,"Wrocław, pl. Uniwersytecki",51.1137826,17.0344225
+846775591,2,True,2650,apartamentowiec,50.0,2,750.0,"ul. Mosiężna, centrum, Wrocław",51.1011282,16.9990805
+693284914,5,True,3000,apartamentowiec,46.0,2,650.0,"ul. Romana Dmowskiego, Wrocław",51.1169476,17.0215822
+841921721,5,True,3900,blok,60.0,3,900.0,"ul. Szybka 1, Wrocław",51.101656,17.0545969
+779823060,1,True,2700,blok,52.0,2,650.0,"Wrocław, ul. Piękna",51.085004,17.0544712
+910337592,0,True,3500,pozostale,92.0,3,1500.0,"Śródmieście, Wrocław",51.1132425,17.0812736
+885819190,3,True,2800,apartamentowiec,64.0,3,600.0,"ul. Pilczycka, Wrocław",51.1384231,16.9634519
+923091071,4,True,3000,blok,54.0,2,720.0,"ulica Czysta, Wrocław",51.1034226,17.0329674
+784801630,1,True,2700,blok,40.0,2,300.0,"Wrocław, ul. Idzikowskiego",51.1282644,16.9579455
+923084636,10,True,2000,blok,30.0,1,400.0,"Sky Tower, Wrocław",51.0945733,17.0189505
+811697195,1,True,2800,blok,40.5,2,550.0,"Olimpi Port, Wrocław",51.1112423,17.1237851
+910318090,1,True,3200,blok,66.0,3,1200.0,"ul. Szkocka, Wrocław",51.1091479,16.963323
+923081614,5,True,4800,apartamentowiec,100.0,4,1400.0,"ul. Pretficza 21, Krzyki, Wrocław",51.0915134,17.0096393
+922694615,2,True,2000,apartamentowiec,28.0,1,280.0,"Mieszkanie w nowym osiedlu Mała Toskania, Wrocław",51.0662137,17.0556621
+908279364,1,False,2700,apartamentowiec,45.0,2,750.0,"ulica Rybnicka, Krzyki, Wrocław",51.0807625,17.0854151
+891993451,2,True,2800,blok,36.0,2,500.0,"ul. Teatralna, Wrocław",51.1052385,17.0354027
+923075125,3,True,2000,blok,21.0,1,300.0,"Wrocław, ul. Górnicza",51.1368435,16.9577449
+839492806,2,True,2600,blok,40.0,2,495.0,"okolica osiedla Olimpia Port, Wrocław",51.1080601,17.1217119
+923074960,2,True,2300,blok,55.0,2,650.0,"ulica Poleska 37, Psie Pole, Wrocław",51.1441463,17.1256524
+834314685,2,True,3700,apartamentowiec,100.0,3,1400.0,"ul. Chabrowa, Wysoka, Wrocław",51.0476418,17.0053352
+923068255,2,True,1799,blok,21.0,1,450.0,"Wrocław, okolice RENOMY",51.1038569,17.0319662
+882453994,2,True,3200,apartamentowiec,53.0,2,700.0,"Wrocław, ul. Przyjaźni | Belvedere Park",51.068061,17.003245
+923065839,11,True,2140,blok,16.0,1,,"ul. Robotnicza 96, Wrocław",51.1126145,16.9953581
+690378048,4,True,2850,apartamentowiec,49.0,2,570.0,"Wrocław, Krakowska 37",51.0922235,17.0609927
+923065587,3,True,1700,kamienica,37.0,1,600.0,"Śródmieście, Wrocław",51.1132425,17.0812736
+923065256,2,True,2500,apartamentowiec,33.0,1,600.0,"Wrocław, ul. Poniatowskiego",51.1213205,17.0433971
+923063723,2,True,3800,apartamentowiec,58.0,2,800.0,"Wrocław, PL Jana Pawła II",51.1115591,17.0215827
+923063639,4,True,3800,blok,54.0,3,800.0,"ul. Niedźwiedzia, Wrocław",51.123493,16.9960705
+910267628,3,True,2500,kamienica,63.0,3,700.0,"ul. Nowowiejska, Plac Grunwaldzki, Wrocław",51.1205498,17.0551953
+923061470,4,True,2100,kamienica,42.0,2,530.0,"ul. Kościuszki, Wrocław",51.1008268,17.0418116
+900544538,2,True,1900,blok,30.0,1,400.0,"Wrocław, ul. Bolesława Prusa",51.1196553,17.0502771
+923058844,11,True,2300,blok,40.0,2,550.0,"Wrocław, PLAC GRUNWALDZKI 8, WROCŁAW",51.1107067,17.0559581
+923055322,4,True,1600,blok,40.0,2,,"ul. Głogowska, Wrocław",51.1174661,17.0031251
+923057365,5,True,4799,blok,101.0,4,1350.0,"Wrocław, ul. Pretficza",51.0912869,17.008992
+923056929,4,True,2800,apartamentowiec,40.0,2,700.0,"ul. Traugutta 74, Wrocław",51.103005,17.0511274
+915377932,0,True,3100,blok,50.0,3,3100.0,"ul. Potokowa, Maślice, Wrocław",51.1596001,16.940672
+923053251,10,True,2200,blok,23.0,1,450.0,"tuż obok Sky Tower, Wrocław",51.0945733,17.0189505
+923053023,4,True,2000,blok,19.0,1,500.0,"ul. Kościelna 13, Wrocław (Klecina)",51.064189,16.9805127
+923052566,2,True,5500,blok,82.0,4,1000.0,"ul. Młynarska, Nowe Miasto Różanka, Wrocław",51.1435653,17.0295326
+923052722,1,True,2100,pozostale,25.0,1,300.0,"ulica Karola Olszewskiego, Wrocław",51.1021162,17.1041692
+922823573,6,True,3110,blok,40.0,2,500.0,"Wrocław, ul. Jaworska 6",51.115153,16.9931037
+923048079,3,True,2100,blok,25.0,1,,"ulica Sudecka, Wrocław",51.0803626,17.0160158
+640965036,6,True,4600,kamienica,100.0,3,,"Wrocław, brak informacji",51.10929480000001,17.0386019
+923047064,1,True,2600,blok,42.0,2,530.0,"ul. Krzycka 92D, Krzyki, Wrocław",51.0673752,16.988663
+923046800,1,True,2300,pozostale,54.0,3,,"ulica Edwarda Dembowskiego, Wrocław",51.1063701,17.0969998
+923046938,0,True,1950,blok,35.0,1,750.0,"ul. Podwale, Wrocław",51.1053249,17.0279527
+923043923,1,True,2100,blok,19.0,1,500.0,"ul. Wałbrzyska 16A, Wrocław (Klecina)",51.06393360000001,16.9805529
+923042504,3,True,2390,blok,23.0,1,270.0,"ul. Jaworska 6, Wrocław",51.115153,16.9931037
+923040147,5,True,3390,blok,47.0,2,550.0,"Jaworska 6, Wrocław",51.115153,16.9931037
+916641106,1,True,2600,apartamentowiec,47.0,2,700.0,"ul. Vespucciego, Wrocław",51.1074362,17.1242742
+923042910,2,True,2980,blok,35.5,2,410.0,"Wrocław, ul. Jaworska 6",51.115153,16.9931037
+915791074,2,False,2700,blok,70.0,3,800.0,"ulica Alfreda Jahna, Leśnica, Wrocław",51.1620459,16.8740066
+909416638,3,True,1700,blok,28.0,1,382.0,"ul. Olszewskiego (BISKUPIN), Wrocław",51.1024371,17.102312
+633102990,1,True,1850,apartamentowiec,16.0,1,100.0,"Wrocław, Robotnicza 96",51.1126145,16.9953581
+579228661,,True,1950,pozostale,16.0,1,,"Wrocław, brak informacji o dokładnym adresie",51.10929480000001,17.0386019
+923035977,2,True,1900,blok,31.0,1,600.0,"ul. Strzegomska, Wrocław",51.1142002,16.9783235
+627286720,4,True,3990,apartamentowiec,43.0,2,900.0,"ul. Podwale 82, Wrocław",51.10815729999999,17.0426882
+923032664,0,True,2400,blok,28.0,2,800.0,"ul. Obornicka 99, Wrocław",51.1428801,17.0259078
+839551263,3,True,2350,kamienica,35.0,2,450.0,"osiedle Gaj, dzielnica Krzyki, Wrocław",51.07832089999999,17.0475492
+923031448,0,True,3000,blok,73.0,4,950.0,"Wrocław, ul. Litewska, Psie Pole",51.1425862,17.1318243
+923029063,0,True,2500,blok,48.0,2,800.0,"ul. Miłostowska, Psie Pole, Wrocław",51.1450377,17.1198708
+693744773,4,True,2780,kamienica,37.0,2,400.0,"Plac Św. Macieja, Wrocław",51.1199029,17.035325
+923026701,1,True,3100,apartamentowiec,45.0,2,600.0,"Wrocław, Brak informacji o dokładnym adresie",51.10929480000001,17.0386019
+761013343,4,True,2200,apartamentowiec,33.0,1,500.0,"Wrocław, ul. Legnicka, Pixel House",51.1222593,16.9930529
+923018443,3,True,2300,kamienica,40.0,1,600.0,"Wrocław, Kleczkowska 46",51.12681749999999,17.0284322
+899548930,2,True,2500,blok,42.0,2,600.0,"ul. Bajana, Wrocław",51.1275146,16.962767
+751193835,6,True,1900,blok,51.0,2,600.0,"ul. Szkocka, Wrocław",51.1091479,16.963323
+923016775,6,True,2600,blok,36.0,1,600.0,"ul. Bajana 51, Wrocław",51.1275146,16.962767
+923014090,1,True,2880,apartamentowiec,41.0,2,599.0,"ul. Benedykta Polaka 6, Wrocław",51.11144119999999,17.0542325
+894931423,2,True,2400,kamienica,42.0,2,470.0,"Wrocław, Uniwersytecka",51.1130817,17.0345713
+865612193,4,True,2200,kamienica,43.0,2,500.0,"RYNEK, Wrocław",51.1106992,17.0323662
+801502874,0,True,2500,blok,36.0,2,450.0,"ul. Drabika, Wrocław",51.0586353,17.0527136
+759831929,3,True,3800,kamienica,69.0,3,1200.0,"ulica Krucza, Wrocław",51.0934661,17.0064997
+811315535,2,True,2500,blok,48.0,2,1000.0,"Plac Srebrny, Wrocław",51.0979263,16.9959512
+737993844,6,True,3400,apartamentowiec,56.0,3,700.0,"Kleczkowska Reymonta, Wrocław",51.127008,17.0277826
+916220195,1,True,2000,blok,54.5,2,900.0,"ul. Balonowa, Gądów Mały, Wrocław",51.1220574,16.9649683
+921767008,0,True,950,kamienica,65.0,2,,"ul. Skłodowskiej koło mostu Zwierzynieckiego, Wrocław",51.1104807,17.0627968
+664364084,3,True,2500,apartamentowiec,55.0,2,900.0,"Ogrody Grabiszyńskie, ul. Hallera, Wrocław",51.0930665,16.9802586
+922999552,2,True,3500,blok,44.0,3,700.0,"ul. Ruska, Stare Miasto, Wrocław",51.1105189,17.0257531
+922999204,0,True,2300,blok,40.0,2,1100.0,"Osiedle Huby, Krzyki, Wrocław",51.09279309999999,17.0381323
+918371868,2,True,2650,blok,38.0,2,550.0,"ul. Pereca 30, Wrocław, Gajowice - Grabiszyńska",51.0976362,17.0065338
+922998756,2,True,4200,apartamentowiec,55.0,3,1000.0,"Polaka 10, Wrocław",51.1117492,17.0544599
+922995992,5,True,2150,blok,31.0,2,600.0,"ul. Kleczkowska, Wrocław",51.1271107,17.0246632
+784207033,0,True,2800,blok,37.0,2,580.0,"Wrocław, ul. Grabiszyńska",51.0981666,16.9949737
+922995434,9,True,2250,apartamentowiec,16.0,1,,"ul. Robotnicza 96, Wrocław",51.1126145,16.9953581
+922994940,7,True,2300,apartamentowiec,35.6,1,600.0,"ul. Legnicka 46, Wrocław",51.1158547,17.0005593
+922498022,2,True,1600,apartamentowiec,16.0,1,600.0,"ulica Ludwika Pasteura 18, Wrocław",51.113882,17.070474
+815973652,1,True,2900,apartamentowiec,52.0,2,800.0,"ul. Kłodzka, Wrocław",51.0730328,17.0457849
+877567372,8,True,2690,blok,34.0,2,650.0,"Krzyki, Wrocław",51.0785518,17.0531945
+742259289,4,True,6500,apartamentowiec,80.0,3,550.0,"Wrocław, Kępa Mieszczańska",51.1175001,17.0219599
+922988820,2,True,2300,blok,34.0,2,570.0,"Wrocław, Powstańców Śląskich",51.0893253,17.0159794
+764880859,9,True,2300,blok,27.0,1,550.0,"ul. Szkocka, Wrocław",51.1091479,16.963323
+906427772,0,True,2300,blok,36.0,1,1.0,"ulica Dworcowa, Wrocław",51.1014116,17.0396337
+900868871,3,True,3000,blok,75.0,3,900.0,"ul. Gradowa, Wrocław",51.0761464,16.9949432
+885920496,1,True,3500,blok,55.0,3,580.0,"Maślice, Wrocław",51.157561,16.9274743
+922983427,0,True,3500,blok,69.0,3,1100.0,"Wrocław, ul. Maślicka",51.1556322,16.9364771
+856703069,2,True,2900,blok,40.0,2,,"ul. Przyjaźni, Klecina, Wrocław",51.0670921,16.9964144
+922975385,10,True,2000,blok,38.0,2,500.0,"Park Zachodni, Wrocław",51.1323534,16.9696234
+851794644,0,True,3000,blok,54.0,2,800.0,"ul. Czartoryskiego, Wrocław",51.1540665,17.0471914
+686334393,0,True,2000,apartamentowiec,33.0,1,320.0,"ul. Królewiecka/Mrągowska, Maślice, Wrocław",51.1468269,16.9353341
+759589277,0,True,3300,blok,50.72,3,650.0,"Wrocław, Lipa Piotrowska",51.1756961,16.9932025
+922969312,10,True,4500,blok,54.0,3,950.0,"ul. Popowicka, Wrocław",51.1276477,16.9897248
+758571482,1,True,2500,apartamentowiec,38.0,2,750.0,"Belvedere Park, Krzyki, Wrocław",51.068061,17.003245
+922962793,2,True,2800,apartamentowiec,34.0,1,600.0,"ul. Otyńska, Wrocław",51.1125081,16.9757874
+922961378,4,True,3000,kamienica,40.0,2,3000.0,"ul. Kuznicza/Laciarska, Wrocław",51.1123394,17.0343094
+679962144,4,True,2350,kamienica,27.0,1,179.0,"Wrocław, Centrum Wrocławia",51.12354740000001,17.1244131
+781768689,3,True,1800,blok,21.0,1,350.0,"ul. Grunwaldzka, Wrocław",51.1141627,17.0632247
+922950757,8,False,3100,pozostale,41.0,2,700.0,"ul. Legnicka, Wrocław",51.1186225,16.9983948
+922944340,6,True,2600,kamienica,40.0,2,570.0,"Plac Bema, Wrocław",51.1167727,17.0420048
+922944485,1,True,2800,apartamentowiec,38.0,2,,"Wrocław, ul. Racławicka",51.0808338,16.9975774
+922945180,4,False,2600,pozostale,54.0,3,1100.0,"ul. Poniatowskiego, Wrocław",51.1213205,17.0433971
+846131463,6,True,3200,apartamentowiec,64.0,3,600.0,"ul. Wojaczka, Wrocław",51.1468562,17.0707603
+633412738,1,True,2200,blok,43.4,2,800.0,"ul. Metalowców, Wrocław-Pilczyce",51.1300386,16.9551649
+676301793,10,True,2400,blok,42.0,2,690.0,"ul. Ślężna, Wrocław",51.0839248,17.0248102
+893704480,3,True,2200,blok,22.0,1,450.0,"ul. Legnicka 57, Wrocław",51.1244418,16.9875976
+922934288,4,True,2300,blok,34.0,1,540.0,"ul. Piotra Skargi 11, Wrocław",51.1057748,17.0377625
+903448608,2,True,2000,blok,37.0,1,600.0,"ulica Jaracza, Wrocław",51.1280468,17.0570195
+922929643,3,True,2700,blok,51.0,2,650.0,"ul. Kamieńskiego, Psie Pole, Wrocław",51.1568406,17.0443512
+922924691,1,True,2500,blok,39.0,2,600.0,"ul. Rakietowa, Wrocław",51.0984249,16.9302955
+921498802,1,False,2000,blok,37.47,1,600.0,"ul. Galla Anonima 2C, Wrocław",51.1310576,17.0596634
+900416400,2,True,2400,apartamentowiec,44.0,2,700.0,"ul. Jedności Narodowej 91A, Wrocław",51.121837,17.0444104
+922923764,3,True,2800,kamienica,34.5,2,600.0,"ul. Kaszubska, Wrocław",51.1208243,17.0298581
+922922195,5,True,2100,blok,43.0,2,735.0,"ul. Poznańska, Wrocław",51.1179697,17.0079418
+900518460,5,True,2000,kamienica,38.0,1,600.0,"Wrocław, ul. Jesnosxi Narodowej/Roosevelta, centrum",51.10929480000001,17.0386019
+922918454,1,True,4000,blok,80.0,4,,ul. Bazyliowa 51-180 Wrocław,51.1746139,17.0020234
+865226306,4,True,2100,kamienica,22.0,1,1.0,"Przejście Świdnickie, Wrocław",51.107534,17.0322941
+922913687,,True,1850,blok,36.0,2,850.0,"ul. Kolista, Kozanów, Wrocław",51.1343603,16.9746883
+916309774,2,False,2200,blok,63.0,2,550.0,"ul. Opolska, Wrocław (Księże Małe)",51.0767532,17.0849629
+783455143,1,True,3600,blok,55.0,2,900.0,"ul. Racławicka, Krzyki, Wrocław",51.0808338,16.9975774
+672930066,0,True,2000,blok,31.0,1,650.0,"Rynku, Wrocław",51.1106992,17.0323662
+916216198,2,True,3000,apartamentowiec,42.0,2,706.0,"Osiedle Ogrody Hallera, Wrocław",51.0894335,16.9944335
+922907479,,True,2600,kamienica,23.0,1,,"ul. Oleśnicka 7, Wrocław",51.1211233,17.0437286
+911923397,0,True,2200,blok,50.0,2,800.0,"Wrocław, Ul. Wagnera",51.0527444,17.0609334
+922908560,0,True,3500,blok,52.0,2,1000.0,"ul. Piękna, Wrocław",51.085004,17.0544712
+921500436,3,True,2000,kamienica,37.0,1,200.0,"ul. Więckowskiego, Wrocław",51.0983457,17.0528855
+701667054,3,True,3500,blok,86.0,4,1000.0,"ul. Krzywoustego, Osiedle Piastowskie, Wrocław",51.1417153,17.0923242
+922905442,,True,2000,kamienica,50.0,2,,"ul. Niemcewicza, Wrocław",51.1212749,17.0390339
+922904930,1,True,2350,blok,48.0,2,720.0,"Maślice, ul. Paniowicka, Wrocław",51.1473072,16.9509521
+922768585,5,True,3500,blok,54.0,2,,"ul. Bujwida, Wrocław",51.1181124,17.0679049
+701048257,2,True,2100,blok,38.0,2,700.0,"ul. Spiżowa 2, Wrocław",51.1003096,17.0018584
+922902461,4,True,3390,apartamentowiec,41.0,2,550.0,"ul. Białowieska, os. Popowice Port, Wrocław",51.1295122,16.9899891
+922901367,2,True,3600,blok,65.0,3,1650.0,"ul. Piwna, Plac Grunwaldzki, Wrocław",51.1138413,17.053711
+922896685,1,True,2700,apartamentowiec,42.0,2,650.0,"Wrocław, brak informacji",51.10929480000001,17.0386019
+922895852,2,True,2500,blok,38.5,2,600.0,"ul. Zaporoska, Wrocław",51.096659,17.0145876
+886073041,3,True,2200,apartamentowiec,25.0,1,500.0,"ul. Słonimskiego, Osiedle Promenady Wrocławskie, Wrocław",51.1298024,17.0439848
+922883334,1,True,2700,blok,41.0,2,731.77,"ul. Wałbrzyska, Klecina, Wrocław",51.0639582,16.979797
+916872906,,True,2200,blok,57.0,2,800.0,"ulica Ślężna, Wrocław",51.0839248,17.0248102
+916284337,3,True,2999,kamienica,50.0,2,600.0,"ulica Henryka Brodatego, Wrocław",51.1187543,17.0334637
+641932879,2,True,2250,blok,28.5,1,450.0,"ul. Tęczowa 83a, Wrocław",51.1043758,17.0076437
+922874014,7,True,2500,blok,33.0,2,250.0,"ul. Łowiecka, Wrocław",51.1246067,17.0274152
+758391572,5,True,2400,blok,34.0,1,250.0,"Małopanewska 34, Wrocław",51.1204663,16.9853051
+922872060,6,True,3800,apartamentowiec,68.9,3,844.69,"ul. Młynarska 2F, Wrocław",51.1434748,17.0299519
+922866860,3,True,2100,kamienica,28.0,1,437.0,"Wrocław, ul. Kolejowa",51.1025044,17.0193298
+922866974,4,True,2550,kamienica,45.0,2,600.0,"ul. Roosevelta, Wrocław",51.1226798,17.0423152
+922865311,0,True,1900,blok,37.0,1,540.0,"Psie Pole, Wrocław",51.1458649,17.0355841
+922863342,2,True,5500,kamienica,50.0,2,500.0,"Bulwar Staromiejski, Wrocław",51.1131126,17.0248671
+922863803,2,True,2800,blok,40.0,2,620.0,"Wrocław, ul. Buforowa, Wroclaw",51.0566441,17.057307
+859703658,3,True,2000,blok,31.0,1,400.0,"ul. Opolska 121, Wrocław",51.0727203,17.0886522
+875836938,2,True,2100,apartamentowiec,19.0,1,1.0,"ul. Bierutowska 57 B, Wrocław",51.1504474,17.126648
+922862733,4,True,1700,blok,30.0,1,350.0,"Wrocław, Al. Wiśniowa",51.0853042,17.0185172
+921628669,2,True,1950,wolnostojacy,40.0,2,400.0,"ul. Stobrawska, Wrocław",51.1208021,16.9827247
+922857130,3,True,3414,kamienica,60.0,3,200.0,"ul. Kleczkowska, Wrocław",51.1271107,17.0246632
+922857364,2,True,2800,blok,40.0,2,620.0,"ul. Buforowa, Wrocław",51.0566441,17.057307
+922856241,5,True,2900,blok,46.0,2,670.0,"ul. Kleczkowska, Wrocław",51.1271107,17.0246632
+775930012,4,True,2800,blok,62.0,3,1100.0,"Muchobór Mały, Wrocław",51.1082587,16.9668133
+831692055,10,True,2600,blok,36.0,2,600.0,"Wrocław, Legnicka",51.1186225,16.9983948
+920653770,3,False,2800,pozostale,42.6,2,,"ul. Stońska, Wrocław",51.0742377,17.0415684
+922850839,1,True,3500,apartamentowiec,42.0,2,300.0,"ul. Gądowska, Wrocław",51.1197357,16.9817778
+922849209,4,True,3000,blok,33.0,1,500.0,"ulica Komandorska 53, Wrocław",51.0953981,17.0274414
+910285859,2,True,2500,apartamentowiec,40.0,2,500.0,"Wrocław, Sołtysowice",51.1515035,17.0749238
+922848077,3,True,2100,blok,48.0,2,950.0,"ulica Złotnicka, Maślice, Wrocław",51.1389591,16.8849429
+634639907,2,True,2800,blok,47.0,2,700.0,"Plac Legionów, Stare Miasto, Wrocław",51.104405,17.0233795
+640869098,2,True,3200,blok,54.0,2,500.0,"Wrocław, Centrum Wrocławia",51.12354740000001,17.1244131
+770463534,3,True,2600,apartamentowiec,38.0,1,500.0,"ul. Dyrekcyjna, Wrocław",51.0956604,17.0362693
+922844270,1,True,2000,blok,36.0,2,,"osiedle Marszowice, Wilkszyn, Wrocław",51.16984979999999,16.8855026
+684470317,2,True,3000,blok,62.0,3,910.0,"ul. Łączności, Wrocław Krzyki",51.0912122,17.0117819
+866452821,3,True,2600,apartamentowiec,38.0,1,500.0,"ul. Dyrekcyjna, Wrocław",51.0956604,17.0362693
+922839896,2,True,3500,apartamentowiec,50.0,2,450.0,"ul. Gwiaździsta, Wrocław",51.0968833,17.0211359
+922839275,6,True,3790,apartamentowiec,39.0,2,800.0,"Wrocław, Angel River",51.1039268,17.0518692
+922839168,0,True,2500,apartamentowiec,33.0,2,500.0,"ul. Tęczowa, Wrocław",51.1049417,17.0118099
+922837279,1,True,1900,blok,32.0,2,450.0,"ul. Obornicka, Wrocław",51.1463535,17.0219425
+922837257,2,True,2500,apartamentowiec,54.0,2,600.0,"ul. Czarnuszkowa, Wrocław",51.180563,17.0012881
+830148427,4,True,3800,apartamentowiec,65.0,3,1000.0,"plac Jana Pawła II, Wrocław",51.1115591,17.0215827
+922836421,3,True,2999,apartamentowiec,55.0,2,700.0,"Wrocław, ul. Piękna",51.085004,17.0544712
+922834789,1,True,3850,apartamentowiec,53.0,2,650.0,"ul. Sienkiewicza, Wrocław",51.1162931,17.0553906
+917926283,1,True,3500,kamienica,60.0,2,955.0,"rynek, Wrocław",51.1106992,17.0323662
+922834334,2,True,2200,blok,27.0,1,600.0,"ul. Tęczowa, Wrocław",51.1049417,17.0118099
+659605042,2,True,2300,blok,35.0,1,,"ul. Kościuszki, Wrocław",51.1008268,17.0418116
+904024108,0,False,2900,pozostale,39.0,2,490.0,"ul. Długa, Wrocław",51.1210388,17.0132791
+861986313,0,True,2400,kamienica,27.0,1,450.0,"ul. Kniaziewicza, Wrocław",51.101571,17.0432506
+922830880,4,True,2100,blok,21.0,1,350.0,"ul. Legnicka, Wrocław",51.1186225,16.9983948
+922830645,1,True,2800,apartamentowiec,50.0,2,714.0,"Wrocław, ul. Klimasa",51.0803191,17.0618025
+916722523,,True,5000,blok,88.0,4,1200.0,"ul. Kościuszki, Wrocław",51.1008268,17.0418116
+922829167,17,True,3000,blok,52.0,2,800.0,"Soltysowicka 21, Wrocław",51.1416269,17.0709261
+922826192,3,True,2250,kamienica,50.0,2,588.0,"Wrocław, ul. Szkolna 6c, Siechnice",51.03364999999999,17.14733
+663358891,0,True,2600,blok,69.0,2,990.0,"Wrocław, Medłów, 5 km za Oltaszynem w stronę Żurawiny",51.0533538,17.0200321
+892846523,2,True,1800,kamienica,22.0,1,200.0,"Ulica Nowowiejska / Piastowska, Wrocław",51.1170947,17.0615617
+919648185,4,True,2900,apartamentowiec,43.0,2,500.0,"ul. Białowieska, Wrocław",51.1269867,16.9935394
+922823432,3,True,1800,blok,25.0,1,350.0,"ul. Gajowa, Wrocław",51.0924032,17.0405996
+892941185,9,True,1900,blok,31.5,2,450.0,"ul. Powstańców Śląskich, Wrocław",51.0893253,17.0159794
+851070193,4,True,2600,blok,40.0,2,550.0,"Life Spot Drabika, ul. Buforowa i ul. Drabika, Wrocław",51.0583756,17.0555053
+922820885,3,True,3000,blok,48.0,2,450.0,"ul. Jodłowicka, Wrocław",51.1696053,16.8976106
+666337705,4,True,2800,blok,44.0,2,650.0,"Na Polance 16, 51-109 Wrocław",51.1332368,17.0311467
+922821092,11,True,2310,blok,26.5,1,350.0,"ul. Jaworska 6, Wrocław",51.115153,16.9931037
+922816343,3,True,2500,apartamentowiec,29.0,1,550.0,"ul. Bolesława Prusa, Lokum Vena, Wrocław",51.1193073,17.0413567
+922813627,0,True,2500,blok,49.5,2,700.0,"ul. Mosiężna 19, Wrocław",51.10096129999999,16.9984126
+823674654,2,True,3700,blok,79.0,3,620.0,"ul. Hubskiej, Wrocław",51.0906746,17.0444192
+922811469,0,True,2700,apartamentowiec,35.0,2,500.0,"Ul. Długa, osiedle LOKUM PORTO, Wrocław",51.12457449999999,17.0159927
+769361937,2,True,3200,apartamentowiec,39.0,2,600.0,"Kępa Mieszczańska, Wrocław",51.1175001,17.0219599
+804024650,6,True,2200,blok,29.0,1,500.0,"ul. Szczytnicka, Wrocław",51.1134593,17.0533614
+910228026,2,True,2600,blok,40.92,2,500.0,"ul. Turawska, Księże Małe, Wrocław",51.0730203,17.0919264
+857436361,3,True,100,apartamentowiec,75.0,3,100.0,"Park Grabiszyński, Krzyki, Wrocław",51.0878431,16.9788332
+922800929,2,True,2500,blok,47.0,2,540.0,"ul. Wietrzna, Wrocław",51.0732926,16.9947308
+922800426,4,True,1800,pozostale,18.0,1,,"ul. Dyrekcyjna 1, Wrocław",51.0948018,17.0333288
+773769989,1,True,2600,pozostale,40.0,2,700.0,"ul. Zielińskiego i Piłsudskiego, Wrocław",51.0986261,17.0208136
+922796285,9,False,2100,blok,38.0,2,460.0,"ul. Złotoryjska, okolice Legnickiej i Strzegomskiej, Wrocław",51.1142002,16.9783235
+922795776,8,True,2100,blok,21.0,1,500.0,"ul. Legnicka 33, Wrocław",51.11434999999999,17.005871
+922795421,1,True,2300,kamienica,43.0,2,809.0,"Odrzańska 9, Wrocław",51.1122643,17.0315155
+775914274,4,True,2000,blok,35.0,1,500.0,"ul. Kołłątaja/ul. Kościuszki, Wrocław",51.1008268,17.0418116
+914038721,4,True,1800,blok,25.0,1,350.0,"ul. Grabiszyńska, Wrocław",51.0981666,16.9949737
+922789846,0,True,2500,blok,40.0,2,450.0,"ul. Żmudzka, Wrocław",51.1431312,17.1405722
+922788786,0,True,2000,pozostale,33.0,2,600.0,"ul. Malborska, Wrocław",51.14118,17.1302925
+851209601,3,True,1225,kamienica,9.0,1,325.0,"ul. Komuny Paryskiej, Wrocław",51.101719,17.046855
+806907484,4,True,4500,blok,73.0,4,,"Wrocław, ul. Litewska",51.1425862,17.1318243
+823781821,2,True,2000,blok,53.0,2,900.0,"ul. Kiełczowska, Psie Pole, Wrocław",51.1459638,17.1327642
+922785456,2,True,2300,apartamentowiec,41.0,2,700.0,"ul. Krasińskiego, Wrocław",51.1061993,17.0434105
+887469355,2,True,2800,blok,41.0,2,420.0,"ul. A. Vespucciego 7/22, Wrocław",51.1087759,17.1239362
+659755807,1,True,3900,kamienica,50.0,3,600.0,"Stare Miasto, Wrocław",51.1087443,17.0143368
+922780857,2,True,2700,blok,55.0,2,580.0,"ul. Dąbrowskiego 34, Wrocław",51.09952670000001,17.0421525
+780425625,2,True,2000,apartamentowiec,27.0,1,500.0,"ul. Bierutowska 57b, Wrocław",51.1504474,17.126648
+772501242,1,True,2800,wolnostojacy,60.0,3,800.0,"Muchobór Mały, Wrocław",51.1082587,16.9668133
+922777372,5,True,2700,apartamentowiec,40.0,2,550.0,"ul. Chociebuska 13, Wrocław",51.1162098,16.9596106
+843365876,1,True,2700,blok,43.7,2,500.0,"ul. Zakładowa, Wrocław",51.1299218,17.0416497
+691478520,1,True,2600,blok,26.0,1,500.0,"ul. Brzoskwiniowa, Krzyki, Wrocław",51.0810312,17.0372301
+922775630,2,True,3500,blok,68.4,3,1000.0,"ul. Vivaldiego, Jagodno, Wrocław",51.0521649,17.0626071
+922774510,3,True,4000,blok,63.0,3,780.0,"Budziszyńska, Wrocław",51.1125744,16.9575458
+922773608,2,True,2650,blok,48.0,2,490.0,"ul. Kajdasza, Jagodno, Wrocław",51.053753,17.0546358
+922769980,11,True,2800,apartamentowiec,36.0,2,430.0,"ul. Podwale 1, Wrocław",51.1137461,17.0235546
+874242000,1,True,2500,apartamentowiec,36.0,2,500.0,"ul. Zofii Gumińskiej, Wrocław, Psie Pole, Zakrzów",51.1616714,17.1397454
+909726555,0,True,2100,blok,35.0,1,450.0,"ul. Klasztorna, Wrocław Wojszyce",51.0625137,17.0411628
+824263202,3,True,3200,blok,49.0,3,400.0,"Wrocław, ul. Dożynkowa 8b",51.06540640000001,16.9843966
+850361339,1,True,3300,apartamentowiec,50.0,3,750.0,"Wrocław, ul. Swojczycka",51.1135207,17.1224136
+893726496,1,True,2590,blok,50.0,2,700.0,"ul. Graniczna 2ca, Wrocław",51.1087958,16.9159267
+868735205,2,True,2900,blok,48.0,2,750.0,"ul. Na Grobli, Stare Miasto, Wrocław",51.0998664,17.0740111
+922764336,1,True,3000,apartamentowiec,38.0,2,550.0,"ul. Braniborska 10E, Wrocław",51.109913,17.0129381
+656861680,5,True,2500,blok,54.0,2,850.0,"Wrocław, ul. Komuny Paryskiej we Wrocławiu",51.101719,17.046855
+922762501,1,True,2700,apartamentowiec,53.0,2,420.0,"ul. Przyjaźni 4, Wrocław",51.0675064,17.0007582
+922762264,0,True,2400,blok,34.0,2,450.0,"Wrocław, ul. Powstańców Śląskich",51.0893253,17.0159794
+922760236,4,True,2200,kamienica,32.0,1,200.0,"ul. Żeromskiego, Wrocław",51.1233992,17.0488142
+922760211,1,True,3100,blok,40.0,2,600.0,"ul. Białowieska 81, Wrocław",51.1314387,16.990395
+864010806,2,True,3600,blok,66.0,3,450.0,"ul. Gorlicka, Wrocław",51.1441781,17.1183903
+922759342,1,False,2500,szeregowiec,64.0,2,,"ul. Berberysowa, Fabryczna, Wrocław",51.1170907,16.9279222
+922758623,1,True,1900,wolnostojacy,28.0,1,300.0,"ul. Stawowa 33, Mokronos Dolny, Wrocław",51.0706958,16.9369473
+922757996,3,True,1900,kamienica,65.0,2,1.0,"Stare Miasto, Wrocław",51.1087443,17.0143368
+894774754,4,True,3800,apartamentowiec,47.0,2,1.0,"Wrocław, centrum Wrocławia",51.12354740000001,17.1244131
+913111298,2,True,2900,apartamentowiec,54.0,2,,Wrocław Krzyki,51.0785518,17.0531945
+922753121,1,True,2700,blok,68.0,3,750.0,Wrocław Strachocin,51.1031847,17.1431711
+819489041,3,True,1500,apartamentowiec,26.0,1,700.0,"ul. Bierutowska, Psie Pole, Wrocław",51.1540364,17.1367024
+789173733,10,True,2250,blok,25.0,1,450.0,"Powstańców Śląskich 109, Wrocław",51.09232799999999,17.0176228
+841028748,10,True,2500,blok,49.0,3,7.0,"ul. Kamieńska, Wrocław-Krzyki",51.0785518,17.0531945
+922745109,7,True,4000,apartamentowiec,46.0,2,790.0,"Wrocław, ul. Walońska",51.1045762,17.0508741
+906001736,4,True,1900,kamienica,25.0,1,450.0,"Śródmieście, Wrocław",51.1132425,17.0812736
+922738959,4,True,2500,apartamentowiec,33.0,1,2600.0,"ul. Gwiazdziasta 6, Wrocław",51.0980425,17.0236179
+922737409,0,True,2600,apartamentowiec,39.0,2,640.0,"Wrocław, Osiedle Olimpia Port",51.1080601,17.1217119
+785267778,2,True,2300,blok,48.0,2,700.0,"Michała Płońskiego 29, Wrocław",51.14490499999999,16.8668635
+922735059,0,True,2000,blok,56.0,2,800.0,"ul. Kiemliczów, Wrocław Żerniki",51.1220361,16.9259922
+922732395,1,True,2550,blok,42.0,2,500.0,"ul. Skrzydlata, Gądów, Wrocław",51.126311,16.9584614
+764818895,1,True,3150,blok,64.0,3,1000.0,"ul. Na Polance 6B, Różanka, Wrocław",51.1336616,17.0341034
+922728583,2,True,2600,blok,53.0,2,680.0,"Wrocław, ulica Waniliowa",51.1774147,16.9989875
+922728570,2,True,2650,apartamentowiec,45.0,2,480.0,"ul. Graniczna, Wrocław",51.1087958,16.9159267
+741954832,2,True,2900,apartamentowiec,38.0,2,500.0,"ulica Dmowskiego, Wrocław",51.1169476,17.0215822
+916008274,8,True,2500,blok,56.0,3,844.0,"ulica Spiżowa - boczna Grabiszyńskiej, Wrocław",51.1014705,17.0014367
+922717129,5,True,2800,blok,40.0,2,460.0,"ul. Zakładowa, Wrocław",51.1299218,17.0416497
+913182488,3,True,2400,apartamentowiec,38.0,2,420.0,"ul. Rymarska, Wrocław",51.0805753,16.9911796
+922710615,3,True,2500,blok,49.0,2,490.0,"ul. Wietrzna, Krzyki, Wrocław",51.0732926,16.9947308
+793276777,1,True,2300,blok,45.0,2,714.0,"Wrocław, ul. Złotnicka",51.1389591,16.8849429
+760493837,7,True,2150,blok,48.0,2,740.0,"ul. Kozanowska, dzielnica Fabryczna Kozanów, Wrocław",51.1379015,16.9702388
+922707647,3,True,4500,apartamentowiec,45.0,2,850.0,"ul. Krucza 64, Wrocław",51.0933545,17.0096418
+922705959,,True,2200,blok,30.0,1,500.0,"Wrocław, ul. Wyszynskiego / Szczytnicka",51.11392739999999,17.0505238
+915816839,0,True,2200,kamienica,42.0,1,500.0,"ul. Zielińskiego, Wrocław",51.0986261,17.0208136
+922703980,0,True,2800,blok,35.0,2,,"ul. Inżynierska, Wrocław",51.0950482,16.9890845
+865165059,8,True,1900,apartamentowiec,60.0,2,,"ul. Kosciuszki 122, centrum, Wrocław",51.0999026,17.0463886
+922703083,,True,2330,blok,33.0,2,470.0,"ul. Gagarina 62, Wrocław",51.0951168,16.935236
+922701254,6,True,4700,apartamentowiec,61.0,3,850.0,"Wrocław, ul. Benedykta Polaka 10",51.11190449999999,17.0545391
+764107759,10,True,2200,blok,48.0,2,840.0,"ul. Dokerska, Kozanów, Wrocław",51.1394911,16.9649153
+922699576,2,True,2800,blok,42.0,2,550.0,"Wrocław, centrum Wrocławia",51.12354740000001,17.1244131
+922698775,2,True,2500,apartamentowiec,35.0,2,450.0,"ul. Drabika 77, Wrocław",51.05895,17.0529984
+756809146,1,True,3500,apartamentowiec,61.0,3,800.0,"Wrocław, nowe Żerniki",51.13756919999999,16.9268632
+922694536,,True,6800,blok,70.0,3,800.0,"Wrocław, ul. Mieszczańska",51.118262,17.0227547
+752419200,5,True,4500,apartamentowiec,59.0,3,400.0,"Białowieska, osiedle Port Popowice, Wrocław",51.1295122,16.9899891
+702418805,1,True,2300,blok,43.0,2,700.0,"Wrocław, ul. Gałczyńskiego 37",51.0537909,17.0361
+922691631,1,True,1100,blok,54.0,2,,"ul. Tyrmanda, Wrocław",51.1020802,16.9482988
+831929028,0,True,2500,blok,45.0,2,600.0,"ul. Piławska 5, Wrocław Gaj",51.0738007,17.042523
+620462287,1,True,2000,wolnostojacy,32.0,1,600.0,"ul. Oboźna, Wojszyce, Wrocław",51.0584671,17.0349355
+922682967,1,True,2400,apartamentowiec,38.0,1,470.0,"ul. Maślicka, Wrocław",51.1556322,16.9364771
+919969399,3,True,2200,blok,42.0,2,650.0,"ul. Sanocka, Wrocław",51.0941411,17.0285803
+906482782,4,True,3200,apartamentowiec,63.0,2,450.0,"ul. Nabycińska, Stare Miasto, Wrocław",51.1110648,17.0178435
+906482811,6,True,2900,apartamentowiec,62.0,2,500.0,"ul. Nabycińska, Wrocław",51.1110648,17.0178435
+915502314,1,True,2600,blok,45.0,2,610.0,"ul. Emila Zegadłowicza 41, Wrocław",51.12964179999999,17.0359286
+922683333,2,True,2700,blok,46.0,2,550.0,"Drabika, Jagodno, Wrocław",51.0586353,17.0527136
+679288047,3,True,2400,kamienica,40.0,2,300.0,"ul. św. Wincentego, Wrocław",51.1227892,17.0345733
+922680571,8,True,4200,pozostale,82.0,3,1075.0,"ul. Jesionowa, Wrocław",51.0872176,17.0513668
+680235352,0,True,2000,blok,38.0,2,600.0,"ul. Osobowicka, Wrocław",51.1417573,16.9910238
+922680229,1,True,2700,pozostale,42.0,2,,"ul. Gagarina, Wrocław",51.0915786,16.931848
+922674717,2,True,3000,kamienica,70.0,2,3.0,"Wrocław, Ul. Łokietka 15",51.1188797,17.0358984
+916110547,1,True,2500,blok,49.0,2,645.0,"ul. Klimasa, Wrocław",51.0803191,17.0618025
+918594946,2,True,2300,blok,35.0,2,500.0,"ul. Grochowa, Wrocław",51.0957405,17.0066902
+915787544,0,True,2400,kamienica,28.0,1,500.0,"ul. Henryka Pobożnego 25, Wrocław",51.120762,17.036738
+899390638,3,True,1700,blok,14.0,1,300.0,"Wrocław, Bolesława Krzywoustego 270-272",51.145562,17.1080149
+916110747,4,True,3000,blok,55.0,3,495.0,"ul. Kamienna - Widna, Krzyki, Wrocław",51.0861469,17.0456215
+922669395,0,True,2200,blok,48.0,2,185.0,"Miodowe Tarasy, Leśnica, Wrocław",51.1521845,16.852105
+922667708,1,True,2800,apartamentowiec,56.0,3,560.0,"ul. Kurlandzka, Psie Pole, Wrocław",51.1392371,17.1362416
+826982860,2,True,2600,apartamentowiec,38.0,2,420.0,"ul. Drabika 56, Wrocław Jagodno",51.0575304,17.0530021
+883584983,1,True,2050,blok,34.0,1,550.0,"Wrocław, ul. Przestrzenna",51.0895777,17.038944
+900699110,5,True,3200,blok,64.0,3,900.0,"ul. Orzechowa, Wrocław",51.0785822,17.043757
+919437511,0,True,2750,blok,38.0,2,600.0,"Wrocław, Wrocławskie Stabłowice",51.15955049999999,16.9003899
+883582093,1,True,2050,blok,34.0,1,550.0,"Wrocław, ul. Przestrzelna",51.10929480000001,17.0386019
+828724900,0,True,2800,wolnostojacy,46.0,2,500.0,"Pełczyńska, Lipa Piotrowska, Wrocław",51.1693387,16.9970013
+922659657,1,True,3600,kamienica,62.0,2,850.0,"ul. Saperów, Wrocław",51.085958,17.0013962
+909142510,2,True,3200,kamienica,30.0,1,190.0,"ul. Reja, Wrocław",51.1170424,17.0582592
+861343489,2,True,2600,apartamentowiec,30.0,1,600.0,"Browary Wrocławskie, Wrocław",51.1296628,17.0541669
+922657054,4,True,2000,pozostale,24.0,1,390.0,"Ul. Rychtalska, Kleczków, Wrocław",51.129266,17.0467036
+922653821,7,True,2000,blok,55.0,2,600.0,"Arkady Wrocławskie, Wrocław",51.0998999,17.0288119
+916480486,0,True,2000,blok,49.0,2,800.0,"ul. Złotostocka, Wrocław",51.0785153,17.0600943

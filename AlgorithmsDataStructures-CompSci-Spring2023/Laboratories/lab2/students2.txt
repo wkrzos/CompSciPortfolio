@@ -1,0 +1,8 @@
+Kierunek Informatyka 
+Oceny z przedmiotu Podstawy programowania 
+Nowak Jan (123456) 5.0 5.0
+Kowalski Adam (654321) 5.0 4.0
+Jan Maciej (111111) 2.0 3.5
+Kowalski Madam (222222) 5.5 5.5
+Pan Van (333333) 4.0 4.5
+Tenco Zdał (444444) 2.0 5.0

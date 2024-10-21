@@ -1,0 +1,181 @@
+\section{Results}
+The results show a significant variation in rental prices across the six cities. Warsaw has the highest average rental prices, while Lodz has the lowest.
+
+\subsection{City-specific Analysis}
+
+It was decided to use 2 regression models for the prices: linear and random forest. Initially, only the linear model was used; however, it was noticed that the flat prices seem to reach a plateau in each city, after reaching a certain price. So, linear models estimate the prices closer to the median well. However, they are insufficient considering the whole data set. So, an additional, third, graph was added with data logarithmically normalised.
+
+Contrary to the above, it could be said, that values on the plateau should not be included and should be considered outliers. However, this paper argues, that they must be included. The issue lies in the insufficient data collected, not in those offers being outliers. Although less common, those offers tend to disappear from the market faster. This, at first, may seem unintuitive; however, it becomes clearer when one considers the scarce supply of such properties and the increasing number of middle-to-high-class residents in major Polish cities \cite{szczepaniak_examining_2024}.
+
+\newpage
+
+\subsubsection{Gdańsk}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/gdansk_correlation_heatmap.png}
+    \caption{Correlation Heatmap for Gdańsk}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/gdansk_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for Gdańsk}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/gdansk_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for Gdańsk}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/gdansk_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for Gdańsk}
+\end{figure}
+
+\subsubsection{Kraków}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/krakow_correlation_heatmap.png}
+    \caption{Correlation Heatmap for Kraków}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/krakow_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for Kraków}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/krakow_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for Kraków}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/krakow_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for Kraków}
+\end{figure}
+
+\subsubsection{Łódź}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/lodz_correlation_heatmap.png}
+    \caption{Correlation Heatmap for Łódź}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/lodz_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for Łódź}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/lodz_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for Łódź}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/lodz_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for Łódź}
+\end{figure}
+
+\subsubsection{Poznań}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/poznan_correlation_heatmap.png}
+    \caption{Correlation Heatmap for Poznań}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/poznan_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for Poznań}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/poznan_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for Poznań}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/poznan_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for Poznań}
+\end{figure}
+
+\subsubsection{Warsaw}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/warsaw_correlation_heatmap.png}
+    \caption{Correlation Heatmap for Warsaw}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/warsaw_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for Warsaw}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/warsaw_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for Warsaw}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/warsaw_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for Warsaw}
+\end{figure}
+
+\subsubsection{Wrocław}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/wroclaw_correlation_heatmap.png}
+    \caption{Correlation Heatmap for Wrocław}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/wroclaw_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for Wrocław}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/wroclaw_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for Wrocław}
+\end{figure}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{figures/wroclaw_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for Wrocław}
+\end{figure}
+
+\newpage
+
+\subsection{City-joined Analysis}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/all_correlation_heatmap.png}
+    \caption{Combined Correlation Heatmap for All Cities}
+    \label{fig:all-correlation-heatmap}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/all_cities_price_prediction_linear.png}
+    \caption{Price Prediction (Linear) for All Cities}
+    \label{fig:all-cities-price-prediction-linear}
+\end{figure}
+\newpage
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/all_cities_price_prediction_rf.png}
+    \caption{Price Prediction (Random Forest) for All Cities}
+    \label{fig:all-cities-price-prediction-rf}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\linewidth]{figures/all_cities_price_prediction_logarithmic.png}
+    \caption{Price Prediction (Logarithmic) for All Cities}
+    \label{fig:all-cities-price-prediction-logarithmic}
+\end{figure}
+\newpage

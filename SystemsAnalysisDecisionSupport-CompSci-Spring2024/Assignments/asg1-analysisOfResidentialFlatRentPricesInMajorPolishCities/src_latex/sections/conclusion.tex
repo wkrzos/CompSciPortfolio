@@ -1,0 +1,40 @@
+\section{Conclusion}
+This study provides an overview of the rental market in major Polish cities, highlighting significant differences and underlying factors influencing rental prices.
+
+\subsection{Summary of the findings}
+The analysis reveals notable variations in rental prices across the six major Polish cities. Warsaw exhibits the highest average rental prices, likely due to its status as the capital and its economic opportunities. Krakow and Gdansk also demonstrate higher rental prices, reflecting their cultural and economic significance.
+
+Key findings include:
+\begin{itemize}
+    \item \textbf{Correlation Analysis}: The size of the apartment (area in m²) and the number of rooms are strong predictors of rental prices.
+    \item \textbf{Regression Models}: The logarithmic regression model outperformed the linear and random forest models, better capturing the non-linear relationship between apartment features and prices, especially at higher price points.
+    \item \textbf{Geospatial Analysis}: Rental popularity peaks vary by city, with central areas generally showing higher popularity. In Warsaw, multiple peaks are observed, including in the city centre and suburban tower blocks. In Wrocław, popular rental locations are more dispersed.
+\end{itemize}
+
+\subsection{Evaluation of the paper}
+While the study successfully identifies key factors influencing rental prices and demonstrates the effectiveness of different regression models, several limitations constrain the findings. Those limitations were noted earlier in the Methodology section. For ease of reading, they were given once more with proposed solutions:
+
+\begin{itemize}
+    \item \textbf{Data Availability}: Incomplete data from some offers may lead to gaps in the dataset, potentially affecting the robustness of the analysis. \textit{To mitigate this, future studies could collaborate with rental platforms to ensure more comprehensive data collection. Implementing methods to handle missing data, such as data imputation techniques, could also enhance dataset completeness.}
+    
+    \item \textbf{Computational Limits}: Data collection was restricted by hardware limitations, which may have reduced the volume of data collected within the given timeframe. \textit{Utilizing cloud-based computing resources or high-performance computing systems can overcome these limitations, enabling the processing of larger datasets more efficiently.}
+    
+    \item \textbf{API Access Limit}: The phased data collection approach was necessary due to API rate limits, which could have affected the continuity and completeness of the data. \textit{Engaging with data providers to negotiate higher API rate limits or utilizing data scraping techniques with appropriate ethical considerations can help gather more continuous data streams.}
+    
+    \item \textbf{Geographic Coverage}: The study focused on six major cities, which may not fully represent rental trends in smaller towns or rural areas. Additionally, data from city suburbs was excluded to maintain focus on the urban areas. \textit{Expanding the geographic scope to include smaller towns and rural areas, as well as suburban regions, would provide a more comprehensive understanding of rental trends across diverse locations.}
+    
+    \item \textbf{Temporal Consistency}: Data was collected over two weeks, not accounting for potential seasonal variations in rental prices. \textit{Extending the data collection period to cover different seasons and ensuring temporal consistency would help capture seasonal variations in rental prices, providing a more accurate analysis.}
+    
+    \item \textbf{Feature Limitations}: Important features such as proximity to amenities and public transport were not included, which may impact the accuracy and comprehensiveness of the regression models. \textit{Incorporating additional features, such as proximity to public amenities, transport links, and neighborhood quality, can enhance the predictive power and accuracy of the regression models.}
+\end{itemize}
+
+\subsection{Future extensions}
+Future research could address the current study's limitations by:
+\begin{itemize}
+    \item \textbf{Expanding Data Collection}: Including more cities and extending the geographic scope to cover suburban and rural areas would provide a more comprehensive understanding of rental trends across Poland.
+    \item \textbf{Improving Data Completeness}: Ensuring more complete data from rental offers, possibly through collaboration with data providers, would enhance the dataset's robustness.
+    \item \textbf{Accounting for Temporal Variations}: Conducting data collection over a longer period, including different seasons, would help capture seasonal variations in rental prices.
+    \item \textbf{Incorporating Additional Features}: Adding data on proximity to amenities, public transport, and other relevant factors could improve the accuracy of the regression models.
+    \item \textbf{Enhancing Computational Resources}: Utilizing more powerful computational resources could enable larger-scale data collection and more complex analyses.
+\end{itemize}
+These improvements would provide a more detailed and accurate picture of the rental market in Poland, aiding stakeholders in making informed decisions.

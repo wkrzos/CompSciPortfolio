@@ -1,0 +1,194 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+/* External style for page1.html */
+.external-style {
+    color: purple;
+    font-size: 18px;
+}
+
+/* Page 2 - Text Size Units */
+.text-size-px {
+    font-size: 16px;
+}
+
+.text-size-em {
+    font-size: 1.5em;
+}
+
+.text-size-pt {
+    font-size: 12pt;
+}
+
+.text-size-percent {
+    font-size: 150%;
+}
+
+/* Page 3 - Background Image Settings */
+.background-repeat {
+    background-image: url('background.png');
+    background-repeat: repeat-x;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.background-half {
+    background-image: url('background.png');
+    background-repeat: repeat;
+    background-size: auto 50%;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.background-stretch {
+    background-image: url('background.png');
+    background-size: cover;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+/* Page 4 - CSS Selectors */
+.text-style {
+    font-size: 18px;
+    color: #333;
+}
+
+#unique-element {
+    font-weight: bold;
+}
+
+.container .text-style {
+    color: #555;
+}
+
+.container > .text-style {
+    color: #999;
+}
+
+/* Page 5 - Box Model & Positioning */
+.box {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #000;
+    position: relative;
+}
+
+.absolute-positioned {
+    position: absolute;
+    top: 600px;
+    left: 300px;
+}
+
+.fixed-positioned {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+/* Page 6 - Text Formatting */
+.text-format-bold {
+    font-weight: bold;
+}
+
+.text-format-italic {
+    font-style: italic;
+}
+
+.text-format-uppercase {
+    text-transform: uppercase;
+}
+
+.text-line-height {
+    line-height: 1.5;
+}
+
+.text-letter-spacing {
+    letter-spacing: 2px;
+}
+
+/* Page 7 - Border Properties */
+.border-example {
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+}
+
+/* Page 8 - Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+td {
+    text-align: center;
+    padding: 8px;
+}
+
+/* Page 9 - Pseudo-classes & Pseudo-elements */
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: purple;
+}
+
+p::first-line {
+    font-weight: bold;
+}
+
+p::before {
+    content: "🔹 ";
+    color: blue;
+}
+
+/* Page 10 - Dropdown Menu */
+.menu, .submenu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu > li {
+    display: inline-block;
+    position: relative;
+}
+
+.menu li a {
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+    color: #333;
+}
+
+.submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #f9f9f9;
+}
+
+.menu li:hover .submenu {
+    display: block;
+}

@@ -1,0 +1,10 @@
+body {
+    height: 2000px;
+    padding: 20px;
+}
+.drawingX {
+    border: 1px solid black;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 20px;
+}

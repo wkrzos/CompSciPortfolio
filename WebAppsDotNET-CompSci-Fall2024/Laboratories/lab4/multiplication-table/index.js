@@ -50,8 +50,7 @@ function generateMultiplicationTable(multipliersNumber){
 function generateTableWithHeaderRow(){
     const table = document.createElement("table");
     const thead = document.createElement("thead");
-    const tbody = document.createElement("tbody");
-
+    const tbody = document.createElement("tbody")
     const headerRow = document.createElement("tr");
     const emptyHeader = document.createElement("th");
     emptyHeader.className = "header-row";

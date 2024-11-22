@@ -7,11 +7,22 @@
 #define RED_BUTTON 2
 #define GREEN_BUTTON 4
 
-#define DEBOUNCE_PERIOD 100UL
+#define DEBOUNCE_PERIOD 50UL  // Adjusted debounce period for better responsiveness
 #define LED_COUNT 3
 
 int led_pins[LED_COUNT] = { LED_RED, LED_GREEN, LED_BLUE };
 int led_index = 0;
+
+// Structure to hold debouncing state for each button
+struct DebounceState {
+    int debounced_button_state;
+    int previous_reading;
+    unsigned long last_change_time;
+};
+
+// Initialize debouncing states for each button
+DebounceState green_button_state = { HIGH, HIGH, 0 };
+DebounceState red_button_state = { HIGH, HIGH, 0 };
 
 void initRGB()
 {
@@ -30,27 +41,30 @@ void initButtons()
     pinMode(GREEN_BUTTON, INPUT_PULLUP);
 }
 
-bool debounceButton(int buttonPin)
+bool debounceButton(int buttonPin, DebounceState &state)
 {
-    static int debounced_button_state = HIGH;
-    static int previous_reading = HIGH;
-    static unsigned long last_change_time = 0UL;
-
     int current_reading = digitalRead(buttonPin);
-    if (previous_reading != current_reading) {
-        last_change_time = millis();
+
+    // Check if the button state has changed
+    if (current_reading != state.previous_reading) {
+        state.last_change_time = millis();
     }
 
-    if (millis() - last_change_time > DEBOUNCE_PERIOD) {
-        if (current_reading != debounced_button_state) {
-            debounced_button_state = current_reading;
-            if (debounced_button_state == LOW) {
+    // If the state has been stable for longer than the debounce period
+    if (millis() - state.last_change_time > DEBOUNCE_PERIOD) {
+        // If the debounced state is different from the current reading
+        if (current_reading != state.debounced_button_state) {
+            state.debounced_button_state = current_reading;
+
+            // Trigger on button release (from LOW to HIGH)
+            if (state.debounced_button_state == HIGH && state.previous_reading == LOW) {
+                state.previous_reading = current_reading;
                 return true;
             }
         }
     }
 
-    previous_reading = current_reading;
+    state.previous_reading = current_reading;
     return false;
 }
 
@@ -74,7 +88,8 @@ void setup()
 
 void loop()
 {
-    if (debounceButton(GREEN_BUTTON) || debounceButton(RED_BUTTON)) {
+    // Check each button individually
+    if (debounceButton(GREEN_BUTTON, green_button_state) || debounceButton(RED_BUTTON, red_button_state)) {
         switchToNextLED();
     }
 }

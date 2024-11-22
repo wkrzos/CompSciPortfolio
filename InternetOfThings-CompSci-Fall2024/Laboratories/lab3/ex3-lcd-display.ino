@@ -3,18 +3,12 @@
 
 #define RED_BUTTON 2
 #define GREEN_BUTTON 4
-#define DEBOUNCE_PERIOD 100UL
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 unsigned long start_time = 0;
-unsigned long elapsed_time = 0;
-bool is_running = false;
-
-unsigned long last_green_press_time = 0;
-unsigned long last_red_press_time = 0;
-bool last_green_button_state = HIGH;
-bool last_red_button_state = HIGH;
+unsigned long paused_time = 0;
+bool display_paused = true;
 
 void initButtons() {
     pinMode(RED_BUTTON, INPUT_PULLUP);
@@ -27,58 +21,70 @@ void setup() {
     initButtons();
 
     lcd.setCursor(0, 0);
-    lcd.print("Stoper:");
+    lcd.print("Stopwatch:");
     lcd.setCursor(0, 1);
-    lcd.print("00:00");
+    lcd.print("00:00:00.000");
 }
 
-void updateDisplay(unsigned long time_in_seconds) {
-    unsigned long minutes = time_in_seconds / 60;
-    unsigned long seconds = time_in_seconds % 60;
+void updateDisplay(unsigned long elapsed_ms) {
+    unsigned long total_seconds = elapsed_ms / 1000;
+    unsigned long milliseconds = elapsed_ms % 1000;
+    unsigned long hours = total_seconds / 3600;
+    unsigned long minutes = (total_seconds % 3600) / 60;
+    unsigned long seconds = total_seconds % 60;
 
     lcd.setCursor(0, 1);
+    lcd.print((hours < 10 ? "0" : "") + String(hours) + ":");
     lcd.print((minutes < 10 ? "0" : "") + String(minutes) + ":");
-    lcd.print((seconds < 10 ? "0" : "") + String(seconds));
-}
-
-bool debounceButton(int buttonPin, unsigned long& last_press_time, bool& last_button_state) {
-    bool current_state = digitalRead(buttonPin);
-
-    if (current_state != last_button_state) {
-        last_press_time = millis();
+    lcd.print((seconds < 10 ? "0" : "") + String(seconds) + ".");
+    if (milliseconds < 10) {
+        lcd.print("00" + String(milliseconds));
+    } else if (milliseconds < 100) {
+        lcd.print("0" + String(milliseconds));
+    } else {
+        lcd.print(String(milliseconds));
     }
-
-    if (millis() - last_press_time > DEBOUNCE_PERIOD) {
-        if (current_state == LOW && last_button_state == HIGH) {
-            last_button_state = current_state;
-            return true;
-        }
-    }
-
-    last_button_state = current_state;
-    return false;
 }
 
 void loop() {
-    if (debounceButton(GREEN_BUTTON, last_green_press_time, last_green_button_state)) {
-        if (!is_running) {
-            start_time = millis() - elapsed_time;
-            is_running = true;
+    if (digitalRead(GREEN_BUTTON) == LOW) {
+        // Debounce delay
+        delay(50);
+        while (digitalRead(GREEN_BUTTON) == LOW);  // Wait for button release
+        delay(50);
+        if (display_paused) {
+            // Start or resume updating display
+            if (start_time == 0) {
+                // First time starting
+                start_time = millis();
+            } else {
+                // Resume, adjust start_time to account for the paused duration
+                start_time += millis() - paused_time;
+            }
+            display_paused = false;
         } else {
-            elapsed_time = millis() - start_time;
-            is_running = false;
+            // Pause updating display
+            paused_time = millis();
+            display_paused = true;
         }
     }
 
-    if (debounceButton(RED_BUTTON, last_red_press_time, last_red_button_state)) {
-        elapsed_time = 0;
-        is_running = false;
-        updateDisplay(0);
+    if (digitalRead(RED_BUTTON) == LOW) {
+        // Debounce delay
+        delay(50);
+        while (digitalRead(RED_BUTTON) == LOW);  // Wait for button release
+        delay(50);
+        // Reset everything
+        start_time = 0;
+        paused_time = 0;
+        display_paused = true;
+        lcd.setCursor(0, 1);
+        lcd.print("00:00:00.000");
     }
 
-    if (is_running) {
-        unsigned long current_time = millis() - start_time;
-        unsigned long time_in_seconds = current_time / 1000;
-        updateDisplay(time_in_seconds);
+    if (!display_paused) {
+        unsigned long current_time = millis();
+        unsigned long elapsed_ms = current_time - start_time;
+        updateDisplay(elapsed_ms);
     }
 }

@@ -6,9 +6,7 @@
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-unsigned long start_time = 0;
-unsigned long paused_time = 0;
-bool display_paused = true;
+unsigned long start_time = 0; // Start time of the stopwatch
 
 void initButtons() {
     pinMode(RED_BUTTON, INPUT_PULLUP);
@@ -24,6 +22,8 @@ void setup() {
     lcd.print("Stopwatch:");
     lcd.setCursor(0, 1);
     lcd.print("00:00:00.000");
+
+    start_time = millis(); // Start the timer immediately
 }
 
 void updateDisplay(unsigned long elapsed_ms) {
@@ -47,44 +47,30 @@ void updateDisplay(unsigned long elapsed_ms) {
 }
 
 void loop() {
+    static bool green_pressed = false;
+
+    // Check for green button press
     if (digitalRead(GREEN_BUTTON) == LOW) {
-        // Debounce delay
-        delay(50);
-        while (digitalRead(GREEN_BUTTON) == LOW);  // Wait for button release
-        delay(50);
-        if (display_paused) {
-            // Start or resume updating display
-            if (start_time == 0) {
-                // First time starting
-                start_time = millis();
-            } else {
-                // Resume, adjust start_time to account for the paused duration
-                start_time += millis() - paused_time;
-            }
-            display_paused = false;
-        } else {
-            // Pause updating display
-            paused_time = millis();
-            display_paused = true;
+        delay(50); // Debounce delay
+        if (!green_pressed) {
+            green_pressed = true;
+            unsigned long current_time = millis();
+            unsigned long elapsed_ms = current_time - start_time;
+            updateDisplay(elapsed_ms);
         }
+    } else {
+        green_pressed = false;
     }
 
+    // Check for red button press
     if (digitalRead(RED_BUTTON) == LOW) {
-        // Debounce delay
+        delay(50); // Debounce delay
+        while (digitalRead(RED_BUTTON) == LOW); // Wait for button release
         delay(50);
-        while (digitalRead(RED_BUTTON) == LOW);  // Wait for button release
-        delay(50);
-        // Reset everything
-        start_time = 0;
-        paused_time = 0;
-        display_paused = true;
+
+        // Reset the stopwatch
+        start_time = millis();
         lcd.setCursor(0, 1);
         lcd.print("00:00:00.000");
-    }
-
-    if (!display_paused) {
-        unsigned long current_time = millis();
-        unsigned long elapsed_ms = current_time - start_time;
-        updateDisplay(elapsed_ms);
     }
 }

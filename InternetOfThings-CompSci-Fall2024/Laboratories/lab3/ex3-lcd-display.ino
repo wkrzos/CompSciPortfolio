@@ -1,15 +1,15 @@
 #include <Arduino.h>
 #include <LiquidCrystal_I2C.h>
 
-#define RED_BUTTON 2
 #define GREEN_BUTTON 4
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-unsigned long start_time = 0; // Start time of the stopwatch
+unsigned long start_time = 0;      // Start time of the stopwatch
+unsigned long paused_time = 0;    // Time to freeze on LCD
+bool display_paused = false;      // Tracks if the display is paused
 
 void initButtons() {
-    pinMode(RED_BUTTON, INPUT_PULLUP);
     pinMode(GREEN_BUTTON, INPUT_PULLUP);
 }
 
@@ -23,7 +23,7 @@ void setup() {
     lcd.setCursor(0, 1);
     lcd.print("00:00:00.000");
 
-    start_time = millis(); // Start the timer immediately
+    start_time = millis();  // Start the timer immediately
 }
 
 void updateDisplay(unsigned long elapsed_ms) {
@@ -47,30 +47,31 @@ void updateDisplay(unsigned long elapsed_ms) {
 }
 
 void loop() {
-    static bool green_pressed = false;
+    static unsigned long last_button_press = 0;
+    unsigned long current_time = millis();
 
-    // Check for green button press
+    // Handle green button press
     if (digitalRead(GREEN_BUTTON) == LOW) {
-        delay(50); // Debounce delay
-        if (!green_pressed) {
-            green_pressed = true;
-            unsigned long current_time = millis();
-            unsigned long elapsed_ms = current_time - start_time;
-            updateDisplay(elapsed_ms);
+        if (current_time - last_button_press > 200) {  // Debounce
+            last_button_press = current_time;
+
+            if (display_paused) {
+                // Resume live display
+                display_paused = false;
+            } else {
+                // Pause display, keep stopwatch running
+                paused_time = current_time - start_time;
+                display_paused = true;
+            }
         }
-    } else {
-        green_pressed = false;
     }
 
-    // Check for red button press
-    if (digitalRead(RED_BUTTON) == LOW) {
-        delay(50); // Debounce delay
-        while (digitalRead(RED_BUTTON) == LOW); // Wait for button release
-        delay(50);
-
-        // Reset the stopwatch
-        start_time = millis();
-        lcd.setCursor(0, 1);
-        lcd.print("00:00:00.000");
+    if (!display_paused) {
+        // Live display: Show continuously updated time
+        unsigned long elapsed_time = current_time - start_time;
+        updateDisplay(elapsed_time);
+    } else {
+        // Paused display: Show the frozen time
+        updateDisplay(paused_time);
     }
 }

@@ -1,0 +1,203 @@
+#include <Arduino.h>
+#include <util/atomic.h>
+#include <LiquidCrystal_I2C.h>
+
+// Define pins for RGB LED
+#define RED_PIN     6   // PWM pin
+#define GREEN_PIN   5   // PWM pin
+#define BLUE_PIN    3   // PWM pin
+
+// Define pins for rotary encoder and buttons
+#define ENCODER_PIN_A   A2
+#define ENCODER_PIN_B   A3
+#define GREEN_BUTTON    4   // Green button for selection
+#define RED_BUTTON      7   // Red button for saving
+
+// Define debouncing period
+#define DEBOUNCE_PERIOD 50UL
+
+// Initialize the LCD
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+// Variables for menu navigation
+const int menuLength = 3;  // Total number of menu items
+String menuItems[menuLength] = {
+  "1. Red LED",
+  "2. Green LED",
+  "3. Blue LED"
+};
+int menuIndex = 0;        // Current selected menu index
+int brightnessValues[menuLength] = {255, 255, 255}; // Brightness for each LED
+
+// Variables for encoder reading
+volatile int encoderValue = 0;
+volatile int lastEncoderValue = 0;
+volatile bool encoderMoved = false;
+unsigned long lastEncoderTimestamp = 0UL;
+
+// Debounce variables for buttons
+unsigned long lastGreenButtonPress = 0;
+unsigned long lastRedButtonPress = 0;
+const unsigned long buttonDebounceDelay = 200;
+
+// **Global flag to indicate if we're in adjustment mode**
+bool inAdjustmentMode = false;
+
+// Function prototypes
+void updateMenu();
+void adjustBrightness(int ledIndex);
+void updateLEDs();
+
+// ISR for encoder pin changes
+ISR(PCINT1_vect) {
+  static int lastEncoded = 0;
+  int MSB = digitalRead(ENCODER_PIN_A); // MSB = most significant bit
+  int LSB = digitalRead(ENCODER_PIN_B); // LSB = least significant bit
+
+  int encoded = (MSB << 1) | LSB;       // Combine the two bits
+  int sum = (lastEncoded << 2) | encoded; // Combine previous and current
+
+  if (millis() - lastEncoderTimestamp > DEBOUNCE_PERIOD) {
+    if (sum == 0b1101 || sum == 0b0100 || sum == 0b0010 || sum == 0b1011) {
+      encoderValue++;
+      encoderMoved = true;
+    }
+    if (sum == 0b1110 || sum == 0b0111 || sum == 0b0001 || sum == 0b1000) {
+      encoderValue--;
+      encoderMoved = true;
+    }
+    lastEncoderTimestamp = millis();
+  }
+
+  lastEncoded = encoded;
+}
+
+void setup() {
+  // Initialize RGB LED pins
+  pinMode(RED_PIN, OUTPUT);
+  pinMode(GREEN_PIN, OUTPUT);
+  pinMode(BLUE_PIN, OUTPUT);
+
+  // Initialize encoder pins
+  pinMode(ENCODER_PIN_A, INPUT_PULLUP);
+  pinMode(ENCODER_PIN_B, INPUT_PULLUP);
+
+  // Initialize button pins
+  pinMode(GREEN_BUTTON, INPUT_PULLUP);
+  pinMode(RED_BUTTON, INPUT_PULLUP);
+
+  // Initialize LCD
+  lcd.init();
+  lcd.backlight();
+
+  // Display the initial menu
+  updateMenu();
+
+  // Enable pin change interrupt for encoder pins
+  PCICR |= (1 << PCIE1);   // Enable Pin Change Interrupt Control Register for PCIE1 (A0-A5)
+  PCMSK1 |= (1 << PCINT10) | (1 << PCINT11); // Enable PCINT10 (A2) and PCINT11 (A3)
+}
+
+void loop() {
+  // **Check if we are not in adjustment mode**
+  if (!inAdjustmentMode) {
+    // Check for green button press to select menu item
+    if (digitalRead(GREEN_BUTTON) == LOW) {
+      unsigned long currentTime = millis();
+      if (currentTime - lastGreenButtonPress > buttonDebounceDelay) {
+        lastGreenButtonPress = currentTime;
+        inAdjustmentMode = true; // Enter adjustment mode
+        adjustBrightness(menuIndex);
+        inAdjustmentMode = false; // Exit adjustment mode
+        updateMenu(); // Update the menu after adjustment
+      }
+    }
+
+    // Update menu navigation using the encoder
+    if (encoderMoved) {
+      int movement;
+      ATOMIC_BLOCK(ATOMIC_RESTORESTATE) {
+        movement = encoderValue - lastEncoderValue;
+        lastEncoderValue = encoderValue;
+        encoderMoved = false;
+      }
+
+      menuIndex += movement;
+      if (menuIndex < 0) menuIndex = 0;
+      if (menuIndex >= menuLength) menuIndex = menuLength - 1;
+
+      updateMenu();
+    }
+  }
+
+  // Update LED states
+  updateLEDs();
+}
+
+void updateMenu() {
+  lcd.clear();
+  lcd.setCursor(0, 0);
+  lcd.print(menuItems[menuIndex]);
+  lcd.setCursor(0, 1);
+  lcd.print("Brightness: ");
+  lcd.print(brightnessValues[menuIndex]);
+}
+
+void adjustBrightness(int ledIndex) {
+  lcd.clear();
+  lcd.setCursor(0, 0);
+  lcd.print(menuItems[ledIndex]);
+  lcd.setCursor(0, 1);
+  lcd.print("Brightness: ");
+  lcd.print(brightnessValues[ledIndex]);
+
+  // **Reset encoder values**
+  ATOMIC_BLOCK(ATOMIC_RESTORESTATE) {
+    encoderValue = 0;
+    lastEncoderValue = 0;
+    encoderMoved = false;
+  }
+  int localEncoderValue = 0;
+  int lastLocalEncoderValue = 0;
+  bool adjusting = true;
+
+  while (adjusting) {
+    if (encoderMoved) {
+      ATOMIC_BLOCK(ATOMIC_RESTORESTATE) {
+        localEncoderValue = encoderValue;
+        encoderMoved = false;
+      }
+
+      int movement = localEncoderValue - lastLocalEncoderValue;
+      lastLocalEncoderValue = localEncoderValue;
+
+      if (movement != 0) {
+        brightnessValues[ledIndex] += movement * 5;
+        if (brightnessValues[ledIndex] > 255) brightnessValues[ledIndex] = 255;
+        if (brightnessValues[ledIndex] < 0) brightnessValues[ledIndex] = 0;
+
+        lcd.setCursor(12, 1);
+        lcd.print("     ");  // Clear previous value
+        lcd.setCursor(12, 1);
+        lcd.print(brightnessValues[ledIndex]);
+
+        updateLEDs();
+      }
+    }
+
+    // **Check for red button press to exit adjustment**
+    if (digitalRead(RED_BUTTON) == LOW) {
+      unsigned long currentTime = millis();
+      if (currentTime - lastRedButtonPress > buttonDebounceDelay) {
+        lastRedButtonPress = currentTime; // Update lastRedButtonPress
+        adjusting = false;
+      }
+    }
+  }
+}
+
+void updateLEDs() {
+  analogWrite(RED_PIN, brightnessValues[0]);
+  analogWrite(GREEN_PIN, brightnessValues[1]);
+  analogWrite(BLUE_PIN, brightnessValues[2]);
+}

@@ -132,7 +132,6 @@ void loop() {
 
   // Update LED states
   updateLEDs();
-  updateMenu();
 }
 
 void updateMenu() {

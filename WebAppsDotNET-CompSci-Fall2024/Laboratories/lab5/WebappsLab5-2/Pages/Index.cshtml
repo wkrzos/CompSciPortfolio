@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Multiplication Table Generator";
+}
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>@ViewData["Title"] - WebAppMVCMinimum</title>
+    <link rel="stylesheet" href="~/wwwroot/css/site.css" />
+</head>
+<body>
+    <h1>Multiplication Table Generator</h1>
+    <div>
+        <label for="n-value">Set value between 5 and 20:</label>
+        <input type="number" id="n-value" min="5" max="20" />
+        <button id="generate-table">Generate Table</button>
+        <p id="message"></p>
+    </div>
+    <div id="table-container"></div>
+    <script src="~/wwwroot/js/site.js"></script>
+</body>
+</html>

@@ -11,6 +11,8 @@ class Program
         Console.WriteLine($"Name: {person.Item1}, Surname: {person.Item2}, Age: {person.Item3}, Salary: {person.Item4}");
         Console.WriteLine(string.Join(", ", person));
         Console.WriteLine($"Tuple contents: {person}");
+        var (firstName, lastName, age, salary) = person;
+        Console.WriteLine($"Name: {firstName}, Surname: {lastName}, Age: {age}, Salary: {salary}");
     }
 
     static void PrintPersonInfo((string FirstName, string LastName, int Age, double Salary) person)

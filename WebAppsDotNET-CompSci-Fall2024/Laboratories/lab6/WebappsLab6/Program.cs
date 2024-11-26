@@ -4,33 +4,19 @@ class Program
 {
     static void Main()
     {
-        // Example calls to the DrawCard method
-        DrawCard("Ryszard", "Rys", 'X', 2, 20);
-        DrawCard("John Doe", "Developer", '#', 3, 25);
+        var person = ("John", "Doe", 30, 5000.50);
+
+        PrintPersonInfo(person);
+
+        Console.WriteLine($"Name: {person.Item1}, Surname: {person.Item2}, Age: {person.Item3}, Salary: {person.Item4}");
+        Console.WriteLine(string.Join(", ", person));
+        Console.WriteLine($"Tuple contents: {person}");
+        var (firstName, lastName, age, salary) = person;
+        Console.WriteLine($"Name: {firstName}, Surname: {lastName}, Age: {age}, Salary: {salary}");
     }
 
-    static void DrawCard(string line1, string line2, char borderChar = '*', int borderWidth = 2, int minWidth = 20)
+    static void PrintPersonInfo((string FirstName, string LastName, int Age, double Salary) person)
     {
-        // Calculate the total width of the card
-        int cardWidth = Math.Max(minWidth, Math.Max(line1.Length, line2.Length) + borderWidth * 2 + 4);
-        string borderLine = new string(borderChar, cardWidth);
-
-        // Print the top border
-        Console.WriteLine(borderLine);
-        Console.WriteLine(borderLine);
-
-        // Print the first line, centered with spaces
-        Console.WriteLine(new string(borderChar, borderWidth) +
-                          line1.PadLeft((cardWidth - borderWidth * 2 + line1.Length) / 2).PadRight(cardWidth - borderWidth * 2) +
-                          new string(borderChar, borderWidth));
-
-        // Print the second line, centered with spaces
-        Console.WriteLine(new string(borderChar, borderWidth) +
-                          line2.PadLeft((cardWidth - borderWidth * 2 + line2.Length) / 2).PadRight(cardWidth - borderWidth * 2) +
-                          new string(borderChar, borderWidth));
-
-        // Print the bottom border
-        Console.WriteLine(borderLine);
-        Console.WriteLine(borderLine);
+        Console.WriteLine($"Name: {person.FirstName}, Surname: {person.LastName}, Age: {person.Age}, Salary: {person.Salary}");
     }
 }

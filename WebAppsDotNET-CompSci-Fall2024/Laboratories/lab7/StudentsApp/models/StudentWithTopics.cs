@@ -17,13 +17,15 @@ namespace GroupStudentsApp.Models{
 
         public List<string> Topics { get; set; }
 
-        public StudentWithTopics(int id, int index, string name, Gender gender, bool active, int departmentId)
+        public StudentWithTopics(int id, int index, string name, Gender gender, bool active, int departmentId, List<string> topics)
         {
             Id = id;
             Index = index;
             Name = name;
             Gender = gender;
             Active = active;
+            DepartmentId = departmentId;
+            Topics = topics;
         }
 
         public override string ToString()

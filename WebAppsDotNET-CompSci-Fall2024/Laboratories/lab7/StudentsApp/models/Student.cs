@@ -1,7 +1,7 @@
 using StudentsApp.Models;
 
 namespace StudentsApp.Models{
-    public class StudentWithTopics
+    public class Student
     {
         public int Id { get; set; }
         public int Index { get; set; }
@@ -10,9 +10,9 @@ namespace StudentsApp.Models{
         public bool Active { get; set; }
         public int DepartmentId { get; set; }
 
-        public List<string> Topics { get; set; }
+        public List<int> TopicIds { get; set; }
 
-        public StudentWithTopics(int id, int index, string name, Gender gender, bool active, int departmentId, List<string> topics)
+        public Student(int id, int index, string name, Gender gender, bool active, int departmentId, List<int> topicIds)
         {
             Id = id;
             Index = index;
@@ -20,12 +20,12 @@ namespace StudentsApp.Models{
             Gender = gender;
             Active = active;
             DepartmentId = departmentId;
-            Topics = topics;
+            TopicIds = topicIds;
         }
 
         public override string ToString()
         {
-            return $"Student: {Name} Topics: {string.Join(", ", Topics)}";
+            return $"Student: {Name} Topics: {string.Join(", ", TopicIds)}";
         } 
     }
 }

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using GroupStudentsApp.Models;
+using StudentsApp.Models;
 
 public class Program
 {
@@ -86,6 +86,46 @@ public class Program
             {
                 Console.WriteLine($"  Topic: {topic.Topic}, Count: {topic.Count}");
             }
+        }
+
+        // ex3
+        // Sample list of StudentWithTopics
+        var studentsWithTopics = new List<StudentWithTopics>
+        {
+            new StudentWithTopics(1, 1001, "Alice", Gender.Female, true, 1, new List<string> { "Math", "Science" }),
+            new StudentWithTopics(2, 1002, "Bob", Gender.Male, true, 1, new List<string> { "Science", "History" }),
+            new StudentWithTopics(3, 1003, "Charlie", Gender.Male, true, 2, new List<string> { "Math", "History", "Science" }),
+            new StudentWithTopics(4, 1004, "Diana", Gender.Female, true, 1, new List<string> { "History" }),
+        };
+
+        // Create a unique list of topics
+        var uniqueTopics = studentsWithTopics
+            .SelectMany(s => s.Topics)
+            .Distinct()
+            .Select((topic, index) => new Topic(index + 1, topic)) // Assign unique IDs
+            .ToList();
+
+        Console.WriteLine("Unique Topics:");
+        foreach (var topic in uniqueTopics)
+        {
+            Console.WriteLine(topic);
+        }
+
+        // Transform StudentWithTopics into Student
+        var students2 = studentsWithTopics.Select(s => new Student(
+            s.Id,
+            s.Index,
+            s.Name,
+            s.Gender,
+            s.Active,
+            s.DepartmentId,
+            s.Topics.Select(topic => uniqueTopics.First(t => t.Name == topic).Id).ToList()
+        )).ToList();
+
+        Console.WriteLine("\nTransformed Students:");
+        foreach (var student in students2)
+        {
+            Console.WriteLine(student);
         }
     }
 }

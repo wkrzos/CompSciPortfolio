@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using StudentsApp.Models;
+using System.Reflection;
 
 public class Program
 {
@@ -127,5 +128,29 @@ public class Program
         {
             Console.WriteLine(student);
         }
+
+        // ex4
+        object calculator1 = new Calculator();
+        object calculator2 = new Calculator();
+
+        Type calculatorType = typeof(Calculator);
+
+        MethodInfo addMethod = calculatorType.GetMethod("Add");
+        MethodInfo multiplyMethod = calculatorType.GetMethod("Multiply");
+
+        //Console.WriteLine(addMethod);
+        //Console.WriteLine(multiplyMethod);
+
+        object resultAdd = addMethod.Invoke(calculator1, new object[] { 5, 3 });
+        Console.WriteLine($"Result of Add: {resultAdd}"); // Outputs: 8
+
+        object resultMultiply = multiplyMethod.Invoke(calculator2, new object[] { 4, 7 });
+        Console.WriteLine($"Result of Multiply: {resultMultiply}"); // Outputs: 28
+
+        object storedResultAdd = resultAdd;
+        object storedResultMultiply = resultMultiply;
+
+        Console.WriteLine($"Stored Add Result: {storedResultAdd}");
+        Console.WriteLine($"Stored Multiply Result: {storedResultMultiply}");
     }
 }

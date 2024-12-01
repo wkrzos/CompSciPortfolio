@@ -1,0 +1,77 @@
+# Compiled binary files
+/bin/
+/obj/
+/out/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.svd
+*.ncache
+*.seed
+
+# Build directories
+Build/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# .NET directories
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider/JetBrains specific files
+.idea/
+*.DotSettings.user
+
+# Visual Studio specific files
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+*.pyproj.user
+*.sln.docstates
+
+# ASP.NET
+wwwroot/
+
+# Mac/Linux generated files
+.DS_Store
+*.swp
+*.swo
+
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Recycle Bin used by Windows
+$RECYCLE.BIN/
+
+# NuGet packages folder
+packages/
+
+# Microsoft Visual Studio cache files
+.vs/
+
+# Application Insights
+*.ai.json
+
+# Local history for JetBrains IDEs
+.idea/
+.idea_modules/
+*.iws

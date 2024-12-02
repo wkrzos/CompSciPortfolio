@@ -14,7 +14,7 @@ public class Program
         // Example 2.1: Sort Topics by Frequency
         Ex21SortTopicsByFrequency();
 
-        // Example 2.2: Sort Topics by Gender and Frequency
+        // Example 2.2: Sort Topics by FirstLetterOfName and Frequency
         Ex22SortTopicsByGenderAndFrequency();
 
         // Example 3: Transform StudentsWithTopics into Students
@@ -82,16 +82,16 @@ public class Program
         }
     }
 
-    // Example 2.2: Sort Topics by Gender and Frequency
+    // Example 2.2: Sort Topics by the first letter of a student's name and Frequency
     public static void Ex22SortTopicsByGenderAndFrequency()
     {
         var students = CreateSampleStudents();
 
-        var topicsByGender = students
-            .GroupBy(s => s.Gender)
+        var topicsByFirstLetterOfName = students
+            .GroupBy(s => s.Name[0])
             .Select(group => new
             {
-                Gender = group.Key,
+                FirstLetterOfName = group.Key,
                 Topics = group
                     .SelectMany(s => s.Topics)
                     .GroupBy(topic => topic)
@@ -99,11 +99,11 @@ public class Program
                     .Select(g => new { Topic = g.Key, Count = g.Count() })
             });
 
-        Console.WriteLine("\nExample 2.2: Topics Sorted by Gender and Frequency");
-        foreach (var genderGroup in topicsByGender)
+        Console.WriteLine("\nExample 2.2: Topics Sorted by FirstLetterOfName and Frequency");
+        foreach (var firstLetterGroup in topicsByFirstLetterOfName)
         {
-            Console.WriteLine($"Gender: {genderGroup.Gender}");
-            foreach (var topic in genderGroup.Topics)
+            Console.WriteLine($"FirstLetterOfName: {firstLetterGroup.FirstLetterOfName}");
+            foreach (var topic in firstLetterGroup.Topics)
             {
                 Console.WriteLine($"  Topic: {topic.Topic}, Count: {topic.Count}");
             }

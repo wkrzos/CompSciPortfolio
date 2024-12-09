@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/wojciu/CompSciPortfolio/WebAppsDotNET-CompSci-Fall2024/Laboratories/lab8/Lab8/Lab8.csproj",
+      "projectUniqueName": "/home/wojciu/projects/CompSciPortfolio/WebAppsDotNET-CompSci-Fall2024/Laboratories/lab8/Lab8/Lab8.csproj",
       "projectName": "Lab8",
-      "projectPath": "/home/wojciu/CompSciPortfolio/WebAppsDotNET-CompSci-Fall2024/Laboratories/lab8/Lab8/Lab8.csproj",
+      "projectPath": "/home/wojciu/projects/CompSciPortfolio/WebAppsDotNET-CompSci-Fall2024/Laboratories/lab8/Lab8/Lab8.csproj",
       "packagesPath": "/home/wojciu/.nuget/packages/",
-      "outputPath": "/home/wojciu/CompSciPortfolio/WebAppsDotNET-CompSci-Fall2024/Laboratories/lab8/Lab8/obj/",
+      "outputPath": "/home/wojciu/projects/CompSciPortfolio/WebAppsDotNET-CompSci-Fall2024/Laboratories/lab8/Lab8/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/wojciu/.nuget/NuGet/NuGet.Config"

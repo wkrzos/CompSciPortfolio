@@ -6,6 +6,8 @@ namespace Lab8.Controllers
     public class GameController : Controller
     {
         private static int range = 10;
+        private static int lowerRange = 0;
+        
         private static int randValue;
         private static int attempts;
         private static Random random = new Random();
@@ -13,6 +15,31 @@ namespace Lab8.Controllers
         static GameController()
         {
             DrawNewNumber();
+        }
+
+        [Route("Set/{n}/{m}")]
+        public IActionResult Set(int n, int m)
+        {
+            if (n <= 0)
+            {
+                ViewData["Message"] = "The range must be a positive integer.";
+                ViewData["CssClass"] = "error";
+                return View("Result");
+            }
+
+            if (n <= m)
+            {
+                ViewData["Message"] = "The upper range must be greater than the lower range.";
+                ViewData["CssClass"] = "error";
+                return View("Result");
+            }
+
+            range = n;
+            lowerRange = m;
+            DrawNewNumber();
+            ViewData["Message"] = $"Range set to {lowerRange} - {range}. A new number has been drawn.";
+            ViewData["CssClass"] = "info";
+            return View("Result");
         }
 
         [Route("Set/{n}")]
@@ -25,9 +52,16 @@ namespace Lab8.Controllers
                 return View("Result");
             }
 
+            if (n <= lowerRange)
+            {
+                ViewData["Message"] = "The upper range must be greater than the lower range.";
+                ViewData["CssClass"] = "error";
+                return View("Result");
+            }
+
             range = n;
             DrawNewNumber();
-            ViewData["Message"] = $"Range set to {range}. A new number has been drawn.";
+            ViewData["Message"] = $"Range set to {lowerRange} - {range}. A new number has been drawn.";
             ViewData["CssClass"] = "info";
             return View("Result");
         }
@@ -68,7 +102,7 @@ namespace Lab8.Controllers
 
         private static void DrawNewNumber()
         {
-            randValue = random.Next(range);
+            randValue = random.Next(lowerRange, range);
             attempts = 0;
         }
     }

@@ -7,9 +7,10 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 OneWire oneWire(A1);
 DallasTemperature tempSensors(&oneWire);
 
-const int RED_PIN = 9;
-const int GREEN_PIN = 10;
-const int BLUE_PIN = 11;
+const int RED_PIN = 6;
+const int GREEN_PIN = 5;
+const int BLUE_PIN = 3;
+const int GREEN_BUTTON = 4; // Green button pin
 
 float maxTemp = -100.0;
 float minTemp = 100.0;
@@ -23,17 +24,21 @@ void setup() {
     pinMode(RED_PIN, OUTPUT);
     pinMode(GREEN_PIN, OUTPUT);
     pinMode(BLUE_PIN, OUTPUT);
+    pinMode(GREEN_BUTTON, INPUT_PULLUP); // Configure button as input with internal pull-up
 
     lcd.setCursor(0, 0);
     lcd.print("Weather Station");
     delay(2000);
+
+    setRGB(0, 0, 255);
+
     lcd.clear();
 }
 
 void loop() {
     tempSensors.requestTemperatures();
-    float internalTemp = tempSensors.getTempCByIndex(0); // Internal sensor
-    float externalTemp = tempSensors.getTempCByIndex(1); // External sensor
+    float internalTemp = tempSensors.getTempCByIndex(1); // Internal sensor
+    float externalTemp = tempSensors.getTempCByIndex(0); // External sensor
 
     if (externalTemp > maxTemp) maxTemp = externalTemp;
     if (externalTemp < minTemp) minTemp = externalTemp;
@@ -60,6 +65,11 @@ void loop() {
         setRGB(255, 0, 0);
     } else {
         setRGB(0, 255, 0);
+    }
+
+    if (digitalRead(GREEN_BUTTON) == LOW) {
+        maxTemp = -100.0;
+        delay(200);
     }
 
     delay(1000);

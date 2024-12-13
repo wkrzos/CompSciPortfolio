@@ -9,8 +9,8 @@ import adafruit_bme280.advanced as adafruit_bme280
 import sys
 
 # GPIO button pins
-red_button = 22  # Switch to thermometer mode
-green_button = 23  # Switch to hygrometer mode
+red_button = 5  # Switch to thermometer mode
+green_button = 6  # Switch to hygrometer mode
 
 # Initialize WS2812 LED strip
 NUM_PIXELS = 8
@@ -34,12 +34,13 @@ def update_thermometer():
     # Map temperature to LEDs
     for i in range(NUM_PIXELS):
         if temp_offset + i <= temperature:
+            index = NUM_PIXELS - 1 - i  # Reverse the order of LEDs
             if i < 3:
-                pixels[i] = (0, 0, 255)  # Blue
+                pixels[index] = (0, 0, 255)  # Blue
             elif i < 5:
-                pixels[i] = (0, 255, 0)  # Green
+                pixels[index] = (0, 255, 0)  # Green
             else:
-                pixels[i] = (255, 0, 0)  # Red
+                pixels[index] = (255, 0, 0)  # Red
     pixels.show()
     print(f"Thermometer Mode: Temperature = {temperature:.1f}°C")
 
@@ -50,12 +51,13 @@ def update_hygrometer():
     # Map humidity to LEDs
     for i in range(NUM_PIXELS):
         if 10 + i * 10 <= humidity:
+            index = NUM_PIXELS - 1 - i  # Reverse the order of LEDs
             if i < 3:
-                pixels[i] = (255, 0, 0)  # Red
+                pixels[index] = (255, 0, 0)  # Red
             elif i < 6:
-                pixels[i] = (0, 255, 0)  # Green
+                pixels[index] = (0, 255, 0)  # Green
             else:
-                pixels[i] = (0, 0, 255)  # Blue
+                pixels[index] = (0, 0, 255)  # Blue
     pixels.show()
     print(f"Hygrometer Mode: Humidity = {humidity:.1f}%")
 

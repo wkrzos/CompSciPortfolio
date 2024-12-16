@@ -9,11 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Register the dependency for IArticlesContext
-builder.Services.AddScoped<IArticlesContext, ArticlesListContext>(provider =>
-{
-    Console.WriteLine($"New ArticlesListContext instance created: {Guid.NewGuid()}");
-    return new ArticlesListContext();
-});
+builder.Services.AddSingleton<IArticlesContext, ArticlesListContext>();
 
 var app = builder.Build();
 

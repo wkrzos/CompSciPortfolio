@@ -5,9 +5,11 @@ from mfrc522 import MFRC522
 import board
 import neopixel
 from datetime import datetime
+from PIL import Image, ImageDraw, ImageFont
+import lib.oled.SSD1331 as SSD1331
 
 # GPIO pin for buzzer
-buzzer_pin = 18
+buzzer_pin = 23
 
 # WS2812 LED setup
 NUM_PIXELS = 8
@@ -24,6 +26,31 @@ def visual_feedback():
     time.sleep(0.5)
     pixels.fill((0, 0, 0))  # Turn off LEDs
     pixels.show()
+
+def oled_feedback(uid, timestamp):
+    # Initialize OLED display
+    disp = SSD1331.SSD1331()
+    disp.Init()
+    disp.clear()
+
+    # Create blank image for drawing
+    image = Image.new("RGB", (disp.width, disp.height), "BLACK")
+    draw = ImageDraw.Draw(image)
+
+    # Load fonts
+    font_large = ImageFont.truetype("./lib/oled/Font.ttf", 15)
+    font_small = ImageFont.truetype("./lib/oled/Font.ttf", 9)
+
+    # Draw UID and timestamp
+    #draw.text((5, 5), "Card UID:", font=font_small, fill="WHITE")
+    draw.text((5, 5), uid, font=font_small, fill="WHITE")
+    #draw.text((5, 45), "Time:", font=font_small, fill="WHITE")
+    draw.text((5, 45), timestamp, font=font_small, fill="WHITE")
+
+    # Display on OLED
+    disp.ShowImage(image, 0, 0)
+    time.sleep(2)
+    disp.clear()
 
 def rfid_read():
     MIFAREReader = MFRC522()
@@ -49,8 +76,9 @@ def rfid_read():
                     print(f"Card registered: UID={card_uid}, Time={timestamp}")
 
                     # Trigger feedback
-                    play_buzzer()
+                    #play_buzzer()
                     visual_feedback()
+                    oled_feedback(card_uid, timestamp)
 
                     # Simulate delay to avoid multiple registrations
                     time.sleep(1)

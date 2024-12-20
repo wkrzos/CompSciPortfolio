@@ -15,6 +15,10 @@ buzzer_pin = 23
 NUM_PIXELS = 8
 pixels = neopixel.NeoPixel(board.D18, NUM_PIXELS, brightness=1.0/32, auto_write=False)
 
+# Store cards that respected the cooldown
+registered_cards = []
+
+
 def play_buzzer():
     GPIO.output(buzzer_pin, GPIO.HIGH)
     time.sleep(0.2)
@@ -42,9 +46,7 @@ def oled_feedback(uid, timestamp):
     font_small = ImageFont.truetype("./lib/oled/Font.ttf", 9)
 
     # Draw UID and timestamp
-    #draw.text((5, 5), "Card UID:", font=font_small, fill="WHITE")
     draw.text((5, 5), uid, font=font_small, fill="WHITE")
-    #draw.text((5, 45), "Time:", font=font_small, fill="WHITE")
     draw.text((5, 45), timestamp, font=font_small, fill="WHITE")
 
     # Display on OLED
@@ -54,34 +56,38 @@ def oled_feedback(uid, timestamp):
 
 def rfid_read():
     MIFAREReader = MFRC522()
-    registered_cards = set()  # Keep track of already registered UIDs
+    cooldown_time = 5  # Cooldown period in seconds
+    cooldown_tracker = {}
 
     print("Place the card close to the reader.")
 
     while True:
         (status, TagType) = MIFAREReader.MFRC522_Request(MIFAREReader.PICC_REQIDL)
+        print(f"DEBUG: status={status}, registered_cards={registered_cards}")
 
         if status == MIFAREReader.MI_OK:
             (status, uid) = MIFAREReader.MFRC522_Anticoll()
+            print(f"DEBUG: Anticollision status={status}, uid={uid}")
 
             if status == MIFAREReader.MI_OK:
                 # Combine UID to a single number for easier identification
                 card_uid = "".join([f"{byte:02X}" for byte in uid])
+                current_time = time.time()
 
-                if card_uid not in registered_cards:
-                    registered_cards.add(card_uid)  # Register the card
+                # Check if card respects cooldown
+                if card_uid not in cooldown_tracker or current_time - cooldown_tracker[card_uid] > cooldown_time:
+                    cooldown_tracker[card_uid] = current_time
                     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
                     # Log the card UID and timestamp
+                    registered_cards.append((card_uid, timestamp))
                     print(f"Card registered: UID={card_uid}, Time={timestamp}")
 
                     # Trigger feedback
-                    #play_buzzer()
                     visual_feedback()
                     oled_feedback(card_uid, timestamp)
 
-                    # Simulate delay to avoid multiple registrations
-                    time.sleep(1)
+        time.sleep(0.1)  # Small delay to reduce unnecessary polling
 
 def test():
     print("\nThe RFID reader test with buzzer and LED feedback.")

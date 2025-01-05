@@ -26,7 +26,7 @@ struct dungeon_lackeyApp: App {
 
     var body: some Scene {
         WindowGroup {
-            Notes()
+            NoteDetailsView()
         }
         .modelContainer(sharedModelContainer)
     }

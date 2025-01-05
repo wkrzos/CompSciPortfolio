@@ -16,51 +16,75 @@ struct AddNoteView: View {
     @State private var date = Date()
     @State private var content = ""
     
-    @Query var allTags: [Tag]
+    @Query(filter: #Predicate<Tag> { _ in true }) var allTags: [Tag]
     @State private var selectedTags: Set<Tag> = []
     @State private var searchQuery = ""
 
-    
     var body: some View {
         Form {
-            TextField("Title", text:$title)
-            DatePicker("Date", selection: $date, displayedComponents: .date)
-            TextEditor(text: $content)
-                .frame(height: 200)
-            
-            TextField("Search tags", text: $searchQuery)
-                .padding(.top)
-            List(filteredTags, id: \.id) { tag in
-                Button(action: {
-                    if selectedTags.contains(tag) {
-                        selectedTags.remove(tag)
-                    } else {
-                        selectedTags.insert(tag)
+            Section(header: Text("Note Details")) {
+                TextField("Title", text: $title)
+                DatePicker("Date", selection: $date, displayedComponents: .date)
+                ZStack(alignment: .topLeading) {
+                    if content.isEmpty {
+                        Text("Enter your note content...")
+                            .foregroundColor(.gray)
+                            .padding(.top, 8)
+                            .padding(.leading, 4)
                     }
-                }) {
-                    Text("#\(tag.name)")
-                        .foregroundColor(selectedTags.contains(tag) ? .blue : .primary)
+                    TextEditor(text: $content)
+                        .frame(height: 200)
                 }
             }
-            .frame(height:200)
-            .listStyle(.plain)
             
-            Button("Save Note"){
+            Section(header: Text("Tags")) {
+                TextField("Search tags", text: $searchQuery)
+                    .padding(.top)
+                
+                List(filteredTags, id: \.id) { tag in
+                    Button(action: {
+                        toggleTagSelection(tag)
+                    }) {
+                        HStack {
+                            Text("#\(tag.name)")
+                            Spacer()
+                            if selectedTags.contains(tag) {
+                                Image(systemName: "checkmark")
+                                    .foregroundColor(.blue)
+                            }
+                        }
+                        .contentShape(Rectangle())
+                    }
+                }
+                .frame(height: 200)
+                .listStyle(.plain)
+            }
+            
+            Button("Save Note") {
                 saveNote()
             }
             .disabled(title.isEmpty || content.isEmpty)
         }
         .padding()
+        .navigationTitle("Add Note")
+        .navigationBarTitleDisplayMode(.inline)
     }
     
     private var filteredTags: [Tag] {
-        allTags.filter { searchQuery.isEmpty || $0.name.localizedCaseInsensitiveContains(searchQuery)}
+        allTags.filter { searchQuery.isEmpty || $0.name.localizedCaseInsensitiveContains(searchQuery) }
     }
     
-    private func saveNote(){
-        let newNote = Note(title: title, date: date, tags: selectedTags, content: content)
-        
-        print(newNote.title)
+    private func toggleTagSelection(_ tag: Tag) {
+        if selectedTags.contains(tag) {
+            selectedTags.remove(tag)
+        } else {
+            selectedTags.insert(tag)
+        }
+    }
+    
+    private func saveNote() {
+        let newNote = Note(title: title, date: date, content: content)
+        newNote.tags = Array(selectedTags) // Convert Set to Array
         
         context.insert(newNote)
         

@@ -41,16 +41,22 @@ struct HomeView: View {
             nextSession: Date()
         )
         
-        // Add some sample tags and notes
-        campaign.tags = [
+        let sampleTags = [
             Tag(name: "Fantasy", tagDescription: "High fantasy setting"),
             Tag(name: "Adventure", tagDescription: "Quest-based campaign")
         ]
+        
+        // Add some sample tags and notes
+        campaign.tags = sampleTags
         
         campaign.notes = [
             Note(title: "Intro Session", date: Date(), content: "Welcome to the campaign!"),
             Note(title: "The Lost Artifact", date: Date(), content: "Details about the lost artifact.")
         ]
+        
+//        campaign.notes.forEach { note in
+//            note.tags = sampleTags
+//        }
         
         return campaign
     }

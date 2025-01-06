@@ -7,6 +7,7 @@ struct CampaignView: View {
     @Bindable var campaign: Campaign // Campaign model instance
 
     @State private var searchText: String = "" // For search functionality
+    @State private var isDatePickerPresented: Bool = false // Controls the date picker modal
 
     var body: some View {
         NavigationView {
@@ -46,9 +47,13 @@ struct CampaignView: View {
                                 .font(.caption)
                                 .foregroundColor(.gray)
                                 .frame(width: 70, alignment: .leading)
-                            Text(campaign.nextSession!, style: .date)
+
+                            Text(campaign.nextSession.map { DateFormatter.localizedString(from: $0, dateStyle: .medium, timeStyle: .none) } ?? "Select a date")
                                 .font(.caption)
-                                .foregroundColor(.gray)
+                                .foregroundColor(.blue)
+                                .onTapGesture {
+                                    isDatePickerPresented = true
+                                }
                         }
 
                         HStack(alignment: .top) {
@@ -58,9 +63,6 @@ struct CampaignView: View {
                                 .font(.caption)
                                 .foregroundColor(.gray)
                                 .frame(width: 70, alignment: .leading)
-//                            Text(campaign.tags.joined(separator: ", "))
-//                                .font(.caption)
-//                                .foregroundColor(.blue)
                             Text(campaign.tags.map { $0.name }.joined(separator: ", "))
                                 .font(.caption)
                                 .foregroundColor(.blue)
@@ -87,15 +89,32 @@ struct CampaignView: View {
                 }
                 .padding(.horizontal)
 
-                // Notes List
-                List(filteredNotes) { note in
-                    NavigationLink(destination: NoteDetailsView(note: note)) {
-                        Text(note.title)
+                // Notes List or Placeholder
+                if filteredNotes.isEmpty {
+                    // Display the placeholder text
+                    VStack {
+                        Text("The library shelves are empty, and no pages can be found. Why not start a new chapter? Add your first note and let your adventure begin!")
                             .font(.body)
+                            .foregroundColor(.gray)
+                            .italic()
+                            .multilineTextAlignment(.center)
+                            .padding()
+                        Spacer()
                     }
+                } else {
+                    // Display the list of notes
+                    List(filteredNotes) { note in
+                        NavigationLink(destination: NoteDetailsView(note: note)) {
+                            Text(note.title)
+                                .font(.body)
+                            Text(note.tags.map { $0.name }.joined(separator: ", "))
+                                .font(.caption)
+                                .foregroundColor(.blue)
+                        }
+                    }
+                    .listStyle(.plain)
+                    .padding(.horizontal)
                 }
-                .listStyle(.plain)
-                .padding(.horizontal)
 
                 Spacer()
             }
@@ -117,6 +136,27 @@ struct CampaignView: View {
                         Image(systemName: "trash")
                     }
                 }
+            }
+            .sheet(isPresented: $isDatePickerPresented) {
+                // DatePicker modal
+                VStack {
+                    DatePicker("Select Session Date", selection: Binding(
+                        get: { campaign.nextSession ?? Date() },
+                        set: { campaign.nextSession = $0 }
+                    ), displayedComponents: .date)
+                        .datePickerStyle(.graphical)
+                        .padding()
+
+                    Button("Done") {
+                        isDatePickerPresented = false
+                    }
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(.white)
+                    .cornerRadius(8)
+                }
+                .presentationDetents([.medium])
+                .padding()
             }
         }
     }

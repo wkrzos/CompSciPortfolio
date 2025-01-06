@@ -1,10 +1,3 @@
-//
-//  dungeon_lackeyApp.swift
-//  dungeon-lackey
-//
-//  Created by stud on 05/11/2024.
-//
-
 import SwiftUI
 import SwiftData
 
@@ -26,7 +19,7 @@ struct dungeon_lackeyApp: App {
 
     var body: some Scene {
         WindowGroup {
-            NoteDetailsView()
+            ContentView()
         }
         .modelContainer(sharedModelContainer)
     }

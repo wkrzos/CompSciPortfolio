@@ -1,10 +1,3 @@
-//
-//  Note.swift
-//  dungeon-lackey
-//
-//  Created by stud on 05/11/2024.
-//
-
 import Foundation
 import SwiftData
 

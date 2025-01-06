@@ -8,7 +8,7 @@
 import SwiftUI
 import SwiftData
 
-struct AddNoteView: View {
+struct AddNote: View {
     @Environment(\.modelContext) private var context
     @Environment(\.dismiss) var dismiss
     

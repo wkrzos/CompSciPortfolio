@@ -14,8 +14,10 @@ NUM_PIXELS = 8
 pixels = neopixel.NeoPixel(board.D18, NUM_PIXELS, brightness=1.0/32, auto_write=False)
 
 def play_buzzer():
-    GPIO.output(buzzer_pin, GPIO.HIGH)
+    p = GPIO.PWM(buzzer_pin, 2000)
+    p.start(50)
     time.sleep(0.2)
+    p.stop()
     GPIO.output(buzzer_pin, GPIO.LOW)
 
 def visual_feedback():

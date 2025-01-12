@@ -2,10 +2,13 @@ import json
 import time
 import paho.mqtt.client as mqtt
 
+# Optional: if you need access to GPIO or config pins in the subscriber:
+# import config
+
 # ----- MQTT Configuration -----
 BROKER_ADDRESS = "broker.hivemq.com"
 BROKER_PORT = 1883
-MQTT_TOPIC = "your_channel/rfid"  # same topic as in rfid_publisher.py
+MQTT_TOPIC = "your_channel/rfid"  # same topic as in publisher.py
 
 def on_connect(client, userdata, flags, rc):
     if rc == 0:

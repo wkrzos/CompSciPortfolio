@@ -1,43 +1,58 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Http;
 using System;
 
 namespace Lab8.Controllers
 {
     public class GameController : Controller
     {
-        private static int range = 10;
-        private static int lowerRange = 0;
-        
-        private static int randValue;
-        private static int attempts;
-        private static Random random = new Random();
+        private const string SessionKeyRange = "Range";
+        private const string SessionKeyLowerRange = "LowerRange";
+        private const string SessionKeyRandValue = "RandValue";
+        private const string SessionKeyAttempts = "Attempts";
 
-        static GameController()
+        private Random _random = new Random();
+
+        private int Range
         {
-            DrawNewNumber();
+            get => HttpContext.Session.GetInt32(SessionKeyRange) ?? 10;
+            set => HttpContext.Session.SetInt32(SessionKeyRange, value);
+        }
+
+        private int LowerRange
+        {
+            get => HttpContext.Session.GetInt32(SessionKeyLowerRange) ?? 0;
+            set => HttpContext.Session.SetInt32(SessionKeyLowerRange, value);
+        }
+
+        private int RandValue
+        {
+            get => HttpContext.Session.GetInt32(SessionKeyRandValue) ?? DrawNewNumber();
+            set => HttpContext.Session.SetInt32(SessionKeyRandValue, value);
+        }
+
+        private int Attempts
+        {
+            get => HttpContext.Session.GetInt32(SessionKeyAttempts) ?? 0;
+            set => HttpContext.Session.SetInt32(SessionKeyAttempts, value);
         }
 
         [Route("Set/{n}/{m}")]
         public IActionResult Set(int n, int m)
         {
-            if (n <= 0)
+            if (n <= 0 || n <= m)
             {
-                ViewData["Message"] = "The range must be a positive integer.";
+                ViewData["Message"] = n <= 0
+                    ? "The range must be a positive integer."
+                    : "The upper range must be greater than the lower range.";
                 ViewData["CssClass"] = "error";
                 return View("Result");
             }
 
-            if (n <= m)
-            {
-                ViewData["Message"] = "The upper range must be greater than the lower range.";
-                ViewData["CssClass"] = "error";
-                return View("Result");
-            }
-
-            range = n;
-            lowerRange = m;
+            Range = n;
+            LowerRange = m;
             DrawNewNumber();
-            ViewData["Message"] = $"Range set to {lowerRange} - {range}. A new number has been drawn.";
+            ViewData["Message"] = $"Range set to {LowerRange} - {Range}. A new number has been drawn.";
             ViewData["CssClass"] = "info";
             return View("Result");
         }
@@ -45,23 +60,18 @@ namespace Lab8.Controllers
         [Route("Set/{n}")]
         public IActionResult Set(int n)
         {
-            if (n <= 0)
+            if (n <= 0 || n <= LowerRange)
             {
-                ViewData["Message"] = "The range must be a positive integer.";
+                ViewData["Message"] = n <= 0
+                    ? "The range must be a positive integer."
+                    : "The upper range must be greater than the lower range.";
                 ViewData["CssClass"] = "error";
                 return View("Result");
             }
 
-            if (n <= lowerRange)
-            {
-                ViewData["Message"] = "The upper range must be greater than the lower range.";
-                ViewData["CssClass"] = "error";
-                return View("Result");
-            }
-
-            range = n;
+            Range = n;
             DrawNewNumber();
-            ViewData["Message"] = $"Range set to {lowerRange} - {range}. A new number has been drawn.";
+            ViewData["Message"] = $"Range set to {LowerRange} - {Range}. A new number has been drawn.";
             ViewData["CssClass"] = "info";
             return View("Result");
         }
@@ -78,21 +88,21 @@ namespace Lab8.Controllers
         [Route("Guess/{guess}")]
         public IActionResult Guess(int guess)
         {
-            attempts++;
+            Attempts++;
 
-            if (guess < randValue)
+            if (guess < RandValue)
             {
-                ViewData["Message"] = $"Attempt {attempts}: {guess} is too low.";
+                ViewData["Message"] = $"Attempt {Attempts}: {guess} is too low.";
                 ViewData["CssClass"] = "low";
             }
-            else if (guess > randValue)
+            else if (guess > RandValue)
             {
-                ViewData["Message"] = $"Attempt {attempts}: {guess} is too high.";
+                ViewData["Message"] = $"Attempt {Attempts}: {guess} is too high.";
                 ViewData["CssClass"] = "high";
             }
             else
             {
-                ViewData["Message"] = $"Congratulations! {guess} is correct. It took you {attempts} attempts.";
+                ViewData["Message"] = $"Congratulations! {guess} is correct. It took you {Attempts} attempts.";
                 ViewData["CssClass"] = "success";
                 DrawNewNumber();
             }
@@ -100,10 +110,12 @@ namespace Lab8.Controllers
             return View("Result");
         }
 
-        private static void DrawNewNumber()
+        private int DrawNewNumber()
         {
-            randValue = random.Next(lowerRange, range);
-            attempts = 0;
+            int newNumber = _random.Next(LowerRange, Range);
+            RandValue = newNumber;
+            Attempts = 0;
+            return newNumber;
         }
     }
 }

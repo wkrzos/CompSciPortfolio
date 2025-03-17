@@ -1,0 +1,60 @@
+// CONTENT BLOCKS (@extend example)
+%content-block {
+    margin: 15px 0;
+    padding: 12px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+    h3 {
+      margin-top: 0;
+      font-weight: bold;
+    }
+    
+    p {
+      margin-bottom: 5px;
+    }
+  }
+  
+  .theory {
+    @extend %content-block;
+    background-color: #e6f2ff; // TODO ask about whether those should be set as vars or if this is ok
+    border-left: 5px solid #3379b7;
+    
+    h3::before { // the before concerns the h3 inside the .theory
+      content: "Theory: "; // always adds the "Theory: ' text before the actual h3 text in html
+      font-style: italic;
+    }
+  }
+  
+  .model {
+    @extend %content-block;
+    background-color: #e6ffe6;
+    border-left: 5px solid #2e8b57;
+    
+    h3::before {
+      content: "Model: ";
+      font-style: italic;
+    }
+  }
+  
+  .warning {
+    @extend %content-block;
+    background-color: #fff0f0;
+    border-left: 5px solid #d9534f;
+    
+    h3::before {
+      content: "Warning: ";
+      font-weight: bold;
+    }
+  }
+  
+  .success {
+    @extend %content-block;
+    background-color: #f0fff0;
+    border-left: 5px solid #5cb85c;
+    
+    h3::before {
+      content: "Success Story: ";
+      font-style: italic;
+    }
+  }

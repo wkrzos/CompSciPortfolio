@@ -1,0 +1,10 @@
+@use "../helpers" as *;
+
+// UTILITY CLASSES
+.margin {
+  &-xs { margin: $spacing-xs; }
+  &-sm { margin: $spacing-sm; }
+  &-md { margin: $spacing-md; }
+  &-lg { margin: $spacing-lg; }
+  &-xl { margin: $spacing-xl; }
+}

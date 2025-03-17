@@ -1,0 +1,39 @@
+@use "sass:color";
+@use "../helpers" as *;
+
+// CHANGE PHASE COMPONENTS
+.change-phase {
+  padding: $spacing-md;
+  margin-bottom: $spacing-lg;
+  border-radius: 4px;
+  
+  &-awareness {
+    background-color: color.adjust($awareness-color, $lightness: 30%);
+    border-left: 5px solid $awareness-color;
+  }
+  
+  &-desire {
+    background-color: color.adjust($desire-color, $lightness: 30%);
+    border-left: 5px solid $desire-color;
+  }
+  
+  &-knowledge {
+    background-color: color.adjust($knowledge-color, $lightness: 30%);
+    border-left: 5px solid $knowledge-color;
+  }
+  
+  &-ability {
+    background-color: color.adjust($ability-color, $lightness: 30%);
+    border-left: 5px solid $ability-color;
+  }
+  
+  &-reinforcement {
+    background-color: color.adjust($reinforcement-color, $lightness: 30%);
+    border-left: 5px solid $reinforcement-color;
+  }
+  
+  h3 {
+    font-size: calculate-responsive-size($base-text-size);
+    margin-top: 0;
+  }
+}

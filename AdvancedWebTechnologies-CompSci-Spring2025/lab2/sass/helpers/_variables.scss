@@ -1,0 +1,24 @@
+@use "sass:color";
+@use "constants";
+@use "functions" as func;
+
+// variables
+$font-stack: Montserrat, sans-serif;
+$primary-color: #333;
+$accent-color: #4285f4;
+$dark-accent: color.adjust($accent-color, $lightness: -15%);
+$light-bg: #f8f9fa;
+
+// Spacing system (defined in constants)
+$spacing-xs: calc(constants.$base-spacing / 2); // 4px
+$spacing-sm: constants.$base-spacing; // 8px
+$spacing-md: constants.$base-spacing * 2; // 16px
+$spacing-lg: constants.$base-spacing * 3; // 24px
+$spacing-xl: constants.$base-spacing * 4; // 32px
+
+// Color variables from functions
+$awareness-color: func.change-phase-color("awareness");
+$desire-color: func.change-phase-color("desire");
+$knowledge-color: func.change-phase-color("knowledge");
+$ability-color: func.change-phase-color("ability");
+$reinforcement-color: func.change-phase-color("reinforcement");

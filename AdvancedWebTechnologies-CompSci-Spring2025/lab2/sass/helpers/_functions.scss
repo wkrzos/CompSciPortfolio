@@ -1,0 +1,24 @@
+@use "constants";
+@use "sass:color";
+
+// color functions for change management phases
+@function change-phase-color($phase, $lightness: 50%) {
+  @if $phase == "awareness" {
+    @return hsl(constants.$primary-hue, 80%, $lightness); // hue, saturation, lightness
+  } @else if $phase == "desire" {
+    @return hsl(constants.$primary-hue + 30, 70%, $lightness);
+  } @else if $phase == "knowledge" {
+    @return hsl(constants.$primary-hue + 60, 60%, $lightness);
+  } @else if $phase == "ability" {
+    @return hsl(constants.$primary-hue + 90, 50%, $lightness);
+  } @else if $phase == "reinforcement" {
+    @return hsl(constants.$primary-hue + 120, 60%, $lightness);
+  } @else {
+    @return hsl(constants.$primary-hue, 50%, $lightness);
+  }
+}
+
+// responsive text scaling
+@function calculate-responsive-size($size, $scale-factor: 1.2) {
+  @return #{$size * $scale-factor}px;
+}

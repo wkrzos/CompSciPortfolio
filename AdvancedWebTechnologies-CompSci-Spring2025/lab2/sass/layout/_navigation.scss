@@ -1,0 +1,77 @@
+@use "../helpers/variables" as variables;
+@use "../helpers/functions" as functions;
+@use "../helpers/constants" as constants;
+
+// NAVIGATION BAR
+.main-nav {
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    
+    .nav-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: variables.$spacing-sm variables.$spacing-md; // top bottom padding
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    .logo {
+      font-size: functions.calculate-responsive-size(constants.$base-text-size, 1.4);
+      font-weight: bold;
+      
+      a {
+        text-decoration: none;
+        color: variables.$primary-color;
+        
+        span {
+          color: variables.$accent-color; // the 'Pro' in html
+        }
+      }
+    }
+    
+    .nav-links {
+      display: flex;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      
+      li {
+        margin-left: variables.$spacing-lg;
+        
+        &:first-child {
+          margin-left: 0;
+        }
+        
+        a {
+          text-decoration: none; // hides the underlining
+          color: variables.$primary-color;
+          padding: variables.$spacing-xs variables.$spacing-sm;
+          transition: all 0.3s ease; // makes the text slowly turn blue
+          border-radius: 4px;
+          
+          &:hover {
+            color: variables.$accent-color;
+          }
+          
+          &.active {
+            color: variables.$accent-color;
+            font-weight: 600;
+          }
+          
+          &.nav-button {
+            background-color: variables.$accent-color;
+            color: #fff;
+            padding: variables.$spacing-xs variables.$spacing-md;
+            
+            &:hover {
+              background-color: variables.$dark-accent;
+            }
+          }
+        }
+      }
+    }
+  }

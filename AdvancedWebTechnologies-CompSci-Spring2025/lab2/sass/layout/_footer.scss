@@ -1,0 +1,69 @@
+@use "sass:color";
+@use "../helpers/variables" as variables;
+@use "../helpers/functions" as functions;
+@use "../helpers/constants" as constants;
+
+// FOOTER
+.main-footer {
+    background-color: color.scale(variables.$primary-color, $lightness: 10%);
+    color: #fff;
+    padding-top: variables.$spacing-xl;
+    margin-top: variables.$spacing-xl * 2;
+    
+    .footer-container {
+      max-width: 1200px;
+      margin: 0 auto; // centers the footer
+      display: flex; // default flex is horizontal
+      justify-content: space-between;
+      
+      .footer-section {
+        flex: 1;
+        min-width: 250px; // stops responsively getting smaller on this threshold
+        padding: 0 variables.$spacing-md variables.$spacing-lg 0; // top right bottom left
+        
+        h4 {
+          color: color.adjust(variables.$accent-color, $lightness: 20%);
+          margin-bottom: variables.$spacing-md;
+          font-size: functions.calculate-responsive-size(constants.$base-text-size, 1.1);
+          position: relative;
+          padding-bottom: variables.$spacing-xs;
+        }
+        
+        p {
+          line-height: 1.6;
+          margin-bottom: variables.$spacing-md;
+        }
+        
+        ul {
+          list-style: none;
+          padding: 0;
+          
+          li {
+            margin-bottom: variables.$spacing-sm;
+            
+            a {
+              color: #ddd;
+              text-decoration: none;
+              transition: color 0.3s ease;
+              
+              &:hover {
+                color: variables.$accent-color;
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    .footer-bottom {
+      background-color: color.adjust(variables.$primary-color, $lightness: -5%);
+      padding: variables.$spacing-md 0;
+      text-align: center;
+      margin-top: variables.$spacing-lg;
+      
+      p {
+        margin: 0;
+        color: #aaa;
+      }
+    }
+  }

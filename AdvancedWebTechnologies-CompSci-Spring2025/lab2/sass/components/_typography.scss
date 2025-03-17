@@ -1,0 +1,22 @@
+// TYPOGRAPHY COMPONENTS
+div {
+  div-header-shared {
+    color: rgb(199, 90, 0);
+  }
+
+  h1 {
+    @extend div-header-shared
+  }
+
+  h2 {
+    @extend div-header-shared
+  }
+
+  h3 {
+    @extend div-header-shared
+  }
+
+  p {
+      color: rgb(80, 36, 0);
+  }
+}

@@ -1,0 +1,244 @@
+body {
+  font: 100% Montserrat, sans-serif;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+div div-header-shared, div h3, div h2, div h1 {
+  color: rgb(199, 90, 0);
+}
+div p {
+  color: rgb(80, 36, 0);
+}
+
+.callout {
+  border: 1px solid #43865a;
+  padding: 10px;
+}
+
+.info {
+  border: 1px solid #43865a;
+  padding: 10px;
+  background-color: #fff5d4;
+}
+
+.success, .warning, .model, .theory {
+  margin: 15px 0;
+  padding: 12px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.success h3, .warning h3, .model h3, .theory h3 {
+  margin-top: 0;
+  font-weight: bold;
+}
+.success p, .warning p, .model p, .theory p {
+  margin-bottom: 5px;
+}
+
+.theory {
+  background-color: #e6f2ff;
+  border-left: 5px solid #3379b7;
+}
+.theory h3::before {
+  content: "Theory: ";
+  font-style: italic;
+}
+
+.model {
+  background-color: #e6ffe6;
+  border-left: 5px solid #2e8b57;
+}
+.model h3::before {
+  content: "Model: ";
+  font-style: italic;
+}
+
+.warning {
+  background-color: #fff0f0;
+  border-left: 5px solid #d9534f;
+}
+.warning h3::before {
+  content: "Warning: ";
+  font-weight: bold;
+}
+
+.success {
+  background-color: #f0fff0;
+  border-left: 5px solid #5cb85c;
+}
+.success h3::before {
+  content: "Success Story: ";
+  font-style: italic;
+}
+
+.change-phase {
+  padding: 16px;
+  margin-bottom: 24px;
+  border-radius: 4px;
+}
+.change-phase-awareness {
+  background-color: hsl(210, 80%, 80%);
+  border-left: 5px solid hsl(210, 80%, 50%);
+}
+.change-phase-desire {
+  background-color: hsl(240, 70%, 80%);
+  border-left: 5px solid hsl(240, 70%, 50%);
+}
+.change-phase-knowledge {
+  background-color: hsl(270, 60%, 80%);
+  border-left: 5px solid hsl(270, 60%, 50%);
+}
+.change-phase-ability {
+  background-color: hsl(300, 50%, 80%);
+  border-left: 5px solid hsl(300, 50%, 50%);
+}
+.change-phase-reinforcement {
+  background-color: hsl(330, 60%, 80%);
+  border-left: 5px solid hsl(330, 60%, 50%);
+}
+.change-phase h3 {
+  font-size: 19.2pxpx;
+  margin-top: 0;
+}
+
+.margin-xs {
+  margin: 4px;
+}
+.margin-sm {
+  margin: 8px;
+}
+.margin-md {
+  margin: 16px;
+}
+.margin-lg {
+  margin: 24px;
+}
+.margin-xl {
+  margin: 32px;
+}
+
+.main-nav {
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.main-nav .nav-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 8px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-nav .logo {
+  font-size: 22.4pxpx;
+  font-weight: bold;
+}
+.main-nav .logo a {
+  text-decoration: none;
+  color: #333;
+}
+.main-nav .logo a span {
+  color: #4285f4;
+}
+.main-nav .nav-links {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.main-nav .nav-links li {
+  margin-left: 24px;
+}
+.main-nav .nav-links li:first-child {
+  margin-left: 0;
+}
+.main-nav .nav-links li a {
+  text-decoration: none;
+  color: #333;
+  padding: 4px 8px;
+  transition: all 0.3s ease;
+  border-radius: 4px;
+}
+.main-nav .nav-links li a:hover {
+  color: #4285f4;
+}
+.main-nav .nav-links li a.active {
+  color: #4285f4;
+  font-weight: 600;
+}
+.main-nav .nav-links li a.nav-button {
+  background-color: #4285f4;
+  color: #fff;
+  padding: 4px 16px;
+}
+.main-nav .nav-links li a.nav-button:hover {
+  background-color: rgb(12.8425, 91.065, 220.6575);
+}
+
+.main-footer {
+  background-color: rgb(71.4, 71.4, 71.4);
+  color: #fff;
+  padding-top: 32px;
+  margin-top: 64px;
+}
+.main-footer .footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.main-footer .footer-container .footer-section {
+  flex: 1;
+  min-width: 250px;
+  padding: 0 16px 24px 0;
+}
+.main-footer .footer-container .footer-section h4 {
+  color: rgb(162.39, 195.22, 249.61);
+  margin-bottom: 16px;
+  font-size: 17.6pxpx;
+  position: relative;
+  padding-bottom: 4px;
+}
+.main-footer .footer-container .footer-section p {
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+.main-footer .footer-container .footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+.main-footer .footer-container .footer-section ul li {
+  margin-bottom: 8px;
+}
+.main-footer .footer-container .footer-section ul li a {
+  color: #ddd;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.main-footer .footer-container .footer-section ul li a:hover {
+  color: #4285f4;
+}
+.main-footer .footer-bottom {
+  background-color: rgb(38.25, 38.25, 38.25);
+  padding: 16px 0;
+  text-align: center;
+  margin-top: 24px;
+}
+.main-footer .footer-bottom p {
+  margin: 0;
+  color: #aaa;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,10 @@
+@use "../helpers/_mixins";
+
+.callout {
+    @include mixins.box-styles;
+}
+      
+.info {
+    @include mixins.box-styles;
+    background-color: #fff5d4;
+}

@@ -1,0 +1,16 @@
+@use "../helpers" as *;
+
+// BASE STYLES
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: $spacing-lg $spacing-md;
+}

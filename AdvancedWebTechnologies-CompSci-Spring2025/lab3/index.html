@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Travel</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
+    
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+    />
+    <!-- Bootstrap 5 CSS --> 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <!-- Material Design Bootstrap --> 
+    <link rel="stylesheet" href="css/mdb.min.css">
+    <!-- Your custom styles (optional) --> 
+    <link rel="stylesheet" href="css/style.css"> 
+  </head>
+  <body>
+    <!-- Start your project here-->
+    <!--Main Navigation--> 
+    <header> 
+      <!--Navbar--> 
+      <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">
+        <div class="container">
+          <!-- Navbar brand -->
+          <a class="navbar-brand" href="#">Navbar</a>
+          
+          <!-- Collapse button -->
+          <!-- Updated data attributes for Bootstrap 5 -->
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#basicExampleNav"
+            aria-controls="basicExampleNav" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+          </button>
+   
+          <!-- Collapsible content -->
+          <div class="collapse navbar-collapse" id="basicExampleNav">
+            <!-- Links -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+              </li>
+       
+              <!-- Dropdown -->
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
+                  data-bs-toggle="dropdown" aria-expanded="false">
+                  Dropdown
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </li>
+            </ul>
+            <!-- Links -->
+       
+            <!-- Search form updated for Bootstrap 5 -->
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-light" type="submit">Search</button>
+            </form>
+          </div>
+          <!-- Collapsible content -->
+        </div> 
+      </nav>
+      <!--/.Navbar-->
+
+      <!--Mask--> 
+      <div id="intro" class="view"> 
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.7);"> <!-- Fixed mask with direct styling -->
+          <div class="container-fluid d-flex align-items-center justify-content-center h-100">
+            <div class="row d-flex justify-content-center text-center">
+              <div class="col-md-10">
+                <!-- Heading with text shadow --> 
+                <h2 class="display-4 fw-bold text-white pt-5 mb-2" style="text-shadow: 2px 2px 4px rgba(0,0,0,0.8);">Podróżowanie</h2> 
+            
+                <!-- Divider --> 
+                <hr class="hr-light"> 
+            
+                <!-- Description with text shadow --> 
+                <h4 class="text-white my-4" style="text-shadow: 1px 1px 3px rgba(0,0,0,0.8);">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti consequuntur.</h4> 
+                <button type="button" class="btn btn-outline-light">Dowiedz się więcej<i class="fas fa-book ms-2"></i></button> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>  
+      <!--/.Mask--> 
+
+    </header> 
+    <!--Main Navigation--> 
+
+    <!--Main layout--> 
+    <main class="mt-5"> 
+      <div class="container"> 
+        <!--Section: LastTravels--> 
+        <section id="lastTravels" class="text-center"> 
+          <!--Grid row--> 
+          <div class="row"> 
+
+            <!--Grid column--> 
+            <div class="col-lg-4 col-md-12 mb-4"> 
+              <div class="view overlay z-depth-1-half"> 
+                <img src="img/trip1.png" class="img-fluid" alt=""> 
+                <a href="#!"> 
+                  <div class="mask"></div> 
+                </a> 
+              </div> 
+              <h4 class="my-4 fw-bold">Podróż 1</h4> 
+              <p class="text-muted"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores n
+              am, aperiam minima assumenda deleniti hic. 
+              </p>
+            </div> 
+            <!--Grid column--> 
+
+            <!--Grid column--> 
+            <div class="col-lg-4 col-md-6 mb-4"> 
+              <div class="view overlay z-depth-1-half"> 
+                <img src="img/trip2.jpg" class="img-fluid" alt=""> 
+                <a href="#!"> 
+                  <div class="mask"></div> 
+                </a> 
+              </div>
+              <h4 class="my-4 fw-bold">Podróż 2</h4> 
+              <p class="text-muted"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores n
+              am, aperiam minima assumenda deleniti hic. 
+              </p> 
+            </div> 
+            <!--Grid column--> 
+
+            <!--Grid column--> 
+            <div class="col-lg-4 col-md-6 mb-4"> 
+              <div class="view overlay z-depth-1-half"> 
+                <img src="img/trip3.jpg" class="img-fluid" alt=""> 
+                <a href="#!"> 
+                  <div class="mask"></div> 
+                </a> 
+              </div> 
+              <h4 class="my-4 fw-bold">Podróż 3</h4> 
+              <p class="text-muted"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores n
+              am, aperiam minima assumenda deleniti hic. 
+              </p>
+            </div> 
+            <!--Grid column--> 
+
+          </div> 
+          <!--Grid row--> 
+
+          <!--Grid row--> 
+          <div class="row"> 
+
+            <!--Grid column--> 
+            <div class="col-lg-4 col-md-12 mb-4"> 
+              <div class="view overlay z-depth-1-half"> 
+                <img src="img/trip4.jpg" class="img-fluid" alt=""> 
+                <a href="#!"> 
+                  <div class="mask"></div> 
+                </a> 
+              </div>
+              <h4 class="my-4 fw-bold">Podróż 4</h4> 
+              <p class="text-muted"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores n
+              am, aperiam minima assumenda deleniti hic. 
+              </p> 
+            </div> 
+            <!--Grid column--> 
+            
+            <!--Grid column--> 
+            <div class="col-lg-4 col-md-6 mb-4"> 
+              <div class="view overlay z-depth-1-half"> 
+                <img src="img/trip5.jpg" class="img-fluid" alt=""> 
+                <a href="#!"> 
+                  <div class="mask"></div> 
+                </a> 
+              </div>
+              <h4 class="my-4 fw-bold">Podróż 5</h4> 
+              <p class="text-muted"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores n
+              am, aperiam minima assumenda deleniti hic. 
+              </p> 
+            </div> 
+            <!--Grid column--> 
+
+            <!--Grid column--> 
+            <div class="col-lg-4 col-md-6 mb-4"> 
+              <div class="view overlay z-depth-1-half"> 
+                <img src="img/trip6.jpg" class="img-fluid" alt=""> 
+                <a href="#!"> 
+                  <div class="mask"></div> 
+                </a> 
+              </div>
+              <h4 class="my-4 fw-bold">Podróż 6</h4> 
+              <p class="text-muted"> 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores n
+              am, aperiam minima assumenda deleniti hic. 
+              </p> 
+            </div> 
+            <!--Grid column--> 
+
+          </div> 
+          <!--Grid row--> 
+        </section> 
+        <!--Section: LastTravels-->
+   
+        <hr class="my-5"> 
+   
+        <!--Section: Gallery--> 
+        <section id="gallery">
+          <!-- Section with text and image in 3:1 ratio -->
+          <h2 class="h1-responsive fw-bold text-center my-5">Nasza filozofia</h2>
+          <div class="row">
+            <!-- Text part (3/4) -->
+            <div class="col-md-9 mb-4">
+              <h3 class="h3-responsive fw-bold mb-3">Dlaczego warto podróżować?</h3>
+              <p class="text-muted">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit eaque delectus, beatae maxime temporibus maiores quibusdam quasi.
+              </p>
+              <p class="text-muted">
+                Rem magnam ad perferendis iusto, autem. Quo esse, minus reiciendis optio atque impedit temporibus harum natus amet minima, iusto sit dignissimos.
+              </p>
+              <p class="text-muted">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo animi soluta ratione quisquam, dicta ab cupiditate iure eaque? Repellendus voluptatum, magni impedit eaque delectus, beatae maxime temporibus maiores quibusdam quasi. Rem magnam ad perferendis iusto, autem. Quo esse, minus reiciendis optio atque impedit temporibus harum natus amet minima, iusto sit dignissimos.
+              </p>
+              <button type="button" class="btn btn-primary">Dowiedz się więcej</button>
+            </div>
+            <!-- Image part (1/4) -->
+            <div class="col-md-3">
+              <div class="view overlay z-depth-1-half">
+                <img src="img/panorama.jpg" class="img-fluid" alt="Panoramic view of a travel destination">
+                <div class="mask rgba-white-light"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--Section: Gallery--> 
+   
+        <hr class="my-5"> 
+        
+        <!--Section: Quote--> 
+        <section id="quote" class="text-center py-5">
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-md-8">
+                <i class="fas fa-quote-left fa-3x text-primary mb-4"></i>
+                <blockquote class="blockquote">
+                  <p class="mb-0 font-italic">
+                    "Podróż tysiąca mil zaczyna się od pierwszego kroku."
+                  </p>
+                  <footer class="blockquote-footer mt-3">Lao Tzu</footer>
+                </blockquote>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--Section: Quote--> 
+        
+        <hr class="my-5">
+
+        <!--Section: Team Carousel-->
+        <section id="team" class="mb-5">
+          <h2 class="h1-responsive fw-bold text-center my-5">Nasz zespół</h2>
+          <p class="text-center w-responsive mx-auto mb-5">Poznaj naszych ekspertów, którzy pomogą Ci zaplanować Twoją wymarzoną podróż.</p>
+
+          <!-- Carousel wrapper -->
+          <div id="teamCarousel" class="carousel slide" data-bs-ride="carousel">
+            <!-- Indicators -->
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#teamCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#teamCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            </div>
+            
+            <!-- Carousel inner -->
+            <div class="carousel-inner">
+              <!-- First slide -->
+              <div class="carousel-item active">
+                <div class="row">
+                  <div class="col-md-4 mb-4">
+                    <div class="card">
+                      <img src="img/person4.jpg" class="card-img-top" alt="Team member 1">
+                      <div class="card-body text-center">
+                        <h5 class="card-title">Jan Kowalski</h5>
+                        <p class="card-text text-muted">Specjalista ds. podróży</p>
+                        <p class="card-text">Ekspert w organizowaniu podróży do krajów azjatyckich.</p>
+                        <div class="d-flex justify-content-center">
+                          <a href="#" class="mx-1"><i class="fab fa-facebook-f"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-twitter"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 mb-4">
+                    <div class="card">
+                      <img src="img/person2.jpg" class="card-img-top" alt="Team member 2">
+                      <div class="card-body text-center">
+                        <h5 class="card-title">Anna Nowak</h5>
+                        <p class="card-text text-muted">Konsultant podróży</p>
+                        <p class="card-text">Specjalizuje się w podróżach do krajów skandynawskich.</p>
+                        <div class="d-flex justify-content-center">
+                          <a href="#" class="mx-1"><i class="fab fa-facebook-f"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-twitter"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 mb-4">
+                    <div class="card">
+                      <img src="img/person3.jpg" class="card-img-top" alt="Team member 3">
+                      <div class="card-body text-center">
+                        <h5 class="card-title">Piotr Wiśniewski</h5>
+                        <p class="card-text text-muted">Doradca turystyczny</p>
+                        <p class="card-text">Ekspert w organizowaniu podróży do Ameryki Południowej.</p>
+                        <div class="d-flex justify-content-center">
+                          <a href="#" class="mx-1"><i class="fab fa-facebook-f"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-twitter"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Second slide -->
+              <div class="carousel-item">
+                <div class="row">
+                  <div class="col-md-4 mb-4">
+                    <div class="card">
+                      <img src="img/person4.jpg" class="card-img-top" alt="Team member 4">
+                      <div class="card-body text-center">
+                        <h5 class="card-title">Magdalena Lewandowska</h5>
+                        <p class="card-text text-muted">Organizator wycieczek</p>
+                        <p class="card-text">Specjalistka od egzotycznych podróży po Afryce.</p>
+                        <div class="d-flex justify-content-center">
+                          <a href="#" class="mx-1"><i class="fab fa-facebook-f"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-twitter"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 mb-4">
+                    <div class="card">
+                      <img src="img/person3.jpg" class="card-img-top" alt="Team member 5">
+                      <div class="card-body text-center">
+                        <h5 class="card-title">Tomasz Dąbrowski</h5>
+                        <p class="card-text text-muted">Specjalista ds. turystyki</p>
+                        <p class="card-text">Ekspert od podróży po krajach Bliskiego Wschodu.</p>
+                        <div class="d-flex justify-content-center">
+                          <a href="#" class="mx-1"><i class="fab fa-facebook-f"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-twitter"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4 mb-4">
+                    <div class="card">
+                      <img src="img/person3.jpg" class="card-img-top" alt="Team member 6">
+                      <div class="card-body text-center">
+                        <h5 class="card-title">Karolina Zielińska</h5>
+                        <p class="card-text text-muted">Doradca podróży</p>
+                        <p class="card-text">Specjalistka od turystyki po Europie Wschodniej.</p>
+                        <div class="d-flex justify-content-center">
+                          <a href="#" class="mx-1"><i class="fab fa-facebook-f"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-twitter"></i></a>
+                          <a href="#" class="mx-1"><i class="fab fa-linkedin-in"></i></a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Carousel controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#teamCarousel" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#teamCarousel" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </section>
+        <!--Section: Team Carousel-->
+        
+        <hr class="my-5">
+        
+        <!--Section: FAQ with Accordion-->
+        <section id="faq" class="mb-5">
+          <h2 class="h1-responsive fw-bold text-center my-5">Często zadawane pytania</h2>
+          <p class="text-center w-responsive mx-auto mb-5">Znajdź odpowiedzi na najczęściej zadawane pytania dotyczące naszych usług i ofert podróży.</p>
+          
+          <div class="accordion" id="faqAccordion">
+            <!-- Item 1 -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  Jak zarezerwować wycieczkę?
+                </button>
+              </h2>
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                  Rezerwacji wycieczki można dokonać online poprzez naszą stronę internetową, telefonicznie lub osobiście w jednym z naszych biur. Wystarczy wybrać interesujący kierunek, termin oraz opcje dodatkowe, a następnie dokonać płatności.
+                </div>
+              </div>
+            </div>
+            
+            <!-- Item 2 -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  Jakie dokumenty są potrzebne do podróży?
+                </button>
+              </h2>
+              <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                  Wymagane dokumenty zależą od wybranego kierunku podróży. W większości przypadków potrzebny jest ważny paszport lub dowód osobisty (w przypadku krajów UE). Dla niektórych krajów może być wymagana wiza. Szczegółowe informacje otrzymasz podczas rezerwacji.
+                </div>
+              </div>
+            </div>
+            
+            <!-- Item 3 -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Czy oferujecie ubezpieczenie podróżne?
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                  Tak, oferujemy różne pakiety ubezpieczeniowe, które obejmują m.in. koszty leczenia, następstwa nieszczęśliwych wypadków, bagaż podróżny oraz odpowiedzialność cywilną. Polecamy wybór ubezpieczenia odpowiedniego do charakteru podróży.
+                </div>
+              </div>
+            </div>
+            
+            <!-- Item 4 -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                  Co w przypadku anulowania rezerwacji?
+                </button>
+              </h2>
+              <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
+                <div class="accordion-body">
+                  Warunki anulowania rezerwacji zależą od wybranej oferty i terminu anulowania. W większości przypadków im wcześniej zgłosisz anulowanie, tym większy zwrot kosztów możesz otrzymać. Szczegółowe informacje znajdziesz w warunkach umowy.
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--Section: FAQ with Accordion-->
+        
+        <hr class="my-5">
+        
+        <!--Section: Popular Destinations Chart-->
+        <section id="popularDestinations" class="mb-5">
+          <h2 class="h1-responsive fw-bold text-center my-5">Najpopularniejsze kierunki podróży</h2>
+          <p class="text-center w-responsive mx-auto mb-5">Sprawdź, które destynacje cieszą się największą popularnością wśród naszych klientów.</p>
+          
+          <div class="row">
+            <div class="col-md-8 mx-auto">
+              <canvas id="destinationsChart"></canvas>
+            </div>
+          </div>
+        </section>
+        <!--Section: Popular Destinations Chart-->
+        
+        <hr class="my-5">
+   
+        <!--Section: Contact--> 
+        <section id="contact" class="mb-5">
+          <h2 class="h1-responsive fw-bold text-center my-5">Kontakt</h2>
+          <p class="text-center w-responsive mx-auto pb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur veniam.</p>
+
+          <div class="row">
+            <!-- Contact Form -->
+            <div class="col-lg-5 mb-4">
+              <div class="card">
+                <div class="card-body">
+                  <h3 class="fw-bold my-3">Napisz do nas</h3>
+                  <form id="contact-form">
+                    <div class="mb-3">
+                      <label for="contactName" class="form-label">Imię i nazwisko</label>
+                      <input type="text" class="form-control" id="contactName" required>
+                    </div>
+                    <div class="mb-3">
+                      <label for="contactEmail" class="form-label">Email</label>
+                      <input type="email" class="form-control" id="contactEmail" required>
+                    </div>
+                    <div class="mb-3">
+                      <label for="contactSubject" class="form-label">Temat</label>
+                      <input type="text" class="form-control" id="contactSubject" required>
+                    </div>
+                    <div class="mb-3">
+                      <label for="contactMessage" class="form-label">Wiadomość</label>
+                      <textarea class="form-control" id="contactMessage" rows="4" required></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Wyślij</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+            <!-- Contact Information -->
+            <div class="col-lg-7">
+              <div class="row mb-4">
+                <div class="col-md-4 text-center">
+                  <i class="fas fa-map-marker-alt fa-2x text-primary"></i>
+                  <p class="mt-2">Warszawa, 00-001</p>
+                </div>
+                <div class="col-md-4 text-center">
+                  <i class="fas fa-phone fa-2x text-primary"></i>
+                  <p class="mt-2">+48 123 456 789</p>
+                </div>
+                <div class="col-md-4 text-center">
+                  <i class="fas fa-envelope fa-2x text-primary"></i>
+                  <p class="mt-2">kontakt@example.com</p>
+                </div>
+              </div>
+
+              <!-- Google Maps -->
+              <div class="z-depth-1-half map-container">
+                <iframe src="https://maps.google.com/maps?q=warsaw&t=&z=13&ie=UTF8&iwloc=&output=embed" 
+                        width="100%" height="400" frameborder="0" style="border:0" loading="lazy"></iframe>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--Section: Contact--> 
+    
+      </div> 
+    </main> 
+    <!--Main layout--> 
+     
+    <!--Footer--> 
+    <footer class="bg-dark text-white py-4">
+      <div class="container">
+        <div class="row">
+          <!-- Footer Logo and Description -->
+          <div class="col-md-4 mb-3">
+            <h5>Travel Agency</h5>
+            <p class="small">
+              Odkrywaj świat z nami! Oferujemy profesjonalne usługi turystyczne dla indywidualnych klientów i grup. Podróże bliskie i dalekie, zawsze niezapomniane.
+            </p>
+          </div>
+          
+          <!-- Quick Links -->
+          <div class="col-md-4 mb-3">
+            <h5>Przydatne linki</h5>
+            <ul class="list-unstyled">
+              <li><a href="#" class="text-white">O nas</a></li>
+              <li><a href="#" class="text-white">Oferta</a></li>
+              <li><a href="#" class="text-white">Warunki rezerwacji</a></li>
+              <li><a href="#" class="text-white">Polityka prywatności</a></li>
+            </ul>
+          </div>
+          
+          <!-- Social Media Links -->
+          <div class="col-md-4 mb-3">
+            <h5>Śledź nas</h5>
+            <div class="d-flex">
+              <a href="#" class="text-white me-3"><i class="fab fa-facebook-f fa-lg"></i></a>
+              <a href="#" class="text-white me-3"><i class="fab fa-instagram fa-lg"></i></a>
+              <a href="#" class="text-white me-3"><i class="fab fa-twitter fa-lg"></i></a>
+              <a href="#" class="text-white me-3"><i class="fab fa-youtube fa-lg"></i></a>
+            </div>
+            <p class="mt-3 small">
+              Zapisz się na nasz newsletter, aby otrzymywać najlepsze oferty!
+            </p>
+          </div>
+        </div>
+        
+        <!-- Copyright -->
+        <div class="text-center pt-3 border-top border-secondary">
+          <p class="small">&copy; 2023 Travel Agency. Wszelkie prawa zastrzeżone.</p>
+        </div>
+      </div>
+    </footer>
+    <!--Footer--> 
+    
+    <!-- End your project here-->
+
+    <!-- SCRIPTS -->
+    <!-- Bootstrap 5 JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+    <!-- Your custom scripts (optional) --> 
+    <script type="text/javascript"></script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Custom Chart Script -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // Chart for popular destinations
+        const ctx = document.getElementById('destinationsChart').getContext('2d');
+        const destinationsChart = new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: ['Włochy', 'Hiszpania', 'Grecja', 'Chorwacja', 'Turcja', 'Egipt'],
+            datasets: [{
+              label: 'Liczba rezerwacji w tym roku',
+              data: [1250, 1100, 950, 800, 650, 600],
+              backgroundColor: [
+                'rgba(255, 99, 132, 0.6)',
+                'rgba(54, 162, 235, 0.6)',
+                'rgba(255, 206, 86, 0.6)',
+                'rgba(75, 192, 192, 0.6)',
+                'rgba(153, 102, 255, 0.6)',
+                'rgba(255, 159, 64, 0.6)'
+              ],
+              borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+              ],
+              borderWidth: 1
+            }]
+          },
+          options: {
+            responsive: true,
+            plugins: {
+              legend: {
+                position: 'top',
+              },
+              title: {
+                display: true,
+                text: 'Najpopularniejsze kierunki podróży 2023'
+              }
+            },
+            scales: {
+              y: {
+                beginAtZero: true
+              }
+            }
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

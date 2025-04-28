@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>WebSocket Chat</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div id="login-screen">
+    <h2>Enter your nickname</h2>
+    <input id="nickname-input" type="text" placeholder="Nickname">
+    <button id="join-btn">Join Chat</button>
+  </div>
+  <div id="chat-screen" style="display:none">
+    <div id="room-select">
+      <label for="rooms">Room:</label>
+      <select id="rooms">
+        <option value="general">General</option>
+        <option value="room1">Room 1</option>
+        <option value="room2">Room 2</option>
+      </select>
+    </div>
+    <div id="chat-container">
+      <ul id="messages"></ul>
+      <div id="typing-indicator"></div>
+    </div>
+    <form id="message-form">
+      <input id="message-input" autocomplete="off" placeholder="Type message..."/>
+      <input id="image-input" type="file" accept="image/*"/>
+      <button>Send</button>
+    </form>
+  </div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="js/socket.js"></script>
+  <script src="js/chat.js"></script>
+</body>
+</html>

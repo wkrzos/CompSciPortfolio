@@ -9,6 +9,10 @@ def softmax(z: List[float]) -> List[float]:
 	s = sum(exps)
 	return [e / s for e in exps]
 
+def relu(z: List[float]) -> List[float]:
+    
+    return (1 / (1 - math.exp(z)))
+
 
 def mse_loss(predictions: List[float], targets: List[float]) -> float:
 	n = len(predictions)
@@ -26,10 +30,6 @@ def cross_entropy_loss(probs: List[float], targets: List[float]) -> float:
 
 
 def cross_entropy_derivative(probs: List[float], targets: List[float]) -> List[float]:
-	"""
-	For softmax + cross-entropy, the gradient simplifies when combined; this
-	function returns dL/dy where y are the softmax outputs.
-	"""
 	return [p - t for p, t in zip(probs, targets)]
 
 
@@ -49,12 +49,21 @@ class Neuron:
 		z = sum(w * x for w, x in zip(self.weights, inputs)) + self.bias
 		return z if self.activation is None else self.activation(z)
 
+class Network:
+	def __init__(self, layers: List[List[Neuron]]):
+		self.layers = layers
+
+	def forward(self, inputs: List[float]) -> List[float]:
+		for layer in self.layers:
+			outputs = [n.forward(inputs) for n in layer]
+			inputs = outputs
+		return outputs
+
 
 # gpt for now
-def create_network(layer_sizes: List[int], activation: Callable = None) -> List[List[Neuron]]:
-	"""Create a feed-forward network as a list of layers (each a list of Neuron).
-
-	layer_sizes is a list like [n_input, n_hidden1, n_hidden2, ..., n_output].
+def create_network(layer_sizes: List[int], activation: Callable = None) -> Network:
+	"""
+	layer_sizes is [n_input, n_hidden1, n_hidden2, ..., n_output].
 	The returned structure excludes the input layer (contains only neuron layers
 	corresponding to hidden and output layers).
 	"""
@@ -66,17 +75,14 @@ def create_network(layer_sizes: List[int], activation: Callable = None) -> List[
 		curr = layer_sizes[i]
 		layer = [Neuron(prev, activation=activation) for _ in range(curr)]
 		network.append(layer)
-	return network
+	return Network(network)
 
 
 if __name__ == "__main__":
 	# quick smoke test
 	net = create_network([3, 5, 5, 5, 2], activation=math.tanh)
 	sample = [0.1, -0.2, 0.3]
-	out0 = [n.forward(sample) for n in net[0]]
-	out1 = [n.forward(out0) for n in net[1]]
-	out2 = [n.forward(out1) for n in net[2]]
-	out3 = [n.forward(out2) for n in net[3]]
+	outputs = net.forward(sample)
 	# apply softmax to the final layer outputs to get probabilities
-	probs = softmax(out3)
+	probs = softmax(outputs)
 	print("network outputs (softmax probabilities):", probs)

@@ -7,6 +7,7 @@ from layers import Linear, Activation
 from activations import Softmax, ReLU, Sigmoid, Tanh
 from network import NeuralNetwork
 from data_utils import load_heart_disease_data
+from visualization import save_experiment_comparison
 
 
 def get_activation(name):
@@ -291,6 +292,24 @@ def main():
     baseline_norm = results_normalized[0]
     print(f"Normalized   - Test Acc: {baseline_norm['test_accuracy']:.4f}")
     print(f"Unnormalized - Test Acc: {result_unnorm['test_accuracy']:.4f}")
+    
+    # Generate comparison plots
+    print("\n" + "=" * 70)
+    print("Generating comparison plots...")
+    print("=" * 70)
+    
+    # Prepare data for visualization
+    experiments_viz = []
+    for result in results_normalized:
+        experiments_viz.append({
+            'name': result['config']['name'],
+            'train_losses': result['train_losses'],
+            'val_losses': result['test_losses'],
+            'train_accs': result['train_accuracies'],
+            'val_accs': result['test_accuracies'],
+        })
+    
+    save_experiment_comparison(experiments_viz, save_dir='results')
     
     print("\n" + "=" * 70)
 

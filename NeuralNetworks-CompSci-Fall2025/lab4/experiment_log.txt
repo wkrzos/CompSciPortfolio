@@ -1,0 +1,322 @@
+nohup: ignoring input
+Running experiments with different optimizers, learning rates, and batch sizes...
+================================================================
+
+[Experiment 1] Testing optimizers: SGD, Adam, RMSprop
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: SGD
+Learning rate: 0.01
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.3272, Train Acc: 0.8636 - Val Loss: 0.2895, Val Acc: 0.8689
+Epoch  20/100 - Train Loss: 0.2773, Train Acc: 0.9050 - Val Loss: 0.2774, Val Acc: 0.8852
+Epoch  30/100 - Train Loss: 0.2425, Train Acc: 0.9256 - Val Loss: 0.2912, Val Acc: 0.8852
+Epoch  40/100 - Train Loss: 0.2115, Train Acc: 0.9339 - Val Loss: 0.3049, Val Acc: 0.8689
+Epoch  50/100 - Train Loss: 0.1803, Train Acc: 0.9545 - Val Loss: 0.3373, Val Acc: 0.8525
+Epoch  60/100 - Train Loss: 0.1538, Train Acc: 0.9752 - Val Loss: 0.3578, Val Acc: 0.8525
+Epoch  70/100 - Train Loss: 0.1304, Train Acc: 0.9793 - Val Loss: 0.3752, Val Acc: 0.8361
+Epoch  80/100 - Train Loss: 0.1096, Train Acc: 0.9835 - Val Loss: 0.3963, Val Acc: 0.8361
+Epoch  90/100 - Train Loss: 0.0918, Train Acc: 0.9835 - Val Loss: 0.4194, Val Acc: 0.8197
+Epoch 100/100 - Train Loss: 0.0763, Train Acc: 0.9876 - Val Loss: 0.4368, Val Acc: 0.8197
+
+[4] Final Evaluation
+Train - Loss: 0.0745, Acc: 0.9876 (98.76%)
+Test  - Loss: 0.4368, Acc: 0.8197 (81.97%)
+✓ Plot saved: results/sgd_lr0.01_bs32.png
+
+✓ Results saved to results/
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: ADAM
+Learning rate: 0.01
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.2010, Train Acc: 0.9504 - Val Loss: 0.4961, Val Acc: 0.8033
+Epoch  20/100 - Train Loss: 0.0968, Train Acc: 0.9711 - Val Loss: 0.9284, Val Acc: 0.8197
+Epoch  30/100 - Train Loss: 0.0432, Train Acc: 0.9917 - Val Loss: 1.3735, Val Acc: 0.8033
+Epoch  40/100 - Train Loss: 0.0223, Train Acc: 1.0000 - Val Loss: 1.6418, Val Acc: 0.8033
+Epoch  50/100 - Train Loss: 0.0147, Train Acc: 1.0000 - Val Loss: 1.7742, Val Acc: 0.8033
+Epoch  60/100 - Train Loss: 0.0097, Train Acc: 1.0000 - Val Loss: 1.9835, Val Acc: 0.8033
+Epoch  70/100 - Train Loss: 0.0074, Train Acc: 1.0000 - Val Loss: 1.9996, Val Acc: 0.8033
+Epoch  80/100 - Train Loss: 0.0058, Train Acc: 1.0000 - Val Loss: 2.1324, Val Acc: 0.7869
+Epoch  90/100 - Train Loss: 0.0047, Train Acc: 1.0000 - Val Loss: 2.1783, Val Acc: 0.7869
+Epoch 100/100 - Train Loss: 0.0040, Train Acc: 1.0000 - Val Loss: 2.2726, Val Acc: 0.7869
+
+[4] Final Evaluation
+Train - Loss: 0.0039, Acc: 1.0000 (100.00%)
+Test  - Loss: 2.2726, Acc: 0.7869 (78.69%)
+✓ Plot saved: results/adam_lr0.01_bs32.png
+
+✓ Results saved to results/
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: RMSPROP
+Learning rate: 0.01
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.1613, Train Acc: 0.9463 - Val Loss: 0.4726, Val Acc: 0.7869
+Epoch  20/100 - Train Loss: 0.0590, Train Acc: 0.9793 - Val Loss: 0.6472, Val Acc: 0.8033
+Epoch  30/100 - Train Loss: 0.0302, Train Acc: 0.9876 - Val Loss: 0.6513, Val Acc: 0.8361
+Epoch  40/100 - Train Loss: 0.0150, Train Acc: 0.9959 - Val Loss: 0.7706, Val Acc: 0.8361
+Epoch  50/100 - Train Loss: 0.0068, Train Acc: 1.0000 - Val Loss: 0.8750, Val Acc: 0.8197
+Epoch  60/100 - Train Loss: 0.0032, Train Acc: 1.0000 - Val Loss: 0.9909, Val Acc: 0.8197
+Epoch  70/100 - Train Loss: 0.0015, Train Acc: 1.0000 - Val Loss: 1.0213, Val Acc: 0.8197
+Epoch  80/100 - Train Loss: 0.0008, Train Acc: 1.0000 - Val Loss: 1.0460, Val Acc: 0.8197
+Epoch  90/100 - Train Loss: 0.0004, Train Acc: 1.0000 - Val Loss: 1.1058, Val Acc: 0.8361
+Epoch 100/100 - Train Loss: 0.0003, Train Acc: 1.0000 - Val Loss: 1.1605, Val Acc: 0.8361
+
+[4] Final Evaluation
+Train - Loss: 0.0002, Acc: 1.0000 (100.00%)
+Test  - Loss: 1.1605, Acc: 0.8361 (83.61%)
+✓ Plot saved: results/rmsprop_lr0.01_bs32.png
+
+✓ Results saved to results/
+
+[Experiment 2] Testing batch sizes: 8, 32, 64
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: ADAM
+Learning rate: 0.01
+Batch size: 8
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.1427, Train Acc: 0.9628 - Val Loss: 0.5556, Val Acc: 0.7377
+Epoch  20/100 - Train Loss: 0.0593, Train Acc: 0.9752 - Val Loss: 0.9029, Val Acc: 0.7705
+Epoch  30/100 - Train Loss: 0.0140, Train Acc: 0.9959 - Val Loss: 1.0476, Val Acc: 0.7869
+Epoch  40/100 - Train Loss: 0.0084, Train Acc: 1.0000 - Val Loss: 1.3141, Val Acc: 0.7869
+Epoch  50/100 - Train Loss: 0.0046, Train Acc: 1.0000 - Val Loss: 1.3804, Val Acc: 0.7869
+Epoch  60/100 - Train Loss: 0.0031, Train Acc: 1.0000 - Val Loss: 1.4518, Val Acc: 0.7869
+Epoch  70/100 - Train Loss: 0.0024, Train Acc: 1.0000 - Val Loss: 1.5174, Val Acc: 0.7869
+Epoch  80/100 - Train Loss: 0.0018, Train Acc: 1.0000 - Val Loss: 1.5574, Val Acc: 0.7869
+Epoch  90/100 - Train Loss: 0.0014, Train Acc: 1.0000 - Val Loss: 1.6438, Val Acc: 0.7869
+Epoch 100/100 - Train Loss: 0.0011, Train Acc: 1.0000 - Val Loss: 1.7020, Val Acc: 0.8033
+
+[4] Final Evaluation
+Train - Loss: 0.0011, Acc: 1.0000 (100.00%)
+Test  - Loss: 1.7020, Acc: 0.8033 (80.33%)
+✓ Plot saved: results/adam_lr0.01_bs8.png
+
+✓ Results saved to results/
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: ADAM
+Learning rate: 0.01
+Batch size: 64
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.2431, Train Acc: 0.9256 - Val Loss: 0.3741, Val Acc: 0.8689
+Epoch  20/100 - Train Loss: 0.1406, Train Acc: 0.9752 - Val Loss: 0.7363, Val Acc: 0.8033
+Epoch  30/100 - Train Loss: 0.0794, Train Acc: 0.9752 - Val Loss: 1.0655, Val Acc: 0.8033
+Epoch  40/100 - Train Loss: 0.0454, Train Acc: 0.9876 - Val Loss: 1.3725, Val Acc: 0.7869
+Epoch  50/100 - Train Loss: 0.0258, Train Acc: 0.9959 - Val Loss: 1.7062, Val Acc: 0.8033
+Epoch  60/100 - Train Loss: 0.0171, Train Acc: 1.0000 - Val Loss: 1.9501, Val Acc: 0.7869
+Epoch  70/100 - Train Loss: 0.0121, Train Acc: 1.0000 - Val Loss: 2.1352, Val Acc: 0.7869
+Epoch  80/100 - Train Loss: 0.0094, Train Acc: 1.0000 - Val Loss: 2.3059, Val Acc: 0.7869
+Epoch  90/100 - Train Loss: 0.0077, Train Acc: 1.0000 - Val Loss: 2.4335, Val Acc: 0.7869
+Epoch 100/100 - Train Loss: 0.0064, Train Acc: 1.0000 - Val Loss: 2.5777, Val Acc: 0.7869
+
+[4] Final Evaluation
+Train - Loss: 0.0063, Acc: 1.0000 (100.00%)
+Test  - Loss: 2.5777, Acc: 0.7869 (78.69%)
+✓ Plot saved: results/adam_lr0.01_bs64.png
+
+✓ Results saved to results/
+
+[Experiment 3] Testing SGD learning rates: 0.001, 0.01, 0.1
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: SGD
+Learning rate: 0.001
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.5373, Train Acc: 0.7975 - Val Loss: 0.5212, Val Acc: 0.7869
+Epoch  20/100 - Train Loss: 0.4551, Train Acc: 0.8306 - Val Loss: 0.4334, Val Acc: 0.8197
+Epoch  30/100 - Train Loss: 0.4073, Train Acc: 0.8471 - Val Loss: 0.3795, Val Acc: 0.8361
+Epoch  40/100 - Train Loss: 0.3791, Train Acc: 0.8471 - Val Loss: 0.3465, Val Acc: 0.8525
+Epoch  50/100 - Train Loss: 0.3612, Train Acc: 0.8512 - Val Loss: 0.3263, Val Acc: 0.8689
+Epoch  60/100 - Train Loss: 0.3480, Train Acc: 0.8595 - Val Loss: 0.3134, Val Acc: 0.8689
+Epoch  70/100 - Train Loss: 0.3377, Train Acc: 0.8595 - Val Loss: 0.3053, Val Acc: 0.8689
+Epoch  80/100 - Train Loss: 0.3290, Train Acc: 0.8595 - Val Loss: 0.2993, Val Acc: 0.8689
+Epoch  90/100 - Train Loss: 0.3214, Train Acc: 0.8678 - Val Loss: 0.2949, Val Acc: 0.8689
+Epoch 100/100 - Train Loss: 0.3148, Train Acc: 0.8760 - Val Loss: 0.2923, Val Acc: 0.8689
+
+[4] Final Evaluation
+Train - Loss: 0.3142, Acc: 0.8760 (87.60%)
+Test  - Loss: 0.2923, Acc: 0.8689 (86.89%)
+✓ Plot saved: results/sgd_lr0.001_bs32.png
+
+✓ Results saved to results/
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: SGD
+Learning rate: 0.1
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.1496, Train Acc: 0.9587 - Val Loss: 0.3432, Val Acc: 0.8689
+Epoch  20/100 - Train Loss: 0.0460, Train Acc: 0.9876 - Val Loss: 0.5275, Val Acc: 0.8361
+Epoch  30/100 - Train Loss: 0.0274, Train Acc: 0.9917 - Val Loss: 0.6749, Val Acc: 0.8361
+Epoch  40/100 - Train Loss: 0.0087, Train Acc: 1.0000 - Val Loss: 0.8107, Val Acc: 0.8197
+Epoch  50/100 - Train Loss: 0.0048, Train Acc: 1.0000 - Val Loss: 0.8385, Val Acc: 0.8197
+Epoch  60/100 - Train Loss: 0.0032, Train Acc: 1.0000 - Val Loss: 0.9182, Val Acc: 0.8033
+Epoch  70/100 - Train Loss: 0.0028, Train Acc: 1.0000 - Val Loss: 0.9257, Val Acc: 0.8033
+Epoch  80/100 - Train Loss: 0.0020, Train Acc: 1.0000 - Val Loss: 0.9786, Val Acc: 0.8033
+Epoch  90/100 - Train Loss: 0.0018, Train Acc: 1.0000 - Val Loss: 1.0070, Val Acc: 0.8033
+Epoch 100/100 - Train Loss: 0.0015, Train Acc: 1.0000 - Val Loss: 1.0382, Val Acc: 0.8033
+
+[4] Final Evaluation
+Train - Loss: 0.0014, Acc: 1.0000 (100.00%)
+Test  - Loss: 1.0382, Acc: 0.8033 (80.33%)
+✓ Plot saved: results/sgd_lr0.1_bs32.png
+
+✓ Results saved to results/
+
+[Experiment 4] Testing Adam learning rates: 0.0001, 0.001, 0.01
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: ADAM
+Learning rate: 0.0001
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.6081, Train Acc: 0.7107 - Val Loss: 0.5967, Val Acc: 0.7213
+Epoch  20/100 - Train Loss: 0.5628, Train Acc: 0.7603 - Val Loss: 0.5501, Val Acc: 0.7869
+Epoch  30/100 - Train Loss: 0.5245, Train Acc: 0.7975 - Val Loss: 0.5098, Val Acc: 0.8033
+Epoch  40/100 - Train Loss: 0.4917, Train Acc: 0.8140 - Val Loss: 0.4746, Val Acc: 0.8361
+Epoch  50/100 - Train Loss: 0.4634, Train Acc: 0.8099 - Val Loss: 0.4433, Val Acc: 0.8361
+Epoch  60/100 - Train Loss: 0.4389, Train Acc: 0.8182 - Val Loss: 0.4160, Val Acc: 0.8361
+Epoch  70/100 - Train Loss: 0.4184, Train Acc: 0.8264 - Val Loss: 0.3926, Val Acc: 0.8361
+Epoch  80/100 - Train Loss: 0.4010, Train Acc: 0.8347 - Val Loss: 0.3728, Val Acc: 0.8361
+Epoch  90/100 - Train Loss: 0.3866, Train Acc: 0.8347 - Val Loss: 0.3562, Val Acc: 0.8361
+Epoch 100/100 - Train Loss: 0.3745, Train Acc: 0.8430 - Val Loss: 0.3429, Val Acc: 0.8361
+
+[4] Final Evaluation
+Train - Loss: 0.3738, Acc: 0.8430 (84.30%)
+Test  - Loss: 0.3429, Acc: 0.8361 (83.61%)
+✓ Plot saved: results/adam_lr0.0001_bs32.png
+
+✓ Results saved to results/
+Device: cpu
+
+[1] Loading data...
+Train samples: 242, Test samples: 61
+
+[2] Building model...
+Architecture: 28 -> 32 -> 2
+Parameters: 994
+
+[3] Training...
+Optimizer: ADAM
+Learning rate: 0.001
+Batch size: 32
+Epochs: 100
+----------------------------------------------------------------------
+Epoch  10/100 - Train Loss: 0.3802, Train Acc: 0.8471 - Val Loss: 0.3356, Val Acc: 0.8525
+Epoch  20/100 - Train Loss: 0.3171, Train Acc: 0.8678 - Val Loss: 0.2861, Val Acc: 0.8689
+Epoch  30/100 - Train Loss: 0.2806, Train Acc: 0.8926 - Val Loss: 0.2802, Val Acc: 0.9016
+Epoch  40/100 - Train Loss: 0.2508, Train Acc: 0.9174 - Val Loss: 0.2806, Val Acc: 0.8852
+Epoch  50/100 - Train Loss: 0.2243, Train Acc: 0.9339 - Val Loss: 0.2924, Val Acc: 0.8852
+Epoch  60/100 - Train Loss: 0.2004, Train Acc: 0.9504 - Val Loss: 0.3062, Val Acc: 0.8852
+Epoch  70/100 - Train Loss: 0.1793, Train Acc: 0.9628 - Val Loss: 0.3292, Val Acc: 0.8689
+Epoch  80/100 - Train Loss: 0.1605, Train Acc: 0.9628 - Val Loss: 0.3477, Val Acc: 0.8525
+Epoch  90/100 - Train Loss: 0.1433, Train Acc: 0.9628 - Val Loss: 0.3743, Val Acc: 0.8361
+Epoch 100/100 - Train Loss: 0.1272, Train Acc: 0.9669 - Val Loss: 0.3921, Val Acc: 0.8361
+
+[4] Final Evaluation
+Train - Loss: 0.1254, Acc: 0.9669 (96.69%)
+Test  - Loss: 0.3921, Acc: 0.8361 (83.61%)
+✓ Plot saved: results/adam_lr0.001_bs32.png
+
+✓ Results saved to results/
+
+================================================================
+All experiments completed!
+Generating comparison plots...
+Loading results...
+Found 9 experiments
+Generating comparison plots...
+✓ Comparison plot saved: results/comparison_val_acc.png
+✓ Comparison plot saved: results/comparison_val_loss.png
+
+=== Final Results Summary ===
+adam_lr0.0001_bs32             - Val Acc: 0.8361
+adam_lr0.001_bs32              - Val Acc: 0.8361
+adam_lr0.01_bs32               - Val Acc: 0.7869
+adam_lr0.01_bs64               - Val Acc: 0.7869
+adam_lr0.01_bs8                - Val Acc: 0.8033
+rmsprop_lr0.01_bs32            - Val Acc: 0.8361
+sgd_lr0.001_bs32               - Val Acc: 0.8689
+sgd_lr0.01_bs32                - Val Acc: 0.8197
+sgd_lr0.1_bs32                 - Val Acc: 0.8033
+
+Comparison plots saved!
+Done!

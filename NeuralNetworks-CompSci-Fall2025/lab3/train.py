@@ -1,10 +1,3 @@
-"""
-Command-line interface for training neural network on heart disease dataset.
-
-This script allows configuring various hyperparameters and training a
-multi-layer neural network using pure matrix operations and backpropagation.
-"""
-
 import argparse
 import numpy as np
 from pathlib import Path
@@ -13,6 +6,7 @@ from layers import Linear, Activation
 from activations import Softmax, ReLU, Sigmoid, Tanh
 from network import NeuralNetwork
 from data_utils import load_heart_disease_data
+from visualization import plot_training_summary
 
 
 def parse_args():
@@ -51,6 +45,10 @@ def parse_args():
                        help='Random seed (default: 42)')
     parser.add_argument('--quiet', action='store_true',
                        help='Suppress training output')
+    parser.add_argument('--output-dir', type=str, default='results',
+                       help='Directory to save plots (default: results)')
+    parser.add_argument('--no-plots', action='store_true',
+                       help='Do not generate plots')
     
     return parser.parse_args()
 
@@ -95,7 +93,6 @@ def build_network(input_dim, hidden_layers, n_classes, activation, weight_std):
 
 
 def main():
-    """Main training function."""
     args = parse_args()
     
     # Set random seed
@@ -177,6 +174,30 @@ def main():
     if train_acc - test_acc > 0.1:
         print("\n⚠ Warning: Significant gap between train and test accuracy.")
         print("  This might indicate overfitting.")
+    
+    # Generate visualizations
+    if not args.no_plots:
+        print("\n[5] Generating visualizations...")
+        
+        # Get predictions for confusion matrix
+        train_pred = network.predict(x_train)
+        test_pred = network.predict(x_test)
+        
+        y_train_true = np.argmax(y_train, axis=1)
+        y_train_pred = np.argmax(train_pred, axis=1)
+        y_test_true = np.argmax(y_test, axis=1)
+        y_test_pred = np.argmax(test_pred, axis=1)
+        
+        plot_training_summary(
+            network=network,
+            y_train_true=y_train_true,
+            y_train_pred=y_train_pred,
+            y_test_true=y_test_true,
+            y_test_pred=y_test_pred,
+            class_names=['Healthy', 'Disease'],
+            save_dir=args.output_dir,
+            prefix='training'
+        )
     
     print("\n" + "=" * 70)
 

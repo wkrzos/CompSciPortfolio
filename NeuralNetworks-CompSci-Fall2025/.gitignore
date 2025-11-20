@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 venv/
+=======
+venv/
+*.md
+__pycache__/
+>>>>>>> bc75399f751bc40f9ac51b988704b9d588e8d529

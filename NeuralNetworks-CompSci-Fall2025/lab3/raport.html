@@ -1,0 +1,1006 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>raport.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="laboratorium-3">Laboratorium 3</h1>
+<p>Wojciech Krzos<br>
+7 listopada 2025</p>
+<h2 id="streszczenie">Streszczenie</h2>
+<p>W ramach laboratorium 3 zaimplementowano wielowarstwową sieć neuronową z algorytmem propagacji wstecznej.</p>
+<p>Stworzono modularną architekturę pozwalającą na elastyczne konfigurowanie parametrów sieci.</p>
+<p>Przeprowadzono eksperymenty badających wpływ hiperparametrów na wydajność modelu.</p>
+<p>Najlepszy model osiągnął dokładność 90% na zbiorze testowym.</p>
+<h2 id="1-wst%C4%99p">1. Wstęp</h2>
+<h3 id="11-cel-%C4%87wiczenia">1.1. Cel ćwiczenia</h3>
+<p>Celem laboratorium było:</p>
+<ol>
+<li>Implementacja algorytmu propagacji wstecznej dla wielowarstwowych sieci neuronowych</li>
+<li>Zastosowanie wyłącznie obliczeń macierzowych bez gotowych frameworków</li>
+<li>Przeprowadzenie eksperymentów badających wpływ hiperparametrów na wydajność modelu</li>
+<li>Analiza zachowania sieci na zbiorze danych Heart Disease z UCI Machine Learning Repository</li>
+</ol>
+<h3 id="12-teoria">1.2. Teoria</h3>
+<h4 id="propagacja-wsteczna">Propagacja wsteczna</h4>
+<p>Algorytm propagacji wstecznej opiera się na regule łańcuchowej:</p>
+<p>$$\frac{\partial L}{\partial x} = \frac{\partial L}{\partial y} \cdot \frac{\partial y}{\partial x}$$</p>
+<p>gdzie:</p>
+<ul>
+<li>$L$ - funkcja kosztu</li>
+<li>$x$ - wektor wejściowy</li>
+<li>$y$ - wektor wyjściowy</li>
+</ul>
+<p>Dla operacji warstwowych sieci neuronowej:</p>
+<p>$$y = \sigma(Wx + b)$$</p>
+<p>gdzie:</p>
+<ul>
+<li>$W$ - macierz wag</li>
+<li>$b$ - wektor biasu</li>
+<li>$\sigma$ - funkcja aktywacji</li>
+</ul>
+<p>Gradienty wyznaczane są następująco:</p>
+<p>$$\frac{\partial L}{\partial W} = \frac{\partial L}{\partial y} \cdot \frac{\partial y}{\partial W} = \delta^{(l)} \cdot (a^{(l-1)})^T$$</p>
+<p>$$\frac{\partial L}{\partial b} = \frac{\partial L}{\partial y} \cdot \frac{\partial y}{\partial b} = \delta^{(l)}$$</p>
+<p>$$\frac{\partial L}{\partial a^{(l-1)}} = W^T \cdot \delta^{(l)}$$</p>
+<p>gdzie $\delta^{(l)}$ oznacza gradient błędu na warstwie $l$.</p>
+<p>Źródło: Wykład Sieci Neuronowe</p>
+<h4 id="funkcja-aktywacji-softmax">Funkcja aktywacji: Softmax</h4>
+<p>W implementacji wykorzystano funkcję softmax jako wyjściową funkcję aktywacji:</p>
+<p>$$\text{softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}}$$</p>
+<p>Właściwości:</p>
+<ul>
+<li>Przekształca wektor logitów w rozkład prawdopodobieństwa</li>
+<li>$\sum_{i=1}^K \text{softmax}(z_i) = 1$</li>
+<li>Gradient: $\frac{\partial \text{softmax}_i}{\partial z_j} = \text{softmax}<em>i(\delta</em>{ij} - \text{softmax}_j)$</li>
+</ul>
+<p>Źródło: Wykład Sieci Neuronowe, Claude 4.5</p>
+<h4 id="funkcja-kosztu-entropia-krzy%C5%BCowa">Funkcja kosztu: Entropia krzyżowa</h4>
+<p>Dla klasyfikacji wieloklasowej używamy entropii krzyżowej:</p>
+<p>$$L = -\sum_{i=1}^K y_i \log(\hat{y}_i)$$</p>
+<p>gdzie:</p>
+<ul>
+<li>$y_i$ - prawdziwa etykieta (one-hot encoding)</li>
+<li>$\hat{y}_i$ - przewidywane prawdopodobieństwo klasy $i$</li>
+</ul>
+<p>Połączenie softmax z entropią krzyżową daje uproszczony gradient:</p>
+<p>$$\frac{\partial L}{\partial z} = \hat{y} - y$$</p>
+<p>Źródło: Wykład Sieci Neuronowe</p>
+<h2 id="2-implementacja">2. Implementacja</h2>
+<h3 id="21-architektura">2.1. Architektura</h3>
+<p>Implementacja została podzielona na moduły:</p>
+<pre class="hljs"><code><div>lab3/
+├── layers.py          # Warstwa bazowa i warstwy liniowe
+├── activations.py     # Funkcje aktywacji
+├── losses.py          # Funkcje kosztu
+├── network.py         # Klasa sieci neuronowej
+├── data_utils.py      # Ładowanie i preprocessing danych
+├── train.py           # Interfejs CLI
+├── run_experiments.py # Skrypty eksperymentalne
+└── examples.sh        # Przykłady użycia
+</div></code></pre>
+<h3 id="22-implementacja-warstw">2.2. Implementacja warstw</h3>
+<h4 id="klasa-bazowa-layer">Klasa bazowa Layer</h4>
+<pre class="hljs"><code><div><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Layer</span>:</span>
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">forward</span><span class="hljs-params">(self, x)</span>:</span>
+        <span class="hljs-string">"""Przejście w przód przez warstwę."""</span>
+        <span class="hljs-keyword">raise</span> NotImplementedError
+    
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">backward</span><span class="hljs-params">(self, grad_output)</span>:</span>
+        <span class="hljs-string">"""Propagacja wsteczna gradientu."""</span>
+        <span class="hljs-keyword">raise</span> NotImplementedError
+    
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">get_params_and_grads</span><span class="hljs-params">(self)</span>:</span>
+        <span class="hljs-string">"""Zwraca parametry i ich gradienty."""</span>
+        <span class="hljs-keyword">return</span> []
+</div></code></pre>
+<h4 id="warstwa-liniowa-linear">Warstwa liniowa (Linear)</h4>
+<p>Implementuje transformację $y = Wx + b$:</p>
+<pre class="hljs"><code><div><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Linear</span><span class="hljs-params">(Layer)</span>:</span>
+    <span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">__init__</span><span class="hljs-params">(self, input_dim, output_dim, weight_init_std=<span class="hljs-number">0.01</span>)</span>:</span>
+        <span class="hljs-comment"># Inicjalizacja wag rozkładem normalnym</span>
+        self.weights = np.random.randn(output_dim, input_dim) * weight_init_std
+        self.bias = np.zeros((output_dim, <span class="hljs-number">1</span>))
+</div></code></pre>
+<p>Metoda <code>forward</code>:</p>
+<ul>
+<li>Zapisuje wejście w cache dla backward</li>
+<li>Oblicza $z = Wx + b$</li>
+</ul>
+<p>Metoda <code>backward</code>:</p>
+<ul>
+<li>Oblicza gradienty: $\frac{\partial L}{\partial W}$, $\frac{\partial L}{\partial b}$, $\frac{\partial L}{\partial x}$</li>
+<li>Wykorzystuje reguły rachunku macierzowego</li>
+</ul>
+<h3 id="23-funkcja-aktywacji-softmax">2.3. Funkcja aktywacji Softmax</h3>
+<p>Implementacja stabilna numerycznie (odejmowanie maksimum [porada przez Cluade 4.5]):</p>
+<pre class="hljs"><code><div><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">forward</span><span class="hljs-params">(self, x)</span>:</span>
+    x_shifted = x - np.max(x, axis=<span class="hljs-number">0</span>, keepdims=<span class="hljs-literal">True</span>)
+    exp_x = np.exp(x_shifted)
+    self.output = exp_x / np.sum(exp_x, axis=<span class="hljs-number">0</span>, keepdims=<span class="hljs-literal">True</span>)
+    <span class="hljs-keyword">return</span> self.output
+</div></code></pre>
+<p>Gradient uwzględniający:</p>
+<pre class="hljs"><code><div><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">backward</span><span class="hljs-params">(self, grad_output)</span>:</span>
+    batch_size = grad_output.shape[<span class="hljs-number">1</span>]
+    grad_input = np.zeros_like(self.output)
+    
+    <span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> range(batch_size):
+        s = self.output[:, i:i+<span class="hljs-number">1</span>]
+        jacobian = np.diagflat(s) - np.dot(s, s.T)
+        grad_input[:, i:i+<span class="hljs-number">1</span>] = np.dot(jacobian, grad_output[:, i:i+<span class="hljs-number">1</span>])
+    
+    <span class="hljs-keyword">return</span> grad_input
+</div></code></pre>
+<h3 id="24-funkcja-kosztu">2.4. Funkcja kosztu</h3>
+<p>Entropia krzyżowa z obsługą softmax:</p>
+<pre class="hljs"><code><div><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">cross_entropy_loss</span><span class="hljs-params">(predictions, targets)</span>:</span>
+    epsilon = <span class="hljs-number">1e-15</span>
+    predictions = np.clip(predictions, epsilon, <span class="hljs-number">1</span> - epsilon)
+    
+    <span class="hljs-keyword">if</span> targets.ndim == <span class="hljs-number">1</span>:
+        targets_onehot = np.zeros((<span class="hljs-number">2</span>, len(targets)))
+        targets_onehot[targets.astype(int), np.arange(len(targets))] = <span class="hljs-number">1</span>
+        targets = targets_onehot
+    
+    loss = -np.sum(targets * np.log(predictions)) / targets.shape[<span class="hljs-number">1</span>]
+    grad = predictions - targets
+    
+    <span class="hljs-keyword">return</span> loss, grad
+</div></code></pre>
+<h3 id="25-klasa-network">2.5. Klasa Network</h3>
+<p>Klasa <code>NeuralNetwork</code> zarządza:</p>
+<ul>
+<li>Listą warstw</li>
+<li>Przejściem forward przez wszystkie warstwy</li>
+<li>Propagacją backward</li>
+<li>Aktualizacją wag metodą gradient descent</li>
+</ul>
+<pre class="hljs"><code><div><span class="hljs-function"><span class="hljs-keyword">def</span> <span class="hljs-title">train</span><span class="hljs-params">(self, X, y, epochs, learning_rate)</span>:</span>
+    <span class="hljs-keyword">for</span> epoch <span class="hljs-keyword">in</span> range(epochs):
+        <span class="hljs-comment"># Forward pass</span>
+        output = self.forward(X)
+        
+        <span class="hljs-comment"># Compute loss</span>
+        loss, grad = self.loss_fn(output, y)
+        
+        <span class="hljs-comment"># Backward pass</span>
+        self.backward(grad)
+        
+        <span class="hljs-comment"># Update parameters</span>
+        self.update_parameters(learning_rate)
+</div></code></pre>
+<h3 id="26-interfejs-cli">2.6. Interfejs CLI</h3>
+<p>Stworzono prosty interfejs wiersza poleceń:</p>
+<pre class="hljs"><code><div>python train.py --layers 13 32 16 2 \
+                --learning-rate 0.1 \
+                --epochs 1000 \
+                --weight-init-std 0.1 \
+                --normalize
+</div></code></pre>
+<p>Parametry:</p>
+<ul>
+<li><code>--layers</code>: Wymiary kolejnych warstw</li>
+<li><code>--learning-rate</code>: Współczynnik uczenia</li>
+<li><code>--epochs</code>: Liczba epok</li>
+<li><code>--weight-init-std</code>: Odchylenie standardowe inicjalizacji wag</li>
+<li><code>--normalize</code>: Czy normalizować dane</li>
+</ul>
+<hr>
+<h2 id="3-eksperymenty">3. Eksperymenty</h2>
+<h3 id="31-zbi%C3%B3r-danych">3.1. Zbiór danych</h3>
+<p>Heart Disease Dataset:</p>
+<ul>
+<li>303 próbki pacjentów</li>
+<li>13 cech</li>
+<li>Zadanie: klasyfikacja binarna (chory/zdrowy)</li>
+<li>Podział: 80% train / 20% test</li>
+</ul>
+<h3 id="32-metodologia">3.2. Metodologia</h3>
+<p>Przeprowadzono eksperymenty badające wpływ:</p>
+<ol>
+<li>Wymiarowości warstwy ukrytej</li>
+<li>Współczynnika uczenia</li>
+<li>Odchylenia standardowego inicjalizacji wag</li>
+<li>Normalizacji danych</li>
+<li>Liczby warstw</li>
+</ol>
+<p>Każdy eksperyment mierzył:</p>
+<ul>
+<li>Dokładność na zbiorze treningowym i testowym</li>
+<li>Wartość funkcji kosztu w czasie</li>
+<li>Stabilność numeryczną (???)</li>
+</ul>
+<h3 id="33-eksperyment-1-wymiarowo%C5%9B%C4%87-warstwy-ukrytej">3.3. Eksperyment 1: Wymiarowość warstwy ukrytej</h3>
+<p><strong>Konfiguracja:</strong></p>
+<ul>
+<li>Architektura: [13, H, 2] gdzie H ∈ {8, 16, 32, 64}</li>
+<li>Learning rate: 0.1</li>
+<li>Epochs: 1000</li>
+<li>Weight init std: 0.1</li>
+<li>Normalizacja: TAK</li>
+</ul>
+<p><strong>Wyniki:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Rozmiar ukrytej</th>
+<th>Train Acc</th>
+<th>Test Acc</th>
+<th>Final Loss</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8</td>
+<td>85.12%</td>
+<td>83.61%</td>
+<td>0.3421</td>
+</tr>
+<tr>
+<td>16</td>
+<td>88.84%</td>
+<td>86.89%</td>
+<td>0.2876</td>
+</tr>
+<tr>
+<td>32</td>
+<td>91.32%</td>
+<td>90.16%</td>
+<td>0.2234</td>
+</tr>
+<tr>
+<td>64</td>
+<td>92.56%</td>
+<td>88.52%</td>
+<td>0.2011</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wnioski:</strong></p>
+<ul>
+<li>Zwiększanie wymiarowości warstwy ukrytej poprawia zdolność uczenia się modelu</li>
+<li>Optymalna wartość dla tego zadania: 32 neurony</li>
+<li>Zbyt duża warstwa (64) prowadzi do lekkiego przeuczenia</li>
+</ul>
+<h3 id="34-eksperyment-2-wsp%C3%B3%C5%82czynnik-uczenia">3.4. Eksperyment 2: Współczynnik uczenia</h3>
+<p><strong>Konfiguracja:</strong></p>
+<ul>
+<li>Architektura: [13, 32, 2]</li>
+<li>Learning rate: {0.001, 0.01, 0.1, 0.5}</li>
+<li>Epochs: 1000</li>
+<li>Weight init std: 0.1</li>
+<li>Normalizacja: TAK</li>
+</ul>
+<p><strong>Wyniki:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Learning Rate</th>
+<th>Train Acc</th>
+<th>Test Acc</th>
+<th>Zbieżność</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.001</td>
+<td>72.73%</td>
+<td>70.49%</td>
+<td>Powolna</td>
+</tr>
+<tr>
+<td>0.01</td>
+<td>85.95%</td>
+<td>83.61%</td>
+<td>Dobra</td>
+</tr>
+<tr>
+<td>0.1</td>
+<td>91.32%</td>
+<td>90.16%</td>
+<td>Bardzo dobra</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>88.43%</td>
+<td>85.25%</td>
+<td>Niestabilna</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wnioski:</strong></p>
+<ul>
+<li>Learning rate = 0.1 daje najlepsze wyniki dla tego problemu</li>
+<li>Zbyt mały LR (0.001) powoduje wolną zbieżność</li>
+<li>Zbyt duży LR (0.5) wprowadza oscylacje i niestabilność</li>
+<li>Optymalna wartość zależy od architektury i danych</li>
+</ul>
+<h3 id="35-eksperyment-3-inicjalizacja-wag">3.5. Eksperyment 3: Inicjalizacja wag</h3>
+<p><strong>Konfiguracja:</strong></p>
+<ul>
+<li>Architektura: [13, 32, 2]</li>
+<li>Learning rate: 0.1</li>
+<li>Epochs: 1000</li>
+<li>Weight init std: {0.001, 0.01, 0.1, 0.5}</li>
+<li>Normalizacja: TAK</li>
+</ul>
+<p><strong>Wyniki:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Weight Init Std</th>
+<th>Train Acc</th>
+<th>Test Acc</th>
+<th>Uwagi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0.001</td>
+<td>78.51%</td>
+<td>75.41%</td>
+<td>Zbyt małe wagi</td>
+</tr>
+<tr>
+<td>0.01</td>
+<td>88.84%</td>
+<td>86.89%</td>
+<td>Dobre</td>
+</tr>
+<tr>
+<td>0.1</td>
+<td>91.32%</td>
+<td>90.16%</td>
+<td>Optymalne</td>
+</tr>
+<tr>
+<td>0.5</td>
+<td>86.78%</td>
+<td>83.61%</td>
+<td>Zbyt duże wagi</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wnioski:</strong></p>
+<ul>
+<li>Inicjalizacja wag ma istotny wpływ na szybkość uczenia</li>
+<li>Zbyt małe wagi (0.001): gradient vanishing</li>
+<li>Zbyt duże wagi (0.5): niestabilność początkowa</li>
+<li>Optymalna wartość: 0.1 dla tej architektury</li>
+</ul>
+<h3 id="36-eksperyment-4-wp%C5%82yw-normalizacji">3.6. Eksperyment 4: Wpływ normalizacji</h3>
+<p><strong>Konfiguracja:</strong></p>
+<ul>
+<li>Architektura: [13, 32, 2]</li>
+<li>Learning rate: 0.1</li>
+<li>Epochs: 1000</li>
+<li>Weight init std: 0.1</li>
+</ul>
+<p><strong>Wyniki:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Normalizacja</th>
+<th>Train Acc</th>
+<th>Test Acc</th>
+<th>Final Loss</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NIE</td>
+<td>76.03%</td>
+<td>73.77%</td>
+<td>0.4821</td>
+</tr>
+<tr>
+<td>TAK</td>
+<td>91.32%</td>
+<td>90.16%</td>
+<td>0.2234</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wnioski:</strong></p>
+<ul>
+<li>Normalizacja danych (poprzez StandardScaler) drastycznie poprawia wyniki</li>
+<li>Bez normalizacji: różne skale cech (wiek vs cholesterol) utrudniają uczenie</li>
+<li>Z normalizacją: wszystkie cechy mają podobny wpływ</li>
+<li>Warto zauważyć jednak, że noramlizacja była już przeprowadzana przed eksportem danych. Dlaczego więc ponowne jej zastosowanie polepszyło wyniki? (ZAPYTAĆ)</li>
+</ul>
+<h3 id="37-eksperyment-5-liczba-warstw">3.7. Eksperyment 5: Liczba warstw</h3>
+<p><strong>Konfiguracja:</strong></p>
+<ul>
+<li>Learning rate: 0.1</li>
+<li>Epochs: 1000</li>
+<li>Weight init std: 0.1</li>
+<li>Normalizacja: TAK</li>
+</ul>
+<p><strong>Wyniki:</strong></p>
+<table>
+<thead>
+<tr>
+<th>Architektura</th>
+<th>Warstwy</th>
+<th>Train Acc</th>
+<th>Test Acc</th>
+<th>Czas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[13, 2]</td>
+<td>1</td>
+<td>84.30%</td>
+<td>81.97%</td>
+<td>0.5s</td>
+</tr>
+<tr>
+<td>[13, 32, 2]</td>
+<td>2</td>
+<td>91.32%</td>
+<td>90.16%</td>
+<td>1.2s</td>
+</tr>
+<tr>
+<td>[13, 32, 16, 2]</td>
+<td>3</td>
+<td>92.98%</td>
+<td>88.52%</td>
+<td>2.1s</td>
+</tr>
+<tr>
+<td>[13, 64, 32, 16, 2]</td>
+<td>4</td>
+<td>94.21%</td>
+<td>86.89%</td>
+<td>3.8s</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Wnioski:</strong></p>
+<ul>
+<li>Pojedyncza warstwa ukryta jest niewystarczająca</li>
+<li>Dwie warstwy ukryte dają dobry balans wydajność/złożoność</li>
+<li>Głębsze sieci (3-4 warstwy) uczą się lepiej na train, ale overfittują</li>
+<li>Dla małego zbioru danych (303 próbki) głębokie sieci nie są konieczne</li>
+</ul>
+<h3 id="38-podsumowanie-najlepszego-modelu">3.8. Podsumowanie najlepszego modelu</h3>
+<p><strong>Optymalna konfiguracja:</strong></p>
+<pre class="hljs"><code><div>Architektura: [13, 32, 2]
+Learning rate: 0.1
+Epochs: 1000
+Weight init std: 0.1
+Normalizacja: TAK
+</div></code></pre>
+<p><strong>Wyniki końcowe:</strong></p>
+<ul>
+<li><strong>Dokładność treningowa: 91.32%</strong></li>
+<li><strong>Dokładność testowa: 90.16%</strong></li>
+<li><strong>Loss końcowy: 0.2234</strong></li>
+<li>Brak znaczącego overfittingu</li>
+<li>Stabilna zbieżność</li>
+</ul>
+<hr>
+<h2 id="4-analiza-wynik%C3%B3w">4. Analiza wyników</h2>
+<h3 id="41-krzywa-uczenia">4.1. Krzywa uczenia</h3>
+<p>Obserwacje z krzywej kosztu:</p>
+<ul>
+<li>Szybki spadek w pierwszych 100 epokach</li>
+<li>Stabilizacja po ~500 epokach</li>
+<li>Brak oscylacji - dobry learning rate</li>
+<li>Gradient descent działa poprawnie</li>
+</ul>
+<h3 id="42-macierz-pomy%C5%82ek">4.2. Macierz pomyłek</h3>
+<p>Dla najlepszego modelu:</p>
+<pre class="hljs"><code><div>              Predicted
+              0    1
+Actual  0    [32   5]
+        1    [ 1  23]
+</div></code></pre>
+<p>Metryki:</p>
+<ul>
+<li>Precision: 82.1% (notka: how accurate are positive predicitons    )</li>
+<li>Recall: 95.8% (notka: how many real positives)</li>
+<li>F1-score: 88.5% (notka: balance between precision and recall)</li>
+</ul>
+<p>Model jest lepszy w wykrywaniu chorych (wysoki recall) niż w unikaniu fałszywych alarmów. Uważa się, że w medycynie dobrą praktyką jest posiadanie większej ilości false positives.</p>
+<h3 id="43-por%C3%B3wnanie-z-regresj%C4%85-logistyczn%C4%85">4.3. Porównanie z regresją logistyczną</h3>
+<table>
+<thead>
+<tr>
+<th>Model</th>
+<th>Test Accuracy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Regresja logistyczna (lab 2)</td>
+<td>85.25%</td>
+</tr>
+<tr>
+<td>Sieć neuronowa (1 warstwa)</td>
+<td>81.97%</td>
+</tr>
+<tr>
+<td>Sieć neuronowa (2 warstwy)</td>
+<td>90.16%</td>
+</tr>
+</tbody>
+</table>
+<p>Wnioski:</p>
+<ul>
+<li>Prosta sieć (1 warstwa ukryta) jest gorsza od regresji logistycznej</li>
+<li>Sieć z 2 warstwami znacząco poprawia wyniki</li>
+<li>Dodatkowa nieliniowość pozwala modelować bardziej złożone relacje</li>
+</ul>
+<h3 id="44-wp%C5%82yw-hiperparametr%C3%B3w---ranking">4.4. Wpływ hiperparametrów - ranking</h3>
+<ol>
+<li><strong>Normalizacja danych</strong> (+16.39 pp) - największy wpływ</li>
+<li><strong>Liczba neuronów w warstwie ukrytej</strong> (+6.55 pp dla 8→32)</li>
+<li><strong>Learning rate</strong> (+6.55 pp dla 0.01→0.1)</li>
+<li><strong>Inicjalizacja wag</strong> (+3.27 pp dla 0.01→0.1)</li>
+<li><strong>Liczba warstw</strong> (+8.19 pp dla 1→2 warstwy)</li>
+</ol>
+<hr>
+<h2 id="5-wnioski">5. Wnioski</h2>
+<h3 id="51-wnioski-implementacyjne">5.1. Wnioski implementacyjne</h3>
+<ol>
+<li>Modularność kodu: Podział na warstwy, aktywacje i funkcje kosztu umożliwia łatwą rozbudowę</li>
+<li>Stabilność numeryczna: Kluczowa dla softmax (odejmowanie max) i logarytmów (epsilon)</li>
+<li>Weryfikacja gradientów: Istotne dla poprawności implementacji backpropagation</li>
+<li>Cache'owanie: Przechowywanie wartości z forward pass niezbędne dla backward</li>
+</ol>
+<h3 id="52-wnioski-dotycz%C4%85ce-uczenia">5.2. Wnioski dotyczące uczenia</h3>
+<ol>
+<li>Preprocessing jest kluczowy: Normalizacja danych zwiększa accuracy o ~16%</li>
+<li>Balans złożoności: Zbyt głębokie sieci prowadzą do overfittingu na małych zbiorach</li>
+<li>Tuning hiperparametrów: Learning rate i inicjalizacja wag wymagają eksperymentowania</li>
+<li>Regularyzacja: Przy małych zbiorach danych potrzebna (dropout, L2 - z ostatniego wykładu 5)</li>
+</ol>
+<h3 id="53-wnioski-praktyczne">5.3. Wnioski praktyczne</h3>
+<ol>
+<li>Sieć neuronowa może przewyższyć regresję logistyczną dla nieliniowych zależności</li>
+<li>Dla małych zbiorów (&lt; 500 próbek) proste architektury (1-2 warstwy) są optymalne</li>
+<li>Propagacja wsteczna działa efektywnie nawet bez framework'ów typu PyTorch</li>
+<li>Zrozumienie matematyki backpropagation jest kluczowe dla debugowania</li>
+</ol>
+<h3 id="54-ograniczenia">5.4. Ograniczenia</h3>
+<ol>
+<li><strong>Brak regularyzacji</strong>: Model może przeuczać się na głębszych architekturach</li>
+<li><strong>Brak mini-batch</strong>: Implementacja używa full-batch - wolniejsza dla dużych zbiorów</li>
+<li><strong>Brak momentum</strong>: ryzyko minimum lokalnych</li>
+<li><strong>Brak early stopping</strong>: Trening zawsze przez pełną liczbę epok</li>
+</ol>
+<h3 id="55-mo%C5%BCliwe-rozszerzenia">5.5. Możliwe rozszerzenia</h3>
+<ol>
+<li>Implementacja dropout dla regularyzacji</li>
+<li>Mini-batch gradient descent</li>
+<li>Optymalizatory: Adam, RMSprop</li>
+<li>Więcej funkcji aktywacji (ReLU, tanh)</li>
+<li>Cross-validation dla doboru hiperparametrów</li>
+<li>Learning rate scheduling</li>
+</ol>
+<h2 id="6-podsumowanie">6. Podsumowanie</h2>
+<p>W ramach laboratorium 3 zrealizowano wszystkie cele:</p>
+<p>Implementacja wielowarstwowej sieci neuronowej od podstaw<br>
+Algorytm backpropagation z użyciem wyłącznie NumPy<br>
+Modularny kod umożliwiający eksperymentowanie<br>
+Interfejs CLI dla łatwego uruchamiania eksperymentów<br>
+Systematyczne badanie wpływu hiperparametrów<br>
+Dokładna analiza wyników na zbiorze Heart Disease</p>
+<p><em><strong>Najlepszy osiągnięty wynik: 90.16% accuracy na zbiorze testowym</strong></em></p>
+<p>Projekt demonstruje, że:</p>
+<ul>
+<li>Backpropagation można efektywnie zaimplementować bez frameworków</li>
+<li>Odpowiedni preprocessing i dobór hiperparametrów są kluczowe</li>
+<li>Proste architektury mogą dawać dobre wyniki na małych zbiorach</li>
+<li>Zrozumienie matematyki jest fundamentem dla głębokiego uczenia</li>
+</ul>
+<h2 id="7-bibliografia">7. Bibliografia</h2>
+<ol>
+<li>Goodfellow, I., Bengio, Y., &amp; Courville, A. (2016). <em>Deep Learning</em>. MIT Press.</li>
+<li>Nielsen, M. (2015). <em>Neural Networks and Deep Learning</em>. Determination Press.</li>
+<li>Rumelhart, D. E., Hinton, G. E., &amp; Williams, R. J. (1986). Learning representations by back-propagating errors. <em>Nature</em>, 323(6088), 533-536.</li>
+<li>UCI Machine Learning Repository: Heart Disease Dataset. https://archive.ics.uci.edu/ml/datasets/heart+disease</li>
+<li>Matrix Calculus - Wikipedia: https://en.wikipedia.org/wiki/Matrix_calculus</li>
+</ol>
+<h2 id="za%C5%82%C4%85czniki">Załączniki</h2>
+<h3 id="a-struktura-projektu">A. Struktura projektu</h3>
+<pre class="hljs"><code><div>lab3/
+├── activations.py         # Implementacja softmax
+├── data_utils.py          # Ładowanie i preprocessing danych
+├── examples.sh            # Przykłady użycia CLI
+├── layers.py              # Warstwy: Layer, Linear
+├── losses.py              # Funkcje kosztu
+├── network.py             # Klasa NeuralNetwork
+├── run_experiments.py     # Skrypty eksperymentów
+├── train.py               # Interfejs CLI
+├── RAPORT.md             # Niniejszy raport
+└── processed_heart_cleveland.csv  # Dane
+</div></code></pre>
+<h3 id="b-przyk%C5%82ady-u%C5%BCycia">B. Przykłady użycia</h3>
+<pre class="hljs"><code><div><span class="hljs-comment"># Podstawowe uczenie</span>
+python train.py --layers 13 32 2 --learning-rate 0.1 --epochs 1000
+
+<span class="hljs-comment"># Eksperyment z głębszą siecią</span>
+python train.py --layers 13 64 32 16 2 --learning-rate 0.05 --epochs 2000
+
+<span class="hljs-comment"># Bez normalizacji (gorsze wyniki)</span>
+python train.py --layers 13 32 2 --learning-rate 0.1 --no-normalize
+
+<span class="hljs-comment"># Uruchomienie wszystkich eksperymentów</span>
+python run_experiments.py
+</div></code></pre>
+<h3 id="c-wymagania-systemowe">C. Wymagania systemowe</h3>
+<ul>
+<li>Python 3.8+</li>
+<li>NumPy 1.20+</li>
+<li>Pandas 1.3+</li>
+<li>Scikit-learn 0.24+ (tylko do preprocessing)</li>
+</ul>
+
+</body>
+</html>

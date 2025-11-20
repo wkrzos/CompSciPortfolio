@@ -1,0 +1,4 @@
+- interpretacja grafu neuronów nie jest zalecana
+- podejście modularne
+- modyfikacja live np.  zmiany funkcji aktywacji
+- znaleźć zakres zbyt małych i zbyt dużych wartości 

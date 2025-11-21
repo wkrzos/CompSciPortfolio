@@ -1,4 +1,7 @@
-# Ćwiczenie 4
+# Ćwiczenie 4 - Sieć w PyTorch
+Wojciech Krzos 276264
+13.11.2025
+IST, Neural Networks
 
 ## Podsumowanie
 

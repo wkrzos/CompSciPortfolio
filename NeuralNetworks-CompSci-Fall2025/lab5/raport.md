@@ -110,6 +110,7 @@ Parametry są tworzone fabryką `create_model(model_type, hidden_size, hidden_si
 
 <p align="center">
   <img src="results/plots/baseline_singlelayer_learning_curves.png" alt="Baseline Single-layer Learning Curves" width="45%" />
+  <br>
   <img src="results/plots/baseline_twolayer_learning_curves.png" alt="Baseline Two-layer Learning Curves" width="45%" />
   <br>
   <em>Rys. 1: Krzywe uczenia dla konfiguracji bazowych (single-layer vs two-layer, H=128)</em>
@@ -315,34 +316,6 @@ Two-layer (H=128):
 - Noise augmentation **najskuteczniejsza metoda** redukcji overfittingu (gap<2%)
 - Duże modele są bezpieczne przy pełnych danych
 
-## Przykładowe fragmenty kodu (dla dokumentacji)
-
-### Definicja modelu (skrócona)
-```python
-class SingleLayerNet(nn.Module):
-    def __init__(self, input_size=784, hidden_size=128, num_classes=10):
-        super().__init__()
-        self.flatten = nn.Flatten()
-        self.fc1 = nn.Linear(input_size, hidden_size)
-        self.relu = nn.ReLU()
-        self.fc2 = nn.Linear(hidden_size, num_classes)
-    def forward(self, x):
-        x = self.flatten(x)
-        return self.fc2(self.relu(self.fc1(x)))
-```
-
-### Pętla treningowa (skrót)
-```python
-for images, labels in train_loader:
-    images, labels = images.to(device), labels.to(device)
-    if noise_train: images = add_gaussian_noise(images, noise_std)
-    optimizer.zero_grad()
-    outputs = model(images)
-    loss = criterion(outputs, labels)
-    loss.backward()
-    optimizer.step()
-```
-
 ## Możliwe problemy i rozwiązania
 
 | Problem | Przyczyna | Rozwiązanie |
@@ -423,6 +396,21 @@ for images, labels in train_loader:
 
 8. **Największe odkrycie:** Noise augmentation σ=0.5 redukuje overfit gap do **1.87%** (two-layer) przy tylko -2pp accuracy cost – **game changer dla robustnych modeli**
 
+## Dalsze prace
+
+- ~~Włączenie Early Stopping~~ - **ZAIMPLEMENTOWANE**
+- Dodanie regularyzacji L2 / Dropout (wbudowany)
+- Test alternatywnych aktywacji (LeakyReLU, GELU)
+- Porównanie z prostą CNN (konwolucje zamiast MLP) – spodziewana poprawa
+- Analiza czasu uczenia vs liczba parametrów
+- Learning rate scheduling (ReduceLROnPlateau)
+
+---
+
+**Największe zaskoczenie:** Noise σ=0.5 traintest zamiast szkodzić convergence, **eliminuje overfit** (gap 1.87%) i daje świetną robustness!
+
+---
+# EXTRAS
 ## Early Stopping
 
 ### Implementacja
@@ -450,105 +438,3 @@ Zaimplementowano mechanizm **early stopping** w funkcji `train_model()` aby zapo
 - Automatyczne zatrzymanie przy plateau
 - Przywracanie najlepszego stanu → wyższa test accuracy
 - Skrócenie czasu treningu (szczególnie przy małych danych)
-
-### Użycie
-
-```python
-from train import train_model
-
-history = train_model(
-    model=model,
-    train_loader=train_loader,
-    test_loader=test_loader,
-    num_epochs=50,  # max epok
-    early_stopping=True,
-    patience=5,     # czekaj 5 epok na poprawę
-    min_delta=0.001 # min. 0.1% poprawa test loss
-)
-
-# Sprawdź czy early stopping się aktywował
-if history['stopped_epoch'] is not None:
-    print(f"Stopped at epoch {history['stopped_epoch']}")
-```
-
----
-
-## Dalsze prace
-
-- ✅ ~~Włączenie Early Stopping~~ - **ZAIMPLEMENTOWANE**
-- Dodanie regularyzacji L2 / Dropout
-- Test alternatywnych aktywacji (LeakyReLU, GELU)
-- Porównanie z prostą CNN (konwolucje zamiast MLP) – spodziewana poprawa
-- Analiza czasu uczenia vs liczba parametrów
-- Learning rate scheduling (ReduceLROnPlateau)
-
----
-
-## Weryfikacja hipotez początkowych
-
-| Hipoteza | Status | Komentarz |
-|----------|--------|-----------|
-| Two-layer lepsza przy H=256-512 | ❌ ODRZUCONA | Marginalna różnica (~0.4pp), nie wart complexity |
-| Single-layer lepsza przy małych danych | ✅ POTWIERDZONA | 78.67% vs 77.32% przy 1% danych |
-| H=64 szybka konwergencja | ✅ POTWIERDZONA | 87.99% przy najniższym overfit gap (4.24%) |
-| H=512 ryzyko overfittingu | ⚠️ CZĘŚCIOWO | Gap tylko 5-6% przy 100% danych, ale 6.39% dla two-layer |
-| Batch=16 lepsza generalizacja | ❌ ODRZUCONA | Najgorsze wyniki (87.89-87.92%), zbyt niestabilny |
-| Batch=128 stabilne uczenie | ⚠️ CZĘŚCIOWO | Stabilne, ale bez korzyści accuracy (-0.4-0.9pp vs 32/64) |
-| 1% danych → wyraźny overfit | ✅ POTWIERDZONA | Gap ~20%, train 97-98%, test 76-78% |
-| σ=0.1-0.3 noise poprawia robustness | ✅ POTWIERDZONA | +5-6pp accuracy na zaszumionych danych |
-| σ=0.5 utrudnia naukę | ⚠️ CZĘŚCIOWO | Tak, ale train+test daje zaskakująco dobry efekt regularyzacji |
-
-**Największe zaskoczenie:** Noise σ=0.5 traintest zamiast szkodzić convergence, **eliminuje overfit** (gap 1.87%) i daje świetną robustness!
-
----
-
-## Uruchomienie
-
-```bash
-cd lab5
-pip install -r requirements.txt
-./run_experiments.sh hidden_size
-./run_experiments.sh batch_size
-./run_experiments.sh data_size
-./run_experiments.sh noise
-python visualization.py --results-dir results --output-dir results/plots
-python compare_results.py --results-dir results --output-file results/analysis_summary.txt
-```
-
-## Pliki
-
-- `model.py` – architektury MLP
-- `train.py` – pętle treningowe, noise injection
-- `run_experiments.py` – generacja i uruchamianie konfiguracji
-- `visualization.py` – wykresy
-- `compare_results.py` – analiza wyników
-- `quick_test.py` – szybka weryfikacja środowiska
-- `EXAMPLES.md` – przykłady użycia
-- `raport.md` – niniejszy raport
-
----
-
-## Statystyki eksperymentów
-
-- **Łączna liczba eksperymentów:** 36
-- **Najwyższa test accuracy:** **88.97%** (two-layer, H=128, batch=64)
-- **Najniższy overfit gap:** **1.87%** (two-layer, H=128, σ=0.5 traintest)
-- **Najszybsza konfiguracja:** single-layer, H=64 (50,890 parametrów)
-- **Najwolniejsza konfiguracja:** two-layer, H=512 (535,818 parametrów)
-- **Średnia accuracy wszystkich konfiguracji:** 86.77%
-- **Średni overfit gap:** 6.35%
-
-### Porównanie ogólne: Single-layer vs Two-layer
-
-| Metryka | Single-layer (18 exp.) | Two-layer (18 exp.) | Różnica |
-|---------|------------------------|---------------------|---------|
-| Średnia test accuracy | 86.68% | 86.87% | +0.19pp |
-| Średni overfit gap | 6.39% | 6.32% | -0.07pp |
-| Najlepsza accuracy | 89.08% (H=512) | 89.18% (H=512) | +0.10pp |
-| Najniższy gap | 2.96% (σ=0.5 traintest) | 1.87% (σ=0.5 traintest) | -1.09pp |
-
-**Wniosek końcowy:** Dla FashionMNIST różnica między architekturami jest **minimalna** (~0.2pp średnio). Wybór powinien być oparty na **kontekście zastosowania** (robustness/speed/accuracy), nie architekturze samej w sobie.
-
----
-
-**Raport wygenerowany na podstawie 36 kompletnych eksperymentów. Data generacji: 2025-01-21**

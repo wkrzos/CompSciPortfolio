@@ -183,7 +183,8 @@ def evaluate(model, test_loader, criterion, device, noise_std=0.0):
 
 
 def train_model(model, train_loader, test_loader, num_epochs=20, learning_rate=0.001,
-                device='cpu', noise_std=0.0, noise_train=False, verbose=True):
+                device='cpu', noise_std=0.0, noise_train=False, verbose=True,
+                early_stopping=True, patience=5, min_delta=0.001):
     """
     Train model for multiple epochs and track performance.
 
@@ -197,6 +198,9 @@ def train_model(model, train_loader, test_loader, num_epochs=20, learning_rate=0
         noise_std: Standard deviation of Gaussian noise
         noise_train: Whether to add noise during training
         verbose: Whether to print progress
+        early_stopping: Whether to use early stopping
+        patience: Number of epochs to wait for improvement before stopping
+        min_delta: Minimum change in test loss to qualify as improvement
 
     Returns:
         Dictionary with training history and results
@@ -210,11 +214,19 @@ def train_model(model, train_loader, test_loader, num_epochs=20, learning_rate=0
         'train_acc': [],
         'test_loss': [],
         'test_acc': [],
-        'epoch_times': []
+        'epoch_times': [],
+        'stopped_epoch': None
     }
+
+    # Early stopping variables
+    best_test_loss = float('inf')
+    best_model_state = None
+    epochs_without_improvement = 0
 
     if verbose:
         print(f"Training on {device}")
+        if early_stopping:
+            print(f"Early stopping enabled: patience={patience}, min_delta={min_delta}")
         pbar = tqdm(range(num_epochs), desc="Training")
     else:
         pbar = range(num_epochs)
@@ -239,12 +251,38 @@ def train_model(model, train_loader, test_loader, num_epochs=20, learning_rate=0
         history['test_acc'].append(test_acc)
         history['epoch_times'].append(epoch_time)
 
+        # Early stopping check
+        if early_stopping:
+            if test_loss < best_test_loss - min_delta:
+                best_test_loss = test_loss
+                best_model_state = model.state_dict().copy()
+                epochs_without_improvement = 0
+            else:
+                epochs_without_improvement += 1
+
+            if epochs_without_improvement >= patience:
+                if verbose:
+                    print(f"\nEarly stopping triggered at epoch {epoch + 1}")
+                    print(f"Best test loss: {best_test_loss:.4f}")
+                history['stopped_epoch'] = epoch + 1
+                # Restore best model
+                if best_model_state is not None:
+                    model.load_state_dict(best_model_state)
+                break
+
         if verbose:
-            pbar.set_postfix({
+            postfix = {
                 'train_loss': f'{train_loss:.4f}',
                 'train_acc': f'{train_acc:.2f}%',
                 'test_loss': f'{test_loss:.4f}',
                 'test_acc': f'{test_acc:.2f}%'
-            })
+            }
+            if early_stopping:
+                postfix['patience'] = f'{epochs_without_improvement}/{patience}'
+            pbar.set_postfix(postfix)
+
+    # If early stopping was used but not triggered, save the last state as best
+    if early_stopping and history['stopped_epoch'] is None and best_model_state is not None:
+        model.load_state_dict(best_model_state)
 
     return history

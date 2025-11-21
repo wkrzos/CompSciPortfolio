@@ -85,7 +85,10 @@ def run_experiment(config, verbose=True):
         device=device,
         noise_std=config['noise_std'],
         noise_train=config['noise_train'],
-        verbose=verbose
+        verbose=verbose,
+        early_stopping=config.get('early_stopping', True),
+        patience=config.get('patience', 5),
+        min_delta=config.get('min_delta', 0.001)
     )
 
     # Prepare results
@@ -96,7 +99,9 @@ def run_experiment(config, verbose=True):
         'final_train_acc': history['train_acc'][-1],
         'final_test_acc': history['test_acc'][-1],
         'best_test_acc': max(history['test_acc']),
-        'device': str(device)
+        'device': str(device),
+        'stopped_epoch': history.get('stopped_epoch'),
+        'total_epochs': len(history['train_acc'])
     }
 
     if verbose:
@@ -104,6 +109,8 @@ def run_experiment(config, verbose=True):
         print(f"Train Accuracy: {results['final_train_acc']:.2f}%")
         print(f"Test Accuracy: {results['final_test_acc']:.2f}%")
         print(f"Best Test Accuracy: {results['best_test_acc']:.2f}%")
+        if results['stopped_epoch'] is not None:
+            print(f"Early stopping at epoch {results['stopped_epoch']}/{config.get('num_epochs', 20)}")
 
     return results
 

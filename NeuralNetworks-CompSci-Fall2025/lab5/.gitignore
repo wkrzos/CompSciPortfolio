@@ -15,9 +15,9 @@ data/
 *.csv
 
 # Results
-results/*.json
-results/*.txt
-results/plots/*.png
+!results/*.json
+!results/*.txt
+!esults/plots/*.png
 !results/.gitkeep
 !results/plots/.gitkeep
 

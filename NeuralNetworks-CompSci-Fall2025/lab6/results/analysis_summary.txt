@@ -1,0 +1,111 @@
+================================================================================
+LAB 6: CNN WITH MAX POOLING - EXPERIMENT SUMMARY
+================================================================================
+Date: December 4, 2025
+Total Experiments: 45 (3 channels × 3 kernels × 5 noise scenarios)
+Device: NVIDIA GPU (CUDA)
+Duration: ~1.5 hours
+
+================================================================================
+KEY FINDINGS
+================================================================================
+
+1. BEST OVERALL CONFIGURATION
+   - Channels: 64
+   - Kernel Size: 3×3
+   - Pool Size: 2×2
+   - Noise: baseline (no noise)
+   - Test Accuracy: 91.38%
+   - Validation Accuracy: 92.24%
+
+2. EFFECT OF CHANNELS
+   - 16 channels: 82.16% avg accuracy
+   - 32 channels: 83.26% avg accuracy
+   - 64 channels: 82.30% avg accuracy
+   
+   Conclusion: 32-64 channels optimal, diminishing returns beyond 64
+
+3. EFFECT OF KERNEL SIZE
+   - 3×3 kernel: 80.68% avg accuracy
+   - 5×5 kernel: 82.78% avg accuracy
+   - 7×7 kernel: 84.27% avg accuracy
+   
+   Conclusion: Larger kernels slightly better, but 3×3 most efficient
+
+4. EFFECT OF NOISE
+   Scenario              | Avg Accuracy | Impact vs Baseline
+   ---------------------|--------------|-------------------
+   baseline             | 90.89%       | 0.00%
+   noise_both_0.1       | 88.40%       | -2.74%
+   noise_both_0.2       | 85.37%       | -6.07%
+   noise_test_0.1       | 83.01%       | -8.67%
+   noise_test_0.2       | 65.19%       | -28.28%
+   
+   Conclusion: 
+   - Noise in test dramatically reduces accuracy
+   - Noise in both (training augmentation) reduces impact
+   - Strong noise (σ=0.2) very damaging to test performance
+
+5. TOP 5 CONFIGURATIONS
+   1. Ch=64 K=3 baseline         : 91.38%
+   2. Ch=32 K=3 baseline         : 91.34%
+   3. Ch=64 K=7 baseline         : 91.23%
+   4. Ch=32 K=5 baseline         : 90.98%
+   5. Ch=32 K=7 baseline         : 90.70%
+
+================================================================================
+INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+1. Architecture Choice:
+   - For Fashion-MNIST: 32-64 channels sufficient
+   - Kernel 3×3 provides best balance (speed vs accuracy)
+   - 2 conv layers with pooling highly effective
+
+2. Data Augmentation:
+   - Adding noise during training (σ=0.1) acceptable
+   - Helps model generalize to noisy test data
+   - σ=0.2 may be too strong for 28×28 images
+
+3. Robustness:
+   - Models trained without noise fail badly on noisy test data
+   - Training with noise improves robustness significantly
+   - Trade-off: ~2-3% accuracy for better generalization
+
+4. Computational Efficiency:
+   - 32 channels with 3×3 kernel: Fast, 91%+ accuracy
+   - 64 channels with 7×7 kernel: Slower, marginal gains
+   - Recommendation: 32ch + 3×3 for production
+
+================================================================================
+FILES GENERATED
+================================================================================
+
+Visualizations:
+  - effect_of_channels.png       : Channel count analysis
+  - effect_of_kernel_size.png    : Kernel size comparison
+  - effect_of_noise.png          : Noise scenario impact
+  - heatmap_channels_kernel.png  : 2D parameter space
+  - training_history.png         : Training curves
+
+Data:
+  - experiments_summary.json     : Full experiment metadata
+  - detailed_results.csv         : Tabular results
+  - cnn_*.json (×45)            : Individual experiment details
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The CNN architecture with Conv2d layers and max pooling achieves >91% 
+accuracy on Fashion-MNIST. Key factors:
+  
+  ✓ 32-64 output channels optimal
+  ✓ 3×3 kernels most efficient
+  ✓ 2×2 max pooling effective
+  ✓ Training with noise improves robustness
+  ✓ Strong test noise (σ=0.2) very challenging
+
+Recommended production config: 32 channels, 3×3 kernel, σ=0.1 training noise
+
+================================================================================

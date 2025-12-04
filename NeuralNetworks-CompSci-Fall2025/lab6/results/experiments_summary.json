@@ -1,0 +1,816 @@
+{
+  "timestamp": "2025-12-04T14:17:34.215406",
+  "device": "cuda",
+  "experiments": [
+    {
+      "name": "cnn_ch16_k3_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9062,
+      "best_val_accuracy": 0.9145
+    },
+    {
+      "name": "cnn_ch16_k3_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.7778,
+      "best_val_accuracy": 0.9211666666666667
+    },
+    {
+      "name": "cnn_ch16_k3_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.5727,
+      "best_val_accuracy": 0.917
+    },
+    {
+      "name": "cnn_ch16_k3_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8873,
+      "best_val_accuracy": 0.8935
+    },
+    {
+      "name": "cnn_ch16_k3_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8646,
+      "best_val_accuracy": 0.8720833333333333
+    },
+    {
+      "name": "cnn_ch16_k5_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9056,
+      "best_val_accuracy": 0.9151666666666667
+    },
+    {
+      "name": "cnn_ch16_k5_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8486,
+      "best_val_accuracy": 0.91325
+    },
+    {
+      "name": "cnn_ch16_k5_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.6343,
+      "best_val_accuracy": 0.9158333333333334
+    },
+    {
+      "name": "cnn_ch16_k5_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8792,
+      "best_val_accuracy": 0.89825
+    },
+    {
+      "name": "cnn_ch16_k5_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8457,
+      "best_val_accuracy": 0.8746666666666667
+    },
+    {
+      "name": "cnn_ch16_k7_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9051,
+      "best_val_accuracy": 0.9115
+    },
+    {
+      "name": "cnn_ch16_k7_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8526,
+      "best_val_accuracy": 0.9120833333333334
+    },
+    {
+      "name": "cnn_ch16_k7_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.7211,
+      "best_val_accuracy": 0.9158333333333334
+    },
+    {
+      "name": "cnn_ch16_k7_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.873,
+      "best_val_accuracy": 0.8990833333333333
+    },
+    {
+      "name": "cnn_ch16_k7_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 16,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8496,
+      "best_val_accuracy": 0.8715
+    },
+    {
+      "name": "cnn_ch32_k3_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9134,
+      "best_val_accuracy": 0.9189166666666667
+    },
+    {
+      "name": "cnn_ch32_k3_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8129,
+      "best_val_accuracy": 0.9225833333333333
+    },
+    {
+      "name": "cnn_ch32_k3_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.6347,
+      "best_val_accuracy": 0.92575
+    },
+    {
+      "name": "cnn_ch32_k3_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8866,
+      "best_val_accuracy": 0.8915833333333333
+    },
+    {
+      "name": "cnn_ch32_k3_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8474,
+      "best_val_accuracy": 0.88
+    },
+    {
+      "name": "cnn_ch32_k5_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9098,
+      "best_val_accuracy": 0.9158333333333334
+    },
+    {
+      "name": "cnn_ch32_k5_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8523,
+      "best_val_accuracy": 0.9155833333333333
+    },
+    {
+      "name": "cnn_ch32_k5_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.6859,
+      "best_val_accuracy": 0.918
+    },
+    {
+      "name": "cnn_ch32_k5_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.882,
+      "best_val_accuracy": 0.9018333333333334
+    },
+    {
+      "name": "cnn_ch32_k5_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8557,
+      "best_val_accuracy": 0.8770833333333333
+    },
+    {
+      "name": "cnn_ch32_k7_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.907,
+      "best_val_accuracy": 0.9149166666666667
+    },
+    {
+      "name": "cnn_ch32_k7_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8357,
+      "best_val_accuracy": 0.9226666666666666
+    },
+    {
+      "name": "cnn_ch32_k7_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.722,
+      "best_val_accuracy": 0.9134166666666667
+    },
+    {
+      "name": "cnn_ch32_k7_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8867,
+      "best_val_accuracy": 0.9048333333333334
+    },
+    {
+      "name": "cnn_ch32_k7_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 32,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8566,
+      "best_val_accuracy": 0.8815
+    },
+    {
+      "name": "cnn_ch64_k3_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9138,
+      "best_val_accuracy": 0.9224166666666667
+    },
+    {
+      "name": "cnn_ch64_k3_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8123,
+      "best_val_accuracy": 0.9214166666666667
+    },
+    {
+      "name": "cnn_ch64_k3_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.5454,
+      "best_val_accuracy": 0.9219166666666667
+    },
+    {
+      "name": "cnn_ch64_k3_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8856,
+      "best_val_accuracy": 0.8938333333333334
+    },
+    {
+      "name": "cnn_ch64_k3_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 3,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8409,
+      "best_val_accuracy": 0.8794166666666666
+    },
+    {
+      "name": "cnn_ch64_k5_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.907,
+      "best_val_accuracy": 0.9213333333333333
+    },
+    {
+      "name": "cnn_ch64_k5_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8203,
+      "best_val_accuracy": 0.9196666666666666
+    },
+    {
+      "name": "cnn_ch64_k5_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.6426,
+      "best_val_accuracy": 0.9186666666666666
+    },
+    {
+      "name": "cnn_ch64_k5_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8876,
+      "best_val_accuracy": 0.9024166666666666
+    },
+    {
+      "name": "cnn_ch64_k5_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 5,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8598,
+      "best_val_accuracy": 0.8758333333333334
+    },
+    {
+      "name": "cnn_ch64_k7_p2_baseline",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "baseline",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.0,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.9123,
+      "best_val_accuracy": 0.9228333333333333
+    },
+    {
+      "name": "cnn_ch64_k7_p2_noise_test_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.1",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8584,
+      "best_val_accuracy": 0.9159166666666667
+    },
+    {
+      "name": "cnn_ch64_k7_p2_noise_test_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_test_0.2",
+        "train_noise_std": 0.0,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.7085,
+      "best_val_accuracy": 0.9191666666666667
+    },
+    {
+      "name": "cnn_ch64_k7_p2_noise_both_0.1",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.1",
+        "train_noise_std": 0.1,
+        "test_noise_std": 0.1,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.888,
+      "best_val_accuracy": 0.8976666666666666
+    },
+    {
+      "name": "cnn_ch64_k7_p2_noise_both_0.2",
+      "config": {
+        "model": "CNNModel",
+        "out_channels": 64,
+        "kernel_size": 7,
+        "pool_size": 2,
+        "noise_scenario": "noise_both_0.2",
+        "train_noise_std": 0.2,
+        "test_noise_std": 0.2,
+        "batch_size": 32,
+        "epochs": 30,
+        "learning_rate": 0.001,
+        "weight_decay": 1e-05
+      },
+      "test_accuracy": 0.8632,
+      "best_val_accuracy": 0.8738333333333334
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "config": {
+    "rnn_type": "RNN",
+    "hidden_dim": 256,
+    "max_len": null,
+    "vocab_size": 10000,
+    "embedding_dim": 128,
+    "batch_size": 64,
+    "epochs": 20,
+    "learning_rate": 0.001,
+    "subsample_fraction": 0.2,
+    "num_parameters": 1379330
+  },
+  "results": {
+    "test_accuracy": 0.4942,
+    "best_val_accuracy": 0.529,
+    "final_train_accuracy": 0.4855,
+    "final_val_accuracy": 0.495,
+    "history": {
+      "train_loss": [
+        0.6960522947311402,
+        0.6911320633888245,
+        0.6903311371803283,
+        0.714770384311676,
+        0.7345198502540589,
+        0.7203056588172912
+      ],
+      "train_accuracy": [
+        0.49475,
+        0.51025,
+        0.51,
+        0.51475,
+        0.5055,
+        0.4855
+      ],
+      "val_loss": [
+        0.6923841996192932,
+        0.6973298702239991,
+        0.6952903099060058,
+        0.702960638999939,
+        0.6960352025032044,
+        0.695482382774353
+      ],
+      "val_accuracy": [
+        0.529,
+        0.472,
+        0.472,
+        0.48,
+        0.51,
+        0.495
+      ]
+    },
+    "epochs_trained": 6
+  },
+  "timestamp": "2025-12-11T20:05:41.614820"
+}

@@ -1,0 +1,547 @@
+{
+  "timestamp": "2025-12-11T20:03:46.606505",
+  "device": "cuda",
+  "subsample_fraction": 0.2,
+  "experiments": [
+    {
+      "name": "rnn_h64_lenfull",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 64,
+        "max_len": null,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1292546
+      },
+      "test_accuracy": 0.5014,
+      "best_val_accuracy": 0.532,
+      "epochs_trained": 11
+    },
+    {
+      "name": "rnn_h64_len20",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 64,
+        "max_len": 20,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1292546
+      },
+      "test_accuracy": 0.608,
+      "best_val_accuracy": 0.625,
+      "epochs_trained": 20
+    },
+    {
+      "name": "rnn_h64_len50",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 64,
+        "max_len": 50,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1292546
+      },
+      "test_accuracy": 0.513,
+      "best_val_accuracy": 0.519,
+      "epochs_trained": 8
+    },
+    {
+      "name": "rnn_h64_len100",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 64,
+        "max_len": 100,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1292546
+      },
+      "test_accuracy": 0.537,
+      "best_val_accuracy": 0.541,
+      "epochs_trained": 13
+    },
+    {
+      "name": "rnn_h64_len200",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 64,
+        "max_len": 200,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1292546
+      },
+      "test_accuracy": 0.4962,
+      "best_val_accuracy": 0.534,
+      "epochs_trained": 8
+    },
+    {
+      "name": "rnn_h128_lenfull",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 128,
+        "max_len": null,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1313282
+      },
+      "test_accuracy": 0.5008,
+      "best_val_accuracy": 0.531,
+      "epochs_trained": 7
+    },
+    {
+      "name": "rnn_h128_len20",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 128,
+        "max_len": 20,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1313282
+      },
+      "test_accuracy": 0.5956,
+      "best_val_accuracy": 0.602,
+      "epochs_trained": 20
+    },
+    {
+      "name": "rnn_h128_len50",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 128,
+        "max_len": 50,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1313282
+      },
+      "test_accuracy": 0.57,
+      "best_val_accuracy": 0.57,
+      "epochs_trained": 12
+    },
+    {
+      "name": "rnn_h128_len100",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 128,
+        "max_len": 100,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1313282
+      },
+      "test_accuracy": 0.5372,
+      "best_val_accuracy": 0.541,
+      "epochs_trained": 6
+    },
+    {
+      "name": "rnn_h128_len200",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 128,
+        "max_len": 200,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1313282
+      },
+      "test_accuracy": 0.5032,
+      "best_val_accuracy": 0.531,
+      "epochs_trained": 8
+    },
+    {
+      "name": "rnn_h256_lenfull",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 256,
+        "max_len": null,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1379330
+      },
+      "test_accuracy": 0.4942,
+      "best_val_accuracy": 0.529,
+      "epochs_trained": 6
+    },
+    {
+      "name": "rnn_h256_len20",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 256,
+        "max_len": 20,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1379330
+      },
+      "test_accuracy": 0.5854,
+      "best_val_accuracy": 0.59,
+      "epochs_trained": 19
+    },
+    {
+      "name": "rnn_h256_len50",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 256,
+        "max_len": 50,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1379330
+      },
+      "test_accuracy": 0.5334,
+      "best_val_accuracy": 0.57,
+      "epochs_trained": 10
+    },
+    {
+      "name": "rnn_h256_len100",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 256,
+        "max_len": 100,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1379330
+      },
+      "test_accuracy": 0.5438,
+      "best_val_accuracy": 0.57,
+      "epochs_trained": 14
+    },
+    {
+      "name": "rnn_h256_len200",
+      "config": {
+        "rnn_type": "RNN",
+        "hidden_dim": 256,
+        "max_len": 200,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1379330
+      },
+      "test_accuracy": 0.5016,
+      "best_val_accuracy": 0.543,
+      "epochs_trained": 6
+    },
+    {
+      "name": "lstm_h64_lenfull",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 64,
+        "max_len": null,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1329794
+      },
+      "test_accuracy": 0.5014,
+      "best_val_accuracy": 0.533,
+      "epochs_trained": 11
+    },
+    {
+      "name": "lstm_h64_len20",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 64,
+        "max_len": 20,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1329794
+      },
+      "test_accuracy": 0.6192,
+      "best_val_accuracy": 0.637,
+      "epochs_trained": 15
+    },
+    {
+      "name": "lstm_h64_len50",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 64,
+        "max_len": 50,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1329794
+      },
+      "test_accuracy": 0.6642,
+      "best_val_accuracy": 0.649,
+      "epochs_trained": 14
+    },
+    {
+      "name": "lstm_h64_len100",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 64,
+        "max_len": 100,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1329794
+      },
+      "test_accuracy": 0.64,
+      "best_val_accuracy": 0.691,
+      "epochs_trained": 20
+    },
+    {
+      "name": "lstm_h64_len200",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 64,
+        "max_len": 200,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1329794
+      },
+      "test_accuracy": 0.5216,
+      "best_val_accuracy": 0.555,
+      "epochs_trained": 18
+    },
+    {
+      "name": "lstm_h128_lenfull",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 128,
+        "max_len": null,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1412354
+      },
+      "test_accuracy": 0.5008,
+      "best_val_accuracy": 0.532,
+      "epochs_trained": 11
+    },
+    {
+      "name": "lstm_h128_len20",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 128,
+        "max_len": 20,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1412354
+      },
+      "test_accuracy": 0.6146,
+      "best_val_accuracy": 0.609,
+      "epochs_trained": 10
+    },
+    {
+      "name": "lstm_h128_len50",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 128,
+        "max_len": 50,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1412354
+      },
+      "test_accuracy": 0.6484,
+      "best_val_accuracy": 0.638,
+      "epochs_trained": 14
+    },
+    {
+      "name": "lstm_h128_len100",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 128,
+        "max_len": 100,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1412354
+      },
+      "test_accuracy": 0.6602,
+      "best_val_accuracy": 0.686,
+      "epochs_trained": 19
+    },
+    {
+      "name": "lstm_h128_len200",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 128,
+        "max_len": 200,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1412354
+      },
+      "test_accuracy": 0.5202,
+      "best_val_accuracy": 0.56,
+      "epochs_trained": 14
+    },
+    {
+      "name": "lstm_h256_lenfull",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 256,
+        "max_len": null,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1675778
+      },
+      "test_accuracy": 0.501,
+      "best_val_accuracy": 0.53,
+      "epochs_trained": 6
+    },
+    {
+      "name": "lstm_h256_len20",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 256,
+        "max_len": 20,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1675778
+      },
+      "test_accuracy": 0.617,
+      "best_val_accuracy": 0.611,
+      "epochs_trained": 13
+    },
+    {
+      "name": "lstm_h256_len50",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 256,
+        "max_len": 50,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1675778
+      },
+      "test_accuracy": 0.641,
+      "best_val_accuracy": 0.663,
+      "epochs_trained": 15
+    },
+    {
+      "name": "lstm_h256_len100",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 256,
+        "max_len": 100,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1675778
+      },
+      "test_accuracy": 0.5808,
+      "best_val_accuracy": 0.603,
+      "epochs_trained": 10
+    },
+    {
+      "name": "lstm_h256_len200",
+      "config": {
+        "rnn_type": "LSTM",
+        "hidden_dim": 256,
+        "max_len": 200,
+        "vocab_size": 10000,
+        "embedding_dim": 128,
+        "batch_size": 64,
+        "epochs": 20,
+        "learning_rate": 0.001,
+        "subsample_fraction": 0.2,
+        "num_parameters": 1675778
+      },
+      "test_accuracy": 0.513,
+      "best_val_accuracy": 0.558,
+      "epochs_trained": 9
+    }
+  ]
+}
